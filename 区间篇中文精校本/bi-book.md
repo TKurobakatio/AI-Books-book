@@ -53,255 +53,342 @@ Technical Analysis of Price Charts Bar by Bar for the Serious Trader
 *Acknowledgments*
 
 
-致谢
-
-
-> Acknowledgments
-
-
 我的首要目标，是呈现一套关于价格行为的全面著作；而读者最担心的一点，是我早先那本书《Reading Price Charts Bar by Bar》有多难读。我非常感谢读者提出的所有建设性意见，也感谢我每日在线研讨会的参与者提出的意见。这些意见中许多都极具洞见，我已经把它们吸收进了现在这个版本。我也感谢所有来过我实盘交易室的交易者，因为他们给了我反复讲述的机会，直到我能清楚地表达出自己看到的东西和正在做的事。他们还提出了许多问题，帮助我找到更有效沟通的表达方式，而这些表达我都放进了这套书里。
 
 
-> My primary goal is to present a series of comprehens- ive books on price action, and the greatest concern among readers was how difficult my earlier book, Reading Price Charts Bar by Bar, was to read. I am deeply appreciative of all of the constructive com- ments that readers have provided and those from the participants in my daily live webinars. Many of these comments were incredibly insightful and I have incor- porated them in this current edition. I am also thank- ful to all of the traders who have been in my live trad- ing room, because they have given me the opportunity to say things repeatedly until I could clearly articulate what I am seeing and doing. They have also asked many questions that have helped me find the words to communicate more effectively, and I have put those words in these books.
-
-
-我要特别感谢 Victor Brancale，他花了很长时间校对书稿，提供了数百条非常有帮助的修改与建议；也要感谢 Robert Gjerde，他建立并管理我的网站，并对聊天室和网站给出了坦诚的反馈。最后，我
-
-
-> I would like to give a special thank-you to Victor Brancale, who spent long hours proofreading the manuscripts and providing hundreds of very helpful edits and suggestions, and to Robert Gjerde, who built and administers my website and has given me candid feedback on the chat room and the website. Finally, I
-
-
-还想感谢《Futures》杂志的集团编辑总监 Ginger Szala，她不断给我机会发表文章、在网络研讨会上演讲，还定期就如何更深入地参与交易者社群给我非常有帮助的建议。
-
-
-> want to thank Ginger Szala, the Group Editorial Dir- ector of Futures magazine, for giving me ongoing op- portunities to publish articles and speak in webinars, and for regularly giving me very helpful advice on how to become more involved with the trading community.
-
-
-本书所用术语表
-
-
-> List of Terms Used in
-
-
-（List of Terms Used in This Book）
-
-
-> This Book
-
-
-本书中所有这些术语，都是按对交易者有帮助的实用方式来定义的，不一定采用技术分析师常常描述的那种理论化方式。
-
-
-> All of these terms are defined in a practical way to be helpful to traders and not necessarily in the theoretic- al way often described by technicians.
-
-
-always in（始终入场）如果你在任何时候都必须身处市场之中，要么做多要么做空，那么这就是你当前的持仓（始终做多或始终做空）。如果任何时候你被迫在建立一笔多头交易还是一笔空头交易之间做决定，而且对自己的选择有信心，那么此刻市场就处在始终入场模式。几乎所有这类交易都需要先出现一段顺应趋势方向的急速行情，交易者才会有信心。barbwire（铁丝网）由三根或更多根K线构成的交易区间，它们大量重叠，而且其中一根或更多是十字星。它是一种窄幅交易区间，带有醒目的影线，K线往往相对较大。bar pullback（K线回调）在上涨行情中，K线回调是一根最低点低于前一根K线最低点的K线。在下跌行情中，它是一根最高点高于前一根K线最高点的K线。bear reversal（空头反转）趋势从上涨变为
-
-
-> always in If you have to be in the market at all times, either long or short, this is whatever your current position is (always in long or always in short). If at any time you are forced to decide between initiating a long or a short trade and are confident in your choice, then the market is in always-in mode at that moment. Almost all of these trades require a spike in the direction of the trend before traders will have confidence. barbwire A trading range of three or more bars that largely overlap and one or more is a doji. It is a type of tight trading range with prominent tails and often relatively large bars. bar pullback In an upswing, a bar pullback is a bar with a low below the low of the prior bar. In a downswing, it is a bar with a high above that of the prior bar. bear reversal A change in trend from up to
-
-
-下跌（一段空头趋势）。blown account（爆仓）亏损已经让你的账户降到经纪商设定的最低保证金要求之下，除非你追加存入资金，否则不允许下单交易。breakout（突破）当前K线的最高点或最低点越过了此前某个重要价位，比如一个摆动高点或摆动低点、任何先前K线的最高点或最低点、一条趋势线，或者一个趋势通道。breakout bar（or bar breakout，突破K线）产生突破的那根K线。它通常是一根强劲的趋势K线。breakout mode（突破模式）一种建仓形态：朝任一方向的突破都应当有后续行情。breakout pullback（突破回调）突破之后几根K线之内出现的一次一到大约五根K线的小回调。既然你把它看作回调，你就是在预期这次突破会恢复，而这次回调就是这个恢复过程的建仓形态。如果你反过来认为这次突破会失败，你就不会用“回调”这个词，而会把这次回调看作一次突破失败。举例来说，如果出现了一次上破空头趋势线、由五根K线构成的突破，但你相信空头趋势会继续，你就会
-
-
-> down (a bear trend). blown account An account that your losses have reduced below the minimum margin re- quirements set by your broker, and you will not be allowed to place a trade unless you deposit more money. breakout The high or low of the current bar extends beyond some prior price of significance such as a swing high or low, the high or low of any prior bar, a trend line, or a trend channel. breakout bar (or bar breakout) A bar that creates a breakout. It is usually a strong trend bar. breakout mode A setup where a breakout in either direction should have follow-through. breakout pullback A small pullback of one to about five bars that occurs within a few bars after a breakout. Since you see it as a pullback, you are expecting the breakout to resume and the pullback is a setup for that resumption. If instead you thought that the breakout would fail, you would not use the term pullback and instead would see the pullback as a failed break- out. For example, if there was a five-bar break- out above a bear trend line but you believed that the bear trend would continue, you would be
-
-
-考虑做空这面熊旗，而不会在它向下突破之后立刻去找机会买入回调。breakout test（突破回测）一次回到接近最初入场价、以测试保本止损的突破回调。它可能过靶，也可能差几个最小报价单位未及靶位。它可能出现在入场后的一两根K线之内，也可能出现在一段延伸的走势之后，甚至20根或更多K线之后。bull reversal（多头反转）趋势从下跌变为上涨（一段多头趋势）。buying pressure（买压）强势多头正在显示自己的力量，他们的买入正在制造多头趋势K线、底部带影线的K线，以及两根K线构成的多头反转。这种效应是累积性的，通常最终会带来更高的价格。candle（蜡烛线）价格行为的一种图表呈现方式，其中实体位于开盘价与收盘价之间。如果收盘价高于开盘价，它就是一根多头蜡烛线，显示为白色。如果收盘价低于开盘价，它就是一根空头蜡烛线，显示为黑色。实体上下两端的线叫影线（有些技术分析师称之为灯芯或阴影）。chart type（走势图类型）线图、K线图、蜡烛图、成交量图、tick 图（按成交笔数绘制），或者其它类型的走势图。
-
-
-> considering shorting this bear flag and not look- ing to buy a pullback immediately after it broke out to the downside. breakout test A breakout pullback that comes close to the original entry price to test a break- even stop. It may overshoot it or undershoot it by a few ticks. It can occur within a bar or two of entry or after an extended move or even 20 or more bars later. bull reversal A change in trend from a down- trend to an uptrend (a bull trend). buying pressure Strong bulls are asserting themselves and their buying is creating bull trend bars, bars with tails at the bottoms, and two-bar bull reversals. The effect is cumulative and usually is eventually followed by higher prices. candle A chart representation of price action in which the body is the area between the open and the close. If the close is above the open, it is a bull candle and is shown as white. If it is be- low, it is a bear candle and is black. The lines above and below are called tails (some techni- cians call them wicks or shadows). chart type A line, bar, candle, volume, tick, or other type of chart.
-
-
-climax（高潮）一段走得太远、太快，如今已经反转方向、转入交易区间或相反趋势的行情。大多数高潮都以趋势通道线过靶和反转收尾，但那些反转中的大多数结果是交易区间，而不是相反趋势。countertrend（逆势）方向与当前趋势（当前的始终入场方向）相反的一笔交易或一个建仓形态。对大多数交易者来说这是一种亏钱的策略，因为风险通常至少与回报一样大，而概率很少高到能让交易者等式变得有利。countertrend scalp（逆势刮头皮）在相信趋势还有空间可走、但一次小回调即将出现的前提下所做的交易；你在那次小回调形成的过程中逆势入场，去赚一小笔利润。这通常是一个错误，应当避免。day trade（日内交易）打算在入场当天就离场的交易。directional probability（方向概率）市场在朝相反方向走出某个数量的最小报价单位之前，先向上或向下走出任意数量最小报价单位的概率。如果你看的是向上与向下等距的一段运动，它
-
-
-> climax A move that has gone too far too fast and has now reversed direction to either a trad- ing range or an opposite trend. Most climaxes end with trend channel overshoots and re- versals, but most of those reversals result in trading ranges and not an opposite trend. countertrend A trade or setup that is in the opposite direction from the current trend (the current always-in direction). This is a losing strategy for most traders since the risk is usu- ally at least as large as the reward and the prob- ability is rarely high enough to make the trader's equation favorable. countertrend scalp A trade taken in the be- lief that there is more to go in the trend but that a small pullback is due; you enter countertrend to capture a small profit as that small pullback is forming. This is usually a mistake and should be avoided. day trade A trade where the intent is to exit on the day of entry. directional probability The probability that the market will move either up or down any number of ticks before it reaches a certain num- ber of ticks in the opposite direction. If you are looking at an equidistant move up and down, it
-
-
-大多数时候都在50% 附近徘徊，也就是说，市场在下跌 X 个最小报价单位之前先上涨 X 个最小报价单位的概率是50–50，而它在上涨 X 个最小报价单位之前先下跌 X 个最小报价单位的概率也是50–50。doji（十字星）实体很小、或者完全没有实体的一根蜡烛线。在5分钟图上，实体可能只有一两个最小报价单位；但在日线图上，实体可能有10个甚至更多最小报价单位，看起来却仍然几乎不存在。多头和空头都没能掌控这根K线。所有K线不是趋势K线，就是非趋势K线，而那些非趋势K线就叫十字星。double bottom（双底）一种走势图形态：当前K线的最低点与先前某个摆动低点的最低点大致相同。那个先前的低点可能只早一根K线，也可能早20根甚至更多K线。它不必就是当天的最低点，而且它常常形成于牛旗之中（一个双底牛旗）。double bottom bull flag（双底牛旗）多头趋势中的一次停顿或牛旗，它两次向下急速推进到大致相同的价格，然后反转回到多头趋势。double bottom pullback（双底回调）一种买入建仓形态
-
-
-> hovers around 50 percent most of the time, which means that there is a 50–50 chance that the market will move up by X ticks before it moves down X ticks, and a 50–50 chance that it will move down X ticks before it moves up X ticks. doji A candle with a small body or no body at all. On a 5 minute chart, the body would be only one or two ticks; but on a daily chart, the body might be 10 or more ticks and still appear al- most nonexistent. Neither the bulls nor the bears control the bar. All bars are either trend bars or nontrend bars, and those nontrend bars are called dojis. double bottom A chart formation in which the low of the current bar is about the same as the low of a prior swing low. That prior low can be just one bar earlier or 20 or more bars earli- er. It does not have to be at the low of the day, and it commonly forms in bull flags (a double bottom bull flag). double bottom bull flag A pause or bull flag in a bull trend that has two spikes down to around the same price and then reverses back into a bull trend. double bottom pullback A buy setup
-
-
-由一次双底，加上其后一次形成更高低点的深度回调构成。double top（双顶）一种走势图形态：当前K线的最高点与先前某个摆动高点的最高点大致相同。那个先前的高点可能只早一根K线，也可能早20根甚至更多K线。它不必就是当天的最高点，而且它常常形成于熊旗之中（一个双顶熊旗）。double top bear flag（双顶熊旗）空头趋势中的一次停顿或熊旗，它两次向上急速推进到大致相同的价格，然后反转回到空头趋势。double top pullback（双顶回调）一种卖出建仓形态，由一次双顶，加上其后一次形成更低高点的深度回调构成。early longs（提前入场的多头）在多头信号K线正在形成时就买入的交易者，而不是等它收盘后、再在其最高点上方一个最小报价单位处用买入止损单入场。early shorts（提前入场的空头）在空头信号K线正在形成时就卖出的交易者，而不是等它收盘后、再在其最低点下方一个最小报价单位处用卖出止损单入场。edge（优势）交易者等式为正的建仓形态。交易者拥有数学上的优势，如果他
-
-
-> composed of a double bottom followed by a deep pullback that forms a higher low. double top A chart formation in which the high of the current bar is about the same as the high of a prior swing high. That prior high can be just one bar earlier or 20 or more bars earli- er. It does not have to be at the high of the day, and it commonly forms in bear flags (a double top bear flag). double top bear flag A pause or bear flag in a bear trend that has two spikes up to around the same price and then reverses back into a bear trend. double top pullback A sell setup composed of a double top followed by a deep pullback that forms a lower high. early longs Traders who buy as a bull signal bar is forming rather than waiting for it to close and then entering on a buy stop at one tick above its high. early shorts Traders who sell as a bear signal bar is forming rather than waiting for it to close and then entering on a sell stop at one tick be- low its low. edge A setup with a positive trader's equation. The trader has a mathematical advantage if he
-
-
-交易这个建仓形态。优势总是很小、很短暂，因为它需要在另一边有人，而市场里满是聪明的交易者，他们不会让一个优势变得又大又持久。EMA（指数移动平均线）见指数移动平均线（EMA）。entry bar（入场K线）一笔交易入场所在的那根K线。exponential moving average（EMA，指数移动平均线）这套书里的走势图使用20根K线的指数移动平均线，但任何移动平均线都可以有用。fade（反向操作）朝与趋势相反的方向下单交易（例如卖出一次你预期会失败并反转向下的多头突破）。failed failure（失败的失败）一次失败又失败了，行情恢复朝最初那次突破的方向运行，因此它是一次突破回调。由于它是二次信号，所以更可靠。举例来说，如果出现了向上突破交易区间的走势，而突破之后那根K线是一根空头反转K线，那么只要市场交易到那根K线之下，这次突破就失败了。如果市场随后在接下来几根K线之内又交易到某根先前K线的最高点之上，那么这次失败的突破就又失败了，现在这次突破正在恢复。这意味着这次失败的
-
-
-> trades the setup. Edges are always small and fleeting because they need someone on the oth- er side, and the market is filled with smart traders who won't allow an edge to be big and persistent. EMA See exponential moving average (EMA). entry bar The bar during which a trade is entered. exponential moving average (EMA) The charts in these books use a 20-bar exponential moving average, but any moving average can be useful. fade To place a trade in the opposite direction of the trend (for example, selling a bull breakout that you expect to fail and reverse downward). failed failure A failure that fails, resuming in the direction of the original breakout, and therefore a breakout pullback. Since it is a second signal, it is more reliable. For example, if there is a breakout above a trading range and the bar after the breakout is a bear reversal bar, if the market trades below that bar, the break- out has failed. If the market then trades above the high of a prior bar within the next few bars, the failed breakout has failed and now the breakout is resuming. This means that the failed
-
-
-突破变成了一面小型牛旗，只是这次突破之后的一次回调。failure（a failed move，失败）一次失败的行情：在刮头皮交易者的利润到手之前、或者在交易者的目标位达到之前，保护性止损就先被打到，而且它通常导致行情朝相反方向走，因为被套的交易者被迫亏损离场。目前，Emini 小型合约（标普500迷你股指期货合约）上，刮头皮交易者四个最小报价单位的目标通常需要六个最小报价单位的运动，而 QQQQ 上10个最小报价单位的目标通常需要12美分的运动。false（假突破）即 failed（失败的）、failure（失败）。five-tick failure（五个最小报价单位的失败）Emini 小型合约上的一种交易：行情走出信号K线之外五个最小报价单位后反转。举例来说，牛旗的一次突破跑出五个最小报价单位，而一旦那根K线收盘，下一根K线的最低点就低于它。大多数想赚一个点利润的限价单都无法成交，因为行情通常必须越出这张委托单一个最小报价单位，它才会成交。它常常是朝相反方向交易的一个建仓形态。flat（空仓）指当前不持有任何头寸的交易者。follow-through（后续行情）在最初那段走势（比如一次突破）之后，延续这段走势的一根或更多根K线。交易者喜欢看到后续行情出现在
-
-
-> breakout became a small bull flag and just a pullback from the breakout. failure (a failed move) A move where the protective stop is hit before a scalper's profit is secured or before the trader's objective is reached, usually leading to a move in the oppos- ite direction as trapped traders are forced to exit at a loss. Currently, a scalper's target in the Emini of four ticks usually requires a six-tick move, and a target in the QQQQ of 10 ticks usu- ally requires a move of 12 cents. false Failed, failure. five-tick failure A trade in the Emini that reaches five ticks beyond the signal bar and then reverses. For example, a breakout of a bull flag runs five ticks, and once the bar closes, the next bar has a low that is lower. Most limit or- ders to take a one-point profit would fail to get filled since a move usually has to go one tick beyond the order before it is filled. It is often a setup for a trade in the opposite direction. flat Refers to a trader who is not currently holding any positions. follow-through After the initial move, like a breakout, it is one or more bars that extend the move. Traders like to see follow-through on the
-
-
-下一根K线上，以及在那之后的几根K线上，希望走出一轮趋势、让自己有望赚到更多利润。follow-through bar（后续行情K线）在入场K线之后制造出后续行情的那根K线；它通常是下一根K线，但有时会晚几根K线才形成。fractal（分形）每一个形态都是更高时间级别走势图上某个形态的分形。这意味着，每一个形态在更高时间级别上都是一个微型形态，而每一个微型形态在更小时间级别上都是一个标准形态。gap（缺口）走势图上任意两根价格K线之间的一段空隙。跳空开盘是常见现象：如果今天第一根K线的开盘价越过了前一根K线（昨天最后一根K线）的最高点或最低点，或者越过了整个前一天的最高点或最低点，就存在跳空开盘。当某根K线的最低点位于一条走平或下行的移动平均线上方，或者某根K线的最高点位于一条走平或上行的移动平均线下方时，就存在均线缺口。日线图上传统的缺口（突破缺口、测量缺口和衰竭缺口）在盘中都有对应的形式，就是各种各样的趋势K线。gap bar（缺口K线）见均线缺口K线。gap reversal（缺口反转）当前K线越过前一根K线一个最小报价单位、重新回到缺口之中的一种形态。举例来说，如果出现了一个跳空高开
-
-
-> next bar and on the several bars after that, hop- ing for a trend where they stand to make more profit. follow-through bar A bar that creates follow- through after the entry bar; it is usually the next bar but sometimes forms a couple of bars later. fractal Every pattern is a fractal of a pattern on a higher time frame chart. This means that every pattern is a micro pattern on a higher time frame and every micro pattern is a stand- ard pattern on a smaller time frame. gap A space between any two price bars on the chart. An opening gap is a common occurrence and is present if the open of the first bar of today is beyond the high or low of the prior bar (the last bar of yesterday) or of the entire day. A moving average gap is present when the low of a bar is above a flat or falling moving average, or the high of a bar is below a flat or rising moving average. Traditional gaps (breakout, measuring, and exhaustion) on daily charts have intraday equivalents in the form of various trend bars. gap bar See moving average gap bar. gap reversal A formation in which the current bar extends one tick beyond the prior bar back into the gap. For example, if there is a gap up
-
-
-开盘，而当天第二根K线又交易到第一根K线最低点下方一个最小报价单位处，这就是一次缺口反转。HFT（高频交易）见高频交易（HFT）。higher high（更高的高点）比先前某个摆动高点更高的一个摆动高点。higher low（更高的低点）比先前某个摆动低点更高的一个摆动低点。higher time frame（HTF，更高时间级别）覆盖的时间长度与当前走势图相同、但K线根数更少的走势图。举例来说，与普通交易日里的日盘 Emini 小型合约5分钟图相比，更高时间级别的走势图包括15分钟图、每根K线25,000笔成交的 tick 图，以及每根K线100,000手合约的成交量图（在普通交易日里，这些图通常都只有不到30根K线，而5分钟图有81根K线）。high-frequency trading（HFT，高频交易）也被称为算法交易或黑箱交易，它是一种程序化交易：各家公司每天在数千只股票上下达数百万张委托，去刮头皮赚取小到一美分的利润，而交易依据的是统计分析，而不是基本面。
-
-
-> open and the second bar of the day trades one tick below the low of the first bar, this is a gap reversal. HFT See high-frequency trading (HFT). higher high A swing high that is higher than a previous swing high. higher low A swing low that is higher than a previous swing low. higher time frame (HTF) A chart covering the same amount of time as the current chart, but having fewer bars. For example, compared to the day session 5 minute Emini chart on an average day, examples of higher time frame charts include a 15 minute chart, a tick chart with 25,000 ticks per bar, and a volume chart with 100,000 contracts per bar (each of these charts usually has fewer than 30 bars on an av- erage day, compared to the 81 bars on the 5 minute chart). high-frequency trading (HFT) Also known as algorithmic trading or black box trading, it is a type of program trading where firms place millions of orders a day in thousands of stocks to scalp profits as small as a penny, and the trading is based on statistical analysis rather than fundamentals.
-
-
-high/low 1 or 2（高1或高2，或低1或低2）要么是一个高1或高2，要么是一个低1或低2。high 1, 2, 3, or 4（高1、高2、高3、高4）高1是牛旗中、或者交易区间底部附近一根最高点高于前一根K线的K线。如果随后出现一根高点更低的K线（它可能出现在一根或几根K线之后），那么这次修正中最高点高于前一根K线最高点的下一根K线就是高2。第三、第四次出现就是高3和高4。高3是楔形牛旗的一种变体。HTF（更高时间级别）见更高时间级别（HTF）。ii（ii形态，内包内包）连续的内包K线，其中第二根位于第一根之内。在行情段的末端，它是一个突破模式建仓形态，可以变成一面旗形或一个反转建仓形态。可靠性较低的一个版本是“只有实体的ii”，也就是忽略影线。在这里，第二个实体位于第一个实体之内，而第一个实体又位于它之前那个实体之内。iii（iii形态）连续三根内包K线，是一种比 ii 形态稍可靠一些的形态。inside bar（内包K线）最高点等于或低于前一根K线最高点、同时最低点等于或高于前一根K线最低点的K线。institution（机构）也叫聪明资金，它可以是养老基金、对冲基金、保险公司、银行、经纪商、大型个人交易者，或者
-
-
-> high/low 1 or 2 Either a high 1 or 2 or a low 1 or 2. high 1, 2, 3, or 4 A high 1 is a bar with a high above the prior bar in a bull flag or near the bot- tom of a trading range. If there is then a bar with a lower high (it can occur one or several bars later), the next bar in this correction whose high is above the prior bar's high is a high 2. Third and fourth occurrences are a high 3 and 4. A high 3 is a wedge bull flag variant. HTF See higher time frame (HTF). ii Consecutive inside bars, where the second is inside the first. At the end of a leg, it is a break- out mode setup and can become a flag or a re- versal setup. A less reliable version is a “bodies- only ii,” where you ignore the tails. Here, the second body is inside the first body, which is in- side the body before it. iii Three inside bars in a row, and a somewhat more reliable pattern than an ii. inside bar A bar with a high that is at or below the high of the prior bar and a low that is at or above the low of the prior bar. institution Also called the smart money, it can be a pension fund, hedge fund, insurance com- pany, bank, broker, large individual trader, or
-
-
-任何其它成交量大到足以影响市场的实体。市场运动是众多机构下单交易的累积效果，而单独一家机构通常无法长时间推动一个主要市场。传统机构依据基本面下单，它们过去曾是市场方向的唯一决定者。然而，高频交易公司如今对当天走势有着显著影响，因为它们的交易目前贡献了当天成交量的大部分。高频交易公司是一种特殊的机构，它们的交易依据的是统计，而不是基本面。传统机构决定方向与目标位，但数学家决定市场走向那里所走的路径。ioi（ioi形态，内外内）内包—外包—内包，即连续三根K线，其中第二根是外包K线，第三根是内包K线。它常常是一个突破模式建仓形态，交易者在其中寻找在内包K线上方买入、或在它下方卖出的机会。ledge（平台）多头平台是一个小型交易区间，它的底部由两根或更多最低点相同的K线构成；空头平台是一个小型交易区间，它的顶部由两根或更多
-
-
-> any other entity that trades enough volume to impact the market. Market movement is the cu- mulative effect of many institutions placing trades, and a single institution alone usually cannot move a major market for very long. Tra- ditional institutions place trades based on fun- damentals, and they used to be the sole determ- inant of the market's direction. However, HFT firms now have a significant influence on the day's movement since their trading currently generates most of the day's volume. HFT firms are a special type of institutional firm and their trading is based on statistics and not funda- mentals. Traditional institutions determine the direction and target, but mathematicians de- termine the path that the market takes to get there. ioi Inside-outside-inside—three consecutive bars where the second bar is an outside bar, and the third bar is an inside bar. It is often a break- out mode setup where a trader looks to buy above the inside bar or sell below it. ledge A bull ledge is a small trading range with a bottom created by two or more bars with identical lows; a bear ledge is a small trading range with a top created by two or more bars
-
-
-最高点相同的K线构成。leg（行情段）一条能突破任意大小趋势线的小型趋势；只有图上至少出现两条行情段时才用这个词。它是更大趋势当中的任何一段较小趋势，它可以是一次回调（一段逆势走势）、趋势中或横盘市中的一段波段，也可以是趋势中任意两次回调之间的一段顺势走势。likely（很可能）至少60% 确定。long（做多）在市场买入头寸的人，或者那个头寸本身。lot（交易单位）在一个市场里能被交易的最小仓位规模。说到股票时它是一股，说到 Emini 小型合约或其它期货时它是一手合约。lower high（更低的高点）比先前某个摆动高点更低的一个摆动高点。lower low（更低的低点）比先前某个摆动低点更低的一个摆动低点。low 1, 2, 3, or 4（低1、低2、低3、低4）低1是熊旗中、或者交易区间顶部附近一根最低点低于前一根K线的K线。如果随后出现一根低点更高的K线（它可能出现在一根或几根K线之后），那么这次修正中最低点低于前一根K线最低点的下一根K线就是低2。第三、
-
-
-> with identical highs. leg A small trend that breaks a trend line of any size; the term is used only where there are at least two legs on the chart. It is any smaller trend that is part of a larger trend and it can be a pullback (a countertrend move), a swing in a trend or in a sideways market, or a with-trend move in a trend that occurs between any two pullbacks within the trend. likely At least 60 percent certain. long A person who buys a position in a market or the actual position itself. lot The smallest position size that can be traded in a market. It is a share when referring to stocks and a contract when referring to Eminis or other futures. lower high A swing high that is lower than a previous swing high. lower low A swing low that is lower than a previous swing low. low 1, 2, 3, or 4 A low 1 is a bar with a low be- low the prior bar in a bear flag or near the top of a trading range. If there is then a bar with a higher low (it can occur one or several bars later), the next bar in this correction whose low is below the prior bar's low is a low 2. Third and
-
-
-第四次出现就是低3和低4。低3是楔形熊旗的一种变体。major trend line（主要趋势线）屏幕上包含大部分价格行为的任何一条趋势线，通常是拿至少相隔10根K线的K线画出来的。major trend reversal（主要趋势反转）从多头趋势反转为空头趋势、或从空头趋势反转为多头趋势的一次反转。这个建仓形态必须包括在趋势线被突破之后对旧趋势极值的一次测试。meltdown（崩跌）空头急速行情或窄幅空头通道中出现的一次抛售，其间没有显著的回调，而且延伸得比基本面所要求的更远。melt-up（暴涨）多头急速行情或窄幅多头通道中出现的一轮上涨，其间没有显著的回调，而且延伸得比基本面所要求的更远。micro（微型）任何传统形态都可以在一到大约五根K线内形成、并且仍然有效，尽管很容易被忽略。它形成时，就是这个形态的微型版本。每一个微型形态在更小时间级别的走势图上都是一个传统形态，而每一个传统形态在更高时间级别的走势图上都是一个微型形态。micro channel（微型通道）一种非常窄幅的通道，其中
-
-
-> fourth occurrences are a low 3 and 4. A low 3 is a wedge bear flag variant. major trend line Any trend line that contains most of the price action on the screen and is typically drawn using bars that are at least 10 bars apart. major trend reversal A reversal from a bull to a bear trend or from a bear trend to a bull trend. The setup must include a test of the old trend extreme after a break of the trend line. meltdown A sell-off in a bear spike or a tight bear channel without significant pullbacks and that extends further than the fundamentals would dictate. melt-up A rally in a bull spike or a tight bull channel without significant pullbacks and that extends further than the fundamentals would dictate. micro Any traditional pattern can form over one to about five bars and still be valid, al- though easily overlooked. When it forms, it is a micro version of the pattern. Every micro pat- tern is a traditional pattern on a smaller time frame chart, and every traditional pattern is a micro pattern on a higher time frame chart. micro channel A very tight channel where
-
-
-大多数K线的最高点和最低点都触及趋势线，而且往往也触及趋势通道线。它是窄幅通道最极端的形式，它没有回调，或者只有一两次小回调。micro double bottom（微型双底）最低点接近同一价位的连续、或几乎连续的K线。micro double top（微型双顶）最高点接近同一价位的连续、或几乎连续的K线。micro measuring gap（微型测量缺口）一根强劲趋势K线之前那根K线与之后那根K线互不重叠时，这就是一个强势信号，而且往往引出一段等距运动。举例来说，如果出现一根强劲的多头趋势K线，而它之后那根K线的最低点等于或高于它之前那根K线的最高点，那么那个最低点与那个最高点之间的中点就是微型测量缺口。micro trend channel line（微型趋势通道线）画在三到五根连续K线的最高点或最低点上的一条趋势通道线。micro trend line breakout（微型趋势线突破）任何时间级别上的一条趋势线，它画在两根到大约10根K线上，其中大多数K线触及或贴近这条趋势线，然后其中有一根
-
-
-> most of the bars have their highs and lows touching the trend line and, often, also the trend channel line. It is the most extreme form of a tight channel, and it has no pullbacks or only one or two small pullbacks. micro double bottom Consecutive or nearly consecutive bars with lows that are near the same price. micro double top Consecutive or nearly con- secutive bars with highs that are near the same price. micro measuring gap When the bar before and the bar after a strong trend bar do not over- lap, this is a sign of strength and often leads to a measured move. For example, if there is a strong bull trend bar and the low of the bar after it is at or above the high of the bar before it, the midpoint between that low and that high is the micro measuring gap. micro trend channel line A trend channel line drawn across the highs or lows of three to five consecutive bars. micro trend line breakout A trend line on any time frame that is drawn across from two to about 10 bars where most of the bars touch or are close to the trend line, and then one of the
-
-
-# 致谢
-
-*Acknowledgments*
-
-
-K线对趋势线构成一次假突破。这次假突破构成了一个顺势入场的机会。如果它在一两根K线之内失败，那么通常会出现一笔逆势交易。money stop（金额止损）按固定金额或固定点数设定的止损，比如 Emini 小型合约上的两个点，或者股票上的一美元。moving average（均线）本书中的走势图使用20根K线的指数移动平均线，但任何一条移动平均线都可能有用。moving average gap bar（gap bar，均线缺口K线）没有触到均线的K线。K线与均线之间的空隙就是缺口。强趋势中第一次出现均线缺口K线的回调，后面通常跟着一次对趋势极值的测试。举例来说，当市场处在强多头趋势中，一段回调最终出现了一根最高点低于均线的K线时，这往往就是一个买入建仓形态，目标是测试该趋势的最高点。nesting（嵌套）有时候，一个形态内部会“嵌套”着一个同类形态的较小版本。举例来说，头肩顶的右肩常常要么是一个小型的头肩顶，要么是一个
-
-
-> bars has a false breakout through the trend line. This false breakout sets up a with-trend entry. If it fails within a bar or two, then there is usually a countertrend trade. money stop A stop based on a fixed dollar amount or number of points, like two points in the Eminis or a dollar in a stock. moving average The charts in this book use a 20-bar exponential moving average, but any moving average can be useful. moving average gap bar (gap bar) A bar that does not touch the moving average. The space between the bar and the moving average is the gap. The first pullback in a strong trend that results in a moving average gap bar is usu- ally followed by a test of the trend's extreme. For example, when there is a strong bull trend and there is a pullback that finally has a bar with a high below the moving average, this is of- ten a buy setup for a test of the high of the trend. nesting Sometimes a pattern has a smaller ver- sion of a comparable pattern “nested” within it. For example, it is common for the right shoulder of a head and shoulders top to be either a small head and shoulders top or a
-
-
-双顶。news（消息面）媒体制造出来的无用信息，唯一目的是卖广告、为媒体公司赚钱。它与交易无关，也无从评估，永远都应该被忽略。oio（外内外）Outside-inside-outside，一根外包K线，接着一根内包K线，再接着一根外包K线。oo（外外）Outside-outside，一根外包K线，接着一根更大的外包K线。opening reversal（开盘反转）当天头一个小时左右出现的一次反转。outside bar（外包K线）最高点高于或等于前一根K线最高点、同时最低点低于前一根K线最低点的K线；或者最低点低于或等于前一根K线最低点、同时最高点高于前一根K线最高点的K线。outside down bar（外包下跌K线）收盘价低于开盘价的外包K线。outside up bar（外包上涨K线）收盘价高于开盘价的外包K线。overshoot（过靶）市场越过了此前某个重要价位，比如一个摆动点或一条趋势线。pause bar（停顿K线）没有延续趋势的K线。在多头趋势中，停顿K线的最高点
-
-
-> double top. news Useless information generated by the media for the sole purpose of selling advertising and making money for the media company. It is unrelated to trading, is impossible to evaluate, and should always be ignored. oio Outside-inside-outside, an outside bar fol- lowed by an inside bar, followed by an outside bar. oo Outside-outside, an outside bar followed by a larger outside bar. opening reversal A reversal in the first hour or so of the day. outside bar A bar with a high that is above or at the high of the prior bar and a low that is be- low the low of the prior bar, or a bar with a low that is below or at the low of the prior bar and a high that is above the high of the prior bar. outside down bar An outside bar with a close below its open. outside up bar An outside bar with a close above its open. overshoot The market surpasses a prior price of significance like a swing point or a trend line. pause bar A bar that does not extend the trend. In a bull trend, a pause bar has a high
-
-
-等于或低于前一根K线的最高点；或者，当前一根K线是一根强多头趋势K线时，停顿K线是一根小K线，其最高点只比前一根K线高一个最小报价单位左右。它是回调的一种。pip（点）外汇（forex）市场里的一个最小报价单位。不过，有些数据商提供的报价会多出一位小数，这一位应当忽略。pressing their longs（多头加仓做多）在多头趋势中，多头在多头急速行情里、以及市场向上突破创新高时加仓做多，因为他们预期还会有一段上涨行情，涨幅约为一个等距运动。pressing their shorts（空头加仓做空）在空头趋势中，空头在空头急速行情里、以及市场向下突破创新低时加仓做空，因为他们预期还会有一段下跌行情，跌幅约为一个等距运动。price action（价格行为）任何走势图类型、任何时间级别上的任何价格变化。probability（概率）成功的机会。举例来说，如果交易者回看某个建仓形态最近100次触发的交易，发现其中有60次是盈利的，那就说明该建仓形态的成功概率约为60%。
-
-
-> that is at or below the prior bar, or a small bar with a high that is only a tick or so higher than the previous bar when the previous bar is a strong bull trend bar. It is a type of pullback. pip A tick in the foreign exchange (forex) mar- ket. However, some data vendors provide quotes with an extra decimal place, which should be ignored. pressing their longs In a bull trend, bulls add to their longs as in a bull spike and as the market breaks out to a new high, because they expect another leg up to about a measured move. pressing their shorts In a bear trend, bears add to their shorts in a bear spike and as the market breaks out to a new low, because they expect another leg down to about a measured move. price action Any change in price on any chart type or time frame. probability The chance of success. For ex- ample, if a trader looks back at the most recent 100 times a certain setup led to a trade and finds that it led to a profitable trade 60 times, then that would indicate that the setup has about a 60 percent probability of success. There
-
-
-有很多变量永远不可能被完整检验，所以概率只是近似值，而且有时可能非常具有误导性。probably（很可能）至少60%确定。pullback（回调）趋势、波段或行情段当中一段暂时的停顿或逆势移动，而且没有回撤到趋势、波段或行情段的起点之外。它是一个小型交易区间，交易者预期趋势很快就会恢复。举例来说，空头回调是空头趋势、空头波段或空头行情段中一段横盘到上涨的走势，之后至少会跟着一次对前一个低点的测试。它可以小到只比前一根K线的最高点高一个最小报价单位，甚至可以只是一次停顿，比如一根内包K线。pullback bar（回调K线）与前一根K线反向相差至少一个最小报价单位的K线。在多头趋势中，它是一根最低点低于前一根K线最低点的K线。reasonable（划算的）交易者等式有利的建仓形态。reversal（反转）转变为相反类型的行为。大多数技术分析师用这个词表示从多头趋势变为空头趋势、或从空头趋势变为多头趋势。不过，交易区间的行为与趋势的行为正好相反，所以当趋势变成交易区间时，这也
-
-
-> are many variables that can never be fully tested, so probabilities are only approximations and at times can be very misleading. probably At least 60 percent certain. pullback A temporary pause or countertrend move that is part of a trend, swing, or leg and does not retrace beyond the start of the trend, swing, or leg. It is a small trading range where traders expect the trend to resume soon. For ex- ample, a bear pullback is a sideways to upward move in a bear trend, swing, or leg that will be followed by at least a test of the prior low. It can be as small as a one-tick move above the high of the prior bar or it can even be a pause, like an inside bar. pullback bar A bar that reverses the prior bar by at least one tick. In an uptrend, it is a bar with a low below that of the prior bar. reasonable A setup with a favorable trader's equation. reversal A change to an opposite type of beha- vior. Most technicians use the term to mean a change from a bull trend to a bear trend or from a bear trend to a bull trend. However, trading range behavior is opposite to trending behavior, so when a trend becomes a trading range, this is
-
-
-是一种反转。当交易区间变成趋势时，它也是一种反转，但通常被称为突破。reversal bar（反转K线）方向与趋势相反的趋势K线。当空头行情段向上反转时，一根多头反转K线就是一根多头趋势K线，经典描述是：底部有影线，收盘价高于开盘价、且接近最高点。空头反转K线是出现在多头行情段里的一根空头趋势K线，传统描述是：顶部有影线，收盘价低于开盘价、且接近最低点。reward（回报）交易者预期从一笔交易中赚取的最小报价单位数量。举例来说，如果交易者用限价单在止盈目标处离场，那么回报就是从入场价格到止盈目标之间的最小报价单位数量。risk（风险）从交易者的入场价格到保护性止损之间的最小报价单位数量。如果一笔交易对他不利，这是他最少会亏掉的数量（滑点和其他因素可能让实际风险大于理论风险）。risk off（避险）当交易者认为股市会下跌时，他们会变得厌恶风险，卖出波动性大的股票和货币，转向避险型投资，比如强生
-
-
-> also a reversal. When a trading range becomes a trend, it is a reversal but is usually called a breakout. reversal bar A trend bar in the opposite direc- tion of the trend. When a bear leg is reversing up, a bull reversal bar is a bull trend bar, and the classic description includes a tail at the bot- tom and a close above the open and near the top. A bear reversal bar is a bear trend bar in a bull leg, and the traditional description includes a tail at the top and a close below the open and near the bottom. reward The number of ticks that a trader ex- pects to make from a trade. For example, if the trader exits with a limit order at a profit target, it is the number of ticks between the entry price and the profit target. risk The number of ticks from a trader's entry price to a protective stop. It is the minimum that the trader will lose if a trade goes against him (slippage and other factors can make the actual risk greater than the theoretical risk). risk off When traders think that the stock mar- ket will fall, they become risk averse, sell out of volatile stocks and currencies, and transition into safe-haven investments, like Johnson &
-
-
-公司（JNJ）、奥驰亚集团（MO）、宝洁公司（PG）、美元以及瑞士法郎。risk on（追逐风险）当交易者认为股市走强时，他们愿意承担更多风险，投资于那些往往比大盘涨得更快的股票，也投资于波动性更高的货币，比如澳元或瑞典克朗。risky（有风险的）一笔交易的交易者等式不明确、或只是勉强有利时，就是有风险的。它也可以表示：无论风险与潜在回报如何，一笔交易的成功概率只有50%或更低。scalp（刮头皮）以小额利润离场的交易，通常在出现任何回调之前就已经离场。在 Emini 小型合约上，当平均区间约为10到15个点时，刮头皮交易通常指任何目标小于四个点的交易。SPY 或股票可能是10到30美分，更贵的股票则可以是$1到 $2。由于利润往往小于风险，交易者必须至少赢70%的时间，而这在大多数交易者看来是一个不现实的目标。交易者只应做那种潜在回报至少与风险一样大的交易，除非他们
-
-
-> Johnson (JNJ), Altria Group (MO), Procter & Gamble (PG), the U.S. dollar, and the Swiss franc. risk on When traders think that the stock mar- ket is strong, they are willing to take more risks and invest in stocks that tend to rise faster than the overall market, and invest in more volatile currencies, like the Australian dollar or the Swedish krona. risky When the trader's equation is unclear or barely favorable for a trade. It can also mean that the probability of success for a trade is 50 percent or less, regardless of the risk and poten- tial reward. scalp A trade that is exited with a small profit, usually before there are any pullbacks. In the Emini, when the average range is about 10 to 15 points, a scalp trade is usually any trade where the goal is less than four points. For the SPY or stocks, it might be 10 to 30 cents. For more ex- pensive stocks, it can be $1 to $2. Since the profit is often smaller than the risk, a trader has to win at least 70 percent of the time, which is an unrealistic goal for most traders. Traders should take trades only where the potential re- ward is at least as great as the risk unless they
-
-
-极其娴熟。scalper（刮头皮交易者）主要以刮头皮方式赚取小额利润的交易者，通常使用很紧的止损。scalper's profit（刮头皮利润）刮头皮交易者通常会瞄准的典型利润幅度。scratch（打平）接近盈亏平衡的交易，要么小赚一点，要么小亏一点。second entry（二次入场）在第一次入场之后几根K线之内，第二次出现按与第一次入场相同逻辑成立的入场K线。举例来说，如果向上突破一个楔形牛旗失败、并回调到一个双底牛旗，那么这个回调就为该楔形牛旗构成了第二个买入信号。second moving average gap bar setup（第二次均线缺口K线形态）如果先出现了一根均线缺口K线，而向均线方向的一次反转没有到达均线，市场反而继续朝远离均线的方向走，那么这就是顺均线方向的下一次反转。second signal（第二个信号）在第一个信号之后几根K线之内，第二次出现按与第一个信号相同逻辑成立的建仓形态。selling pressure（卖压）强势空头正在确立自己的优势，他们的卖出正在制造空头
-
-
-> are extremely skilled. scalper A trader who primarily scalps for small profits, usually using a tight stop. scalper's profit A typical amount of profit that a scalper would be targeting. scratch A trade that is close to breakeven with either a small profit or a loss. second entry The second time within a few bars of the first entry where there is an entry bar based on the same logic as the first entry. For example, if a breakout above a wedge bull flag fails and pulls back to a double bottom bull flag, this pullback sets up a second buy signal for the wedge bull flag. second moving average gap bar setup If there is a first moving average gap bar and a re- versal toward the moving average does not reach the moving average, and instead the move away from the moving average continues, it is the next reversal in the direction of the moving average. second signal The second time within a few bars of the first signal where there is a setup based on the same logic as the first signal. selling pressure Strong bears are asserting themselves and their selling is creating bear
-
-
-趋势K线、顶部带影线的K线以及两K线空头反转。这种效应是累积性的，通常最终会带来更低的价格。setup（建仓形态）交易者用来作为下入场单依据的一根或多根K线构成的形态。如果入场单成交，该建仓形态的最后一根K线就成为信号K线。大多数建仓形态都只是单根K线。shaved body（无影线实体）在一端或两端都没有影线的蜡烛线。顶部没有影线的叫光头，底部没有影线的叫光脚。short（做空）作动词时，指卖出股票或期货合约来建立新头寸（不是平掉先前买入的头寸）。作名词时，指做空的人，或者指那个头寸本身。shrinking stairs（收缩楼梯）最近一次突破比前一次更小的楼梯形态。它是在多头趋势中三个或更多依次抬高的高点、或在空头趋势中三个或更多依次降低的低点，其中每一次创出新极值的突破都比前一次突破小若干最小报价单位，说明动能正在衰减。它可以是三次推进形态，但不必看起来像楔形，也可以是趋势中任何一系列宽幅波段。signal bar（信号K线）紧挨在某一根K线之前的那根K线，而那根K线就是
-
-
-> trend bars, bars with tails at the tops, and two- bar bear reversals. The effect is cumulative and usually is eventually followed by lower prices. setup A pattern of one or more bars used by traders as the basis to place entry orders. If an entry order is filled, the last bar of the setup be- comes the signal bar. Most setups are just a single bar. shaved body A candle with no tail at one or both ends. A shaved top has no tail at the top and a shaved bottom has no tail at the bottom. short As a verb, to sell a stock or futures con- tract to initiate a new position (not to exit a pri- or purchase). As a noun, a person who sells something short, or the actual position itself. shrinking stairs A stairs pattern where the most recent breakout is smaller than the previ- ous one. It is a series of three or more trending highs in a bull trend or lows in a bear trend where each breakout to a new extreme is by fewer ticks than the prior breakout, indicating waning momentum. It can be a three-push pat- tern, but it does not have to resemble a wedge and can be any series of broad swings in a trend. signal bar The bar immediately before the bar
-
-
-入场单成交的K线（入场K线）。它是建仓形态的最后一根K线。smaller time frame (STF，较小的时间级别)与当前走势图覆盖同样长的时间、但K线根数更多的走势图。举例来说，与普通交易日里的日盘 Emini 小型合约5分钟图相比，较小时间级别的走势图例子包括1分钟图、每根K线含500个tick的tick图，以及每根K线1,000手合约的成交量图（在普通交易日里，这些图通常都有200根以上的K线，而5分钟图有81根K线）。smart traders（聪明的交易者）持续稳定盈利的交易者，他们通常交易很大的头寸，而且大体上站在市场正确的一边。spike and channel（急速与通道）突破进入趋势之后，后续行情以通道的形式出现，通道里的动能更小，且存在双向交易。stair（楼梯）在趋势型交易区间趋势或宽幅通道趋势中，向一个新极值推进的一段走势，这当中有一系列三个或更多同向的波段，看起来像一个倾斜的交易区间，大致被包在一条通道里。突破之后会出现一次突破回调，它
-
-
-> in which an entry order is filled (the entry bar). It is the final bar of a setup. smaller time frame (STF) A chart covering the same amount of time as the current chart, but having more bars. For example, compared to the day session 5 minute Emini chart on an average day, examples of smaller time frame charts include a 1 minute chart, a tick chart with 500 ticks per bar, and a volume chart with 1,000 contracts per bar (each of these charts usually has more than 200 bars on an average day, compared to the 81 bars on the 5 minute chart). smart traders Consistently profitable traders who are usually trading large positions and are generally on the right side of the market. spike and channel A breakout into a trend in which the follow-through is in the form of a channel where the momentum is less and there is two-sided trading taking place. stair A push to a new extreme in a trending trading range trend or a broad channel trend where there is a series of three or more trending swings that resembles a sloping trading range and is roughly contained in a channel. After the breakout, there is a breakout pullback that
-
-
-至少会略微回撤进入先前的交易区间，而其他趋势型交易区间并没有这个必要条件。双向交易正在进行，但有一方略微更占上风，这也解释了倾斜的由来。STF（较小的时间级别）见较小的时间级别（STF）。strong bulls and bears（强势多头与强势空头）机构交易者，他们累积起来的买入与卖出决定了市场的方向。success（成功）指交易者达成了自己的目标：他们的止盈目标在被保护性止损打掉之前先到了。swing（波段）突破任意大小趋势线的较小趋势；只有当图上至少出现两个时才用这个词。它们可以出现在一个更大的趋势当中，也可以出现在横盘市场里。swing high（摆动高点）在走势图上看起来像一次向上急速行情的K线，向上伸出到相邻K线的上方。它的最高点等于或高于前一根K线的最高点，也等于或高于后一根K线的最高点。swing high/low（摆动高点/低点）要么是一个摆动高点，要么是一个摆动低点。swing low（摆动低点）在走势图上看起来像一次向下急速行情的K线，向下伸出到相邻K线的下方。它的最低点等于或低于前一根K线的最低点，也等于或低于后一根K线的最低点。
-
-
-> retraces at least slightly into the prior trading range, which is not a requirement of other trending trading ranges. Two-way trading is taking place but one side is in slightly more con- trol, accounting for the slope. STF See smaller time frame (STF). strong bulls and bears Institutional traders and their cumulative buying and selling determ- ine the direction of the market. success Refers to traders achieving their ob- jective. Their profit target was reached before their protective stop was hit. swing A smaller trend that breaks a trend line of any size; the term is used only when there are at least two on the chart. They can occur within a larger trend or in a sideways market. swing high A bar that looks like a spike up on the chart and extends up beyond the neighbor- ing bars. Its high is at or above that of the bar before it and that of the bar after it. swing high/low Either a swing high or a swing low. swing low A bar that looks like a spike down on the chart and extends down beyond the neighboring bars. Its low is at or below that of the bar before it and that of the bar after it.
-
-
-swing point（摆动点）要么是一个摆动高点，要么是一个摆动低点。swing trade（波段交易）使用5分钟这类短期日内图的日内交易者，会把任何比刮头皮持续更久、并且会一直持有并穿越一次或多次回调的交易称为波段交易。使用更高级别走势图的交易者，他们的波段交易会持续几个小时到数天。通常，这笔交易至少有一部分是不带止盈目标持有的，因为交易者期待一段延伸的走势。潜在回报通常至少与风险一样大。很多交易者把小型的波段交易称为刮头皮。在 Emini 小型合约上，当平均区间约为10到15个点时，波段交易通常指任何目标为四个点或更多的交易。test（测试）市场靠近此前某个重要价位，并且可能过靶、也可能未及靶位。不同的交易者用“测试失败”这个词表达的却是相反的意思。大多数交易者认为，如果市场随后反转，这次测试就是成功的；如果市场没有反转、而是继续越过测试区域，那么测试就失败了，而且已经发生了一次突破。three pushes（三次推进）三个摆动高点，其中每个摆动高点通常更高；或者三个摆动低点
-
-
-> swing point Either a swing high or a swing low. swing trade For a day trader using a short- term intraday chart like the 5 minute, it is any trade that lasts longer than a scalp and that the trader will hold through one or more pullbacks. For a trader using higher time frame charts, it is a trade that lasts for hours to several days. Typ- ically, at least part of the trade is held without a profit target, since the trader is hoping for an extended move. The potential reward is usually at least as large as the risk. Small swing trades are called scalps by many traders. In the Emini, when the average range is about 10 to 15 points, a swing trade is usually any trade where the goal is four or more points. test When the market approaches a prior price of significance and can overshoot or undershoot the target. The term failed test is used to mean opposite things by different traders. Most traders believe that if the market then reverses, the test was successful, and if it does not and the move continues beyond the test area, the test failed and a breakout has occurred. three pushes Three swing highs where each swing high is usually higher or three swing lows
-
-
-其中每个摆动低点通常更低。它的交易方式与楔形相同，应当被视为楔形的一种变体。当它作为旗形的一部分时，走势可以基本水平，每一次推进也不必越过前一次。举例来说，在楔形牛旗或任何其他类型的三角形中，第二次向下推进可以等于、高于或低于第一次，第三次向下推进可以等于、高于或低于第二次、第一次，或者同时等于、高于或低于这两次。tick（最小报价单位）价格变动的最小单位。在大多数股票上，一个最小报价单位是一美分；在十年期美国国债期货上是1/64个点；在 Emini 小型合约上则是0.25个点。在 tick 图与成交明细表上，tick 指的是发生的每一笔成交，无论成交多大，甚至价格没有变化也一样。如果你看一张成交明细表，当 TradeStation 图表软件生成 tick 图时，每一笔成交都被计为一个 tick。tight channel（窄幅通道）趋势线与趋势通道线靠得很近的通道，其中的回调很小，而且只持续一到三根K线。tight trading range（窄幅交易区间）由两根或更多K线构成的交易区间，K线之间大量重叠，而且
-
-
-> where each swing low is usually lower. It trades the same as a wedge and should be considered a variant. When it is part of a flag, the move can be mostly horizontal and each push does not have to extend beyond the prior one. For ex- ample, in a wedge bull flag or any other type of triangle, the second push down can be at, above, or below the first, and the third push down can be at, above, or below either the second or the first, or both. tick The smallest unit of price movement. For most stocks, it is one penny; for 10-Year U.S. Treasury Note Futures, it is 1/64th of a point; and for Eminis, it is 0.25 points. On tick charts and on time and sales tables, a tick is every trade that takes place no matter the size and even if there is no price change. If you look at a time and sales table, every trade is counted as one tick when TradeStation charting software creates a tick chart. tight channel A channel where the trend line and trend channel line are close together, and the pullbacks are small and last for only one to three bars. tight trading range A trading range of two or more bars with lots of overlap in the bars and in
-
-
-其中的大多数反转都太小，用止损单入场也赚不到钱。多头与空头处在平衡状态。time frame（时间级别）走势图上单根K线所包含的时间长度（一个5分钟时间级别由每五分钟收一次的K线构成）。它也可以指不按时间划分的K线，比如按成交量、或按成交 tick 笔数划分的K线。tradable（可交易）你认为有合理机会至少赚到一个刮头皮利润的建仓形态。trader's equation（交易者等式）要做一笔交易，你必须相信成功概率乘以潜在回报大于失败概率乘以风险。回报与风险由你自己设定，因为潜在回报是到你的止盈目标的距离，风险是到你的止损的距离。解这个等式的难处在于给概率赋值，而概率永远不可能确切地知道。作为一条准则：如果你不确定，就假定自己有50%的机会赢或输；如果你有信心，就假定自己有60%的机会赢、40%的机会输。
-
-
-> which most reversals are too small to trade profitably with stop entries. The bulls and bears are in balance. time frame The length of time contained in one bar on the chart (a 5 minute time frame is made of bars that close every five minutes). It can also refer to bars not based on time, such as those based on volume or the number of ticks traded. tradable A setup that you believe has a reason- able chance of leading to at least a scalper's profit. trader's equation To take a trade, you must believe that the probability of success times the potential reward is greater than the probability of failure times the risk. You set the reward and risk because the potential reward is the distance to your profit target and the risk is the distance to your stop. The difficulty in solving the equa- tion is assigning a value to the probability, which can never be known with certainty. As a guideline, if you are uncertain, assume that you have a 50 percent chance of winning or losing, and if you are confident, assume that you have a 60 percent chance of winning and a 40 percent chance of losing.
-
-
-trading range（交易区间）最低的要求是：单根K线的区间在很大程度上被前一根K线重叠。它是横盘走势，多头与空头都没有掌控市场，虽然往往有一方更强。它常常是趋势中的一段回调，而这段回调持续得足够久，已经失去了大部分的确定性。换句话说，交易者对短期内突破的方向已经变得不确定，市场会反复尝试向上和向下突破，而这些尝试都会失败。它通常最终会顺着趋势的方向突破，因此它是在更高级别走势图上的一段回调。trailing a stop（移动止损）随着交易变得越来越有利可图，交易者往往会挪动——也就是移动——保护性止损，以保住更多浮动盈利。举例来说，如果他们在多头趋势中做多，那么每次市场创出新高，他们也许就会把保护性止损上移到最近一个更高的低点下方。trap（陷阱）一种入场，它在刮头皮利润目标达到之前就立刻反转到相反方向，把交易者套在他们的新头寸里，最终逼他们亏本平仓。它也可能把交易者从一笔好
-
-
-> trading range The minimum requirement is a single bar with a range that is largely over- lapped by the bar before it. It is sideways move- ment and neither the bull nor the bears are in control, although one side is often stronger. It is often a pullback in a trend where the pullback has lasted long enough to lose most of its cer- tainty. In other words, traders have become un- certain about the direction of the breakout in the short term, and the market will have re- peated breakout attempts up and down that will fail. It will usually ultimately break out in the direction of the trend, and is a pullback on a higher time frame chart. trailing a stop As the trade becomes increas- ingly profitable, traders will often move, or trail, the protective stop to protect more of their open profit. For example, if they are long in a bull trend, every time the market moves to a new high, they might raise the protective stop to just below the most recent higher low. trap An entry that immediately reverses to the opposite direction before a scalper's profit tar- get is reached, trapping traders in their new po- sition and ultimately forcing them to cover at a loss. It can also scare traders out of a good
-
-
-交易中吓出去。trapped in a trade（被套在交易里）交易者在一笔交易上持有浮动亏损，这笔交易没有带来刮头皮利润；如果出现一次越过入场K线或信号K线的回调，交易者很可能会亏本离场。trapped out of a trade（被关在场外）一段回调把交易者吓得离场，但随后这段回调失败了。走势很快恢复，继续顺着该交易的方向走，这让交易者在情绪上很难再在如今能拿到的更差价格上重新进场。他将不得不追着市场跑。trend（趋势）一系列价格变化，它们要么大部分向上（多头趋势），要么大部分向下（空头趋势）。它有三个定义宽松的较小版本：波段、行情段和回调。一张走势图只会呈现一到两个主要趋势。如果更多，那么用其他术语之一就更恰当。trend bar（趋势K线）带实体的K线，也就是说收盘价高于或低于开盘价，说明至少存在一次较小的价格变动。trend channel line（趋势通道线）方向与趋势相同、但画在K线
-
-
-> trade. trapped in a trade A trader with an open loss on a trade that did not result in a scalper's profit, and if there is a pullback beyond the entry or signal bars, the trader will likely exit with a loss. trapped out of a trade A pullback that scares a trader into exiting a trade, but then the pull- back fails. The move quickly resumes in the dir- ection of the trade, making it difficult emotion- ally for the trader to get back in at the worse price that is now available. The trader will have to chase the market. trend A series of price changes that are either mostly up (a bull trend) or down (a bear trend). There are three loosely defined smaller ver- sions: swings, legs, and pullbacks. A chart will show only one or two major trends. If there are more, one of the other terms is more appropri- ate. trend bar A bar with a body, which means that the close was above or below the open, indicat- ing that there is at least a minor price move- ment. trend channel line A line in the direction of the trend but drawn on the opposite side of the
-
-
-另一侧（与趋势线相对）的直线。多头趋势通道线位于最高点上方、并向右上方倾斜；空头趋势通道线位于最低点下方、并向右下方倾斜。trend channel line overshoot（趋势通道线过靶）一根或多根K线穿过趋势通道线。trend channel line undershoot（趋势通道线未及靶位）K线靠近趋势通道线，但市场在到达或穿过该线之前就反转离开。trend from the open（开盘即趋势）一种当天从第一根K线或最初的几根K线之一就开始的趋势，它延续很多根K线而不出现回调；而且这一天的绝大部分时间里——即便不是全天——趋势的起点都始终保持为当天的极值之一。trending closes（收盘价依次走高/走低）三根或更多收盘价依次呈趋势的K线。在多头趋势中，每个收盘价都高于前一个收盘价；在空头趋势中，每个收盘价都更低。如果这个形态延续很多根K线，中间可以有一两根K线的收盘价不是依次递进的。trending highs or lows（最高点或最低点依次走高/走低）与收盘价依次走高/走低相同，只是基于K线的最高点或最低点。trending swings（趋势型波段）三个或更多波段，其中摆动高点与摆动低点都高于
-
-
-> bars compared to a trend line. A bull trend channel line is above the highs and rising to the right, and a bear trend channel line is below the lows and falling to the right. trend channel line overshoot One or more bars penetrating a trend channel line. trend channel line undershoot A bar ap- proaches a trend channel line but the market re- verses away from the line without reaching or penetrating it. trend from the open A trend that begins at the first or one of the first bars of the day and extends for many bars without a pullback, and the start of the trend remains as one of the ex- tremes of the day for much if not all of the day. trending closes Three or more bars where the closes are trending. In a bull trend, each close is above the prior close, and in a bear trend, each close is lower. If the pattern extends for many bars, there can be one or two bars where the closes are not trending. trending highs or lows The same as trending closes except based on the highs or lows of the bars. trending swings Three or more swings where the swing highs and lows are both higher than
-
-
-前一个波段的摆动高点与摆动低点（趋势型多头波段），或者都更低（趋势型空头波段）。trending trading ranges（趋势型交易区间）两个或更多由一次突破分隔开的交易区间。trend line（趋势线）顺趋势方向画出的直线；在多头趋势中它向上倾斜、位于K线下方，在空头趋势中它向下倾斜、位于K线上方。最常见的情况是，它由摆动高点或摆动低点构成，但也可以基于线性回归，或只是一条最佳拟合线（目测）。trend reversal（趋势反转）从上涨变为下跌、或从下跌变为上涨的趋势变化，又或者是从趋势变为交易区间。20 moving average gap bars（20根均线缺口K线）连续20根或更多没有触到均线的K线。当市场终于触到均线时，通常会构成一个用于测试趋势极值的形态。undershoot（未及靶位）市场靠近此前某个重要价位——比如一个摆动点或一条趋势线——但没有到达。unlikely（不太可能）最多40%确定。unreasonable（不划算的）交易者等式不利的建仓形态。usually（通常）至少60%确定。
-
-
-> the prior swing highs and lows (trending bull swings), or both lower (trending bear swings). trending trading ranges Two or more trad- ing ranges separated by a breakout. trend line A line drawn in the direction of the trend; it is sloped up and is below the bars in a bull trend, and it is sloped down and is above the bars in a bear trend. Most often, it is con- structed from either swing highs or swing lows but can be based on linear regression or just a best fit (eyeballing). trend reversal A trend change from up to down or down to up, or from a trend to a trad- ing range. 20 moving average gap bars Twenty or more consecutive bars that have not touched the moving average. Once the market finally touches the moving average, it usually creates a setup for a test of the trend's extreme. undershoot The market approaches but does not reach a prior price of significance like a swing point or a trend line. unlikely At most 40 percent certain. unreasonable A setup with an unfavorable trader's equation. usually At least 60 percent certain.
-
-
-vacuum（价格真空）当强势空头认为价格很快会更高，因而一直等到价格到达市场上方某个磁力位才做空时，就会出现买入真空。结果是出现了一个真空，把市场以一根或多根多头趋势K线的形式迅速吸到那个磁力位。一到那里，强势空头就会大举卖出，把市场转向下行。当强势多头认为市场很快会更低，因而一直等到价格跌到市场下方某个磁力位才买入时，就会出现卖出真空。结果是出现了一个真空，把市场以一根或多根空头趋势K线的形式迅速吸到那个磁力位。一到那里，强势多头就会大举买入，把市场转回上行。wedge（楔形）传统上，指一种三次推进的走势：每一次推进都延伸得更远，趋势线与趋势通道线至少有最低程度的收敛，形成一个楔形的上升或下降三角形。对交易者而言，楔形的形状提高了交易成功的几率，但任何三次推进形态的交易方式都与楔形相同，都可以被当作楔形。楔形可以是反转形态，也可以是趋势中的一段回调（牛旗或熊旗）。
-
-
-> vacuum A buy vacuum occurs when the strong bears believe that the price will soon be higher so they wait to short until it reaches some mag- net above the market. The result is that there is a vacuum that sucks the market quickly up to the magnet in the form of one or more bull trend bars. Once there, the strong bears sell ag- gressively and turn the market down. A sell va- cuum occurs when the strong bulls believe that the market will soon be lower so they wait to buy until it falls to some magnet below the mar- ket. The result is that there is a vacuum that sucks the market down quickly to the magnet in the form of one or more bear trend bars. Once there, strong bulls buy aggressively and turn the market back up. wedge Traditionally, a three-push move with each push extending further and the trend line and trend channel line at least minimally con- vergent, creating a rising or descending triangle with a wedge shape. For a trader, the wedge shape increases the chances of a successful trade, but any three-push pattern trades like a wedge and can be considered one. A wedge can be a reversal pattern or a pullback in a trend (a bull or bear flag).
-
-
-wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调，比如多头趋势中的高3（牛旗的一种），或者空头趋势中的低3（熊旗的一种）。由于它是顺势形态，所以在第一个信号就入场。wedge reversal（楔形反转）把多头趋势反转为空头趋势、或把空头趋势反转为多头趋势的楔形。由于它是逆势的，除非它非常强，否则最好是等第二个信号再入场。举例来说，如果先出现一段空头趋势，然后出现一个下降楔形，那就等价格向上突破这个潜在的楔形底，然后再尝试买入一次回到更高低点的回调。with trend（顺势）指一笔交易或一个建仓形态与当前主导趋势的方向一致。一般而言，最近一次5分钟图信号的方向，应当被假定为趋势的方向。另外，如果过去10根或20根K线中的大多数都位于均线上方，那么趋势的建仓形态与交易就很可能是买入方向的。
-
-
-> wedge flag A wedge-shaped or three-push pullback in a trend, such as a high 3 in a bull trend (a type of bull flag) or a low 3 in a bear trend (a type of bear flag). Since it is a with- trend setup, enter on the first signal. wedge reversal A wedge that is reversing a bull trend into a bear trend or a bear trend into a bull trend. Since it is countertrend, unless it is very strong, it is better to take a second signal. For example, if there is a bear trend and then a descending wedge, wait for a breakout above this potential wedge bottom and then try to buy a pullback to a higher low. with trend Refers to a trade or a setup that is in the direction of the prevailing trend. In gen- eral, the direction of the most recent 5 minute chart signal should be assumed to be the trend's direction. Also, if most of the past 10 or 20 bars are above the moving average, trend setups and trades are likely on the buy side.
+> My primary goal is to present a series of comprehensive books on price action, and the greatest concern among readers was how difficult my earlier book, Reading Price Charts Bar by Bar, was to read. I am deeply appreciative of all of the constructive com-ments that readers have provided and those from the participants in my daily live webinars. Many of these comments were incredibly insightful and I have incorporated them in this current edition. I am also thank-ful to all of the traders who have been in my live trad-ing room, because they have given me the opportunity to say things repeatedly until I could clearly articulate what I am seeing and doing. They have also asked many questions that have helped me find the words to communicate more effectively, and I have put those words in these books.
+
+
+我要特别感谢 Victor Brancale，他花了很长时间校对书稿，提供了数百条非常有帮助的修改与建议；也要感谢 Robert Gjerde，他建立并管理我的网站，并对聊天室和网站给出了坦诚的反馈。最后，我还想感谢《Futures》杂志的集团编辑总监 Ginger Szala，她不断给我机会发表文章、在网络研讨会上演讲，还定期就如何更深入地参与交易者社群给我非常有帮助的建议。
+
+
+> I would like to give a special thank-you to Victor Brancale, who spent long hours proofreading the manuscripts and providing hundreds of very helpful edits and suggestions, and to Robert Gjerde, who built and administers my website and has given me candid feedback on the chat room and the website. Finally, I want to thank Ginger Szala, the Group Editorial Dir-ector of Futures magazine, for giving me ongoing opportunities to publish articles and speak in webinars, and for regularly giving me very helpful advice on how to become more involved with the trading community.
+
+
+本书所用术语表（List of Terms Used in This Book）本书中所有这些术语，都是按对交易者有帮助的实用方式来定义的，不一定采用技术分析师常常描述的那种理论化方式。
+- **
+- **always in（始终入场）**：**：如果你在任何时候都必须身处市场之中，要么做多要么做空，那么这就是你当前的持仓（始终做多或始终做空）。如果任何时候你被迫在建立一笔多头交易还是一笔空头交易之间做决定，而且对自己的选择有信心，那么此刻市场就处在始终入场模式。几乎所有这类交易都需要先出现一段顺应趋势方向的急速行情，交易者才会有信心。
+- **
+- **barbwire（铁丝网）**：**：由三根或更多根K线构成的交易区间，它们大量重叠，而且其中一根或更多是十字星。它是一种窄幅交易区间，带有醒目的影线，K线往往相对较大。
+- **
+- **bar pullback（K线回调）**：**：在上涨行情中，K线回调是一根最低点低于前一根K线最低点的K线。在下跌行情中，它是一根最高点高于前一根K线最高点的K线。
+- **
+- **bear reversal（空头反转）**：**：趋势从上涨变为下跌（一段空头趋势）。
+- **
+- **blown account（爆仓）**：**：亏损已经让你的账户降到经纪商设定的最低保证金要求之下，除非你追加存入资金，否则不允许下单交易。
+- **
+- **breakout（突破）**：**：当前K线的最高点或最低点越过了此前某个重要价位，比如一个摆动高点或摆动低点、任何先前K线的最高点或最低点、一条趋势线，或者一个趋势通道。
+- **
+- **breakout bar（or bar breakout，突破K线）**：**：产生突破的那根K线。它通常是一根强劲的趋势K线。
+- **
+- **breakout mode（突破模式）**：**：一种建仓形态：朝任一方向的突破都应当有后续行情。
+- **
+- **breakout pullback（突破回调）**：**：突破之后几根K线之内出现的一次一到大约五根K线的小回调。既然你把它看作回调，你就是在预期这次突破会恢复，而这次回调就是这个恢复过程的建仓形态。如果你反过来认为这次突破会失败，你就不会用“回调”这个词，而会把这次回调看作一次突破失败。举例来说，如果出现了一次上破空头趋势线、由五根K线构成的突破，但你相信空头趋势会继续，你就会考虑做空这面熊旗，而不会在它向下突破之后立刻去找机会买入回调。
+- **
+- **breakout test（突破回测）**：**：一次回到接近最初入场价、以测试保本止损的突破回调。它可能过靶，也可能差几个最小报价单位未及靶位。它可能出现在入场后的一两根K线之内，也可能出现在一段延伸的走势之后，甚至20根或更多K线之后。
+- **
+- **bull reversal（多头反转）**：**：趋势从下跌变为上涨（一段多头趋势）。
+- **
+- **buying pressure（买压）**：**：强势多头正在显示自己的力量，他们的买入正在制造多头趋势K线、底部带影线的K线，以及两根K线构成的多头反转。这种效应是累积性的，通常最终会带来更高的价格。
+- **
+- **candle（蜡烛线）**：**：价格行为的一种图表呈现方式，其中实体位于开盘价与收盘价之间。如果收盘价高于开盘价，它就是一根多头蜡烛线，显示为白色。如果收盘价低于开盘价，它就是一根空头蜡烛线，显示为黑色。实体上下两端的线叫影线（有些技术分析师称之为灯芯或阴影）。
+- **
+- **chart type（走势图类型）**：**：线图、K线图、蜡烛图、成交量图、tick 图（按成交笔数绘制），或者其它类型的走势图。
+- **
+- **climax（高潮）**：**：一段走得太远、太快，如今已经反转方向、转入交易区间或相反趋势的行情。大多数高潮都以趋势通道线过靶和反转收尾，但那些反转中的大多数结果是交易区间，而不是相反趋势。
+- **
+- **countertrend（逆势）**：**：方向与当前趋势（当前的始终入场方向）相反的一笔交易或一个建仓形态。对大多数交易者来说这是一种亏钱的策略，因为风险通常至少与回报一样大，而概率很少高到能让交易者等式变得有利。
+- **
+- **countertrend scalp（逆势刮头皮）**：**：在相信趋势还有空间可走、但一次小回调即将出现的前提下所做的交易；你在那次小回调形成的过程中逆势入场，去赚一小笔利润。这通常是一个错误，应当避免。
+- **
+- **day trade（日内交易）**：**：打算在入场当天就离场的交易。
+- **
+- **directional probability（方向概率）**：**：市场在朝相反方向走出某个数量的最小报价单位之前，先向上或向下走出任意数量最小报价单位的概率。如果你看的是向上与向下等距的一段运动，它大多数时候都在50% 附近徘徊，也就是说，市场在下跌 X 个最小报价单位之前先上涨 X 个最小报价单位的概率是50–50，而它在上涨 X 个最小报价单位之前先下跌 X 个最小报价单位的概率也是50–50。
+- **
+- **doji（十字星）**：**：实体很小、或者完全没有实体的一根蜡烛线。在5分钟图上，实体可能只有一两个最小报价单位；但在日线图上，实体可能有10个甚至更多最小报价单位，看起来却仍然几乎不存在。多头和空头都没能掌控这根K线。所有K线不是趋势K线，就是非趋势K线，而那些非趋势K线就叫十字星。
+- **
+- **double bottom（双底）**：**：一种走势图形态：当前K线的最低点与先前某个摆动低点的最低点大致相同。那个先前的低点可能只早一根K线，也可能早20根甚至更多K线。它不必就是当天的最低点，而且它常常形成于牛旗之中（一个双底牛旗）。
+- **
+- **double bottom bull flag（双底牛旗）**：**：多头趋势中的一次停顿或牛旗，它两次向下急速推进到大致相同的价格，然后反转回到多头趋势。
+- **
+- **double bottom pullback（双底回调）**：**：一种买入建仓形态由一次双底，加上其后一次形成更高低点的深度回调构成。
+- **
+- **double top（双顶）**：**：一种走势图形态：当前K线的最高点与先前某个摆动高点的最高点大致相同。那个先前的高点可能只早一根K线，也可能早20根甚至更多K线。它不必就是当天的最高点，而且它常常形成于熊旗之中（一个双顶熊旗）。
+- **
+- **double top bear flag（双顶熊旗）**：**：空头趋势中的一次停顿或熊旗，它两次向上急速推进到大致相同的价格，然后反转回到空头趋势。
+- **
+- **double top pullback（双顶回调）**：**：一种卖出建仓形态，由一次双顶，加上其后一次形成更低高点的深度回调构成。
+- **
+- **early longs（提前入场的多头）**：**：在多头信号K线正在形成时就买入的交易者，而不是等它收盘后、再在其最高点上方一个最小报价单位处用买入止损单入场。
+- **
+- **early shorts（提前入场的空头）**：**：在空头信号K线正在形成时就卖出的交易者，而不是等它收盘后、再在其最低点下方一个最小报价单位处用卖出止损单入场。
+- **
+- **edge（优势）**：**：交易者等式为正的建仓形态。交易者拥有数学上的优势，如果他交易这个建仓形态。优势总是很小、很短暂，因为它需要在另一边有人，而市场里满是聪明的交易者，他们不会让一个优势变得又大又持久。EMA（指数移动平均线）见指数移动平均线（EMA）。
+- **
+- **entry bar（入场K线）**：**：一笔交易入场所在的那根K线。
+- **
+- **exponential moving average（EMA，指数移动平均线）**：**：这套书里的走势图使用20根K线的指数移动平均线，但任何移动平均线都可以有用。
+- **
+- **fade（反向操作）**：**：朝与趋势相反的方向下单交易（例如卖出一次你预期会失败并反转向下的多头突破）。
+- **
+- **failed failure（失败的失败）**：**：一次失败又失败了，行情恢复朝最初那次突破的方向运行，因此它是一次突破回调。由于它是二次信号，所以更可靠。举例来说，如果出现了向上突破交易区间的走势，而突破之后那根K线是一根空头反转K线，那么只要市场交易到那根K线之下，这次突破就失败了。如果市场随后在接下来几根K线之内又交易到某根先前K线的最高点之上，那么这次失败的突破就又失败了，现在这次突破正在恢复。这意味着这次失败的突破变成了一面小型牛旗，只是这次突破之后的一次回调。
+- **
+- **failure（a failed move，失败）**：**：一次失败的行情：在刮头皮交易者的利润到手之前、或者在交易者的目标位达到之前，保护性止损就先被打到，而且它通常导致行情朝相反方向走，因为被套的交易者被迫亏损离场。目前，Emini 小型合约（标普500迷你股指期货合约）上，刮头皮交易者四个最小报价单位的目标通常需要六个最小报价单位的运动，而 QQQQ 上10个最小报价单位的目标通常需要12美分的运动。
+- **
+- **false（假突破）**：**：即
+- **
+- **failed（失败的）**：**：、
+- **
+- **failure（失败）**：**：。
+- **
+- **five-tick failure（五个最小报价单位的失败）**：**：Emini 小型合约上的一种交易：行情走出信号K线之外五个最小报价单位后反转。举例来说，牛旗的一次突破跑出五个最小报价单位，而一旦那根K线收盘，下一根K线的最低点就低于它。大多数想赚一个点利润的限价单都无法成交，因为行情通常必须越出这张委托单一个最小报价单位，它才会成交。它常常是朝相反方向交易的一个建仓形态。
+- **
+- **flat（空仓）**：**：指当前不持有任何头寸的交易者。
+- **
+- **follow-through（后续行情）**：**：在最初那段走势（比如一次突破）之后，延续这段走势的一根或更多根K线。交易者喜欢看到后续行情出现在下一根K线上，以及在那之后的几根K线上，希望走出一轮趋势、让自己有望赚到更多利润。
+- **
+- **follow-through bar（后续行情K线）**：**：在入场K线之后制造出后续行情的那根K线；它通常是下一根K线，但有时会晚几根K线才形成。
+- **
+- **fractal（分形）**：**：每一个形态都是更高时间级别走势图上某个形态的分形。这意味着，每一个形态在更高时间级别上都是一个微型形态，而每一个微型形态在更小时间级别上都是一个标准形态。
+- **
+- **gap（缺口）**：**：走势图上任意两根价格K线之间的一段空隙。跳空开盘是常见现象：如果今天第一根K线的开盘价越过了前一根K线（昨天最后一根K线）的最高点或最低点，或者越过了整个前一天的最高点或最低点，就存在跳空开盘。当某根K线的最低点位于一条走平或下行的移动平均线上方，或者某根K线的最高点位于一条走平或上行的移动平均线下方时，就存在均线缺口。日线图上传统的缺口（突破缺口、测量缺口和衰竭缺口）在盘中都有对应的形式，就是各种各样的趋势K线。
+- **
+- **gap bar（缺口K线）**：**：见均线缺口K线。
+- **
+- **gap reversal（缺口反转）**：**：当前K线越过前一根K线一个最小报价单位、重新回到缺口之中的一种形态。举例来说，如果出现了一个跳空高开开盘，而当天第二根K线又交易到第一根K线最低点下方一个最小报价单位处，这就是一次缺口反转。HFT（高频交易）见高频交易（HFT）。
+- **
+- **higher high（更高的高点）**：**：比先前某个摆动高点更高的一个摆动高点。
+- **
+- **higher low（更高的低点）**：**：比先前某个摆动低点更高的一个摆动低点。
+- **
+- **higher time frame（HTF，更高时间级别）**：**：覆盖的时间长度与当前走势图相同、但K线根数更少的走势图。举例来说，与普通交易日里的日盘 Emini 小型合约5分钟图相比，更高时间级别的走势图包括15分钟图、每根K线25,000笔成交的 tick 图，以及每根K线100,000手合约的成交量图（在普通交易日里，这些图通常都只有不到30根K线，而5分钟图有81根K线）。
+- **
+- **high-frequency trading（HFT，高频交易）**：**：也被称为算法交易或黑箱交易，它是一种程序化交易：各家公司每天在数千只股票上下达数百万张委托，去刮头皮赚取小到一美分的利润，而交易依据的是统计分析，而不是基本面。high/low 1 or 2（高1或高2，或低1或低2）要么是一个高1或高2，要么是一个低1或低2。high 1, 2, 3, or 4（高1、高2、高3、高4）高1是牛旗中、或者交易区间底部附近一根最高点高于前一根K线的K线。如果随后出现一根高点更低的K线（它可能出现在一根或几根K线之后），那么这次修正中最高点高于前一根K线最高点的下一根K线就是高2。第三、第四次出现就是高3和高4。高3是楔形牛旗的一种变体。HTF（更高时间级别）见更高时间级别（HTF）。
+- **
+- **ii（ii形态，内包内包）**：**：连续的内包K线，其中第二根位于第一根之内。在行情段的末端，它是一个突破模式建仓形态，可以变成一面旗形或一个反转建仓形态。可靠性较低的一个版本是“只有实体的ii”，也就是忽略影线。在这里，第二个实体位于第一个实体之内，而第一个实体又位于它之前那个实体之内。
+- **
+- **iii（iii形态）**：**：连续三根内包K线，是一种比 ii 形态稍可靠一些的形态。
+- **
+- **inside bar（内包K线）**：**：最高点等于或低于前一根K线最高点、同时最低点等于或高于前一根K线最低点的K线。
+- **
+- **institution（机构）**：**：也叫聪明资金，它可以是养老基金、对冲基金、保险公司、银行、经纪商、大型个人交易者，或者任何其它成交量大到足以影响市场的实体。市场运动是众多机构下单交易的累积效果，而单独一家机构通常无法长时间推动一个主要市场。传统机构依据基本面下单，它们过去曾是市场方向的唯一决定者。然而，高频交易公司如今对当天走势有着显著影响，因为它们的交易目前贡献了当天成交量的大部分。高频交易公司是一种特殊的机构，它们的交易依据的是统计，而不是基本面。传统机构决定方向与目标位，但数学家决定市场走向那里所走的路径。
+- **
+- **ioi（ioi形态，内外内）**：**：内包—外包—内包，即连续三根K线，其中第二根是外包K线，第三根是内包K线。它常常是一个突破模式建仓形态，交易者在其中寻找在内包K线上方买入、或在它下方卖出的机会。
+- **
+- **ledge（平台）**：**：多头平台是一个小型交易区间，它的底部由两根或更多最低点相同的K线构成；空头平台是一个小型交易区间，它的顶部由两根或更多最高点相同的K线构成。
+- **
+- **leg（行情段）**：**：一条能突破任意大小趋势线的小型趋势；只有图上至少出现两条行情段时才用这个词。它是更大趋势当中的任何一段较小趋势，它可以是一次回调（一段逆势走势）、趋势中或横盘市中的一段波段，也可以是趋势中任意两次回调之间的一段顺势走势。
+- **
+- **likely（很可能）**：**：至少60% 确定。
+- **
+- **long（做多）**：**：在市场买入头寸的人，或者那个头寸本身。
+- **
+- **lot（交易单位）**：**：在一个市场里能被交易的最小仓位规模。说到股票时它是一股，说到 Emini 小型合约或其它期货时它是一手合约。
+- **
+- **lower high（更低的高点）**：**：比先前某个摆动高点更低的一个摆动高点。
+- **
+- **lower low（更低的低点）**：**：比先前某个摆动低点更低的一个摆动低点。low 1, 2, 3, or 4（低1、低2、低3、低4）低1是熊旗中、或者交易区间顶部附近一根最低点低于前一根K线的K线。如果随后出现一根低点更高的K线（它可能出现在一根或几根K线之后），那么这次修正中最低点低于前一根K线最低点的下一根K线就是低2。第三、第四次出现就是低3和低4。低3是楔形熊旗的一种变体。
+- **
+- **major trend line（主要趋势线）**：**：屏幕上包含大部分价格行为的任何一条趋势线，通常是拿至少相隔10根K线的K线画出来的。
+- **
+- **major trend reversal（主要趋势反转）**：**：从多头趋势反转为空头趋势、或从空头趋势反转为多头趋势的一次反转。这个建仓形态必须包括在趋势线被突破之后对旧趋势极值的一次测试。
+- **
+- **meltdown（崩跌）**：**：空头急速行情或窄幅空头通道中出现的一次抛售，其间没有显著的回调，而且延伸得比基本面所要求的更远。
+- **
+- **melt-up（暴涨）**：**：多头急速行情或窄幅多头通道中出现的一轮上涨，其间没有显著的回调，而且延伸得比基本面所要求的更远。
+- **
+- **micro（微型）**：**：任何传统形态都可以在一到大约五根K线内形成、并且仍然有效，尽管很容易被忽略。它形成时，就是这个形态的微型版本。每一个微型形态在更小时间级别的走势图上都是一个传统形态，而每一个传统形态在更高时间级别的走势图上都是一个微型形态。
+- **
+- **micro channel（微型通道）**：**：一种非常窄幅的通道，其中大多数K线的最高点和最低点都触及趋势线，而且往往也触及趋势通道线。它是窄幅通道最极端的形式，它没有回调，或者只有一两次小回调。
+- **
+- **micro double bottom（微型双底）**：**：最低点接近同一价位的连续、或几乎连续的K线。
+- **
+- **micro double top（微型双顶）**：**：最高点接近同一价位的连续、或几乎连续的K线。
+- **
+- **micro measuring gap（微型测量缺口）**：**：一根强劲趋势K线之前那根K线与之后那根K线互不重叠时，这就是一个强势信号，而且往往引出一段等距运动。举例来说，如果出现一根强劲的多头趋势K线，而它之后那根K线的最低点等于或高于它之前那根K线的最高点，那么那个最低点与那个最高点之间的中点就是微型测量缺口。
+- **
+- **micro trend channel line（微型趋势通道线）**：**：画在三到五根连续K线的最高点或最低点上的一条趋势通道线。
+- **
+- **micro trend line breakout（微型趋势线突破）**：**：任何时间级别上的一条趋势线，它画在两根到大约10根K线上，其中大多数K线触及或贴近这条趋势线，然后其中有一根K线对趋势线构成一次假突破。这次假突破构成了一个顺势入场的机会。如果它在一两根K线之内失败，那么通常会出现一笔逆势交易。
+- **
+- **money stop（金额止损）**：**：按固定金额或固定点数设定的止损，比如 Emini 小型合约上的两个点，或者股票上的一美元。
+- **
+- **moving average（均线）**：**：本书中的走势图使用20根K线的指数移动平均线，但任何一条移动平均线都可能有用。
+- **
+- **moving average gap bar（gap bar，均线缺口K线）**：**：没有触到均线的K线。K线与均线之间的空隙就是缺口。强趋势中第一次出现均线缺口K线的回调，后面通常跟着一次对趋势极值的测试。举例来说，当市场处在强多头趋势中，一段回调最终出现了一根最高点低于均线的K线时，这往往就是一个买入建仓形态，目标是测试该趋势的最高点。
+- **
+- **nesting（嵌套）**：**：有时候，一个形态内部会“嵌套”着一个同类形态的较小版本。举例来说，头肩顶的右肩常常要么是一个小型的头肩顶，要么是一个双顶。
+- **
+- **news（消息面）**：**：媒体制造出来的无用信息，唯一目的是卖广告、为媒体公司赚钱。它与交易无关，也无从评估，永远都应该被忽略。
+- **
+- **oio（外内外）**：**：Outside-inside-outside，一根外包K线，接着一根内包K线，再接着一根外包K线。
+- **
+- **oo（外外）**：**：Outside-outside，一根外包K线，接着一根更大的外包K线。
+- **
+- **opening reversal（开盘反转）**：**：当天头一个小时左右出现的一次反转。
+- **
+- **outside bar（外包K线）**：**：最高点高于或等于前一根K线最高点、同时最低点低于前一根K线最低点的K线；或者最低点低于或等于前一根K线最低点、同时最高点高于前一根K线最高点的K线。
+- **
+- **outside down bar（外包下跌K线）**：**：收盘价低于开盘价的外包K线。
+- **
+- **outside up bar（外包上涨K线）**：**：收盘价高于开盘价的外包K线。
+- **
+- **overshoot（过靶）**：**：市场越过了此前某个重要价位，比如一个摆动点或一条趋势线。
+- **
+- **pause bar（停顿K线）**：**：没有延续趋势的K线。在多头趋势中，停顿K线的最高点等于或低于前一根K线的最高点；或者，当前一根K线是一根强多头趋势K线时，停顿K线是一根小K线，其最高点只比前一根K线高一个最小报价单位左右。它是回调的一种。
+- **
+- **pip（点）**：**：外汇（forex）市场里的一个最小报价单位。不过，有些数据商提供的报价会多出一位小数，这一位应当忽略。
+- **
+- **pressing their longs（多头加仓做多）**：**：在多头趋势中，多头在多头急速行情里、以及市场向上突破创新高时加仓做多，因为他们预期还会有一段上涨行情，涨幅约为一个等距运动。
+- **
+- **pressing their shorts（空头加仓做空）**：**：在空头趋势中，空头在空头急速行情里、以及市场向下突破创新低时加仓做空，因为他们预期还会有一段下跌行情，跌幅约为一个等距运动。
+- **
+- **price action（价格行为）**：**：任何走势图类型、任何时间级别上的任何价格变化。
+- **
+- **probability（概率）**：**：成功的机会。举例来说，如果交易者回看某个建仓形态最近100次触发的交易，发现其中有60次是盈利的，那就说明该建仓形态的成功概率约为60%。有很多变量永远不可能被完整检验，所以概率只是近似值，而且有时可能非常具有误导性。
+- **
+- **probably（很可能）**：**：至少60%确定。
+- **
+- **pullback（回调）**：**：趋势、波段或行情段当中一段暂时的停顿或逆势移动，而且没有回撤到趋势、波段或行情段的起点之外。它是一个小型交易区间，交易者预期趋势很快就会恢复。举例来说，空头回调是空头趋势、空头波段或空头行情段中一段横盘到上涨的走势，之后至少会跟着一次对前一个低点的测试。它可以小到只比前一根K线的最高点高一个最小报价单位，甚至可以只是一次停顿，比如一根内包K线。
+- **
+- **pullback bar（回调K线）**：**：与前一根K线反向相差至少一个最小报价单位的K线。在多头趋势中，它是一根最低点低于前一根K线最低点的K线。
+- **
+- **reasonable（划算的）**：**：交易者等式有利的建仓形态。
+- **
+- **reversal（反转）**：**：转变为相反类型的行为。大多数技术分析师用这个词表示从多头趋势变为空头趋势、或从空头趋势变为多头趋势。不过，交易区间的行为与趋势的行为正好相反，所以当趋势变成交易区间时，这也是一种反转。当交易区间变成趋势时，它也是一种反转，但通常被称为突破。
+- **
+- **reversal bar（反转K线）**：**：方向与趋势相反的趋势K线。当空头行情段向上反转时，一根多头反转K线就是一根多头趋势K线，经典描述是：底部有影线，收盘价高于开盘价、且接近最高点。空头反转K线是出现在多头行情段里的一根空头趋势K线，传统描述是：顶部有影线，收盘价低于开盘价、且接近最低点。
+- **
+- **reward（回报）**：**：交易者预期从一笔交易中赚取的最小报价单位数量。举例来说，如果交易者用限价单在止盈目标处离场，那么回报就是从入场价格到止盈目标之间的最小报价单位数量。
+- **
+- **risk（风险）**：**：从交易者的入场价格到保护性止损之间的最小报价单位数量。如果一笔交易对他不利，这是他最少会亏掉的数量（滑点和其他因素可能让实际风险大于理论风险）。
+- **
+- **risk off（避险）**：**：当交易者认为股市会下跌时，他们会变得厌恶风险，卖出波动性大的股票和货币，转向避险型投资，比如强生公司（JNJ）、奥驰亚集团（MO）、宝洁公司（PG）、美元以及瑞士法郎。
+- **
+- **risk on（追逐风险）**：**：当交易者认为股市走强时，他们愿意承担更多风险，投资于那些往往比大盘涨得更快的股票，也投资于波动性更高的货币，比如澳元或瑞典克朗。
+- **
+- **risky（有风险的）**：**：一笔交易的交易者等式不明确、或只是勉强有利时，就是有风险的。它也可以表示：无论风险与潜在回报如何，一笔交易的成功概率只有50%或更低。
+- **
+- **scalp（刮头皮）**：**：以小额利润离场的交易，通常在出现任何回调之前就已经离场。在 Emini 小型合约上，当平均区间约为10到15个点时，刮头皮交易通常指任何目标小于四个点的交易。SPY 或股票可能是10到30美分，更贵的股票则可以是$1到 $2。由于利润往往小于风险，交易者必须至少赢70%的时间，而这在大多数交易者看来是一个不现实的目标。交易者只应做那种潜在回报至少与风险一样大的交易，除非他们极其娴熟。
+- **
+- **scalper（刮头皮交易者）**：**：主要以刮头皮方式赚取小额利润的交易者，通常使用很紧的止损。
+- **
+- **scalper's profit（刮头皮利润）**：**：刮头皮交易者通常会瞄准的典型利润幅度。
+- **
+- **scratch（打平）**：**：接近盈亏平衡的交易，要么小赚一点，要么小亏一点。
+- **
+- **second entry（二次入场）**：**：在第一次入场之后几根K线之内，第二次出现按与第一次入场相同逻辑成立的入场K线。举例来说，如果向上突破一个楔形牛旗失败、并回调到一个双底牛旗，那么这个回调就为该楔形牛旗构成了第二个买入信号。second
+- **
+- **moving average gap bar setup（第二次均线缺口K线形态）**：**：如果先出现了一根均线缺口K线，而向均线方向的一次反转没有到达均线，市场反而继续朝远离均线的方向走，那么这就是顺均线方向的下一次反转。
+- **
+- **second signal（第二个信号）**：**：在第一个信号之后几根K线之内，第二次出现按与第一个信号相同逻辑成立的建仓形态。
+- **
+- **selling pressure（卖压）**：**：强势空头正在确立自己的优势，他们的卖出正在制造空头趋势K线、顶部带影线的K线以及两K线空头反转。这种效应是累积性的，通常最终会带来更低的价格。
+- **
+- **setup（建仓形态）**：**：交易者用来作为下入场单依据的一根或多根K线构成的形态。如果入场单成交，该建仓形态的最后一根K线就成为信号K线。大多数建仓形态都只是单根K线。
+- **
+- **shaved body（无影线实体）**：**：在一端或两端都没有影线的蜡烛线。顶部没有影线的叫光头，底部没有影线的叫光脚。
+- **
+- **short（做空）**：**：作动词时，指卖出股票或期货合约来建立新头寸（不是平掉先前买入的头寸）。作名词时，指做空的人，或者指那个头寸本身。
+- **
+- **shrinking stairs（收缩楼梯）**：**：最近一次突破比前一次更小的楼梯形态。它是在多头趋势中三个或更多依次抬高的高点、或在空头趋势中三个或更多依次降低的低点，其中每一次创出新极值的突破都比前一次突破小若干最小报价单位，说明动能正在衰减。它可以是三次推进形态，但不必看起来像楔形，也可以是趋势中任何一系列宽幅波段。
+- **
+- **signal bar（信号K线）**：**：紧挨在某一根K线之前的那根K线，而那根K线就是入场单成交的K线（入场K线）。它是建仓形态的最后一根K线。smaller time frame (STF，较小的时间级别)与当前走势图覆盖同样长的时间、但K线根数更多的走势图。举例来说，与普通交易日里的日盘 Emini 小型合约5分钟图相比，较小时间级别的走势图例子包括1分钟图、每根K线含500个tick的tick图，以及每根K线1,000手合约的成交量图（在普通交易日里，这些图通常都有200根以上的K线，而5分钟图有81根K线）。
+- **
+- **smart traders（聪明的交易者）**：**：持续稳定盈利的交易者，他们通常交易很大的头寸，而且大体上站在市场正确的一边。
+- **
+- **spike and channel（急速与通道）**：**：突破进入趋势之后，后续行情以通道的形式出现，通道里的动能更小，且存在双向交易。
+- **
+- **stair（楼梯）**：**：在趋势型交易区间趋势或宽幅通道趋势中，向一个新极值推进的一段走势，这当中有一系列三个或更多同向的波段，看起来像一个倾斜的交易区间，大致被包在一条通道里。突破之后会出现一次突破回调，它至少会略微回撤进入先前的交易区间，而其他趋势型交易区间并没有这个必要条件。双向交易正在进行，但有一方略微更占上风，这也解释了倾斜的由来。STF（较小的时间级别）见较小的时间级别（STF）。
+- **
+- **strong bulls and bears（强势多头与强势空头）**：**：机构交易者，他们累积起来的买入与卖出决定了市场的方向。
+- **
+- **success（成功）**：**：指交易者达成了自己的目标：他们的止盈目标在被保护性止损打掉之前先到了。
+- **
+- **swing（波段）**：**：突破任意大小趋势线的较小趋势；只有当图上至少出现两个时才用这个词。它们可以出现在一个更大的趋势当中，也可以出现在横盘市场里。
+- **
+- **swing high（摆动高点）**：**：在走势图上看起来像一次向上急速行情的K线，向上伸出到相邻K线的上方。它的最高点等于或高于前一根K线的最高点，也等于或高于后一根K线的最高点。
+- **
+- **swing high/low（摆动高点/低点）**：**：要么是一个摆动高点，要么是一个摆动低点。
+- **
+- **swing low（摆动低点）**：**：在走势图上看起来像一次向下急速行情的K线，向下伸出到相邻K线的下方。它的最低点等于或低于前一根K线的最低点，也等于或低于后一根K线的最低点。
+- **
+- **swing point（摆动点）**：**：要么是一个摆动高点，要么是一个摆动低点。
+- **
+- **swing trade（波段交易）**：**：使用5分钟这类短期日内图的日内交易者，会把任何比刮头皮持续更久、并且会一直持有并穿越一次或多次回调的交易称为波段交易。使用更高级别走势图的交易者，他们的波段交易会持续几个小时到数天。通常，这笔交易至少有一部分是不带止盈目标持有的，因为交易者期待一段延伸的走势。潜在回报通常至少与风险一样大。很多交易者把小型的波段交易称为刮头皮。在 Emini 小型合约上，当平均区间约为10到15个点时，波段交易通常指任何目标为四个点或更多的交易。
+- **
+- **test（测试）**：**：市场靠近此前某个重要价位，并且可能过靶、也可能未及靶位。不同的交易者用“测试失败”这个词表达的却是相反的意思。大多数交易者认为，如果市场随后反转，这次测试就是成功的；如果市场没有反转、而是继续越过测试区域，那么测试就失败了，而且已经发生了一次突破。
+- **
+- **three pushes（三次推进）**：**：三个摆动高点，其中每个摆动高点通常更高；或者三个摆动低点其中每个摆动低点通常更低。它的交易方式与楔形相同，应当被视为楔形的一种变体。当它作为旗形的一部分时，走势可以基本水平，每一次推进也不必越过前一次。举例来说，在楔形牛旗或任何其他类型的三角形中，第二次向下推进可以等于、高于或低于第一次，第三次向下推进可以等于、高于或低于第二次、第一次，或者同时等于、高于或低于这两次。
+- **
+- **tick（最小报价单位）**：**：价格变动的最小单位。在大多数股票上，一个最小报价单位是一美分；在十年期美国国债期货上是1/64个点；在 Emini 小型合约上则是0.25个点。在 tick 图与成交明细表上，tick 指的是发生的每一笔成交，无论成交多大，甚至价格没有变化也一样。如果你看一张成交明细表，当 TradeStation 图表软件生成 tick 图时，每一笔成交都被计为一个 tick。
+- **
+- **tight channel（窄幅通道）**：**：趋势线与趋势通道线靠得很近的通道，其中的回调很小，而且只持续一到三根K线。
+- **
+- **tight trading range（窄幅交易区间）**：**：由两根或更多K线构成的交易区间，K线之间大量重叠，而且其中的大多数反转都太小，用止损单入场也赚不到钱。多头与空头处在平衡状态。
+- **
+- **time frame（时间级别）**：**：走势图上单根K线所包含的时间长度（一个5分钟时间级别由每五分钟收一次的K线构成）。它也可以指不按时间划分的K线，比如按成交量、或按成交 tick 笔数划分的K线。
+- **
+- **tradable（可交易）**：**：你认为有合理机会至少赚到一个刮头皮利润的建仓形态。
+- **
+- **trader's equation（交易者等式）**：**：要做一笔交易，你必须相信成功概率乘以潜在回报大于失败概率乘以风险。回报与风险由你自己设定，因为潜在回报是到你的止盈目标的距离，风险是到你的止损的距离。解这个等式的难处在于给概率赋值，而概率永远不可能确切地知道。作为一条准则：如果你不确定，就假定自己有50%的机会赢或输；如果你有信心，就假定自己有60%的机会赢、40%的机会输。
+- **
+- **trading range（交易区间）**：**：最低的要求是：单根K线的区间在很大程度上被前一根K线重叠。它是横盘走势，多头与空头都没有掌控市场，虽然往往有一方更强。它常常是趋势中的一段回调，而这段回调持续得足够久，已经失去了大部分的确定性。换句话说，交易者对短期内突破的方向已经变得不确定，市场会反复尝试向上和向下突破，而这些尝试都会失败。它通常最终会顺着趋势的方向突破，因此它是在更高级别走势图上的一段回调。
+- **
+- **trailing a stop（移动止损）**：**：随着交易变得越来越有利可图，交易者往往会挪动——也就是移动——保护性止损，以保住更多浮动盈利。举例来说，如果他们在多头趋势中做多，那么每次市场创出新高，他们也许就会把保护性止损上移到最近一个更高的低点下方。
+- **
+- **trap（陷阱）**：**：一种入场，它在刮头皮利润目标达到之前就立刻反转到相反方向，把交易者套在他们的新头寸里，最终逼他们亏本平仓。它也可能把交易者从一笔好交易中吓出去。
+- **
+- **trapped in a trade（被套在交易里）**：**：交易者在一笔交易上持有浮动亏损，这笔交易没有带来刮头皮利润；如果出现一次越过入场K线或信号K线的回调，交易者很可能会亏本离场。
+- **
+- **trapped out of a trade（被关在场外）**：**：一段回调把交易者吓得离场，但随后这段回调失败了。走势很快恢复，继续顺着该交易的方向走，这让交易者在情绪上很难再在如今能拿到的更差价格上重新进场。他将不得不追着市场跑。
+- **
+- **trend（趋势）**：**：一系列价格变化，它们要么大部分向上（多头趋势），要么大部分向下（空头趋势）。它有三个定义宽松的较小版本：波段、行情段和回调。一张走势图只会呈现一到两个主要趋势。如果更多，那么用其他术语之一就更恰当。
+- **
+- **trend bar（趋势K线）**：**：带实体的K线，也就是说收盘价高于或低于开盘价，说明至少存在一次较小的价格变动。
+- **
+- **trend channel line（趋势通道线）**：**：方向与趋势相同、但画在K线另一侧（与趋势线相对）的直线。多头趋势通道线位于最高点上方、并向右上方倾斜；空头趋势通道线位于最低点下方、并向右下方倾斜。
+- **
+- **trend channel line overshoot（趋势通道线过靶）**：**：一根或多根K线穿过趋势通道线。
+- **
+- **trend channel line undershoot（趋势通道线未及靶位）**：**：K线靠近趋势通道线，但市场在到达或穿过该线之前就反转离开。
+- **
+- **trend from the open（开盘即趋势）**：**：一种当天从第一根K线或最初的几根K线之一就开始的趋势，它延续很多根K线而不出现回调；而且这一天的绝大部分时间里——即便不是全天——趋势的起点都始终保持为当天的极值之一。
+- **
+- **trending closes（收盘价依次走高/走低）**：**：三根或更多收盘价依次呈趋势的K线。在多头趋势中，每个收盘价都高于前一个收盘价；在空头趋势中，每个收盘价都更低。如果这个形态延续很多根K线，中间可以有一两根K线的收盘价不是依次递进的。
+- **
+- **trending highs or lows（最高点或最低点依次走高/走低）**：**：与收盘价依次走高/走低相同，只是基于K线的最高点或最低点。
+- **
+- **trending swings（趋势型波段）**：**：三个或更多波段，其中摆动高点与摆动低点都高于前一个波段的摆动高点与摆动低点（趋势型多头波段），或者都更低（趋势型空头波段）。
+- **
+- **trending trading ranges（趋势型交易区间）**：**：两个或更多由一次突破分隔开的交易区间。
+- **
+- **trend line（趋势线）**：**：顺趋势方向画出的直线；在多头趋势中它向上倾斜、位于K线下方，在空头趋势中它向下倾斜、位于K线上方。最常见的情况是，它由摆动高点或摆动低点构成，但也可以基于线性回归，或只是一条最佳拟合线（目测）。
+- **
+- **trend reversal（趋势反转）**：**：从上涨变为下跌、或从下跌变为上涨的趋势变化，又或者是从趋势变为交易区间。20
+- **
+- **moving average gap bars（20根均线缺口K线）**：**：连续20根或更多没有触到均线的K线。当市场终于触到均线时，通常会构成一个用于测试趋势极值的形态。
+- **
+- **undershoot（未及靶位）**：**：市场靠近此前某个重要价位——比如一个摆动点或一条趋势线——但没有到达。
+- **
+- **unlikely（不太可能）**：**：最多40%确定。
+- **
+- **unreasonable（不划算的）**：**：交易者等式不利的建仓形态。
+- **
+- **usually（通常）**：**：至少60%确定。
+- **
+- **vacuum（价格真空）**：**：当强势空头认为价格很快会更高，因而一直等到价格到达市场上方某个磁力位才做空时，就会出现买入真空。结果是出现了一个真空，把市场以一根或多根多头趋势K线的形式迅速吸到那个磁力位。一到那里，强势空头就会大举卖出，把市场转向下行。当强势多头认为市场很快会更低，因而一直等到价格跌到市场下方某个磁力位才买入时，就会出现卖出真空。结果是出现了一个真空，把市场以一根或多根空头趋势K线的形式迅速吸到那个磁力位。一到那里，强势多头就会大举买入，把市场转回上行。
+- **
+- **wedge（楔形）**：**：传统上，指一种三次推进的走势：每一次推进都延伸得更远，趋势线与趋势通道线至少有最低程度的收敛，形成一个楔形的上升或下降三角形。对交易者而言，楔形的形状提高了交易成功的几率，但任何三次推进形态的交易方式都与楔形相同，都可以被当作楔形。楔形可以是反转形态，也可以是趋势中的一段回调（牛旗或熊旗）。
+- **
+- **wedge flag（楔形旗）**：**：趋势中以楔形或三次推进形式出现的回调，比如多头趋势中的高3（牛旗的一种），或者空头趋势中的低3（熊旗的一种）。由于它是顺势形态，所以在第一个信号就入场。
+- **
+- **wedge reversal（楔形反转）**：**：把多头趋势反转为空头趋势、或把空头趋势反转为多头趋势的楔形。由于它是逆势的，除非它非常强，否则最好是等第二个信号再入场。举例来说，如果先出现一段空头趋势，然后出现一个下降楔形，那就等价格向上突破这个潜在的楔形底，然后再尝试买入一次回到更高低点的回调。
+- **
+- **with trend（顺势）**：**：指一笔交易或一个建仓形态与当前主导趋势的方向一致。一般而言，最近一次5分钟图信号的方向，应当被假定为趋势的方向。另外，如果过去10根或20根K线中的大多数都位于均线上方，那么趋势的建仓形态与交易就很可能是买入方向的。
+
+
+> List of Terms Used in This Book All of these terms are defined in a practical way to be helpful to traders and not necessarily in the theoretic-al way often described by technicians. always in If you have to be in the market at all times, either long or short, this is whatever your current position is (always in long or always in short). If at any time you are forced to decide between initiating a long or a short trade and are confident in your choice, then the market is in always-in mode at that moment. Almost all of these trades require a spike in the direction of the trend before traders will have confidence. barbwire A trading range of three or more bars that largely overlap and one or more is a doji. It is a type of tight trading range with prominent tails and often relatively large bars. bar pullback In an upswing, a bar pullback is a bar with a low below the low of the prior bar. In a downswing, it is a bar with a high above that of the prior bar. bear reversal A change in trend from up to down (a bear trend). blown account An account that your losses have reduced below the minimum margin requirements set by your broker, and you will not be allowed to place a trade unless you deposit more money. breakout The high or low of the current bar extends beyond some prior price of significance such as a swing high or low, the high or low of any prior bar, a trend line, or a trend channel. breakout bar (or bar breakout) A bar that creates a breakout. It is usually a strong trend bar. breakout mode A setup where a breakout in either direction should have follow-through. breakout pullback A small pullback of one to about five bars that occurs within a few bars after a breakout. Since you see it as a pullback, you are expecting the breakout to resume and the pullback is a setup for that resumption. If instead you thought that the breakout would fail, you would not use the term pullback and instead would see the pullback as a failed break-out. For example, if there was a five-bar break-out above a bear trend line but you believed that the bear trend would continue, you would be considering shorting this bear flag and not look-ing to buy a pullback immediately after it broke out to the downside. breakout test A breakout pullback that comes close to the original entry price to test a break-even stop. It may overshoot it or undershoot it by a few ticks. It can occur within a bar or two of entry or after an extended move or even 20 or more bars later. bull reversal A change in trend from a down-trend to an uptrend (a bull trend). buying pressure Strong bulls are asserting themselves and their buying is creating bull trend bars, bars with tails at the bottoms, and two-bar bull reversals. The effect is cumulative and usually is eventually followed by higher prices. candle A chart representation of price action in which the body is the area between the open and the close. If the close is above the open, it is a bull candle and is shown as white. If it is be-low, it is a bear candle and is black. The lines above and below are called tails (some technicians call them wicks or shadows). chart type A line, bar, candle, volume, tick, or other type of chart. climax A move that has gone too far too fast and has now reversed direction to either a trad-ing range or an opposite trend. Most climaxes end with trend channel overshoots and reversals, but most of those reversals result in trading ranges and not an opposite trend. countertrend A trade or setup that is in the opposite direction from the current trend (the current always-in direction). This is a losing strategy for most traders since the risk is usu-ally at least as large as the reward and the prob-ability is rarely high enough to make the trader's equation favorable. countertrend scalp A trade taken in the be-lief that there is more to go in the trend but that a small pullback is due; you enter countertrend to capture a small profit as that small pullback is forming. This is usually a mistake and should be avoided. day trade A trade where the intent is to exit on the day of entry. directional probability The probability that the market will move either up or down any number of ticks before it reaches a certain num-ber of ticks in the opposite direction. If you are looking at an equidistant move up and down, it hovers around 50 percent most of the time, which means that there is a 50–50 chance that the market will move up by X ticks before it moves down X ticks, and a 50–50 chance that it will move down X ticks before it moves up X ticks. doji A candle with a small body or no body at all. On a 5 minute chart, the body would be only one or two ticks; but on a daily chart, the body might be 10 or more ticks and still appear al-most nonexistent. Neither the bulls nor the bears control the bar. All bars are either trend bars or nontrend bars, and those nontrend bars are called dojis. double bottom A chart formation in which the low of the current bar is about the same as the low of a prior swing low. That prior low can be just one bar earlier or 20 or more bars earli-er. It does not have to be at the low of the day, and it commonly forms in bull flags (a double bottom bull flag). double bottom bull flag A pause or bull flag in a bull trend that has two spikes down to around the same price and then reverses back into a bull trend. double bottom pullback A buy setup composed of a double bottom followed by a deep pullback that forms a higher low. double top A chart formation in which the high of the current bar is about the same as the high of a prior swing high. That prior high can be just one bar earlier or 20 or more bars earli-er. It does not have to be at the high of the day, and it commonly forms in bear flags (a double top bear flag). double top bear flag A pause or bear flag in a bear trend that has two spikes up to around the same price and then reverses back into a bear trend. double top pullback A sell setup composed of a double top followed by a deep pullback that forms a lower high. early longs Traders who buy as a bull signal bar is forming rather than waiting for it to close and then entering on a buy stop at one tick above its high. early shorts Traders who sell as a bear signal bar is forming rather than waiting for it to close and then entering on a sell stop at one tick be-low its low. edge A setup with a positive trader's equation. The trader has a mathematical advantage if he trades the setup. Edges are always small and fleeting because they need someone on the oth-er side, and the market is filled with smart traders who won't allow an edge to be big and persistent. EMA See exponential moving average (EMA). entry bar The bar during which a trade is entered. exponential moving average (EMA) The charts in these books use a 20-bar exponential moving average, but any moving average can be useful. fade To place a trade in the opposite direction of the trend (for example, selling a bull breakout that you expect to fail and reverse downward). failed failure A failure that fails, resuming in the direction of the original breakout, and therefore a breakout pullback. Since it is a second signal, it is more reliable. For example, if there is a breakout above a trading range and the bar after the breakout is a bear reversal bar, if the market trades below that bar, the break-out has failed. If the market then trades above the high of a prior bar within the next few bars, the failed breakout has failed and now the breakout is resuming. This means that the failed breakout became a small bull flag and just a pullback from the breakout. failure (a failed move) A move where the protective stop is hit before a scalper's profit is secured or before the trader's objective is reached, usually leading to a move in the oppos-ite direction as trapped traders are forced to exit at a loss. Currently, a scalper's target in the Emini of four ticks usually requires a six-tick move, and a target in the QQQQ of 10 ticks usu-ally requires a move of 12 cents. false Failed, failure. five-tick failure A trade in the Emini that reaches five ticks beyond the signal bar and then reverses. For example, a breakout of a bull flag runs five ticks, and once the bar closes, the next bar has a low that is lower. Most limit or-ders to take a one-point profit would fail to get filled since a move usually has to go one tick beyond the order before it is filled. It is often a setup for a trade in the opposite direction. flat Refers to a trader who is not currently holding any positions. follow-through After the initial move, like a breakout, it is one or more bars that extend the move. Traders like to see follow-through on the next bar and on the several bars after that, hop-ing for a trend where they stand to make more profit. follow-through bar A bar that creates follow-through after the entry bar; it is usually the next bar but sometimes forms a couple of bars later. fractal Every pattern is a fractal of a pattern on a higher time frame chart. This means that every pattern is a micro pattern on a higher time frame and every micro pattern is a stand-ard pattern on a smaller time frame. gap A space between any two price bars on the chart. An opening gap is a common occurrence and is present if the open of the first bar of today is beyond the high or low of the prior bar (the last bar of yesterday) or of the entire day. A moving average gap is present when the low of a bar is above a flat or falling moving average, or the high of a bar is below a flat or rising moving average. Traditional gaps (breakout, measuring, and exhaustion) on daily charts have intraday equivalents in the form of various trend bars. gap bar See moving average gap bar. gap reversal A formation in which the current bar extends one tick beyond the prior bar back into the gap. For example, if there is a gap up open and the second bar of the day trades one tick below the low of the first bar, this is a gap reversal. HFT See high-frequency trading (HFT). higher high A swing high that is higher than a previous swing high. higher low A swing low that is higher than a previous swing low. higher time frame (HTF) A chart covering the same amount of time as the current chart, but having fewer bars. For example, compared to the day session 5 minute Emini chart on an average day, examples of higher time frame charts include a 15 minute chart, a tick chart with 25,000 ticks per bar, and a volume chart with 100,000 contracts per bar (each of these charts usually has fewer than 30 bars on an average day, compared to the 81 bars on the 5 minute chart). high-frequency trading (HFT) Also known as algorithmic trading or black box trading, it is a type of program trading where firms place millions of orders a day in thousands of stocks to scalp profits as small as a penny, and the trading is based on statistical analysis rather than fundamentals. high/low 1 or 2 Either a high 1 or 2 or a low 1 or 2. high 1, 2, 3, or 4 A high 1 is a bar with a high above the prior bar in a bull flag or near the bot-tom of a trading range. If there is then a bar with a lower high (it can occur one or several bars later), the next bar in this correction whose high is above the prior bar's high is a high 2. Third and fourth occurrences are a high 3 and 4. A high 3 is a wedge bull flag variant. HTF See higher time frame (HTF). ii Consecutive inside bars, where the second is inside the first. At the end of a leg, it is a break-out mode setup and can become a flag or a re-versal setup. A less reliable version is a “bodies-only ii,” where you ignore the tails. Here, the second body is inside the first body, which is in-side the body before it. iii Three inside bars in a row, and a somewhat more reliable pattern than an ii. inside bar A bar with a high that is at or below the high of the prior bar and a low that is at or above the low of the prior bar. institution Also called the smart money, it can be a pension fund, hedge fund, insurance com-pany, bank, broker, large individual trader, or any other entity that trades enough volume to impact the market. Market movement is the cumulative effect of many institutions placing trades, and a single institution alone usually cannot move a major market for very long. Traditional institutions place trades based on fundamentals, and they used to be the sole determinant of the market's direction. However, HFT firms now have a significant influence on the day's movement since their trading currently generates most of the day's volume. HFT firms are a special type of institutional firm and their trading is based on statistics and not funda-mentals. Traditional institutions determine the direction and target, but mathematicians de-termine the path that the market takes to get there. ioi Inside-outside-inside—three consecutive bars where the second bar is an outside bar, and the third bar is an inside bar. It is often a break-out mode setup where a trader looks to buy above the inside bar or sell below it. ledge A bull ledge is a small trading range with a bottom created by two or more bars with identical lows; a bear ledge is a small trading range with a top created by two or more bars with identical highs. leg A small trend that breaks a trend line of any size; the term is used only where there are at least two legs on the chart. It is any smaller trend that is part of a larger trend and it can be a pullback (a countertrend move), a swing in a trend or in a sideways market, or a with-trend move in a trend that occurs between any two pullbacks within the trend. likely At least 60 percent certain. long A person who buys a position in a market or the actual position itself. lot The smallest position size that can be traded in a market. It is a share when referring to stocks and a contract when referring to Eminis or other futures. lower high A swing high that is lower than a previous swing high. lower low A swing low that is lower than a previous swing low. low 1, 2, 3, or 4 A low 1 is a bar with a low be-low the prior bar in a bear flag or near the top of a trading range. If there is then a bar with a higher low (it can occur one or several bars later), the next bar in this correction whose low is below the prior bar's low is a low 2. Third and fourth occurrences are a low 3 and 4. A low 3 is a wedge bear flag variant. major trend line Any trend line that contains most of the price action on the screen and is typically drawn using bars that are at least 10 bars apart. major trend reversal A reversal from a bull to a bear trend or from a bear trend to a bull trend. The setup must include a test of the old trend extreme after a break of the trend line. meltdown A sell-off in a bear spike or a tight bear channel without significant pullbacks and that extends further than the fundamentals would dictate. melt-up A rally in a bull spike or a tight bull channel without significant pullbacks and that extends further than the fundamentals would dictate. micro Any traditional pattern can form over one to about five bars and still be valid, al-though easily overlooked. When it forms, it is a micro version of the pattern. Every micro pat-tern is a traditional pattern on a smaller time frame chart, and every traditional pattern is a micro pattern on a higher time frame chart. micro channel A very tight channel where most of the bars have their highs and lows touching the trend line and, often, also the trend channel line. It is the most extreme form of a tight channel, and it has no pullbacks or only one or two small pullbacks. micro double bottom Consecutive or nearly consecutive bars with lows that are near the same price. micro double top Consecutive or nearly consecutive bars with highs that are near the same price. micro measuring gap When the bar before and the bar after a strong trend bar do not over-lap, this is a sign of strength and often leads to a measured move. For example, if there is a strong bull trend bar and the low of the bar after it is at or above the high of the bar before it, the midpoint between that low and that high is the micro measuring gap. micro trend channel line A trend channel line drawn across the highs or lows of three to five consecutive bars. micro trend line breakout A trend line on any time frame that is drawn across from two to about 10 bars where most of the bars touch or are close to the trend line, and then one of the bars has a false breakout through the trend line. This false breakout sets up a with-trend entry. If it fails within a bar or two, then there is usually a countertrend trade. money stop A stop based on a fixed dollar amount or number of points, like two points in the Eminis or a dollar in a stock. moving average The charts in this book use a 20-bar exponential moving average, but any moving average can be useful. moving average gap bar (gap bar) A bar that does not touch the moving average. The space between the bar and the moving average is the gap. The first pullback in a strong trend that results in a moving average gap bar is usu-ally followed by a test of the trend's extreme. For example, when there is a strong bull trend and there is a pullback that finally has a bar with a high below the moving average, this is of-ten a buy setup for a test of the high of the trend. nesting Sometimes a pattern has a smaller ver-sion of a comparable pattern “nested” within it. For example, it is common for the right shoulder of a head and shoulders top to be either a small head and shoulders top or a double top. news Useless information generated by the media for the sole purpose of selling advertising and making money for the media company. It is unrelated to trading, is impossible to evaluate, and should always be ignored. oio Outside-inside-outside, an outside bar fol-lowed by an inside bar, followed by an outside bar. oo Outside-outside, an outside bar followed by a larger outside bar. opening reversal A reversal in the first hour or so of the day. outside bar A bar with a high that is above or at the high of the prior bar and a low that is be-low the low of the prior bar, or a bar with a low that is below or at the low of the prior bar and a high that is above the high of the prior bar. outside down bar An outside bar with a close below its open. outside up bar An outside bar with a close above its open. overshoot The market surpasses a prior price of significance like a swing point or a trend line. pause bar A bar that does not extend the trend. In a bull trend, a pause bar has a high that is at or below the prior bar, or a small bar with a high that is only a tick or so higher than the previous bar when the previous bar is a strong bull trend bar. It is a type of pullback. pip A tick in the foreign exchange (forex) mar-ket. However, some data vendors provide quotes with an extra decimal place, which should be ignored. pressing their longs In a bull trend, bulls add to their longs as in a bull spike and as the market breaks out to a new high, because they expect another leg up to about a measured move. pressing their shorts In a bear trend, bears add to their shorts in a bear spike and as the market breaks out to a new low, because they expect another leg down to about a measured move. price action Any change in price on any chart type or time frame. probability The chance of success. For ex-ample, if a trader looks back at the most recent 100 times a certain setup led to a trade and finds that it led to a profitable trade 60 times, then that would indicate that the setup has about a 60 percent probability of success. There are many variables that can never be fully tested, so probabilities are only approximations and at times can be very misleading. probably At least 60 percent certain. pullback A temporary pause or countertrend move that is part of a trend, swing, or leg and does not retrace beyond the start of the trend, swing, or leg. It is a small trading range where traders expect the trend to resume soon. For ex-ample, a bear pullback is a sideways to upward move in a bear trend, swing, or leg that will be followed by at least a test of the prior low. It can be as small as a one-tick move above the high of the prior bar or it can even be a pause, like an inside bar. pullback bar A bar that reverses the prior bar by at least one tick. In an uptrend, it is a bar with a low below that of the prior bar. reasonable A setup with a favorable trader's equation. reversal A change to an opposite type of behavior. Most technicians use the term to mean a change from a bull trend to a bear trend or from a bear trend to a bull trend. However, trading range behavior is opposite to trending behavior, so when a trend becomes a trading range, this is also a reversal. When a trading range becomes a trend, it is a reversal but is usually called a breakout. reversal bar A trend bar in the opposite direc-tion of the trend. When a bear leg is reversing up, a bull reversal bar is a bull trend bar, and the classic description includes a tail at the bot-tom and a close above the open and near the top. A bear reversal bar is a bear trend bar in a bull leg, and the traditional description includes a tail at the top and a close below the open and near the bottom. reward The number of ticks that a trader expects to make from a trade. For example, if the trader exits with a limit order at a profit target, it is the number of ticks between the entry price and the profit target. risk The number of ticks from a trader's entry price to a protective stop. It is the minimum that the trader will lose if a trade goes against him (slippage and other factors can make the actual risk greater than the theoretical risk). risk off When traders think that the stock mar-ket will fall, they become risk averse, sell out of volatile stocks and currencies, and transition into safe-haven investments, like Johnson & Johnson (JNJ), Altria Group (MO), Procter & Gamble (PG), the U.S. dollar, and the Swiss franc. risk on When traders think that the stock mar-ket is strong, they are willing to take more risks and invest in stocks that tend to rise faster than the overall market, and invest in more volatile currencies, like the Australian dollar or the Swedish krona. risky When the trader's equation is unclear or barely favorable for a trade. It can also mean that the probability of success for a trade is 50 percent or less, regardless of the risk and poten-tial reward. scalp A trade that is exited with a small profit, usually before there are any pullbacks. In the Emini, when the average range is about 10 to 15 points, a scalp trade is usually any trade where the goal is less than four points. For the SPY or stocks, it might be 10 to 30 cents. For more ex-pensive stocks, it can be $1 to $2. Since the profit is often smaller than the risk, a trader has to win at least 70 percent of the time, which is an unrealistic goal for most traders. Traders should take trades only where the potential re-ward is at least as great as the risk unless they are extremely skilled. scalper A trader who primarily scalps for small profits, usually using a tight stop. scalper's profit A typical amount of profit that a scalper would be targeting. scratch A trade that is close to breakeven with either a small profit or a loss. second entry The second time within a few bars of the first entry where there is an entry bar based on the same logic as the first entry. For example, if a breakout above a wedge bull flag fails and pulls back to a double bottom bull flag, this pullback sets up a second buy signal for the wedge bull flag. second moving average gap bar setup If there is a first moving average gap bar and a re-versal toward the moving average does not reach the moving average, and instead the move away from the moving average continues, it is the next reversal in the direction of the moving average. second signal The second time within a few bars of the first signal where there is a setup based on the same logic as the first signal. selling pressure Strong bears are asserting themselves and their selling is creating bear trend bars, bars with tails at the tops, and two-bar bear reversals. The effect is cumulative and usually is eventually followed by lower prices. setup A pattern of one or more bars used by traders as the basis to place entry orders. If an entry order is filled, the last bar of the setup be-comes the signal bar. Most setups are just a single bar. shaved body A candle with no tail at one or both ends. A shaved top has no tail at the top and a shaved bottom has no tail at the bottom. short As a verb, to sell a stock or futures con-tract to initiate a new position (not to exit a pri-or purchase). As a noun, a person who sells something short, or the actual position itself. shrinking stairs A stairs pattern where the most recent breakout is smaller than the previ-ous one. It is a series of three or more trending highs in a bull trend or lows in a bear trend where each breakout to a new extreme is by fewer ticks than the prior breakout, indicating waning momentum. It can be a three-push pat-tern, but it does not have to resemble a wedge and can be any series of broad swings in a trend. signal bar The bar immediately before the bar in which an entry order is filled (the entry bar). It is the final bar of a setup. smaller time frame (STF) A chart covering the same amount of time as the current chart, but having more bars. For example, compared to the day session 5 minute Emini chart on an average day, examples of smaller time frame charts include a 1 minute chart, a tick chart with 500 ticks per bar, and a volume chart with 1,000 contracts per bar (each of these charts usually has more than 200 bars on an average day, compared to the 81 bars on the 5 minute chart). smart traders Consistently profitable traders who are usually trading large positions and are generally on the right side of the market. spike and channel A breakout into a trend in which the follow-through is in the form of a channel where the momentum is less and there is two-sided trading taking place. stair A push to a new extreme in a trending trading range trend or a broad channel trend where there is a series of three or more trending swings that resembles a sloping trading range and is roughly contained in a channel. After the breakout, there is a breakout pullback that retraces at least slightly into the prior trading range, which is not a requirement of other trending trading ranges. Two-way trading is taking place but one side is in slightly more con-trol, accounting for the slope. STF See smaller time frame (STF). strong bulls and bears Institutional traders and their cumulative buying and selling determ-ine the direction of the market. success Refers to traders achieving their objective. Their profit target was reached before their protective stop was hit. swing A smaller trend that breaks a trend line of any size; the term is used only when there are at least two on the chart. They can occur within a larger trend or in a sideways market. swing high A bar that looks like a spike up on the chart and extends up beyond the neighbor-ing bars. Its high is at or above that of the bar before it and that of the bar after it. swing high/low Either a swing high or a swing low. swing low A bar that looks like a spike down on the chart and extends down beyond the neighboring bars. Its low is at or below that of the bar before it and that of the bar after it. swing point Either a swing high or a swing low. swing trade For a day trader using a short-term intraday chart like the 5 minute, it is any trade that lasts longer than a scalp and that the trader will hold through one or more pullbacks. For a trader using higher time frame charts, it is a trade that lasts for hours to several days. Typ-ically, at least part of the trade is held without a profit target, since the trader is hoping for an extended move. The potential reward is usually at least as large as the risk. Small swing trades are called scalps by many traders. In the Emini, when the average range is about 10 to 15 points, a swing trade is usually any trade where the goal is four or more points. test When the market approaches a prior price of significance and can overshoot or undershoot the target. The term failed test is used to mean opposite things by different traders. Most traders believe that if the market then reverses, the test was successful, and if it does not and the move continues beyond the test area, the test failed and a breakout has occurred. three pushes Three swing highs where each swing high is usually higher or three swing lows where each swing low is usually lower. It trades the same as a wedge and should be considered a variant. When it is part of a flag, the move can be mostly horizontal and each push does not have to extend beyond the prior one. For ex-ample, in a wedge bull flag or any other type of triangle, the second push down can be at, above, or below the first, and the third push down can be at, above, or below either the second or the first, or both. tick The smallest unit of price movement. For most stocks, it is one penny; for 10-Year U.S. Treasury Note Futures, it is 1/64th of a point; and for Eminis, it is 0.25 points. On tick charts and on time and sales tables, a tick is every trade that takes place no matter the size and even if there is no price change. If you look at a time and sales table, every trade is counted as one tick when TradeStation charting software creates a tick chart. tight channel A channel where the trend line and trend channel line are close together, and the pullbacks are small and last for only one to three bars. tight trading range A trading range of two or more bars with lots of overlap in the bars and in which most reversals are too small to trade profitably with stop entries. The bulls and bears are in balance. time frame The length of time contained in one bar on the chart (a 5 minute time frame is made of bars that close every five minutes). It can also refer to bars not based on time, such as those based on volume or the number of ticks traded. tradable A setup that you believe has a reason-able chance of leading to at least a scalper's profit. trader's equation To take a trade, you must believe that the probability of success times the potential reward is greater than the probability of failure times the risk. You set the reward and risk because the potential reward is the distance to your profit target and the risk is the distance to your stop. The difficulty in solving the equa-tion is assigning a value to the probability, which can never be known with certainty. As a guideline, if you are uncertain, assume that you have a 50 percent chance of winning or losing, and if you are confident, assume that you have a 60 percent chance of winning and a 40 percent chance of losing. trading range The minimum requirement is a single bar with a range that is largely over-lapped by the bar before it. It is sideways move-ment and neither the bull nor the bears are in control, although one side is often stronger. It is often a pullback in a trend where the pullback has lasted long enough to lose most of its certainty. In other words, traders have become un-certain about the direction of the breakout in the short term, and the market will have re-peated breakout attempts up and down that will fail. It will usually ultimately break out in the direction of the trend, and is a pullback on a higher time frame chart. trailing a stop As the trade becomes increas-ingly profitable, traders will often move, or trail, the protective stop to protect more of their open profit. For example, if they are long in a bull trend, every time the market moves to a new high, they might raise the protective stop to just below the most recent higher low. trap An entry that immediately reverses to the opposite direction before a scalper's profit tar-get is reached, trapping traders in their new position and ultimately forcing them to cover at a loss. It can also scare traders out of a good trade. trapped in a trade A trader with an open loss on a trade that did not result in a scalper's profit, and if there is a pullback beyond the entry or signal bars, the trader will likely exit with a loss. trapped out of a trade A pullback that scares a trader into exiting a trade, but then the pull-back fails. The move quickly resumes in the dir-ection of the trade, making it difficult emotion-ally for the trader to get back in at the worse price that is now available. The trader will have to chase the market. trend A series of price changes that are either mostly up (a bull trend) or down (a bear trend). There are three loosely defined smaller ver-sions: swings, legs, and pullbacks. A chart will show only one or two major trends. If there are more, one of the other terms is more appropri-ate. trend bar A bar with a body, which means that the close was above or below the open, indicating that there is at least a minor price move-ment. trend channel line A line in the direction of the trend but drawn on the opposite side of the bars compared to a trend line. A bull trend channel line is above the highs and rising to the right, and a bear trend channel line is below the lows and falling to the right. trend channel line overshoot One or more bars penetrating a trend channel line. trend channel line undershoot A bar approaches a trend channel line but the market re-verses away from the line without reaching or penetrating it. trend from the open A trend that begins at the first or one of the first bars of the day and extends for many bars without a pullback, and the start of the trend remains as one of the extremes of the day for much if not all of the day. trending closes Three or more bars where the closes are trending. In a bull trend, each close is above the prior close, and in a bear trend, each close is lower. If the pattern extends for many bars, there can be one or two bars where the closes are not trending. trending highs or lows The same as trending closes except based on the highs or lows of the bars. trending swings Three or more swings where the swing highs and lows are both higher than the prior swing highs and lows (trending bull swings), or both lower (trending bear swings). trending trading ranges Two or more trad-ing ranges separated by a breakout. trend line A line drawn in the direction of the trend; it is sloped up and is below the bars in a bull trend, and it is sloped down and is above the bars in a bear trend. Most often, it is constructed from either swing highs or swing lows but can be based on linear regression or just a best fit (eyeballing). trend reversal A trend change from up to down or down to up, or from a trend to a trad-ing range. 20 moving average gap bars Twenty or more consecutive bars that have not touched the moving average. Once the market finally touches the moving average, it usually creates a setup for a test of the trend's extreme. undershoot The market approaches but does not reach a prior price of significance like a swing point or a trend line. unlikely At most 40 percent certain. unreasonable A setup with an unfavorable trader's equation. usually At least 60 percent certain. vacuum A buy vacuum occurs when the strong bears believe that the price will soon be higher so they wait to short until it reaches some mag-net above the market. The result is that there is a vacuum that sucks the market quickly up to the magnet in the form of one or more bull trend bars. Once there, the strong bears sell aggressively and turn the market down. A sell vacuum occurs when the strong bulls believe that the market will soon be lower so they wait to buy until it falls to some magnet below the mar-ket. The result is that there is a vacuum that sucks the market down quickly to the magnet in the form of one or more bear trend bars. Once there, strong bulls buy aggressively and turn the market back up. wedge Traditionally, a three-push move with each push extending further and the trend line and trend channel line at least minimally convergent, creating a rising or descending triangle with a wedge shape. For a trader, the wedge shape increases the chances of a successful trade, but any three-push pattern trades like a wedge and can be considered one. A wedge can be a reversal pattern or a pullback in a trend (a bull or bear flag). wedge flag A wedge-shaped or three-push pullback in a trend, such as a high 3 in a bull trend (a type of bull flag) or a low 3 in a bear trend (a type of bear flag). Since it is a with-trend setup, enter on the first signal. wedge reversal A wedge that is reversing a bull trend into a bear trend or a bear trend into a bull trend. Since it is countertrend, unless it is very strong, it is better to take a second signal. For example, if there is a bear trend and then a descending wedge, wait for a breakout above this potential wedge bottom and then try to buy a pullback to a higher low. with trend Refers to a trade or a setup that is in the direction of the prevailing trend. In gen-eral, the direction of the most recent 5 minute chart signal should be assumed to be the trend's direction. Also, if most of the past 10 or 20 bars are above the moving average, trend setups and trades are likely on the buy side.
 
 
 # 引言
@@ -309,328 +396,178 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 *Introduction*
 
 
-引言
+没有第二本由交易者亲笔写成的、全面讲述价格行为的书，这是有原因的。写它要花掉几千个小时，而金钱上的回报，与做交易相比少得可怜。不过，现在我的三个女儿都去读研究生了，我有个空缺要填，而这件工作让我非常满足。我原本打算把《逐根K线读懂价格图》（Reading Price Charts Bar by Bar，John Wiley & Sons，2009）的第一版更新一下，但真正动手之后，我改了主意：我想极其详尽地讲清楚我如何看待市场、又如何交易市场。打个比方，我是在教你拉小提琴。要靠这门手艺谋生所需要知道的一切，都在这几本书里了，但要花上数不清的小时去把它练熟，那得由你自己来做。在 www.brookspriceaction.com 我的网站上回答了一整年、成千上万个交易者提出的问题之后，我觉得自己找到了清楚得多的表达方式，这几本书应该比那一本更好读。早先那本书讲的是如何解读价格行为，而这一套书的重心，是怎样用价格行为去交易市场。由于这本书的篇幅已经涨到了第一本书四倍以上的字数，于是 John Wiley & Sons 决定把它拆成三本独立的书。这套书的第一本，讲的是价格行为的基础与趋势。第二本讲交易区间、订单管理与交易的数学，最后一本讲趋势反转、日内交易、日线图、期权，以及适用于所有时间级别的最佳建仓形态。书中很多走势图也出现在《逐根K线读懂价格图》里，但大多数都做了更新，关于这些图的讨论也大部分重写了。那本书的120,000个词当中，只有大约5% 出现在这套新书的570,000个词里，所以读者会发现重复的内容很少。
 
 
-> Introduction
+> There is a reason why there is no other comprehensive book about price action written by a trader. It takes thousands of hours, and the financial reward is mea-ger compared to that from trading. However, with my three girls now away in grad school, I have a void to fill and this has been a very satisfying project. I origin-ally planned on updating the first edition of Reading Price Charts Bar by Bar (John Wiley & Sons, 2009), but as I got into it, I decided instead to go into great detail about how I view and trade the markets. I am metaphorically teaching you how to play the violin. Everything you need to know to make a living at it is in these books, but it is up to you to spend the count-less hours learning your trade. After a year of answer-ing thousands of questions from traders on my web-site at www.brookspriceaction.com, I think that I have found ways to express my ideas much more clearly, and these books should be easier to read than that one. The earlier book focused on reading price action, and this series of books is instead centered on how to use price action to trade the markets. Since the book grew to more than four times as many words as the first book, John Wiley & Sons decided to divide it into three separate books. This first book covers price ac-tion basics and trends. The second book is on trading ranges, order management, and the mathematics of trading, and the final book is about trend reversals, day trading, daily charts, options, and the best setups for all time frames. Many of the charts are also in Reading Price Charts Bar by Bar, but most have been updated and the discussion about the charts has also been largely rewritten. Only about 5 percent of the 120,000 words from that book are present in the 570,000 words in this new series, so readers will find little duplication.
 
 
-没有第二本由交易者亲笔写成的、全面讲述价格行为的书，这是有原因的。写它要花掉几千个小时，而金钱上的回报，与做交易相比少得可怜。不过，现在我的三个女儿都去读研究生了，我有个空缺要填，而这件工作让我非常满足。我原本打算把《逐根K线读懂价格图》（Reading Price Charts Bar by Bar，John Wiley & Sons，2009）的第一版更新一下，但真正动手之后，我改了主意：我想极其详尽地讲清楚我如何看待市场、又如何交易市场。打个比方，我是在教你拉小提琴。要靠这门手艺谋生所需要知道的一切，都在这几本书里了，但要花上数不清的小时去把它练熟，那得由你自己来做。在 www.brookspriceaction.com 我的网站上回答了一整年、成千上万个交易者提出的问题之后，我觉得自己找到了清楚得多的表达方式，这几本书应该比那一本更好读。早先那本书讲的是如何解读价格行为，而这一套书的重心，是怎样用价格行为去交易市场。由于这本书的篇幅已经涨到了
+我写这套三本书的目标，是描述我对于“为什么那些精挑细选的交易能提供极佳的风险回报比”的理解，并给出从这些建仓形态中获利的方法。我呈现的材料，希望职业交易者和商学院的学生会觉得有意思，但我也希望即便是刚起步的交易者，也能从中找到一些有用的想法。每个人都会看走势图，但通常只是一瞥而过，而且带着某个具体或有限的目的。然而，每一张图都含有数量惊人的信息，可以用来做有利可图的交易；只不过，只有当交易者花时间去仔细弄清，图上每一根K线在告诉他们机构资金正在做什么的时候，其中大部分信息才能真正被有效地利用。
 
 
-> There is a reason why there is no other comprehensive book about price action written by a trader. It takes thousands of hours, and the financial reward is mea- ger compared to that from trading. However, with my three girls now away in grad school, I have a void to fill and this has been a very satisfying project. I origin- ally planned on updating the first edition of Reading Price Charts Bar by Bar (John Wiley & Sons, 2009), but as I got into it, I decided instead to go into great detail about how I view and trade the markets. I am metaphorically teaching you how to play the violin. Everything you need to know to make a living at it is in these books, but it is up to you to spend the count- less hours learning your trade. After a year of answer- ing thousands of questions from traders on my web- site at www.brookspriceaction.com, I think that I have found ways to express my ideas much more clearly, and these books should be easier to read than that one. The earlier book focused on reading price action, and this series of books is instead centered on how to use price action to trade the markets. Since the book grew to more than four times as many words as the
-
-
-第一本书四倍以上的字数，于是 John Wiley & Sons 决定把它拆成三本独立的书。这套书的第一本，讲的是价格行为的基础与趋势。第二本讲交易区间、订单管理与交易的数学，最后一本讲趋势反转、日内交易、日线图、期权，以及适用于所有时间级别的最佳建仓形态。书中很多走势图也出现在《逐根K线读懂价格图》里，但大多数都做了更新，关于这些图的讨论也大部分重写了。那本书的120,000个词当中，只有大约5% 出现在这套新书的570,000个词里，所以读者会发现重复的内容很少。
-
-
-> first book, John Wiley & Sons decided to divide it into three separate books. This first book covers price ac- tion basics and trends. The second book is on trading ranges, order management, and the mathematics of trading, and the final book is about trend reversals, day trading, daily charts, options, and the best setups for all time frames. Many of the charts are also in Reading Price Charts Bar by Bar, but most have been updated and the discussion about the charts has also been largely rewritten. Only about 5 percent of the 120,000 words from that book are present in the 570,000 words in this new series, so readers will find little duplication.
-
-
-我写这套三本书的目标，是描述我对于“为什么那些精挑细选的交易能提供极佳的风险回报比”的理解，并给出从这些建仓形态中获利的方法。我呈现的材料，希望职业交易者和商学院的学生会觉得有意思，但我也希望即便是刚起步的交易者，也能从中找到一些有用的想法。每个人都会看走势图，但通常只是一瞥而过，而且带着某个具体或有限的目的。然而，每一张图都含有数量惊人的信息，可以用来做有利可图的交易；只不过，只有当交易者花时间去仔细弄清，图上每一根K线
-
-
-> My goals in writing this series of three books are to describe my understanding of why the carefully selec- ted trades offer great risk/reward ratios, and to present ways to profit from the setups. I am present- ing material that I hope will be interesting to profes- sional traders and students in business school, but I also hope that even traders starting out will find some useful ideas. Everyone looks at price charts but usu- ally just briefly and with a specific or limited goal. However, every chart has an incredible amount of in- formation that can be used to make profitable trades, but much of it can be used effectively only if traders spend time to carefully understand what each bar on
-
-
-在告诉他们机构资金正在做什么的时候，其中大部分信息才能真正被有效地利用。
-
-
-> the chart is telling them about what institutional money is doing.
+> My goals in writing this series of three books are to describe my understanding of why the carefully selec-ted trades offer great risk/reward ratios, and to present ways to profit from the setups. I am present-ing material that I hope will be interesting to professional traders and students in business school, but I also hope that even traders starting out will find some useful ideas. Everyone looks at price charts but usu-ally just briefly and with a specific or limited goal. However, every chart has an incredible amount of in-formation that can be used to make profitable trades, but much of it can be used effectively only if traders spend time to carefully understand what each bar on the chart is telling them about what institutional money is doing.
 
 
 在大规模市场里，全部交易中有90% 或更多是由机构完成的，这就意味着，市场无非是一群机构的总和。几乎所有这些机构长期都是赚钱的，少数不赚钱的很快就关门了。既然机构是赚钱的，而它们又构成了市场，那么你做的每一笔交易，对面都必然有一个赚钱的交易者（机构群体中的一员）在跟你做对手方。没有一家机构愿意站在一边、另一家愿意站在另一边，任何交易都做不成。个人做的小笔交易，只有当某家机构愿意做同一笔交易时才能成交。如果你想在某个价格买入，除非有一家或多家机构也想在那个价格买入，否则市场不会走到那个价格。同样，除非有一家或多家机构愿意卖出，否则你在哪个价位都卖不出去，因为市场只会走到有机构愿意买、另外一些机构愿意卖的那个价格上去。如果 Emini 小型合约在1,264，而你做多、保护性卖出止损单挂在1,262，那么除非有机构也愿意在1,262卖出，否则你的止损不会被打到。几乎所有交易都是如此。
 
 
-> Ninety percent or more of all trading in large mar- kets is done by institutions, which means that the market is simply a collection of institutions. Almost all are profitable over time, and the few that are not soon go out of business. Since institutions are profitable and they are the market, every trade that you take has a profitable trader (a part of the collection of institu- tions) taking the other side of your trade. No trade can take place without one institution willing to take one side and another willing to take the other. The small- volume trades made by individuals can only take place if an institution is willing to take the same trade. If you want to buy at a certain price, the market will not get to that price unless one or more institutions also want to buy at that price. You cannot sell at any price unless one or more institutions are willing to sell there, because the market can only go to a price where there are institutions willing to buy and others willing to sell. If the Emini is at 1,264 and you are long with a protective sell stop at 1,262, your stop cannot get hit unless there is an institution who is also willing to sell at 1,262. This is true for virtually all trades.
+> Ninety percent or more of all trading in large mar-kets is done by institutions, which means that the market is simply a collection of institutions. Almost all are profitable over time, and the few that are not soon go out of business. Since institutions are profitable and they are the market, every trade that you take has a profitable trader (a part of the collection of institu-tions) taking the other side of your trade. No trade can take place without one institution willing to take one side and another willing to take the other. The small-volume trades made by individuals can only take place if an institution is willing to take the same trade. If you want to buy at a certain price, the market will not get to that price unless one or more institutions also want to buy at that price. You cannot sell at any price unless one or more institutions are willing to sell there, because the market can only go to a price where there are institutions willing to buy and others willing to sell. If the Emini is at 1,264 and you are long with a protective sell stop at 1,262, your stop cannot get hit unless there is an institution who is also willing to sell at 1,262. This is true for virtually all trades.
 
 
-如果你交易200手 Emini 小型合约，那么你做的就是机构级别的成交量，实际上已经算是一家
+如果你交易200手 Emini 小型合约，那么你做的就是机构级别的成交量，实际上已经算是一家机构了，有时你还能把市场推动一两个最小报价单位。不过，大多数个人交易者无论多么愿意犯傻地去交易，都没有推动市场的能力。市场不会去打你的止损。市场也许会去测试你保护性止损所在的那个价位，但那跟你的止损毫无关系。只有当一家或多家机构认为在那个价位卖出从财务上看是合理的、另一些机构认为在那里买入有利可图时，它才会去测试那个价位。在每一个最小报价单位上，都既有机构在买、也有机构在卖，而它们全都拥有经过验证的系统，靠下这些单子赚钱。你应当始终顺着机构资金中多数的方向去交易，因为它们左右着市场的去向。
 
 
-> If you trade 200 Emini contracts, then you are trading institutional volume and are effectively an
+> If you trade 200 Emini contracts, then you are trading institutional volume and are effectively an institution, and you will sometimes be able to move the market a tick or two. Most individual traders, however, have no ability to move the market, no mat-ter how stupidly they are willing to trade. The market will not run your stops. The market might test the price where your protective stop is, but it has nothing to do with your stop. It will only test that price if one or more institutions believe that it is financially sound to sell there and other institutions believe that it is profitable to buy there. At every tick, there are institu-tions buying and other institutions selling, and all have proven systems that will make money by placing those trades. You should always be trading in the dir-ection of the majority of institutional dollars because they control where the market is heading.
 
 
-机构了，有时你还能把市场推动一两个最小报价单位。不过，大多数个人交易者无论多么愿意犯傻地去交易，都没有推动市场的能力。市场不会去打你的止损。市场也许会去测试你保护性止损所在的那个价位，但那跟你的止损毫无关系。只有当一家或多家机构认为在那个价位卖出从财务上看是合理的、另一些机构认为在那里买入有利可图时，它才会去测试那个价位。在每一个最小报价单位上，都既有机构在买、也有机构在卖，而它们全都拥有经过验证的系统，靠下这些单子赚钱。你应当始终顺着机构资金中多数的方向去交易，因为它们左右着市场的去向。
+收盘之后，当你看着当天走势图的打印件时，怎么才能看出机构在那一天里做了什么？答案很简单：每当市场上涨，机构资金中的主体就在买入；每当市场下跌，投进去卖出的钱就更多。只要挑出图上市场上涨或下跌的任何一段，逐一研究每一根K线，你很快就会注意到许多可重复出现的形态。随着时间推移，你会开始看到这些形态在实时行情中展开，而那会给你下单的信心。价格行为中有一些很微妙，所以要对每一种可能性都保持开放。举例来说，有时市场正在往上走，却会有一根K线跌到前一根K线的低点之下，而趋势仍然继续向上。你必须假设大资金在前一根K线低点处及其下方买入，很多有经验的交易者当时也在这么做。他们买入的位置，恰恰是弱势交易者让自己止损离场、认下一笔亏损的地方，或者是另一些弱势交易者做空、以为市场要开始抛售的地方。一旦你接受“强趋势常常有回调，而大资金在买入这些回调、而不是卖出它们”这个想法，你就有能力做出一些漂亮的交易——而这些交易，你以前会认为恰恰是绝对不能做的事。别把它想得太复杂。如果市场在上涨，机构就在不停地买入，甚至在你觉得自己该止损离场、砍掉多头亏损的时候，它们也在买。你的任务就是跟随它们的做法，而不要用太多逻辑去否认眼前正在发生的事。它看上去是不是违反直觉，并不重要。唯一重要的是：市场在上涨，因此机构主要是在买入，所以你也应该买。
 
 
-> institution, and you will sometimes be able to move the market a tick or two. Most individual traders, however, have no ability to move the market, no mat- ter how stupidly they are willing to trade. The market will not run your stops. The market might test the price where your protective stop is, but it has nothing to do with your stop. It will only test that price if one or more institutions believe that it is financially sound to sell there and other institutions believe that it is profitable to buy there. At every tick, there are institu- tions buying and other institutions selling, and all have proven systems that will make money by placing those trades. You should always be trading in the dir- ection of the majority of institutional dollars because they control where the market is heading.
+> At the end of the day when you look at a printout of the day's chart, how can you tell what the institutions did during the day? The answer is simple: whenever the market went up, the bulk of institutional money was buying, and whenever the market went down, more money went into selling. Just look at any seg-ment of the chart where the market went up or down and study every bar, and you will soon notice many repeatable patterns. With time, you will begin to see those patterns unfold in real time, and that will give you confidence to place your trades. Some of the price action is subtle, so be open to every possibility. For ex-ample, sometimes when the market is working higher, a bar will trade below the low of the prior bar, yet the trend continues higher. You have to assume that the big money was buying at and below the low of that prior bar, and that is also what many experienced traders were doing. They bought exactly where weak traders let themselves get stopped out with a loss or where other weak traders shorted, believing that the market was beginning to sell off. Once you get com-fortable with the idea that strong trends often have pullbacks and big money is buying them rather than selling them, you will be in a position to make some great trades that you previously thought were exactly the wrong thing to do. Don't think too hard about it. If the market is going up, institutions are buying constantly, even at times when you think that you should stop yourself out of your long with a loss. Your job is to follow their behavior and not use too much logic to deny what is happening right in front of you. It does not matter if it seems counterintuitive. All that mat-ters is that the market is going up and therefore institutions are predominantly buying and so should you.
 
 
-收盘之后，当你看着当天走势图的打印件时，怎么才能看出机构在那一天里做了什么？答案很简单：每当市场上涨，机构资金中的主体就在买入；每当市场下跌，投进去卖出的钱就更多。只要挑出图上市场上涨或下跌的任何一段，逐一研究每一根K线，你很快就会注意到许多可重复出现的形态。随着时间推移，你会开始看到这些形态在实时行情中展开，而那会给你下单的信心。价格
+机构通常被看作聪明钱，也就是说，它们足够聪明，能靠交易谋生，而且它们每天的成交量都很大。电视上仍然用“机构”这个词来指传统机构，比如共同基金、银行、经纪公司、保险公司、养老基金和对冲基金；这些公司过去占了成交量的大部分，而它们主要依据基本面来交易。它们的交易控制着日线图和周线图上市场的方向，也控制着盘中很多大幅的波段。直到大约十年前，多数的交易决策还由非常聪明的交易者来决定、多数的交易也由他们完成，但如今这些工作越来越多地由计算机承担。它们有程序，可以瞬间分析经济数据，并立刻依据分析结果下单，整个过程根本不需要有人参与。此外，另一些公司靠计算机程序做出巨量交易，这些程序依据对价格行为的统计分析来下单。计算机生成的交易，现在占到当天成交量的70% 之多。
 
 
-> At the end of the day when you look at a printout of the day's chart, how can you tell what the institutions did during the day? The answer is simple: whenever the market went up, the bulk of institutional money was buying, and whenever the market went down, more money went into selling. Just look at any seg- ment of the chart where the market went up or down and study every bar, and you will soon notice many repeatable patterns. With time, you will begin to see those patterns unfold in real time, and that will give you confidence to place your trades. Some of the price
+> Institutions are generally considered to be smart money, meaning that they are smart enough to make a living by trading and they trade a large volume every day. Television still uses the term institution to refer to traditional institutions like mutual funds, banks, brokerage houses, insurance companies, pension funds, and hedge funds; these companies used to ac-count for most of the volume, and they mostly trade on fundamentals. Their trading controls the direction of the market on daily and weekly charts and a lot of the big intraday swings. Until a decade or so ago, most of the trade decisions were made and most trading was done by very smart traders, but it is now increas-ingly being done by computers. They have programs that can instantly analyze economic data and immediately place trades based on that analysis, without a person ever being involved in the trade. In addition, other firms trade huge volumes by using computer programs that place trades based on the statistical analysis of price action. Computer-generated trading now accounts for as much as 70 percent of the day's volume.
 
 
-行为中有一些很微妙，所以要对每一种可能性都保持开放。举例来说，有时市场正在往上走，却会有一根K线跌到前一根K线的低点之下，而趋势仍然继续向上。你必须假设大资金在前一根K线低点处及其下方买入，很多有经验的交易者当时也在这么做。他们买入的位置，恰恰是弱势交易者让自己止损离场、认下一笔亏损的地方，或者是另一些弱势交易者做空、以为市场要开始抛售的地方。一旦你接受“强趋势常常有回调，而大资金在买入这些回调、而不是卖出它们”这个想法，你就有能力做出一些漂亮的交易——而这些交易，你以前会认为恰恰是绝对不能做的事。别把它想得太复杂。如果市场在上涨，机构就在不停地买入，甚至在你觉得自己该止损离场、砍掉多头亏损的时候，它们也在买。你的任务就是跟随它们的做法，而不要用太多逻辑去否认眼前正在发生的事。它看上去是不是违反直觉，并不重要。唯一重要的是：市场在上涨，因此机构主要是在买入，所以你也应该买。
+计算机非常擅长做决定，而下国际象棋和在《Jeopardy!》里取胜，都比交易股票更难。加里·卡斯帕罗夫多年来下出的是全世界最好的棋，然而在1997年，一台计算机下得比他更好，并击败了他。肯·詹宁斯被誉为有史以来最伟大的《Jeopardy!》选手，然而一台计算机却在2011年把他彻底击溃。计算机被广泛承认为机构交易中最好的决策者，只是时间问题。
 
 
-> action is subtle, so be open to every possibility. For ex- ample, sometimes when the market is working higher, a bar will trade below the low of the prior bar, yet the trend continues higher. You have to assume that the big money was buying at and below the low of that prior bar, and that is also what many experienced traders were doing. They bought exactly where weak traders let themselves get stopped out with a loss or where other weak traders shorted, believing that the market was beginning to sell off. Once you get com- fortable with the idea that strong trends often have pullbacks and big money is buying them rather than selling them, you will be in a position to make some great trades that you previously thought were exactly the wrong thing to do. Don't think too hard about it. If the market is going up, institutions are buying con- stantly, even at times when you think that you should stop yourself out of your long with a loss. Your job is to follow their behavior and not use too much logic to deny what is happening right in front of you. It does not matter if it seems counterintuitive. All that mat- ters is that the market is going up and therefore insti- tutions are predominantly buying and so should you.
-
-
-机构通常被看作聪明钱，也就是说，它们足够聪明，能靠交易谋生，而且它们每天的成交量
-
-
-> Institutions are generally considered to be smart money, meaning that they are smart enough to make a living by trading and they trade a large volume every
-
-
-都很大。电视上仍然用“机构”这个词来指传统机构，比如共同基金、银行、经纪公司、保险公司、养老基金和对冲基金；这些公司过去占了成交量的大部分，而它们主要依据基本面来交易。它们的交易控制着日线图和周线图上市场的方向，也控制着盘中很多大幅的波段。直到大约十年前，多数的交易决策还由非常聪明的交易者来决定、多数的交易也由他们完成，但如今这些工作越来越多地由计算机承担。它们有程序，可以瞬间分析经济数据，并立刻依据分析结果下单，整个过程根本不需要有人参与。此外，另一些公司靠计算机程序做出巨量交易，这些程序依据对价格行为的统计分析来下单。计算机生成的交易，现在占到当天成交量的70% 之多。
-
-
-> day. Television still uses the term institution to refer to traditional institutions like mutual funds, banks, brokerage houses, insurance companies, pension funds, and hedge funds; these companies used to ac- count for most of the volume, and they mostly trade on fundamentals. Their trading controls the direction of the market on daily and weekly charts and a lot of the big intraday swings. Until a decade or so ago, most of the trade decisions were made and most trading was done by very smart traders, but it is now increas- ingly being done by computers. They have programs that can instantly analyze economic data and immedi- ately place trades based on that analysis, without a person ever being involved in the trade. In addition, other firms trade huge volumes by using computer programs that place trades based on the statistical analysis of price action. Computer-generated trading now accounts for as much as 70 percent of the day's volume.
-
-
-计算机非常擅长做决定，而下国际象棋和在《Jeopardy!》里取胜，都比交易股票更难。加里·卡斯帕罗夫多年来下出的是全世界最好的棋，然而在1997年，一台计算机下得比他更好，并击败了他。肯·詹宁斯被誉为有史以来最伟大的《Jeopardy!》选手，然而一台计算机却在
-
-
-> Computers are very good at making decisions, and playing chess and winning at Jeopardy! are more dif- ficult than trading stocks. Gary Kasparov for years made the best chess decisions in the world, yet a com- puter made better decisions in 1997 and beat him. Ken Jennings was heralded as the greatest Jeopardy! player of all time, yet a computer destroyed him in
-
-
-2011年把他彻底击溃。计算机被广泛承认为机构交易中最好的决策者，只是时间问题。
-
-
-> 2011. It is only a matter of time before computers are widely accepted as the best decision makers for insti- tutional trading.
+> Computers are very good at making decisions, and playing chess and winning at Jeopardy! are more difficult than trading stocks. Gary Kasparov for years made the best chess decisions in the world, yet a com-puter made better decisions in 1997 and beat him. Ken Jennings was heralded as the greatest Jeopardy! player of all time, yet a computer destroyed him in 2011. It is only a matter of time before computers are widely accepted as the best decision makers for institutional trading.
 
 
 既然程序使用的是客观的数学分析，支撑位与阻力位区域就应该会变得更加清晰明确。举例来说，随着越来越多的成交量是依据精确的数学逻辑做出来的，等距运动目标位就应该变得更为精确。此外，随着程序在日线图上买入小幅回调，可能也会倾向于形成更绵长的窄通道。不过，如果有足够多的程序在同样的关键价位上一起平掉多头或者转手做空，抛售就可能变得更大、更快。这些变化会很剧烈吗？大概不会，因为当年一切都靠人工完成的时候，同样这些一般性的力量也在起作用；尽管如此，随着交易中的情绪被越来越多地移除，应该还是会有某种朝数学上的完美靠拢的趋势。随着这些公司对市场走势的贡献越来越大、传统机构也越来越多地用计算机来分析和下单，“机构”这个词正变得含义模糊。对个人交易者来说，更好的理解方式是：任何实体，只要它的成交量足够大、足以显著影响价格行为，就把它看成机构。
 
 
-> Since programs use objective mathematical analys- is, there should be a tendency for support and resist- ance areas to become more clearly defined. For ex- ample, measured move projections should become more precise as more of the volume is traded based on precise mathematical logic. Also, there might be a tendency toward more protracted tight channels as programs buy small pullbacks on the daily chart. However, if enough programs exit longs or go short at the same key levels, sell-offs might become larger and faster. Will the changes be dramatic? Probably not, since the same general forces were operating when everything was done manually, but nonetheless there should be some move toward mathematical perfection as more of the emotion is removed from trading. As these other firms contribute more and more to the movement of the market and as traditional institu- tions increasingly use computers to analyze and place their trades, the term institution is becoming vague. It is better for an individual trader to think of an institu- tion as any of the different entities that trade enough volume to be a significant contributor to the price action.
+> Since programs use objective mathematical analys-is, there should be a tendency for support and resist-ance areas to become more clearly defined. For ex-ample, measured move projections should become more precise as more of the volume is traded based on precise mathematical logic. Also, there might be a tendency toward more protracted tight channels as programs buy small pullbacks on the daily chart. However, if enough programs exit longs or go short at the same key levels, sell-offs might become larger and faster. Will the changes be dramatic? Probably not, since the same general forces were operating when everything was done manually, but nonetheless there should be some move toward mathematical perfection as more of the emotion is removed from trading. As these other firms contribute more and more to the movement of the market and as traditional institu-tions increasingly use computers to analyze and place their trades, the term institution is becoming vague. It is better for an individual trader to think of an institu-tion as any of the different entities that trade enough volume to be a significant contributor to the price action.
 
 
-既然这些买入和卖出程序产生了大部分成交量，它们就是每张走势图外观的最重要塑造者，也为个人投资者创造了大部分交易机会。没错，知道 Cisco Systems（CSCO）发布了一份强劲的财报、股价正在上涨，当然是件好事；如果你是一位打算持股好几个月的投资者，那就跟着传统机构做，买入 CSCO。但如果你是日内交易者，就忽略消息面去看走势图，因为这些程序会造出纯粹基于统计的形态，它们与基本面毫无关系，却能提供极好的交易机会。依据基本面下单的传统机构，决定着一只股票在未来几个月里的方向和大致目标位；但越来越多地，靠统计分析来做日内交易和其他短线交易的公司，决定的是通往那个目标的路径，以及这轮行情的最终高点或低点。即便在宏观层面上，基本面充其量也只是近似的。看看1987年和2009年的崩盘。两次都出现了剧烈的抛售和上涨，但基本面并没有在同样短的时间里发生剧烈变化。两次当中，市场都是被吸到月线趋势线下方一点，随后从那里猛烈向上反转。市场下跌是因为
+既然这些买入和卖出程序产生了大部分成交量，它们就是每张走势图外观的最重要塑造者，也为个人投资者创造了大部分交易机会。没错，知道 Cisco Systems（CSCO）发布了一份强劲的财报、股价正在上涨，当然是件好事；如果你是一位打算持股好几个月的投资者，那就跟着传统机构做，买入 CSCO。但如果你是日内交易者，就忽略消息面去看走势图，因为这些程序会造出纯粹基于统计的形态，它们与基本面毫无关系，却能提供极好的交易机会。依据基本面下单的传统机构，决定着一只股票在未来几个月里的方向和大致目标位；但越来越多地，靠统计分析来做日内交易和其他短线交易的公司，决定的是通往那个目标的路径，以及这轮行情的最终高点或低点。即便在宏观层面上，基本面充其量也只是近似的。看看1987年和2009年的崩盘。两次都出现了剧烈的抛售和上涨，但基本面并没有在同样短的时间里发生剧烈变化。两次当中，市场都是被吸到月线趋势线下方一点，随后从那里猛烈向上反转。市场下跌是因为人们所认知的基本面，但跌幅的大小，却是由走势图决定的。
 
 
-> Since these buy and sell programs generate most of the volume, they are the most important contributor to the appearance of every chart and they create most of the trading opportunities for individual investors. Yes, it's nice to know that Cisco Systems (CSCO) had a strong earnings report and is moving up, and if you are an investor who wants to hold stock for many months, then do what the traditional institutions are doing and buy CSCO. However, if you are a day trader, ignore the news and look at the chart, because the programs will create patterns that are purely stat- istically based and have nothing to do with funda- mentals, yet offer great trading opportunities. The tra- ditional institutions placing trades based on funda- mentals determine the direction and the approximate target of a stock over the next several months, but, in- creasingly, firms using statistical analysis to make day trades and other short-term trades determine the path to that target and the ultimate high or low of the move. Even on a macro level, fundamentals are only approximate at best. Look at the crashes in 1987 and 2009. Both had violent sell-offs and rallies, yet the fundamentals did not change violently in the same short period of time. In both cases, the market got sucked slightly below the monthly trend line and re- versed sharply up from it. The market fell because of
-
-
-人们所认知的基本面，但跌幅的大小，却是由走势图决定的。
-
-
-> perceived fundamentals, but the extent of the fall was determined by the charts.
+> Since these buy and sell programs generate most of the volume, they are the most important contributor to the appearance of every chart and they create most of the trading opportunities for individual investors. Yes, it's nice to know that Cisco Systems (CSCO) had a strong earnings report and is moving up, and if you are an investor who wants to hold stock for many months, then do what the traditional institutions are doing and buy CSCO. However, if you are a day trader, ignore the news and look at the chart, because the programs will create patterns that are purely statistically based and have nothing to do with funda-mentals, yet offer great trading opportunities. The traditional institutions placing trades based on funda-mentals determine the direction and the approximate target of a stock over the next several months, but, increasingly, firms using statistical analysis to make day trades and other short-term trades determine the path to that target and the ultimate high or low of the move. Even on a macro level, fundamentals are only approximate at best. Look at the crashes in 1987 and 2009. Both had violent sell-offs and rallies, yet the fundamentals did not change violently in the same short period of time. In both cases, the market got sucked slightly below the monthly trend line and re-versed sharply up from it. The market fell because of perceived fundamentals, but the extent of the fall was determined by the charts.
 
 
 有一些大的形态，会在所有时间级别、所有市场上反复出现，比如趋势、交易区间、高潮和通道。此外还有大量更小的、可交易的形态，它们只依据最近几根K线。这几本书是一份全面的指南，帮交易者理解自己在图上看到的一切，从而有更多机会做出赚钱的交易、避开亏钱的交易。
 
 
-> There are some large patterns that repeat over and over on all time frames and in all markets, like trends, trading ranges, climaxes, and channels. There are also lots of smaller tradable patterns that are based on just the most recent few bars. These books are a compre- hensive guide to help traders understand everything they see on a chart, giving them more opportunities to make profitable trades and to avoid losers.
+> There are some large patterns that repeat over and over on all time frames and in all markets, like trends, trading ranges, climaxes, and channels. There are also lots of smaller tradable patterns that are based on just the most recent few bars. These books are a comprehensive guide to help traders understand everything they see on a chart, giving them more opportunities to make profitable trades and to avoid losers.
 
 
-我能传达的最重要的信息是：只专注于那些绝对最好的交易，避开那些绝对最差的建仓形态，用一个至少跟你保护性止损（风险）一样大的止盈目标（回报），并努力增加自己交易的股数。我坦率地承认，我为每一个建仓形态给出的理由都只是个人看法，我关于“一笔交易为什么有效”的推理，完全可能是错的。不过，这并不重要。重要的是，解读价格行为是一种非常有效的交易方式，而我想了很多，为什么某些事会以它们那种方式发生。我对自己的解释感到踏实，它们在我下单时给我信心；但是，它们与我下单这件事无关，所以它们是否正确，对我并不重要。就像我随时都能改变自己对
+我能传达的最重要的信息是：只专注于那些绝对最好的交易，避开那些绝对最差的建仓形态，用一个至少跟你保护性止损（风险）一样大的止盈目标（回报），并努力增加自己交易的股数。我坦率地承认，我为每一个建仓形态给出的理由都只是个人看法，我关于“一笔交易为什么有效”的推理，完全可能是错的。不过，这并不重要。重要的是，解读价格行为是一种非常有效的交易方式，而我想了很多，为什么某些事会以它们那种方式发生。我对自己的解释感到踏实，它们在我下单时给我信心；但是，它们与我下单这件事无关，所以它们是否正确，对我并不重要。就像我随时都能改变自己对市场方向的看法一样，我也同样可以改变自己对“某个形态为什么有效”的看法——只要我遇到一个更合逻辑的理由，或者发现自己的逻辑里有一处漏洞。我把这些看法讲出来，是因为它们看起来说得通，它们可能帮助读者在做某些建仓形态时更踏实，也可能在智识上给人一点启发；但对任何一笔价格行为交易来说，它们都不是必需的。
 
 
-> The most important message that I can deliver is to focus on the absolute best trades, avoid the absolute worst setups, use a profit objective (reward) that is at least as large as your protective stop (risk), and work on increasing the number of shares that you are trad- ing. I freely recognize that every one of my reasons be- hind each setup is just my opinion, and my reasoning about why a trade works might be completely wrong. However, that is irrelevant. What is important is that reading price action is a very effective way to trade, and I have thought a lot about why certain things hap- pen the way they do. I am comfortable with my ex- planations and they give me confidence when I place a trade; however, they are irrelevant to my placing trades, so it is not important to me that they are right. Just as I can reverse my opinion about the direction of
+> The most important message that I can deliver is to focus on the absolute best trades, avoid the absolute worst setups, use a profit objective (reward) that is at least as large as your protective stop (risk), and work on increasing the number of shares that you are trad-ing. I freely recognize that every one of my reasons be-hind each setup is just my opinion, and my reasoning about why a trade works might be completely wrong. However, that is irrelevant. What is important is that reading price action is a very effective way to trade, and I have thought a lot about why certain things hap-pen the way they do. I am comfortable with my explanations and they give me confidence when I place a trade; however, they are irrelevant to my placing trades, so it is not important to me that they are right. Just as I can reverse my opinion about the direction of the market in an instant, I can also reverse my opin-ion about why a particular pattern works if I come across a reason that is more logical or if I discover a flaw in my logic. I am providing the opinions because they appear to make sense, they might help readers become more comfortable trading certain setups, and they might be intellectually stimulating, but they are not needed for any price action trades.
 
 
-市场方向的看法一样，我也同样可以改变自己对“某个形态为什么有效”的看法——只要我遇到一个更合逻辑的理由，或者发现自己的逻辑里有一处漏洞。我把这些看法讲出来，是因为它们看起来说得通，它们可能帮助读者在做某些建仓形态时更踏实，也可能在智识上给人一点启发；但对任何一笔价格行为交易来说，它们都不是必需的。
+这几本书非常细致、读起来也不轻松，面向的是那些认真的、想尽可能多学一点如何解读价格走势图的交易者。不过，这些概念对各个水平的交易者都有用。书中涵盖了许多由 Robert D. Edwards 与 John Magee（《股市趋势技术分析》Technical Analysis of Stock Trends，AMACOM，第9版，2007年）以及其他作者描述过的标准技术，但更侧重单根K线，用以展示这些K线所提供的信息如何能显著提升交易的风险回报比。多数书会在一张图上点出三四笔交易，这暗示图上其余的一切都是看不懂的、没有意义的，或者有风险的。我相信，一天当中发生的每一个最小报价单位，都有值得学习的东西，每一张图上的好交易都远不止那几笔显而易见的；但要想看见它们，你必须理解价格行为，而且你绝不能把任何一根K线看作无关紧要而丢到一边。我曾经做过几千台在显微镜下完成的手术，从中体会到：一些最重要的东西，可能非常微小。
 
 
-> the market in an instant, I can also reverse my opin- ion about why a particular pattern works if I come across a reason that is more logical or if I discover a flaw in my logic. I am providing the opinions because they appear to make sense, they might help readers become more comfortable trading certain setups, and they might be intellectually stimulating, but they are not needed for any price action trades.
+> The books are very detailed and difficult to read and are directed toward serious traders who want to learn as much as they can about reading price charts. However, the concepts are useful to traders at all levels. The books cover many of the standard techniques described by Robert D. Edwards and John Magee (Technical Analysis of Stock Trends, AMACOM, 9th ed., 2007) and others, but focus more on individual bars to demonstrate how the informa-tion they provide can significantly enhance the risk/ reward ratio of trading. Most books point out three or four trades on a chart, which implies that everything else on the chart is incomprehensible, meaningless, or risky. I believe that there is something to be learned from every tick that takes place during the day and that there are far more great trades on every chart than just the few obvious ones; but to see them, you have to understand price action and you cannot dismiss any bars as unimportant. I learned from per-forming thousands of operations through a micro-scope that some of the most important things can be very small.
 
 
-这几本书非常细致、读起来也不轻松，面向的是那些认真的、想尽可能多学一点如何解读价格走势图的交易者。不过，这些概念对各个水平的交易者都有用。书中涵盖了许多由 Robert D. Edwards 与 John Magee（《股市趋势技术分析》Technical Analysis of Stock Trends，AMACOM，第9版，2007年）以及其他作者描述过的标准技术，但更侧重单根K线，用以展示这些K线所提供的信息如何能显著提升交易的风险回报比。多数书会在一张图上点出三四笔交易，这暗示图上其余的一切都是看不懂的、没有意义的，或者有风险的。我相信，一天当中发生的每一个最小报价单位，都有值得学习的东西，每一张图上的好交易都远不止那几笔显而易见的；但要想看见它们，你必须理解价格行为，而且你绝不能
+我是一根一根K线地读图，寻找每一根K线正在告诉我的任何信息。它们全都重要。每一根K线收盘时，大多数交易者都会问自己：“刚才发生了什么？”而面对大多数K线，他们得出的结论是：眼下没有什么值得交易的东西，所以不值得费劲去弄懂它。于是，他们选择去等某个更清晰、通常也更大的形态。这就好像他们相信那根K线根本不存在，或者把它当作不过是机构程序的活动、个人交易者没法交易而随手打发掉。在这些时候，他们觉得自己不像是市场的一部分；而这样的时刻，构成了这一天中的绝大多数时间。可是，只要去看一眼成交量，他们忽略掉的所有那些K线，成交量跟他们拿来做交易依据的那些K线一样大。显然，大量的交易正在发生，但他们不明白这怎么可能，于是干脆假装它不存在。但那是在否认现实。交易始终都在发生；作为交易者，你有责任为自己弄清楚它为什么发生，并想出办法从中赚钱。学会听懂市场在告诉你的是什么，非常耗时也非常难，但它给了你成为一名成功交易者所需要的基础。
 
 
-> The books are very detailed and difficult to read and are directed toward serious traders who want to learn as much as they can about reading price charts. However, the concepts are useful to traders at all levels. The books cover many of the standard tech- niques described by Robert D. Edwards and John Magee (Technical Analysis of Stock Trends, AMACOM, 9th ed., 2007) and others, but focus more on individual bars to demonstrate how the informa- tion they provide can significantly enhance the risk/ reward ratio of trading. Most books point out three or four trades on a chart, which implies that everything else on the chart is incomprehensible, meaningless, or risky. I believe that there is something to be learned from every tick that takes place during the day and that there are far more great trades on every chart than just the few obvious ones; but to see them, you have to understand price action and you cannot
-
-
-把任何一根K线看作无关紧要而丢到一边。我曾经做过几千台在显微镜下完成的手术，从中体会到：一些最重要的东西，可能非常微小。
-
-
-> dismiss any bars as unimportant. I learned from per- forming thousands of operations through a micro- scope that some of the most important things can be very small.
-
-
-我是一根一根K线地读图，寻找每一根K线正在告诉我的任何信息。它们全都重要。每一根K线收盘时，大多数交易者都会问自己：“刚才发生了什么？”而面对大多数K线，他们得出的结论是：眼下没有什么值得交易的东西，所以不值得费劲去弄懂它。于是，他们选择去等某个更清晰、通常也更大的形态。这就好像他们相信那根K线根本不存在，或者把它当作不过是机构程序的活动、个人交易者没法交易而随手打发掉。在这些时候，他们觉得自己不像是市场的一部分；而这样的时刻，构成了这一天中的绝大多数时间。可是，只要去看一眼成交量，他们忽略掉的所有那些K线，成交量跟他们拿来做交易依据的那些K线一样大。显然，大量的交易正在发生，但他们不明白这怎么可能，于是干脆假装它不存在。但那是在否认现实。交易始终都在发生；作为交易者，你有责任为自己弄清楚它为什么发生，并想出办法从中赚钱。学会听懂市场在告诉
-
-
-> I read charts bar by bar and look for any informa- tion that each bar is telling me. They are all import- ant. At the end of every bar, most traders ask them- selves, “What just took place?” With most bars, they conclude that there is nothing worth trading at the moment so it is just not worth the effort to try to un- derstand. Instead, they choose to wait for some clear- er and usually larger pattern. It is as if they believe that the bar did not exist, or they dismiss it as just in- stitutional program activity that is not tradable by an individual trader. They do not feel like they are part of the market at these times, but these times constitute the vast majority of the day. Yet, if they look at the volume, all of those bars that they are ignoring have as much volume as the bars they are using for the bases for their trades. Clearly, a lot of trading is taking place, but they don't understand how that can be and essentially pretend that it does not exist. But that is denying reality. There is always trading taking place, and as a trader, you owe it to yourself to understand why it's taking place and to figure out a way to make money off of it. Learning what the market is telling
-
-
-你的是什么，非常耗时也非常难，但它给了你成为一名成功交易者所需要的基础。
-
-
-> you is very time-consuming and difficult, but it gives you the foundation that you need to be a successful trader.
+> I read charts bar by bar and look for any informa-tion that each bar is telling me. They are all import-ant. At the end of every bar, most traders ask them-selves, “What just took place?” With most bars, they conclude that there is nothing worth trading at the moment so it is just not worth the effort to try to understand. Instead, they choose to wait for some clear-er and usually larger pattern. It is as if they believe that the bar did not exist, or they dismiss it as just institutional program activity that is not tradable by an individual trader. They do not feel like they are part of the market at these times, but these times constitute the vast majority of the day. Yet, if they look at the volume, all of those bars that they are ignoring have as much volume as the bars they are using for the bases for their trades. Clearly, a lot of trading is taking place, but they don't understand how that can be and essentially pretend that it does not exist. But that is denying reality. There is always trading taking place, and as a trader, you owe it to yourself to understand why it's taking place and to figure out a way to make money off of it. Learning what the market is telling you is very time-consuming and difficult, but it gives you the foundation that you need to be a successful trader.
 
 
 大多数讲蜡烛图的书，读者读的时候会觉得非得把各种形态背下来不可；我这套三本书不一样，它讲的是：为什么某些形态对交易者来说是可靠的建仓形态。书中用到的有些词，对市场技术分析师有特定的含义，对交易者却是另外的意思；而我完全是站在交易者的角度来写这本书的。我确信，很多交易者早已懂得这几本书里的一切，只是他们大概不会用我这样的方式来描述价格行为。成功的交易者之间没有秘密；他们都认得那些常见的建仓形态，很多人还给每一个形态起了自己的名字。他们几乎都在同一时间买进卖出，抓同一批波段，而每个人进场都有各自的理由。很多人凭直觉交易价格行为，从不觉得有必要说清楚某个建仓形态为什么有效。我希望他们读到我对于价格行为的理解与视角时觉得有意思，也希望这能给他们一些启发，让他们本已成功的交易更上一层楼。
 
 
-> Unlike most books on candle charts where the ma- jority of readers feel compelled to memorize patterns, these three books of mine provide a rationale for why particular patterns are reliable setups for traders. Some of the terms used have specific meaning to mar- ket technicians but different meanings to traders, and I am writing this entirely from a trader's perspective. I am certain that many traders already understand everything in these books, but likely wouldn't describe price action in the same way that I do. There are no secrets among successful traders; they all know com- mon setups, and many have their own names for each one. All of them are buying and selling pretty much at the same time, catching the same swings, and they all have their own reasons for getting into a trade. Many trade price action intuitively without ever feeling a need to articulate why a certain setup works. I hope that they enjoy reading my understanding of and per- spective on price action and that this gives them some insights that will improve their already successful trading.
+> Unlike most books on candle charts where the majority of readers feel compelled to memorize patterns, these three books of mine provide a rationale for why particular patterns are reliable setups for traders. Some of the terms used have specific meaning to mar-ket technicians but different meanings to traders, and I am writing this entirely from a trader's perspective. I am certain that many traders already understand everything in these books, but likely wouldn't describe price action in the same way that I do. There are no secrets among successful traders; they all know com-mon setups, and many have their own names for each one. All of them are buying and selling pretty much at the same time, catching the same swings, and they all have their own reasons for getting into a trade. Many trade price action intuitively without ever feeling a need to articulate why a certain setup works. I hope that they enjoy reading my understanding of and perspective on price action and that this gives them some insights that will improve their already successful trading.
 
 
-大多数交易者的目标，是通过一种与自己
+大多数交易者的目标，是通过一种与自己个性相契合的风格，把交易利润最大化。我认为，没有这种契合，几乎就不可能长期稳定地盈利。很多交易者都想知道自己要多久才能成功，也愿意在一段时间里亏钱，甚至亏上几年。然而，我花了10年以上才能够成功交易。我们每个人身上都有许多需要顾及的事和让人分心的东西，所以时间长短因人而异；但一名交易者必须跨过大部分障碍，才能做到稳定盈利。我自己有几个必须先解决的大问题，其中之一是抚养三个可爱的女儿——她们总让我脑子里装满对她们的牵挂，以及作为父亲我该做的事。随着她们长大、越来越独立，这个问题解决了。接着，我又花了很长时间，才接受自己身上的许多性格特点就是如此、改不了（至少我得出结论：我不愿意去改它们）。最后还有信心这个问题。我向来在太多事情上自信到近乎傲慢，认识我的人要是知道信心对我是个难题，都会感到意外。然而在内心深处，我真的相信自己永远也拿不出一套能在很多年里乐在其中、又能稳定盈利的方法。于是，我买了很多系统，编写并测试了数不清的指标与系统，读了很多书和杂志，还去参加过研讨会，请过辅导老师，也加入过聊天室。我跟那些自称是成功交易者的人聊过，但我从没看到过他们的账户对账单；我怀疑他们大多数人能教，却几乎没有几个真能交易。在交易这行里通常是这样：懂的人不说，说的人不懂。
 
 
-> The goal for most traders is to maximize trading profits through a style that is compatible with their
-
-
-个性相契合的风格，把交易利润最大化。我认为，没有这种契合，几乎就不可能长期稳定地盈利。很多交易者都想知道自己要多久才能成功，也愿意在一段时间里亏钱，甚至亏上几年。然而，我花了10年以上才能够成功交易。我们每个人身上都有许多需要顾及的事和让人分心的东西，所以时间长短因人而异；但一名交易者必须跨过大部分障碍，才能做到稳定盈利。我自己有几个必须先解决的大问题，其中之一是抚养三个可爱的女儿——她们总让我脑子里装满对她们的牵挂，以及作为父亲我该做的事。随着她们长大、越来越独立，这个问题解决了。接着，我又花了很长时间，才接受自己身上的许多性格特点就是如此、改不了（至少我得出结论：我不愿意去改它们）。最后还有信心这个问题。我向来在太多事情上自信到近乎傲慢，认识我的人要是知道信心对我是个难题，都会感到意外。然而在内心深处，我真的相信自己永远也拿不出一套能在很多年里乐在其中、又能稳定盈利的方法。于是，我买了很多系统，编写并测试了数不清的指标与系统，读了很多书和杂志，还去参加过
-
-
-> personalities. Without that compatibility, I believe that it is virtually impossible to trade profitably for the long term. Many traders wonder how long it will take them to be successful and are willing to lose money for some period of time, even a few years. However, it took me over 10 years to be able to trade successfully. Each of us has many considerations and distractions, so the time will vary, but a trader has to work though most obstacles before becoming consistently profit- able. I had several major problems that had to be cor- rected, including raising three wonderful daughters who always filled my mind with thoughts of them and what I needed to be doing as their father. That was solved as they got older and more independent. Then it took me a long time to accept many personality traits as real and unchangeable (or at least I con- cluded that I was unwilling to change them). And fi- nally there was the issue of confidence. I have always been confident to the point of arrogance in so many things that those who know me would be surprised that this was difficult for me. However, deep inside I believed that I really would never come up with a con- sistently profitable approach that I would enjoy em- ploying for many years. Instead, I bought many sys- tems, wrote and tested countless indicators and sys- tems, read many books and magazines, went to
-
-
-研讨会，请过辅导老师，也加入过聊天室。我跟那些自称是成功交易者的人聊过，但我从没看到过他们的账户对账单；我怀疑他们大多数人能教，却几乎没有几个真能交易。在交易这行里通常是这样：懂的人不说，说的人不懂。
-
-
-> seminars, hired tutors, and joined chat rooms. I talked with people who presented themselves as suc- cessful traders, but I never saw their account state- ments and suspect that most could teach but few, if any, could trade. Usually in trading, those who know don't talk and those who talk don't know.
+> The goal for most traders is to maximize trading profits through a style that is compatible with their personalities. Without that compatibility, I believe that it is virtually impossible to trade profitably for the long term. Many traders wonder how long it will take them to be successful and are willing to lose money for some period of time, even a few years. However, it took me over 10 years to be able to trade successfully. Each of us has many considerations and distractions, so the time will vary, but a trader has to work though most obstacles before becoming consistently profit-able. I had several major problems that had to be corrected, including raising three wonderful daughters who always filled my mind with thoughts of them and what I needed to be doing as their father. That was solved as they got older and more independent. Then it took me a long time to accept many personality traits as real and unchangeable (or at least I con-cluded that I was unwilling to change them). And fi-nally there was the issue of confidence. I have always been confident to the point of arrogance in so many things that those who know me would be surprised that this was difficult for me. However, deep inside I believed that I really would never come up with a consistently profitable approach that I would enjoy employing for many years. Instead, I bought many sys-tems, wrote and tested countless indicators and sys-tems, read many books and magazines, went to seminars, hired tutors, and joined chat rooms. I talked with people who presented themselves as successful traders, but I never saw their account state-ments and suspect that most could teach but few, if any, could trade. Usually in trading, those who know don't talk and those who talk don't know.
 
 
 这些经历全都极其有用，因为它让我看清了在成功之前需要避开的每一件事。任何不做交易的人只要看一眼走势图，都会无一例外地得出结论：交易一定极其容易——而这正是它的吸引力之一。收盘之后，任何人都能看着任何一张图，清清楚楚地指出入场点和离场点。然而，要在实时行情中做到这一点，就难得多。人有一种天然的倾向：想买在最低点，而且希望这笔交易再也不回头。一旦它回头了，新手会为了躲开更大的亏损而认赔，结果是一连串亏损交易，最终让交易者爆仓。用宽止损可以在一定程度上解决这个问题，但交易者总会很快撞上几笔大亏，把自己打到亏损，然后吓得再也不敢用那种做法。
 
 
-> This was all extremely helpful because it showed all of the things that I needed to avoid before becoming successful. Any nontrader who looks at a chart will in- variably conclude that trading has to be extremely easy, and that is part of the appeal. At the end of the day, anyone can look at any chart and see very clear entry and exit points. However, it is much more diffi- cult to do it in real time. There is a natural tendency to want to buy the exact low and never have the trade come back. If it does, a novice will take the loss to avoid a bigger loss, resulting in a series of losing trades that will ultimately bust the trader's account. Using wide stops solves that to some extent, but in- variably traders will soon hit a few big losses that will put them into the red and make them too scared to continue using that approach.
+> This was all extremely helpful because it showed all of the things that I needed to avoid before becoming successful. Any nontrader who looks at a chart will in-variably conclude that trading has to be extremely easy, and that is part of the appeal. At the end of the day, anyone can look at any chart and see very clear entry and exit points. However, it is much more diffi-cult to do it in real time. There is a natural tendency to want to buy the exact low and never have the trade come back. If it does, a novice will take the loss to avoid a bigger loss, resulting in a series of losing trades that will ultimately bust the trader's account. Using wide stops solves that to some extent, but in-variably traders will soon hit a few big losses that will put them into the red and make them too scared to continue using that approach.
 
 
-你是否会担心：把这些书里的信息公之于众，会造就出大量优秀的价格行为交易者，他们在同一时间做同样的事，从而让那些
+你是否会担心：把这些书里的信息公之于众，会造就出大量优秀的价格行为交易者，他们在同一时间做同样的事，从而让那些把市场推到你目标价位所需的迟到的入场者不复存在？不会。因为机构控制着市场，而它们已经拥有世界上最聪明的交易者，这些交易者早已懂得这几本书里的一切——至少凭直觉就懂。每一个时刻，都有一位极聪明的机构多头，在做一位极聪明的机构空头所下那张单子的对手方。既然最重要的玩家已经懂价格行为，再多一些玩家懂它，也不会让天平朝任何一边倾斜。因此我一点也不担心我写的东西会让价格行为失效。正是由于这种平衡，任何人拥有的优势永远都会极其微小；而不管一个人读图读得多好，任何一个小错误都会带来亏损。虽然不理解价格行为就很难靠交易赚钱，但仅仅有这份理解也还不够。交易者在学会读图之后，还要花很长时间才能学会交易，而交易的难度和读图一样大。我写这几本书，是为了帮人们把图读得更好、把交易做得更好；如果你这两样都能做好，那么从别人的账户里把钱拿进你自己的账户，就是你应得的。
 
 
-> Should you be concerned that making the informa- tion in these books available will create lots of great price action traders, all doing the same thing at the same time, thereby removing the late entrants needed
+> Should you be concerned that making the informa-tion in these books available will create lots of great price action traders, all doing the same thing at the same time, thereby removing the late entrants needed to drive the market to your price target? No, because the institutions control the market and they already have the smartest traders in the world and those traders already know everything in these books, at least intuitively. At every moment, there is an extremely smart institutional bull taking the opposite side of the trade being placed by an extremely smart institutional bear. Since the most important players already know price action, having more players know it will not tip the balance one way or the other. I therefore have no concern that what I am writing will stop price action from working. Because of that bal-ance, any edge that anyone has is always going to be extremely small, and any small mistake will result in a loss, no matter how well a person reads a chart. Al-though it is very difficult to make money as a trader without understanding price action, that knowledge alone is not enough. It takes a long time to learn how to trade after a trader learns to read charts, and trad-ing is just as difficult as chart reading. I wrote these books to help people learn to read charts better and to trade better, and if you can do both well, you deserve to be able to take money from the accounts of others and put it into yours.
 
 
-把市场推到你目标价位所需的迟到的入场者不复存在？不会。因为机构控制着市场，而它们已经拥有世界上最聪明的交易者，这些交易者早已懂得这几本书里的一切——至少凭直觉就懂。每一个时刻，都有一位极聪明的机构多头，在做一位极聪明的机构空头所下那张单子的对手方。既然最重要的玩家已经懂价格行为，再多一些玩家懂它，也不会让天平朝任何一边倾斜。因此我一点也不担心我写的东西会让价格行为失效。正是由于这种平衡，任何人拥有的优势永远都会极其微小；而不管一个人读图读得多好，任何一个小错误都会带来亏损。虽然不理解价格行为就很难靠交易赚钱，但仅仅有这份理解也还不够。交易者在学会读图之后，还要花很长时间才能学会交易，而交易的难度和读图一样大。我写这几本书，是为了帮人们把图读得更好、把交易做得更好；如果你这两样都能做好，那么从别人的账户里把钱拿进你自己的账户，就是你应得的。
+我们所有人都看到的这些形态，之所以会按照它们的方式展开，是因为那就是在一个有效的市场里会呈现出来的样子——无数交易者出于成千上万个不同的理由下单，而真正主导市场的那部分成交量，却是依据站得住脚的逻辑做出来的。它就长这个样子，而且从来都是这个样子。同样的形态会在全世界所有市场、所有时间级别上展开；要想在这么多不同的层面上瞬间同时操纵这一切，根本不可能。价格行为是人类行为的一种表现，因此实际上有着遗传学上的基础。除非我们进化，它很可能基本保持不变，就像在我查看过的80年走势图里，它一直没变过一样。程序交易也许让它的外观略有改变，尽管我找不到任何证据支持这个说法。真要说的话，它应该会让走势图更平滑，因为它不带情绪，而且它大幅增加了成交量。既然现在大部分成交量都由计算机自动交易完成、而且体量如此巨大，不理性、情绪化的行为在市场里只是微不足道的一小部分，走势图也就成了人类倾向更纯粹的表达。
 
 
-> to drive the market to your price target? No, because the institutions control the market and they already have the smartest traders in the world and those traders already know everything in these books, at least intuitively. At every moment, there is an ex- tremely smart institutional bull taking the opposite side of the trade being placed by an extremely smart institutional bear. Since the most important players already know price action, having more players know it will not tip the balance one way or the other. I therefore have no concern that what I am writing will stop price action from working. Because of that bal- ance, any edge that anyone has is always going to be extremely small, and any small mistake will result in a loss, no matter how well a person reads a chart. Al- though it is very difficult to make money as a trader without understanding price action, that knowledge alone is not enough. It takes a long time to learn how to trade after a trader learns to read charts, and trad- ing is just as difficult as chart reading. I wrote these books to help people learn to read charts better and to trade better, and if you can do both well, you deserve to be able to take money from the accounts of others and put it into yours.
+> The reason why the patterns that we all see do un-fold as they do is because that is the appearance that occurs in an efficient market with countless traders placing orders for thousands of different reasons, but with the controlling volume being traded based on sound logic. That is just what it looks like, and it has been that way forever. The same patterns unfold in all time frames in all markets around the world, and it would simply be impossible for all of it to be manipulated instantaneously on so many different levels. Price action is a manifestation of human behavior and therefore actually has a genetic basis. Until we evolve, it will likely remain largely unchanged, just as it has been unchanged for the 80 years of charts that I have reviewed. Program trading might have changed the appearance slightly, although I can find no evidence to support that theory. If anything, it would make the charts smoother because it is unemotional and it has greatly increased the volume. Now that most of the volume is being traded automatically by computers and the volume is so huge, irrational and emotional behavior is an insignificant component of the markets and the charts are a purer expression of human tendencies.
 
 
-我们所有人都看到的这些形态，之所以会按照它们的方式展开，是因为那就是
+既然价格行为来自我们的 DNA，它在我们进化之前不会改变。当你看到图 I.1中的那两张图时，你的第一反应会是：它们不过是两张普通的图；但请看看最下方的日期。这两张周线道琼斯工业平均指数图，分别来自大萧条时期和第二次世界大战期间；它们上面的形态，与今天我们在所有图上看到的完全一样，尽管今天的大部分成交量是由计算机完成的。
 
 
-> The reason why the patterns that we all see do un- fold as they do is because that is the appearance that
+> Since price action comes from our DNA, it will not change until we evolve. When you look at the two charts in Figure I.1, your first reaction is that they are just a couple of ordinary charts, but look at the dates at the bottom. These weekly Dow Jones Industrial Average charts from the Depression era and from World War II have the same patterns that we see today on all charts, despite most of today's volume be-ing traded by computers.
 
 
-在一个有效的市场里会呈现出来的样子——无数交易者出于成千上万个不同的理由下单，而真正主导市场的那部分成交量，却是依据站得住脚的逻辑做出来的。它就长这个样子，而且从来都是这个样子。同样的形态会在全世界所有市场、所有时间级别上展开；要想在这么多不同的层面上瞬间同时操纵这一切，根本不可能。价格行为是人类行为的一种表现，因此实际上有着遗传学上的基础。除非我们进化，它很可能基本保持不变，就像在我查看过的80年走势图里，它一直没变过一样。程序交易也许让它的外观略有改变，尽管我找不到任何证据支持这个说法。真要说的话，它应该会让走势图更平滑，因为它不带情绪，而且它大幅增加了成交量。既然现在大部分成交量都由计算机自动交易完成、而且体量如此巨大，不理性、情绪化的行为在市场里只是微不足道的一小部分，走势图也就成了人类倾向更纯粹的表达。
+![图 I.1](figures/fig-I-1.jpg)
 
 
-> occurs in an efficient market with countless traders placing orders for thousands of different reasons, but with the controlling volume being traded based on sound logic. That is just what it looks like, and it has been that way forever. The same patterns unfold in all time frames in all markets around the world, and it would simply be impossible for all of it to be manipu- lated instantaneously on so many different levels. Price action is a manifestation of human behavior and therefore actually has a genetic basis. Until we evolve, it will likely remain largely unchanged, just as it has been unchanged for the 80 years of charts that I have reviewed. Program trading might have changed the appearance slightly, although I can find no evidence to support that theory. If anything, it would make the charts smoother because it is unemotional and it has greatly increased the volume. Now that most of the volume is being traded automatically by computers and the volume is so huge, irrational and emotional behavior is an insignificant component of the markets and the charts are a purer expression of human tendencies.
+**图 I.1　价格行为历久不变**
 
 
-既然价格行为来自我们的 DNA，它在我们进化之前不会改变。当你看到图 I.1中的那两张图时，你的第一反应会是：它们不过是两张普通的图；但请看看
+如果所有人突然都变成价格行为刮头皮交易者，那些较小的形态可能会在一段时间里略有改变；但时间一长，有效市场终究会胜出，所有交易者的投票会被蒸馏成标准的价格行为形态，因为那是无数人按逻辑行事时逃不掉的结果。此外，现实是：要把交易做好非常难；尽管以价格行为作为交易依据是一种合理的方法，但要在实时行情中成功地做下来，仍然非常难。不会有足够多的交易者在同一时间都做得足够好，以至于能在长期里对这些形态产生什么显著影响。看看 Edwards 和 Magee 就知道了。世界上最优秀的交易者使用他们的那些理念已经几十年了，而这些理念依然管用，原因还是同一个——走势图之所以长成那样，是因为它是一个有效市场改不掉的指纹：无数聪明人用着数不清的方法和时间级别，全都想尽可能多赚钱。举个例子，泰格·伍兹在高尔夫上并没有藏着什么秘密，任何人都可以自由地模仿他。然而，很少有人打高尔夫能打到足以靠它谋生的水平。交易也是一样。一名交易者可以把该知道的几乎一切都弄懂，却仍然亏钱，因为把所有这些知识以能够稳定赚钱的方式运用出来，是非常困难的。
 
 
-> Since price action comes from our DNA, it will not change until we evolve. When you look at the two charts in Figure I.1, your first reaction is that they are just a couple of ordinary charts, but look at the dates
+> If everyone suddenly became a price action scalper, the smaller patterns might change a little for a while, but over time, the efficient market will win out and the votes by all traders will get distilled into standard price action patterns because that is the inescapable result of countless people behaving logically. Also, the reality is that it is very difficult to trade well, and al-though basing trades on price action is a sound approach, it is still very difficult to do successfully in real time. There just won't be enough traders doing it well enough, all at the same time, to have any signific-ant influence over time on the patterns. Just look at Edwards and Magee. The best traders in the world have been using those ideas for decades and they continue to work, again for the same reason—charts look the way they do because that is the unchangeable fingerprint of an efficient market filled with a huge num-ber of smart people using a huge number of approaches and time frames, all trying to make the most money that they can. For example, Tiger Woods is not hiding anything that he does in golf, and anyone is free to copy him. However, very few people can play golf well enough to make a living at it. The same is true of trading. A trader can know just about everything there is to know and still lose money be-cause applying all that knowledge in a way that consistently makes money is very difficult to do.
 
 
-最下方的日期。这两张周线道琼斯工业平均指数图，分别来自大萧条时期和第二次世界大战期间；它们上面的形态，与今天我们在所有图上看到的完全一样，尽管今天的大部分成交量是由计算机完成的。
+为什么那么多商学院至今仍在推荐 Edwards 和 Magee——他们的书本质上很简单，主要就是把趋势线、突破和回调作为交易的依据？因为它管用，过去一直管用，将来也永远管用。既然现在几乎所有交易者都有计算机、都能拿到盘中数据，那些技术中有很多都可以被移植到日内交易上。另外，蜡烛图能提供关于谁在控制市场的额外信息，由此带来更及时、风险更小的入场。Edwards 与 Magee 关注的是整体趋势。我使用同样的那些基本技术，但会格外仔细地注意图上的单根K线，以改善风险回报比，同时在盘中图上投入了相当多的关注。
 
 
-> at the bottom. These weekly Dow Jones Industrial Average charts from the Depression era and from World War II have the same patterns that we see today on all charts, despite most of today's volume be- ing traded by computers.
-
-
-**图 I.1价格行为历久不变**
-
-
-> Figure I.1 Price Action Has Not Changed over Time
-
-
-如果所有人突然都变成价格行为刮头皮交易者，那些较小的形态可能会在一段时间里略有改变；但时间一长，有效市场终究会胜出，所有交易者的投票会被蒸馏成标准的价格行为形态，因为那是无数人按逻辑行事时逃不掉的结果。此外，现实是：要把交易做好非常难；尽管以价格行为作为交易依据是一种合理的
-
-
-> If everyone suddenly became a price action scalper, the smaller patterns might change a little for a while, but over time, the efficient market will win out and the votes by all traders will get distilled into standard price action patterns because that is the inescapable result of countless people behaving logically. Also, the reality is that it is very difficult to trade well, and al- though basing trades on price action is a sound
-
-
-方法，但要在实时行情中成功地做下来，仍然非常难。不会有足够多的交易者在同一时间都做得足够好，以至于能在长期里对这些形态产生什么显著影响。看看 Edwards 和 Magee 就知道了。世界上最优秀的交易者使用他们的那些理念已经几十年了，而这些理念依然管用，原因还是同一个——走势图之所以长成那样，是因为它是一个有效市场改不掉的指纹：无数聪明人用着数不清的方法和时间级别，全都想尽可能多赚钱。举个例子，泰格·伍兹在高尔夫上并没有藏着什么秘密，任何人都可以自由地模仿他。然而，很少有人打高尔夫能打到足以靠它谋生的水平。交易也是一样。一名交易者可以把该知道的几乎一切都弄懂，却仍然亏钱，因为把所有这些知识以能够稳定赚钱的方式运用出来，是非常困难的。
-
-
-> approach, it is still very difficult to do successfully in real time. There just won't be enough traders doing it well enough, all at the same time, to have any signific- ant influence over time on the patterns. Just look at Edwards and Magee. The best traders in the world have been using those ideas for decades and they con- tinue to work, again for the same reason—charts look the way they do because that is the unchangeable fin- gerprint of an efficient market filled with a huge num- ber of smart people using a huge number of ap- proaches and time frames, all trying to make the most money that they can. For example, Tiger Woods is not hiding anything that he does in golf, and anyone is free to copy him. However, very few people can play golf well enough to make a living at it. The same is true of trading. A trader can know just about everything there is to know and still lose money be- cause applying all that knowledge in a way that con- sistently makes money is very difficult to do.
-
-
-为什么那么多商学院至今仍在推荐 Edwards 和 Magee——他们的书本质上很简单，主要就是把趋势线、突破和回调作为交易的依据？因为它管用，过去一直管用，将来也永远管用。既然现在几乎所有交易者都有计算机、都能拿到盘中数据，那些技术中有很多都
-
-
-> Why do so many business schools continue to re- commend Edwards and Magee when their book is es- sentially simplistic, largely using trend lines, break- outs, and pullbacks as the basis for trading? It is be- cause it works and it always has and it always will. Now that just about all traders have computers with access to intraday data, many of those techniques can
-
-
-可以被移植到日内交易上。另外，蜡烛图能提供关于谁在控制市场的额外信息，由此带来更及时、风险更小的入场。Edwards 与 Magee 关注的是整体趋势。我使用同样的那些基本技术，但会格外仔细地注意图上的单根K线，以改善风险回报比，同时在盘中图上投入了相当多的关注。
-
-
-> be adapted to day trading. Also, candle charts give ad- ditional information about who is controlling the mar- ket, which results in a more timely entry with smaller risk. Edwards and Magee's focus is on the overall trend. I use those same basic techniques but pay much closer attention to the individual bars on the chart to improve the risk/reward ratio, and I devote considerable attention to intraday charts.
+> Why do so many business schools continue to re-commend Edwards and Magee when their book is essentially simplistic, largely using trend lines, break-outs, and pullbacks as the basis for trading? It is be-cause it works and it always has and it always will. Now that just about all traders have computers with access to intraday data, many of those techniques can be adapted to day trading. Also, candle charts give additional information about who is controlling the mar-ket, which results in a more timely entry with smaller risk. Edwards and Magee's focus is on the overall trend. I use those same basic techniques but pay much closer attention to the individual bars on the chart to improve the risk/reward ratio, and I devote considerable attention to intraday charts.
 
 
 在我看来，道理似乎很明显：如果一个人只要把图读得足够好，就能在行情即将起飞、不再回头的那一精确时刻入场，那么这名交易者就拥有巨大的优势。他的胜率会很高，而少数的亏损也会很小。我决定把这个当作自己的出发点，结果我发现，什么都不需要再加了。事实上，任何添加都是干扰，只会降低盈利能力。这话听上去如此显然、如此容易，以至于大多数人都难以相信。
 
 
-> It seemed obvious to me that if one could simply read the charts well enough to be able to enter at the exact times when the move would take off and not come back, then that trader would have a huge ad- vantage. The trader would have a high winning per- centage, and the few losses would be small. I decided that this would be my starting point, and what I dis- covered was that nothing had to be added. In fact, any additions are distractions that result in lower profit- ability. This sounds so obvious and easy that it is diffi- cult for most people to believe.
+> It seemed obvious to me that if one could simply read the charts well enough to be able to enter at the exact times when the move would take off and not come back, then that trader would have a huge ad-vantage. The trader would have a high winning per-centage, and the few losses would be small. I decided that this would be my starting point, and what I dis-covered was that nothing had to be added. In fact, any additions are distractions that result in lower profit-ability. This sounds so obvious and easy that it is diffi-cult for most people to believe.
 
 
-我是一个日内交易者，完全依靠 Emini 小型合约（标普500股指期货）盘中图上的价格行为；我相信，把价格行为读好，是所有交易者都该有的一项无价技能。而初学者往往相反：他们心底里深信一定还需要别的东西——也许某个很少有人用的复杂数学公式，能恰好给他们那个他们
+我是一个日内交易者，完全依靠 Emini 小型合约（标普500股指期货）盘中图上的价格行为；我相信，把价格行为读好，是所有交易者都该有的一项无价技能。而初学者往往相反：他们心底里深信一定还需要别的东西——也许某个很少有人用的复杂数学公式，能恰好给他们那个他们需要的优势。高盛那么有钱、那么老练，它的交易者想必有一台超级计算机和一套强力软件，能给他们一种优势，从而确保所有个人交易者注定失败。于是他们开始看各种各样的指标，摆弄各种输入参数，把指标调到自己觉得刚刚好。每一个指标在有些时候是管用的，但对我来说，它们是把事情搅浑，而不是讲明白。事实上，你甚至不用看走势图，直接下一个买单，就有50% 的概率是对的！
 
 
-> I am a day trader who relies entirely on price action on the intraday Emini S&P 500 Futures charts, and I believe that reading price action well is an invaluable skill for all traders. Beginners often instead have a deep-seated belief that something more is required, that maybe some complex mathematical formula that very few use would give them just the edge that they
+> I am a day trader who relies entirely on price action on the intraday Emini S&P 500 Futures charts, and I believe that reading price action well is an invaluable skill for all traders. Beginners often instead have a deep-seated belief that something more is required, that maybe some complex mathematical formula that very few use would give them just the edge that they need. Goldman Sachs is so rich and sophisticated that its traders must have a supercomputer and high-powered software that gives them an advantage that ensures that all the individual traders are doomed to failure. They start looking at all kinds of indicators and playing with the inputs to customize the indicators to make them just right. Every indicator works some of the time, but for me, they obfuscate instead of elucidate. In fact, without even looking at a chart, you can place a buy order and have a 50 percent chance of being right!
 
 
-需要的优势。高盛那么有钱、那么老练，它的交易者想必有一台超级计算机和一套强力软件，能给他们一种优势，从而确保所有个人交易者注定失败。于是他们开始看各种各样的指标，摆弄各种输入参数，把指标调到自己觉得刚刚好。每一个指标在有些时候是管用的，但对我来说，它们是把事情搅浑，而不是讲明白。事实上，你甚至不用看走势图，直接下一个买单，就有50% 的概率是对的！
+我否定指标和系统，并不是因为不懂它们的精妙之处。这些年来，我花了10,000多个小时编写和测试指标与系统，这份经验很可能远超大多数人。这段在指标与系统上的丰富经历，是我成为一名成功交易者必不可少的一部分。指标对很多交易者都管用，但最好的结果，出现在交易者找到一种与自己个性相契合的方法之时。我在指标和系统上最大的问题，是我从来没有完全信任过它们。面对每一个建仓形态，我都能看到需要去验证的例外。我总想把市场里的每一分钱都赚到手，只要我能加进一个新花样让它变得更好，就永远不会对系统给出的回报感到满意。你可以不停地优化，但由于市场总是在强趋势和窄幅交易区间之间来回切换，而你的优化又建立在近期发生的情况之上，所以当市场转入一个新阶段时，那些优化很快就会失效。我这个人就是控制欲太强、太强迫、坐不住、太爱观察、又不轻信，实在不适合靠指标或自动化系统长期赚钱；不过我在很多方面都处于极端，大多数人并没有我这些问题。
 
 
-> need. Goldman Sachs is so rich and sophisticated that its traders must have a supercomputer and high- powered software that gives them an advantage that ensures that all the individual traders are doomed to failure. They start looking at all kinds of indicators and playing with the inputs to customize the indicat- ors to make them just right. Every indicator works some of the time, but for me, they obfuscate instead of elucidate. In fact, without even looking at a chart, you can place a buy order and have a 50 percent chance of being right!
+> I am not dismissing indicators and systems out of ignorance of their subtleties. I have spent over 10,000 hours writing and testing indicators and systems over the years, and that probably is far more experience than most have. This extensive experience with indicators and systems was an essential part of my becom-ing a successful trader. Indicators work well for many traders, but the best success comes once a trader finds an approach that is compatible with his or her person-ality. My single biggest problem with indicators and systems was that I never fully trusted them. At every setup, I saw exceptions that needed to be tested. I al-ways wanted every last penny out of the market and was never satisfied with a return from a system if I could incorporate a new twist that would make it better. You can optimize constantly, but, since the market is always changing from strong trends to tight trading ranges and then back again and your optimizations are based on what has recently happened, they will soon fail as the market transitions into a new phase. I am simply too controlling, compulsive, rest-less, observant, and untrusting to make money in the long term off indicators or automated systems, but I am at the extreme in many ways and most people don't have these same issues.
 
 
-我否定指标和系统，并不是因为不懂它们的精妙之处。这些年来，我花了10,000多个小时编写和测试指标与系统，这份经验很可能远超大多数人。这段在指标与系统上的丰富经历，是我成为一名成功交易者必不可少的一部分。指标对很多交易者都管用，但最好的结果，出现在交易者找到一种与自己个性相契合的方法之时。我在指标和系统上最大的问题，是我从来没有完全信任过它们。面对每一个建仓形态，我都能看到需要去验证的例外。我总想把市场里的每一分钱都赚到手，只要我能加进一个新花样让它变得
+很多交易者，尤其是初学者，会被指标吸引（或者是别的更高力量、大师、电视评论员、投资通讯——他们宁愿相信这些东西会保护他们，并通过给他们大笔的钱，来表达对他们这些人的喜爱与认可），指望某个指标会告诉他们什么时候该入场。他们没有意识到的是：绝大多数指标本身就是建立在简单的价格行为之上；而在我下单的时候，我根本来不及想清楚好几个指标可能同时在告诉我什么。如果一段多头趋势之后是一次回调，随后上涨到一个新高，但这轮上涨里有大量重叠的K线、很多阴线实体、几次小幅回调，还有K线顶部显眼的影线，那么任何有经验的交易者都会看出：这是对趋势高点一次疲弱的测试，而这种事本不该发生如果多头趋势依然强劲的话。市场几乎可以肯定正在转入交易区间，还有可能转入空头趋势。交易者不需要一个摆动指标来告诉自己这件事。另外，摆动指标往往会让交易者去找反转，而较少关注价格走势图。在市场当天有两三次持续一小时以上的反转时，这些工具在大多数日子里都可以是有效的。问题出在市场正在强劲地走趋势的时候。如果你太专注于自己的指标，你会看到它们整天都在形成背离，而你可能发现自己一次又一次逆势入场、不断亏钱。等到你终于接受市场正在走趋势时，当天剩下的时间已经不够你把亏损捞回来了。反过来，如果你看的只是一张K线图或蜡烛图，你就会看到市场明显正在走趋势，也不会被指标诱惑着去找趋势反转。最常见的成功反转，是先以强劲的动量突破一条趋势线，然后回调去测试原来的极值；如果交易者太专注于背离，就常常会忽略这个基本事实。在一次背离出现时下单，而此前并没有一轮突破趋势线的逆势动量冲击，那是一种亏钱的策略。等趋势线被突破之后，再看这次对原有极值的测试是反转了，还是原来的趋势又恢复了。你不需要一个指标来告诉你：这里的强反转是一笔高概率的交易，至少对刮头皮来说是这样；而且几乎可以肯定会出现一个背离——那么，为什么还要把指标加进你的盘算，让自己的思路变复杂呢？
 
 
-> I am not dismissing indicators and systems out of ignorance of their subtleties. I have spent over 10,000 hours writing and testing indicators and systems over the years, and that probably is far more experience than most have. This extensive experience with indic- ators and systems was an essential part of my becom- ing a successful trader. Indicators work well for many traders, but the best success comes once a trader finds an approach that is compatible with his or her person- ality. My single biggest problem with indicators and systems was that I never fully trusted them. At every setup, I saw exceptions that needed to be tested. I al- ways wanted every last penny out of the market and was never satisfied with a return from a system if I could incorporate a new twist that would make it
+> Many traders, especially beginners, are drawn to indicators (or any other higher power, guru, TV pun-dit, or newsletter that they want to believe will protect them and show their love and approval of them as hu-man beings by giving them lots of money), hoping that an indicator will show them when to enter a trade. What they don't realize is that the vast majority of indicators are based on simple price action, and when I am placing trades, I simply cannot think fast enough to process what several indicators might be telling me. If there is a bull trend, a pullback, and then a rally to a new high, but the rally has lots of overlap-ping bars, many bear bodies, a couple of small pull-backs, and prominent tails on the tops of the bars, any experienced trader would see that it is a weak test of the trend high and that this should not be happening if the bull trend was still strong. The market is almost certainly transitioning into a trading range and pos-sibly into a bear trend. Traders don't need an oscillator to tell them this. Also, oscillators tend to make traders look for reversals and focus less on price charts. These can be effective tools on most days when the market has two or three reversals lasting an hour or more. The problem comes when the market is trending strongly. If you focus too much on your indicators, you will see that they are forming divergences all day long and you might find yourself repeatedly entering countertrend and losing money. By the time you come to accept that the market is trend-ing, you will not have enough time left in the day to recoup your losses. Instead, if you were simply look-ing at a bar or candle chart, you would see that the market is clearly trending and you would not be temp-ted by indicators to look for trend reversals. The most common successful reversals first break a trend line with strong momentum and then pull back to test the extreme, and if traders focus too much on divergences, they will often overlook this fundamental fact. Placing a trade because of a divergence in the absence of a prior countertrend momentum surge that breaks a trend line is a losing strategy. Wait for the trend line break and then see if the test of the old extreme reverses or if the old trend resumes. You do not need an indicator to tell you that a strong reversal here is a high-probability trade, at least for a scalp, and there will almost certainly be a divergence, so why complicate your thinking by adding the indicator to your calculus?
 
 
-更好，就永远不会对系统给出的回报感到满意。你可以不停地优化，但由于市场总是在强趋势和窄幅交易区间之间来回切换，而你的优化又建立在近期发生的情况之上，所以当市场转入一个新阶段时，那些优化很快就会失效。我这个人就是控制欲太强、太强迫、坐不住、太爱观察、又不轻信，实在不适合靠指标或自动化系统长期赚钱；不过我在很多方面都处于极端，大多数人并没有我这些问题。
+有些评论人士会推荐把时间级别、指标、波浪计数以及斐波那契回撤与扩展组合起来用，可真到了下单的时候，他们只有在出现一个良好的价格行为建仓形态时才会动手。而且，当他们看到一个良好的价格行为建仓形态时，又会开始去找显示背离的指标、用来测试移动平均线的不同时间级别、波浪计数或者斐波那契结构，来确认眼前已经看到的东西。实际上，他们就是价格行为交易者，只在一张图上、完全依据价格行为交易，只是不愿意承认这一点。他们把交易搞得复杂到自己肯定会错过很多很多次交易，因为过度分析让他们下单花的时间太长，只能被迫去等下一个建仓形态。把简单的事弄得这么复杂，逻辑上根本说不通。很明显，加入任何信息都有可能带来更好的决策，很多人在决定是否下单时也许能够处理大量输入。仅仅出于一种简单化的理念就去忽视各种数据，是愚蠢的做法。目标是赚钱，交易者应当竭尽所能把自己的利润最大化。只是在精确下单所需要的那点时间里，我处理不好多个指标和时间级别；而对我来说，仔细读好一张图要划算得多。另外，如果我依赖指标，我就会发现自己在读价格行为时变懒了，常常漏掉显而易见的东西。价格行为远比其他任何信息都重要；如果你为了从别处获得信息，而牺牲掉价格行为正在告诉你的某些东西，那你很可能正在做一个糟糕的决定。
 
 
-> better. You can optimize constantly, but, since the market is always changing from strong trends to tight trading ranges and then back again and your optimiz- ations are based on what has recently happened, they will soon fail as the market transitions into a new phase. I am simply too controlling, compulsive, rest- less, observant, and untrusting to make money in the long term off indicators or automated systems, but I am at the extreme in many ways and most people don't have these same issues.
+> Some pundits recommend a combination of time frames, indicators, wave counting, and Fibonacci re-tracements and extensions, but when it comes time to place the trade, they will do it only if there is a good price action setup. Also, when they see a good price action setup, they start looking for indicators that show divergences, different time frames for moving average tests, wave counts, or Fibonacci setups to con-firm what is in front of them. In reality, they are price action traders who are trading exclusively off price ac-tion on only one chart but don't feel comfortable ad-mitting it. They are complicating their trading to the point that they certainly are missing many, many trades because their overanalysis takes too much time for them to place their orders and they are forced to wait for the next setup. The logic just isn't there for making the simple so complicated. Obviously, adding any information can lead to better decision making and many people might be able to process lots of in-puts when deciding whether to place a trade. Ignoring data because of a simplistic ideology alone is foolish. The goal is to make money, and traders should do everything they can to maximize their profits. I simply cannot process multiple indicators and time frames well in the time needed to place my orders accurately, and I find that carefully reading a single chart is far more profitable for me. Also, if I rely on indicators, I find that I get lazy in my price action reading and of-ten miss the obvious. Price action is far more import-ant than any other information, and if you sacrifice some of what it is telling you to gain information from something else, you are likely making a bad decision.
 
 
-很多交易者，尤其是初学者，会被指标吸引（或者是别的更高力量、大师、电视评论员、投资通讯——他们宁愿相信这些东西会保护他们，并通过给他们大笔的钱，来表达对他们这些人的喜爱与认可），指望某个指标会告诉他们什么时候该入场。他们没有意识到的是：绝大多数指标本身就是建立在简单的价格行为之上；而在我下单的时候，我根本来不及想清楚好几个指标可能同时在告诉我什么。如果一段多头趋势之后是一次回调，随后上涨到一个新高，但这轮上涨里有大量重叠的K线、很多阴线实体、几次小幅回调，还有K线顶部显眼的影线，那么任何有经验的交易者都会看出：这是对趋势高点一次疲弱的测试，而这种事本不该发生
+对刚起步的交易者来说，最令人沮丧的事情之一是：一切都很主观。他们想找到一套清晰的规则，保证能赚钱；他们痛恨一个形态今天管用、明天就失灵。市场非常有效，因为你面对的是无数非常聪明的人在一起玩零和博弈。一名交易者要想赚钱，就必须稳定地胜过其他交易者中大约一半的人。由于大多数对手都是能盈利的机构，交易者必须非常优秀才行。只要存在某种优势，它很快就会被发现、然后消失。记住，总得有人站在你交易的另一边。他们要弄清你那套神奇的系统并不需要多久，而一旦他们弄明白了，他们就不会再给你送钱了。交易的一部分吸引力，正在于它是一场优势极其微小的零和博弈；能够看出并抓住这些微小而转瞬即逝的机会，既让人在智识上满足，也在金钱上有回报。这件事做得成，但它需要极其艰苦的努力和毫不放松的纪律。纪律，无非就是去做你不想做的事。我们都有求知欲，也都有尝试新事物、不同事物的天然倾向，但最优秀的交易者能抵制这种诱惑。你必须守住自己的规则、避开情绪，还必须耐心等待，只做最好的那些交易。收盘之后看着一张印出来的走势图时，这一切看上去都很容易做到；但在实时行情里一根K线一根K线地等、有时一小时又一小时地等，就非常难。一个极好的建仓形态一旦出现，如果你分了心，或者被安逸磨掉了警觉，你就会错过它，然后被迫等得更久。但如果你能培养出耐心和纪律，去遵循一套合理的系统，利润的潜力是巨大的。
 
 
-> Many traders, especially beginners, are drawn to indicators (or any other higher power, guru, TV pun- dit, or newsletter that they want to believe will protect them and show their love and approval of them as hu- man beings by giving them lots of money), hoping that an indicator will show them when to enter a trade. What they don't realize is that the vast majority of indicators are based on simple price action, and when I am placing trades, I simply cannot think fast enough to process what several indicators might be telling me. If there is a bull trend, a pullback, and then a rally to a new high, but the rally has lots of overlap- ping bars, many bear bodies, a couple of small pull- backs, and prominent tails on the tops of the bars, any experienced trader would see that it is a weak test of the trend high and that this should not be happening
+> One of the most frustrating things for traders when they are starting out is that everything is so subjective. They want to find a clear set of rules that guarantee a profit, and they hate how a pattern works on one day but fails on another. Markets are very efficient be-cause you have countless very smart people playing a zero-sum game. For a trader to make money, he has to be consistently better than about half of the other traders out there. Since most of the competitors are profitable institutions, a trader has to be very good. Whenever an edge exists, it is quickly discovered and it disappears. Remember, someone has to be taking the opposite side of your trade. It won't take them long to figure out your magical system, and once they do, they will stop giving you money. Part of the appeal of trading is that it is a zero-sum game with very small edges, and it is intellectually satisfying and financially rewarding to be able to spot and capitalize on these small, fleeting opportunities. It can be done, but it is very hard work and it requires relentless discipline. Discipline simply means doing what you do not want to do. We are all intellectually curious and we have a natural tendency to try new or different things, but the very best traders resist the temptation. You have to stick to your rules and avoid emotion, and you have to patiently wait to take only the best trades. This all appears easy to do when you look at a printed chart at the end of the day, but it is very difficult in real time as you wait bar by bar, and sometimes hour by hour. Once a great setup appears, if you are distracted or lulled into complacency, you will miss it and you will then be forced to wait even longer. But if you can develop the patience and the discipline to follow a sound system, the profit potential is huge.
 
 
-如果多头趋势依然强劲的话。市场几乎可以肯定正在转入交易区间，还有可能转入空头趋势。交易者不需要一个摆动指标来告诉自己这件事。另外，摆动指标往往会让交易者去找反转，而较少关注价格走势图。在市场当天有两三次持续一小时以上的反转时，这些工具在大多数日子里都可以是有效的。问题出在市场正在强劲地走趋势的时候。如果你太专注于自己的指标，你会看到它们整天都在形成背离，而你可能发现自己一次又一次逆势入场、不断亏钱。等到你终于接受市场正在走趋势时，当天剩下的时间已经不够你把亏损捞回来了。反过来，如果你看的只是一张K线图或蜡烛图，你就会看到市场明显正在走趋势，也不会被指标诱惑着去找趋势反转。最常见的成功反转，是先以强劲的动量突破一条趋势线，然后回调去测试原来的极值；如果交易者太专注于背离，就常常会忽略这个基本事实。在一次背离出现时下单，而此前并没有一轮突破趋势线的逆势动量冲击，那是一种亏钱的策略。等趋势线被突破之后，再看这次对原有极值的测试
+交易股票和 Emini 小型合约的赚钱方法数不胜数，但它们全都需要市场有波动（嗯，做空期权除外）。如果你学会读图，你每天都能抓住很多这样的赚钱机会，而完全不需要知道某家机构为什么启动了那轮趋势，也完全不需要知道任何指标在显示什么。你不需要这些机构的软件或分析师，因为它们会把正在做的事展示给你看。你要做的，只是搭机构便车，就能赚到利润。价格行为会告诉你它们在做什么，并让你能用很小的止损实现更早的入场。
 
 
-> if the bull trend was still strong. The market is almost certainly transitioning into a trading range and pos- sibly into a bear trend. Traders don't need an oscillat- or to tell them this. Also, oscillators tend to make traders look for reversals and focus less on price charts. These can be effective tools on most days when the market has two or three reversals lasting an hour or more. The problem comes when the market is trending strongly. If you focus too much on your in- dicators, you will see that they are forming diver- gences all day long and you might find yourself re- peatedly entering countertrend and losing money. By the time you come to accept that the market is trend- ing, you will not have enough time left in the day to recoup your losses. Instead, if you were simply look- ing at a bar or candle chart, you would see that the market is clearly trending and you would not be temp- ted by indicators to look for trend reversals. The most common successful reversals first break a trend line with strong momentum and then pull back to test the extreme, and if traders focus too much on diver- gences, they will often overlook this fundamental fact. Placing a trade because of a divergence in the absence of a prior countertrend momentum surge that breaks a trend line is a losing strategy. Wait for the trend line break and then see if the test of the old extreme
-
-
-是反转了，还是原来的趋势又恢复了。你不需要一个指标来告诉你：这里的强反转是一笔高概率的交易，至少对刮头皮来说是这样；而且几乎可以肯定会出现一个背离——那么，为什么还要把指标加进你的盘算，让自己的思路变复杂呢？
-
-
-> reverses or if the old trend resumes. You do not need an indicator to tell you that a strong reversal here is a high-probability trade, at least for a scalp, and there will almost certainly be a divergence, so why complic- ate your thinking by adding the indicator to your calculus?
-
-
-有些评论人士会推荐把时间级别、指标、波浪计数以及斐波那契回撤与扩展组合起来用，可真到了下单的时候，他们只有在出现一个良好的价格行为建仓形态时才会动手。而且，当他们看到一个良好的价格行为建仓形态时，又会开始去找显示背离的指标、用来测试移动平均线的不同时间级别、波浪计数或者斐波那契结构，来确认眼前已经看到的东西。实际上，他们就是价格行为交易者，只在一张图上、完全依据价格行为交易，只是不愿意承认这一点。他们把交易搞得复杂到自己肯定会错过很多很多次交易，因为过度分析让他们下单花的时间太长，只能被迫去等下一个建仓形态。把简单的事弄得这么复杂，逻辑上根本说不通。很明显，加入任何信息都有可能带来更好的决策，很多人在决定是否下单时也许能够处理大量输入。仅仅出于一种简单化的理念就去忽视
-
-
-> Some pundits recommend a combination of time frames, indicators, wave counting, and Fibonacci re- tracements and extensions, but when it comes time to place the trade, they will do it only if there is a good price action setup. Also, when they see a good price action setup, they start looking for indicators that show divergences, different time frames for moving average tests, wave counts, or Fibonacci setups to con- firm what is in front of them. In reality, they are price action traders who are trading exclusively off price ac- tion on only one chart but don't feel comfortable ad- mitting it. They are complicating their trading to the point that they certainly are missing many, many trades because their overanalysis takes too much time for them to place their orders and they are forced to wait for the next setup. The logic just isn't there for making the simple so complicated. Obviously, adding any information can lead to better decision making and many people might be able to process lots of in- puts when deciding whether to place a trade. Ignoring
-
-
-各种数据，是愚蠢的做法。目标是赚钱，交易者应当竭尽所能把自己的利润最大化。只是在精确下单所需要的那点时间里，我处理不好多个指标和时间级别；而对我来说，仔细读好一张图要划算得多。另外，如果我依赖指标，我就会发现自己在读价格行为时变懒了，常常漏掉显而易见的东西。价格行为远比其他任何信息都重要；如果你为了从别处获得信息，而牺牲掉价格行为正在告诉你的某些东西，那你很可能正在做一个糟糕的决定。
-
-
-> data because of a simplistic ideology alone is foolish. The goal is to make money, and traders should do everything they can to maximize their profits. I simply cannot process multiple indicators and time frames well in the time needed to place my orders accurately, and I find that carefully reading a single chart is far more profitable for me. Also, if I rely on indicators, I find that I get lazy in my price action reading and of- ten miss the obvious. Price action is far more import- ant than any other information, and if you sacrifice some of what it is telling you to gain information from something else, you are likely making a bad decision.
-
-
-对刚起步的交易者来说，最令人沮丧的事情之一是：一切都很主观。他们想找到一套清晰的规则，保证能赚钱；他们痛恨一个形态今天管用、明天就失灵。市场非常有效，因为你面对的是无数非常聪明的人在一起玩零和博弈。一名交易者要想赚钱，就必须稳定地胜过其他交易者中大约一半的人。由于大多数对手都是能盈利的机构，交易者必须非常优秀才行。只要存在某种优势，它很快就会被发现、然后消失。记住，总得有人站在你交易的另一边。他们要弄清你那套神奇的系统并不需要多久，而一旦他们
-
-
-> One of the most frustrating things for traders when they are starting out is that everything is so subjective. They want to find a clear set of rules that guarantee a profit, and they hate how a pattern works on one day but fails on another. Markets are very efficient be- cause you have countless very smart people playing a zero-sum game. For a trader to make money, he has to be consistently better than about half of the other traders out there. Since most of the competitors are profitable institutions, a trader has to be very good. Whenever an edge exists, it is quickly discovered and it disappears. Remember, someone has to be taking the opposite side of your trade. It won't take them long to figure out your magical system, and once they
-
-
-弄明白了，他们就不会再给你送钱了。交易的一部分吸引力，正在于它是一场优势极其微小的零和博弈；能够看出并抓住这些微小而转瞬即逝的机会，既让人在智识上满足，也在金钱上有回报。这件事做得成，但它需要极其艰苦的努力和毫不放松的纪律。纪律，无非就是去做你不想做的事。我们都有求知欲，也都有尝试新事物、不同事物的天然倾向，但最优秀的交易者能抵制这种诱惑。你必须守住自己的规则、避开情绪，还必须耐心等待，只做最好的那些交易。收盘之后看着一张印出来的走势图时，这一切看上去都很容易做到；但在实时行情里一根K线一根K线地等、有时一小时又一小时地等，就非常难。一个极好的建仓形态一旦出现，如果你分了心，或者被安逸磨掉了警觉，你就会错过它，然后被迫等得更久。但如果你能培养出耐心和纪律，去遵循一套合理的系统，利润的潜力是巨大的。
-
-
-> do, they will stop giving you money. Part of the appeal of trading is that it is a zero-sum game with very small edges, and it is intellectually satisfying and financially rewarding to be able to spot and capitalize on these small, fleeting opportunities. It can be done, but it is very hard work and it requires relentless discipline. Discipline simply means doing what you do not want to do. We are all intellectually curious and we have a natural tendency to try new or different things, but the very best traders resist the temptation. You have to stick to your rules and avoid emotion, and you have to patiently wait to take only the best trades. This all appears easy to do when you look at a printed chart at the end of the day, but it is very difficult in real time as you wait bar by bar, and sometimes hour by hour. Once a great setup appears, if you are distracted or lulled into complacency, you will miss it and you will then be forced to wait even longer. But if you can de- velop the patience and the discipline to follow a sound system, the profit potential is huge.
-
-
-交易股票和 Emini 小型合约的赚钱方法数不胜数，但它们全都需要市场有波动（嗯，做空期权除外）。如果你学会读图，你每天都能抓住很多这样的赚钱机会，而完全不需要知道某家机构为什么启动了那轮趋势，也完全不需要
-
-
-> There are countless ways to make money trading stocks and Eminis, but all require movement (well, except for shorting options). If you learn to read the charts, you will catch a great number of these profit- able trades every day without ever knowing why some institution started the trend and without ever
-
-
-知道任何指标在显示什么。你不需要这些机构的软件或分析师，因为它们会把正在做的事展示给你看。你要做的，只是搭机构便车，就能赚到利润。价格行为会告诉你它们在做什么，并让你能用很小的止损实现更早的入场。
-
-
-> knowing what any indicator is showing. You don't need these institutions’ software or analysts because they will show you what they are doing. All you have to do is piggyback onto their trades and you will make a profit. Price action will tell you what they are doing and allow you an early entry with a tight stop.
+> There are countless ways to make money trading stocks and Eminis, but all require movement (well, except for shorting options). If you learn to read the charts, you will catch a great number of these profit-able trades every day without ever knowing why some institution started the trend and without ever knowing what any indicator is showing. You don't need these institutions’ software or analysts because they will show you what they are doing. All you have to do is piggyback onto their trades and you will make a profit. Price action will tell you what they are doing and allow you an early entry with a tight stop.
 
 
 我发现，把下单时需要考虑的东西减到最少，我就能稳定地赚多得多的钱。我需要的只是笔记本电脑上的一张图，除了20根K线的指数移动平均线（EMA）之外不挂任何指标；这条均线不需要太多分析，却能每天帮我理清很多好的建仓形态。有些交易者可能还会看成交量，因为异常巨大的成交量骤增，有时会出现在一段空头趋势临近结束的时候，而接下来一到两个新的摆动低点，常常能提供赚钱的做多刮头皮机会。当一波抛售走得过头时，日线图上有时也会出现成交量骤增。不过，它可靠不到值得我为之投入注意力的程度。
@@ -639,141 +576,64 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > I have found that I consistently make far more money by minimizing what I have to consider when placing a trade. All I need is a single chart on my laptop computer with no indicators except a 20-bar exponential moving average (EMA), which does not require too much analysis and clarifies many good setups each day. Some traders might also look at volume because an unusually large volume spike sometimes comes near the end of a bear trend, and the next new swing low or two often provide profitable long scalps. Volume spikes also sometimes occur on daily charts when a sell-off is overdone. However, it is not reliable enough to warrant my attention.
 
 
-很多交易者只在做背离和趋势中的回调时，才考虑价格行为。事实上，大多数使用指标的交易者，除非有一根强劲的信号K线，否则不会入场；而很多人只要背景合适，即便没有背离，也会在一根强劲的信号K线上入场。他们喜欢看到一根大反转K线上出现强劲的收盘价，但现实中，这属于一种
+很多交易者只在做背离和趋势中的回调时，才考虑价格行为。事实上，大多数使用指标的交易者，除非有一根强劲的信号K线，否则不会入场；而很多人只要背景合适，即便没有背离，也会在一根强劲的信号K线上入场。他们喜欢看到一根大反转K线上出现强劲的收盘价，但现实中，这属于一种相当少见的情况。理解价格行为最有用的工具，是趋势线和趋势通道线、前期高点与低点、突破与突破失败、蜡烛实体与影线的大小，以及当前K线与此前几根K线之间的关系。特别是，当前K线的开盘价、最高价、最低价和收盘价与此前几根K线的走势相比如何，能透露很多关于接下来会发生什么的信息。走势图所提供的、关于谁在控制市场的信息，远比大多数交易者以为的要多。几乎每一根K线都给出重要的线索，指向市场要去哪里；而把任何波动都当成噪音打发的交易者，每天都会放过很多赚钱的交易。这几本书里的大部分观察都直接与下单有关，但也有少数只是关于一些有趣的价格行为倾向，它们的可靠性不足，还不足以成为一笔交易的依据。
 
 
-> Many traders consider price action only when trad- ing divergences and trend pullbacks. In fact, most traders using indicators won't take a trade unless there is a strong signal bar, and many would enter on a strong signal bar if the context was right, even if there was no divergence. They like to see a strong close on a large reversal bar, but in reality this is a
+> Many traders consider price action only when trad-ing divergences and trend pullbacks. In fact, most traders using indicators won't take a trade unless there is a strong signal bar, and many would enter on a strong signal bar if the context was right, even if there was no divergence. They like to see a strong close on a large reversal bar, but in reality this is a fairly rare occurrence. The most useful tools for understanding price action are trend lines and trend channel lines, prior highs and lows, breakouts and failed breakouts, the sizes of bodies and tails on candles, and relationships between the current bar to the prior several bars. In particular, how the open, high, low, and close of the current bar compare to the action of the prior several bars tells a lot about what will happen next. Charts provide far more information about who is in control of the market than most traders realize. Almost every bar offers important clues as to where the market is going, and a trader who dismisses any activity as noise is passing up many profitable trades each day. Most of the observa-tions in these books are directly related to placing trades, but a few have to do with simple curious price action tendencies without sufficient dependability to be the basis for a trade.
 
 
-相当少见的情况。理解价格行为最有用的工具，是趋势线和趋势通道线、前期高点与低点、突破与突破失败、蜡烛实体与影线的大小，以及当前K线与此前几根K线之间的关系。特别是，当前K线的开盘价、最高价、最低价和收盘价与此前几根K线的走势相比如何，能透露很多关于接下来会发生什么的信息。走势图所提供的、关于谁在控制市场的信息，远比大多数交易者以为的要多。几乎每一根K线都给出重要的线索，指向市场要去哪里；而把任何波动都当成噪音打发的交易者，每天都会放过很多赚钱的交易。这几本书里的大部分观察都直接与下单有关，但也有少数只是关于一些有趣的价格行为倾向，它们的可靠性不足，还不足以成为一笔交易的依据。
+就我个人而言，在交易 Emini 小型合约、期货和股票时，主要依靠蜡烛图；但大多数信号在任何类型的图上也都看得见，很多甚至在简单的折线图上也很明显。我主要用5分钟蜡烛图来讲解基本原理，但也讨论日线图和周线图。由于我也交易股票、外汇、国债期货和期权，我也会讨论如何把价格行为用作这类交易的依据。
 
 
-> fairly rare occurrence. The most useful tools for un- derstanding price action are trend lines and trend channel lines, prior highs and lows, breakouts and failed breakouts, the sizes of bodies and tails on candles, and relationships between the current bar to the prior several bars. In particular, how the open, high, low, and close of the current bar compare to the action of the prior several bars tells a lot about what will happen next. Charts provide far more information about who is in control of the market than most traders realize. Almost every bar offers important clues as to where the market is going, and a trader who dismisses any activity as noise is passing up many profitable trades each day. Most of the observa- tions in these books are directly related to placing trades, but a few have to do with simple curious price action tendencies without sufficient dependability to be the basis for a trade.
+> I personally rely mainly on candle charts for my Emini, futures, and stock trading, but most signals are also visible on any type of chart and many are even evident on simple line charts. I focus primarily on 5 minute candle charts to illustrate basic principles but also discuss daily and weekly charts as well. Since I also trade stocks, forex, Treasury note futures, and options, I discuss how price action can be used as the basis for this type of trading.
 
 
-就我个人而言，在交易 Emini 小型合约、期货和股票时，主要依靠蜡烛图；但大多数信号在任何类型的图上也都看得见，很多甚至在简单的折线图上也很明显。我主要用5分钟蜡烛图来讲解基本原理，但也讨论日线图和周线图。由于我也交易股票、外汇、国债期货和
+作为一名交易者，我看一切都是深浅不一的灰色，并且不断以概率的方式思考。如果一个形态正在形成，它并不完美，但与某个可靠建仓形态相当相似，那么它的表现也很可能相似。差不多，通常就够了。如果某个东西看起来像教科书式的建仓形态，那么这笔交易很可能会以类似于教科书形态那笔交易的方式展开。这就是交易的艺术；要在灰色地带把交易做好，需要好几年。每个人都想要具体、清晰的规则或指标，想要聊天室、投资通讯、热线或辅导老师，能告诉他们究竟什么时候进场，才能把风险降到最小、把利润做到最大，但从长期看，这些全都没用。你必须为自己的决定负责，但你首先得学会怎么做决定，而这就意味着，你必须习惯在灰色的迷雾中行动。没有什么事会像黑白那样分明；我做这行已经够久，因此很清楚：任何事，无论多么不可能，都可能发生、也会发生。这就像量子物理。每一个能想到的事件都有一个概率，你还没考虑过的事件也一样。它不带情绪，而某件事为什么会发生，并不重要。盯着看美联储今天会不会降息，是浪费时间，因为对美联储做的任何事，都能做出一种看多和一种看空的解读。关键在于看市场怎么做，而不是看美联储怎么做。
 
 
-> I personally rely mainly on candle charts for my Emini, futures, and stock trading, but most signals are also visible on any type of chart and many are even evident on simple line charts. I focus primarily on 5 minute candle charts to illustrate basic principles but also discuss daily and weekly charts as well. Since I also trade stocks, forex, Treasury note futures, and
+> As a trader, I see everything in shades of gray and am constantly thinking in terms of probabilities. If a pattern is setting up and is not perfect but is reason-ably similar to a reliable setup, it will likely behave similarly as well. Close is usually close enough. If something resembles a textbook setup, the trade will likely unfold in a way that is similar to the trade from the textbook setup. This is the art of trading and it takes years to become good at trading in the gray zone. Everyone wants concrete, clear rules or indicators, and chat rooms, newsletters, hotlines, or tutors that will tell them when exactly to get in to minimize risk and maximize profit, but none of it works in the long run. You have to take responsibility for your decisions, but you first have to learn how to make them and that means that you have to get used to operating in the gray fog. Nothing is ever as clear as black and white, and I have been doing this long enough to ap-preciate that anything, no matter how unlikely, can and will happen. It's like quantum physics. Every conceivable event has a probability, and so do events that you have yet to consider. It is not emotional, and the reasons why something happens are irrelevant. Watching to see if the Federal Reserve cuts rates today is a waste of time because there is both a bullish and bearish interpretation of anything that the Fed does. What is key is to see what the market does, not what the Fed does.
 
 
-期权，我也会讨论如何把价格行为用作这类交易的依据。
+你仔细想想就会明白：交易是一场零和游戏，而一场规则总能奏效的零和游戏是不可能存在的。规则要是真管用，所有人都会去用，那就没有人站在交易的对面了，这笔交易也就不可能存在。指导原则非常有用，但可靠的规则不可能存在——这一点通常让刚起步的交易者非常困扰，因为他们愿意相信：交易是一场游戏，只要你能琢磨出恰好正确的那一套规则，它就能非常赚钱。所有规则都有管用的时候，而且通常刚刚好能骗得你相信：只要把它稍微调一调，就能让它一直管用。你是想造一个交易之神出来保护你，但你其实是在骗自己，是在给一场只有笨办法才管用的游戏找一个省事的办法。你的对手是全世界最聪明的一群人；你要是聪明到能想出一套万无一失的规则，他们也能，于是所有人都要面对零和游戏的困境。除非你足够灵活，否则你靠交易赚不到钱，因为你需要往市场正在走的方向走，而市场极其灵活。它可以朝任何方向弯折，而且弯得比大多数人能想象的还要久得多。它也可以每隔几根K线就反复反转，持续很长很长的时间。最后，这中间的一切，它都能做、也都会做。绝不要为此心烦，就把它当作现实接受下来，把它当作这场游戏之美的一部分去欣赏。
 
 
-> options, I discuss how price action can be used as the basis for this type of trading.
+> If you think about it, trading is a zero-sum game and it is impossible to have a zero-sum game where rules consistently work. If they worked, everyone would use them and then there would be no one on the other side of the trade. Therefore, the trade could not exist. Guidelines are very helpful but reliable rules cannot exist, and this is usually very troubling to a trader starting out who wants to believe that trading is a game that can be very profitable if only you can come up with just the right set of rules. All rules work some of the time, and usually just often enough to fool you into believing that you just need to tweak them a little to get them to work all of the time. You are trying to create a trading god who will protect you, but you are fooling yourself and looking for an easy solution to a game where only hard solutions work. You are competing against the smartest people in the world, and if you are smart enough to come up with a foolproof rule set, so are they, and then everyone is faced with the zero-sum game dilemma. You cannot make money trading unless you are flexible, because you need to go where the market is going, and the market is extremely flexible. It can bend in every direction and for much longer than most would ever imagine. It can also reverse repeatedly every few bars for a long, long time. Finally, it can and will do everything in between. Never get upset by this, and just accept it as reality and admire it as part of the beauty of the game.
 
 
-作为一名交易者，我看一切都是深浅不一的灰色，并且不断以概率的方式思考。如果一个形态正在形成，它并不完美，但与某个可靠建仓形态相当相似，那么它的表现也很可能相似。差不多，通常就够了。如果某个东西看起来像教科书式的建仓形态，那么这笔交易很可能会以类似于教科书形态那笔交易的方式展开。这就是交易的艺术；要在灰色地带把交易做好，需要好几年。每个人都想要具体、清晰的规则或指标，想要聊天室、投资通讯、热线或辅导老师，能告诉他们究竟什么时候进场，才能把风险降到最小、把利润做到最大，但从长期看，这些全都没用。你必须为自己的决定负责，但你首先得学会怎么做决定，而这就意味着，你必须习惯在灰色的迷雾中行动。没有什么事会像黑白那样分明；我做这行已经够久，因此很清楚：任何事，无论多么不可能，都可能发生、也会发生。这就像量子物理。每一个能想到的事件都有一个概率，你还没考虑过的事件也一样。它不带情绪，而某件事为什么会发生，并不重要。盯着看美联储
+市场总在向不确定性靠拢。一天中的大部分时间里，任何市场的方向概率都是50–50，向上或向下走出等距离行情的可能性各占一半。我的意思是：就算你根本不看走势图，随便买一只股票，然后挂一张一单成交即撤销另一单（one cancels the other，OCO）的单子——入场价上方 X 美分处用止盈限价单出场，或者入场价下方 X 美分处用保护性止损出场——你判断正确的机会大约是50%。同样，如果你在一天中的任何时候不看图就卖出一只股票，然后在低 X 美分处挂止盈限价单、在高 X 美分处挂保护性止损，你赢的机会大约是50%，输的机会也大约是50%。有一个显而易见的例外：X 相对这只股票的价格来说太大了。你不可能在一只 $50的股票上让 X 等于 $60，因为那样你亏掉 $60的概率是0%。你也不可能让 X 等于 $49，因为亏掉 $49的概率同样微乎其微。但只要你选的 X 落在你的时间级别上合理可达的范围内，这一点一般是对的。市场处在50–50时，它就是不确定的，你也没法理性地对它的方向抱有任何看法。这正是交易区间的标志，所以只要你不确定，就假定市场处在交易区间里。走势图上有一些短暂的时刻，方向概率会更高。在一轮强趋势中，它可能是60%，甚至70%，但这撑不了多久，因为它会向不确定性靠拢，回到多空双方都觉得有价值可言的50–50市场。当趋势存在、方向上也有某种程度的确定性时，市场同样会向支撑区与阻力区靠拢，而这些区域通常在某个等距运动的距离之外；那些区域无一例外，正是不确定性回来、交易区间形成的地方——至少是短暂形成。
 
 
-> As a trader, I see everything in shades of gray and am constantly thinking in terms of probabilities. If a pattern is setting up and is not perfect but is reason- ably similar to a reliable setup, it will likely behave similarly as well. Close is usually close enough. If something resembles a textbook setup, the trade will likely unfold in a way that is similar to the trade from the textbook setup. This is the art of trading and it takes years to become good at trading in the gray zone. Everyone wants concrete, clear rules or indicat- ors, and chat rooms, newsletters, hotlines, or tutors that will tell them when exactly to get in to minimize risk and maximize profit, but none of it works in the long run. You have to take responsibility for your de- cisions, but you first have to learn how to make them and that means that you have to get used to operating in the gray fog. Nothing is ever as clear as black and white, and I have been doing this long enough to ap- preciate that anything, no matter how unlikely, can and will happen. It's like quantum physics. Every con- ceivable event has a probability, and so do events that you have yet to consider. It is not emotional, and the reasons why something happens are irrelevant. Watching to see if the Federal Reserve cuts rates
+> The market gravitates toward uncertainty. During most of the day, every market has a directional prob-ability of 50–50 of an equidistant move up or down. By that I mean that if you don't even look at a chart and you buy any stock and then place a one cancels the other (OCO) order to exit on a profit-taking limit order X cents above your entry or on a protective stop at X cents below your entry, you have about a 50 per-cent chance of being right. Likewise, if you sell any stock at any point in the day without looking at a chart and then place a profit-taking limit order X cents lower and a protective stop X cents higher, you have about a 50 percent chance of winning and about a 50 percent chance of losing. There is the obvious excep-tion of X being too large relative the price of the stock. You can't have X be $60 in a $50 stock, because you would have a 0 percent chance of losing $60. You also can't have X be $49, because the odds of losing $49 would also be minuscule. But if you pick a value for X that is within reasonable reach on your time frame, this is generally true. When the market is 50–50, it is uncertain and you cannot rationally have an opinion about its direction. This is the hallmark of a trading range, so whenever you are uncertain, assume that the market is in a trading range. There are brief times on a chart when the directional probability is higher. During a strong trend, it might be 60 or even 70 per-cent, but that cannot last long because it will gravitate toward uncertainty and a 50–50 market where both the bulls and bears feel there is value. When there is a trend and some level of directional certainty, the mar-ket will also gravitate toward areas of support and resistance, which are usually some type of measured move away, and those areas are invariably where un-certainty returns and a trading range develops, at least briefly.
 
 
-今天会不会降息，是浪费时间，因为对美联储做的任何事，都能做出一种看多和一种看空的解读。关键在于看市场怎么做，而不是看美联储怎么做。
+交易日里绝不要看消息面。你要是想知道一条消息意味着什么，你面前那张走势图会告诉你。记者们相信消息是全世界最重要的事，发生的一切都必须由他们当天最大的那条消息来解释。既然记者吃的就是消息这碗饭，那消息自然必须是宇宙的中心，必须是金融市场里发生的一切的起因。2011年3月中旬股市抛售时，他们把它归咎于发生在日本的地震。他们并不在意市场其实早在三周前、在一次买入高潮之后就开始了抛售。2月下旬，一段持续很久的上涨行情之后，我在日线图上看到连续15根多头趋势K线，就告诉我聊天室的成员：市场很可能要出现一次显著修正。这是一次异常强劲的买入高潮，也是市场做出的一次重要表态。我完全不知道几周后会有一场地震，而且无论如何也不需要知道。走势图一直在告诉我交易者正在做什么：他们正准备平掉多头、开始做空。
 
 
-> today is a waste of time because there is both a bullish and bearish interpretation of anything that the Fed does. What is key is to see what the market does, not what the Fed does.
+> Never watch the news during the trading day. If you want to know what a news event means, the chart in front of you will tell you. Reporters believe that the news is the most important thing in the world, and that everything that happens has to be caused by their biggest news story of the day. Since reporters are in the news business, news must be the center of the uni-verse and the cause of everything that happens in the financial markets. When the stock market sold off in mid-March 2011, they attributed it to the earthquake in Japan. It did not matter to them that the market began to sell off three weeks earlier, after a buy cli-max. I told the members of my chat room in late February that the odds were good that the market was going to have a significant correction when I saw 15 consecutive bull trend bars on the daily chart after a protracted bull run. This was an unusually strong buy climax, and an important statement by the market. I had no idea that an earthquake was going to happen in a few weeks, and did not need to know that, any-way. The chart was telling me what traders were do-ing; they were getting ready to exit their longs and initiate shorts.
 
 
-# 引言
+电视上的专家同样没用。每逢市场走出一段大行情，记者总能找到某位自信满满、说得头头是道的专家，说他预测到了这波行情，然后采访他或她，让观众以为这位专家有一种不可思议的预测能力——尽管有一个没人提起的事实：这位专家最近10次预测全都错了。接着，这位专家又做出某个对未来的预测，天真的观众会把它看得非常重要，让它影响自己的交易。观众可能没有意识到：有些专家永远100%看多，另一些永远100%看空，还有一些人则总是全力搏一把大的，做出耸人听闻的预测。记者只是跑向那个与当天消息合拍的人，而这对交易者毫无用处；事实上它还有害，因为它会影响他们的交易，让他们怀疑、偏离自己原来的方法。在这些重大预测上，从来没有谁能一直保持60%以上的正确率；专家讲得令人信服，并不等于他们可靠。同样聪明、同样有说服力的人当中，也有相信相反方向的，只是没人去听他们。这就像旁听一场庭审，却只听辩方一方的说法。只听一面之词，总是令人信服，也总是误导人，可靠程度极少能超过50%。
 
-*Introduction*
 
+> Television experts are also useless. Invariably when the market makes a huge move, the reporter will find some confident, convincing expert who predicted it and interview him or her, leading the viewers to be-lieve that this pundit has an uncanny ability to predict the market, despite the untold reality that this same pundit has been wrong in his last 10 predictions. The pundit then makes some future prediction and naïve viewers will attach significance to it and let it affect their trading. What the viewers may not realize is that some pundits are bullish 100 percent of the time and others are bearish 100 percent of the time, and still others just swing for the fences all the time and make outrageous predictions. The reporter just rushes to the one who is consistent with the day's news, which is totally useless to traders and in fact it is destructive because it can influence their trading and make them question and deviate from their own methods. No one is ever consistently right more than 60 percent of the time on these major predictions, and just because pundits are convincing does not make them reliable. There are equally smart and convincing people who believe the opposite but are not being heard. This is the same as watching a trial and listening to only the defense side of the argument. Hearing only one side is always convincing and always misleading, and rarely better than 50 percent reliable.
 
-你仔细想想就会明白：交易是一场零和游戏，而一场规则总能奏效的零和游戏是不可能存在的。规则要是真管用，所有人都会去用，那就没有人站在交易的对面了，这笔交易也就不可能存在。指导原则非常有用，但可靠的规则不可能存在——这一点通常让刚起步的交易者非常困扰，因为他们愿意相信：交易是一场游戏，只要你能琢磨出恰好正确的那一套规则，它就能非常赚钱。所有规则都有管用的时候，而且通常刚刚好能骗得你相信：只要把它稍微调一调，就能让它一直管用。你是想造一个交易之神出来保护你，但你其实是在骗自己，是在给一场只有笨办法才管用的游戏找一个省事的办法。你的对手是全世界最聪明的一群人；你要是聪明到能想出一套万无一失的规则，他们也能，于是所有人都要面对零和游戏的困境。除非你足够灵活，否则你靠交易赚不到钱，因为你需要往市场正在走的方向走，而市场
 
+机构里的多头和空头一直在下单，这就是市场方向始终充满不确定性的原因。即使没有突发消息，财经频道也整天播放访谈，每位记者都可以为自己的报道挑一位专家。你必须意识到：就未来一小时左右市场的方向而言，她挑对人的机会是50–50。如果你决定依靠这位专家来做交易决策，而他说市场会在午盘后抛售、结果市场却一路涨个不停，你还会去考虑做空吗？你该不该相信这位华尔街顶级公司里那位讲得让人信服的首席交易员？他显然一年赚到一百万美元以上，而公司不会付他这么多钱，除非他能持续正确地预测市场方向。事实上，他多半确实有这个能力，多半也是个不错的选股人，但他几乎肯定不是个日内交易者。因为他管理资金能一年赚15%，就以为他能正确预测未来一两个小时的市场方向，这是愚蠢的。算一算就知道：他要是真有那个本事，就会一天赚两三次1%，一年也许赚到1,000%。既然他没有，你就知道他没有那个本事。他的时间级别是月，你的是分钟。既然他靠日内交易赚不到钱，你为什么要根据一个已经证明在日内交易上失败的人来做交易？他不是个成功的日内交易者，这个简单的事实就已经告诉你：他赚不到日内交易的钱。这等于直说：他要是做日内交易，就会亏钱——因为如果他在行，那就会是他选择去做的事，而且他会赚得比现在多得多。即使你为了复制他那只基金的业绩而把交易持有好几个月，听他的建议仍然是愚蠢的，因为他下周就可能改主意，而你永远不会知道。一旦进场，管理一笔交易和建仓下单同样重要。如果你跟着这位专家走，还指望像他那样一年赚15%，你就必须跟着他一起管理仓位；可你没有能力做到，长期用这种策略你会亏钱。没错，你偶尔会做成一笔好交易，但你随便买一只股票也能偶尔做成。关键在于这套方法在100笔交易上能不能赚钱，而不是在前一两笔上能不能赚钱。照着你给自己孩子的那条建议去做：不要骗自己相信电视上看到的东西是真的，不管它看起来多么光鲜、多么有说服力。
 
-> If you think about it, trading is a zero-sum game and it is impossible to have a zero-sum game where rules consistently work. If they worked, everyone would use them and then there would be no one on the other side of the trade. Therefore, the trade could not exist. Guidelines are very helpful but reliable rules cannot exist, and this is usually very troubling to a trader starting out who wants to believe that trading is a game that can be very profitable if only you can come up with just the right set of rules. All rules work some of the time, and usually just often enough to fool you into believing that you just need to tweak them a little to get them to work all of the time. You are trying to create a trading god who will protect you, but you are fooling yourself and looking for an easy solution to a game where only hard solutions work. You are com- peting against the smartest people in the world, and if you are smart enough to come up with a foolproof rule set, so are they, and then everyone is faced with the zero-sum game dilemma. You cannot make money trading unless you are flexible, because you need to go where the market is going, and the market is
 
+> Institutional bulls and bears are placing trades all the time, and that is why there is constant uncertainty about the direction of the market. Even in the absence of breaking news, the business channels air interviews all day long and each reporter gets to pick one pundit for her report. What you have to realize is that she has a 50–50 chance of picking the right one in terms of the market's direction over the next hour or so. If you decide to rely on the pundit to make a trading de-cision and he says that the market will sell off after midday and instead it just keeps going up, are you go-ing to look to short? Should you believe this very convincing head trader at one of Wall Street's top firms? He obviously is making over a million dollars a year and they would not pay him that much unless he was able to correctly and consistently predict the market's direction. In fact, he probably can and he is probably a good stock picker, but he almost certainly is not a day trader. It is foolish to believe that just be-cause he can make 15 percent annually managing money he can correctly predict the market's direction over the next hour or two. Do the math. If he had that ability, he would be making 1 percent two or three times a day and maybe 1,000 percent a year. Since he is not, you know that he does not have that ability. His time frame is months and yours is minutes. Since he is unable to make money by day trading, why would you ever want to make a trade based on someone who is a proven failure as a day trader? He has shown you that he cannot make money by day trading by the simple fact that he is not a successful day trader. That immediately tells you that if he day trades, he loses money because if he was successful at it, that is what he would choose to do and he would make far more than he is currently making. Even if you are holding trades for months at a time in an attempt to duplicate the results of his fund, it is still foolish to take his ad-vice, because he might change his mind next week and you would never know it. Managing a trade once you are in is just as important as placing the trade. If you are following the pundit and hope to make 15 percent a year like he does, you need to follow his manage-ment, but you have no ability to do so and you will lose over time employing this strategy. Yes, you will make an occasional great trade, but you can simply do that by randomly buying any stock. The key is wheth-er the approach makes money over 100 trades, not over the first one or two. Follow the advice that you give your kids: don't fool yourself into believing that what you see on television is real, no matter how pol-ished and convincing it appears to be.
 
-极其灵活。它可以朝任何方向弯折，而且弯得比大多数人能想象的还要久得多。它也可以每隔几根K线就反复反转，持续很长很长的时间。最后，这中间的一切，它都能做、也都会做。绝不要为此心烦，就把它当作现实接受下来，把它当作这场游戏之美的一部分去欣赏。
 
+就像我说过的，总会有专家把消息解读成看涨，另一些解读成看跌，而记者可以挑一个放进自己的报道。你要让一个记者替你决定怎么做交易吗？这太荒唐了！那位记者要是会交易，她早去做交易者了，赚的钱会比当记者多上几百倍。你为什么会愿意让她影响你的决策？你这么做，可能只是因为你对自己的能力没有信心，或者你在寻找一位会爱你、保护你的父亲式人物。如果你容易受记者选择的影响，那这笔交易你就不该做。她挑中的那位专家不是你父亲，他不会保护你，也不会保护你的钱。即使记者挑中的那位专家方向看对了，他也不会留下来陪你管理这笔交易，你很可能会在一次回调中被止损出局、以亏损收场。
 
-> extremely flexible. It can bend in every direction and for much longer than most would ever imagine. It can also reverse repeatedly every few bars for a long, long time. Finally, it can and will do everything in between. Never get upset by this, and just accept it as reality and admire it as part of the beauty of the game.
 
+> As I said, there will be pundits who will see the news as bullish and others who will see it as bearish, and the reporter gets to pick one for her report. Are you going to let a reporter make trading decisions for you? That's insane! If that reporter could trade, she would be a trader and make hundreds of times more money than she is making as a reporter. Why would you ever allow her to influence your decision making? You might do so only out of a lack of confidence in your ability, or perhaps you are searching for a father figure who will love and protect you. If you are prone to be influenced by a reporter's decision, you should not take the trade. The pundit she chooses is not your father, and he will not protect you or your money. Even if the reporter picks a pundit who is correct on the direction, that pundit will not stay with you to manage your trade, and you will likely be stopped out with a loss on a pullback.
 
-市场总在向不确定性靠拢。一天中的大部分时间里，任何市场的方向概率都是50–50，向上或向下走出等距离行情的可能性各占一半。我的意思是：就算你根本不看走势图，随便买一只股票，然后挂一张一单成交即撤销另一单（one cancels the other，OCO）的单子——入场价上方 X 美分处用止盈限价单出场，或者入场价下方 X 美分处用保护性止损出场——你判断正确的机会大约是50%。同样，如果你在一天中的任何时候不看图就卖出一只股票，然后在低 X 美分处挂止盈限价单、在高 X 美分处挂保护性止损，你赢的机会大约是50%，输的机会也大约是50%。有一个显而易见的例外：X 相对这只股票的价格来说太大了。你不可能在一只 $50的股票上让 X 等于 $60，因为那样你亏掉 $60的概率是0%。你也不可能让 X 等于 $49，因为亏掉 $49的概率同样微乎其微。但只要你选的 X 落在你的时间级别上合理可达的范围内，
 
+财经新闻台的存在不是为了提供公共服务。它们做的是赚钱的生意，这就意味着它们需要尽可能大的观众群，好把广告收入做到最大。没错，它们也希望报道准确，但它们首要的目标是赚钱。它们非常清楚：只有节目让人看着舒服，观众群才能做到最大。这就意味着它们必须有有意思的嘉宾——包括一些会给出耸人听闻预测的人，一些带着教授派头、让人安心的人，还有一些单纯长相好看的人；大多数嘉宾都得有点娱乐价值。有些嘉宾是很优秀的交易者，但他们帮不了你。举例来说，假如他们采访一位全世界最成功的债券交易者，他通常只会笼统地谈谈未来几个月的趋势，而且是在他建好仓位几周之后才说。如果你做日内交易，这对你没有帮助，因为月线图上无论多头还是空头市场，日内图上的上涨次数和下跌次数都几乎一样多，而且每天都会有多头交易和空头交易。他的时间级别和你的完全不同，他做的交易和你正在做的事毫无关系。他们也常常会采访某家华尔街大公司的图表分析师：这位分析师的资历很好，但他的观点建立在周线图上，而观众想在几天之内就止盈。对这位图表分析师来说，他建议买入的那轮多头趋势仍然是完好的，哪怕市场在未来两个月左右下跌10%。可是观众远在那之前就已经止损了，三个月后创出的新高他们永远享受不到。除非图表分析师谈的正好是你的具体目标和你的时间级别，否则他说什么都无用。当电视采访的是一位日内交易者时，他谈的是他已经做过的交易，这个信息来得太晚，帮不了你赚钱。等他在电视上露面时，市场也许已经朝反方向走了。如果他是在持仓期间上节目，两分钟的采访结束后很久他都会继续管理这笔交易，而他在直播时是不会管理的。即使你入场做了他持有的那笔交易，他也不会在场——当市场转向对你不利，或者市场朝你有利的方向走而你正考虑止盈的时候，你必然要做一个关于何时出场的重要决定。看电视获取交易建议，无论在任何情况下，哪怕是在一条非常重要的消息之后，都是稳赔不赚的路，你永远都不该这么做。
 
-> The market gravitates toward uncertainty. During most of the day, every market has a directional prob- ability of 50–50 of an equidistant move up or down. By that I mean that if you don't even look at a chart and you buy any stock and then place a one cancels the other (OCO) order to exit on a profit-taking limit order X cents above your entry or on a protective stop at X cents below your entry, you have about a 50 per- cent chance of being right. Likewise, if you sell any stock at any point in the day without looking at a chart and then place a profit-taking limit order X cents lower and a protective stop X cents higher, you have about a 50 percent chance of winning and about a 50 percent chance of losing. There is the obvious excep- tion of X being too large relative the price of the stock. You can't have X be $60 in a $50 stock, because you would have a 0 percent chance of losing $60. You also can't have X be $49, because the odds of losing $49 would also be minuscule. But if you pick a value for X that is within reasonable reach on your time frame,
 
-
-这一点一般是对的。市场处在50–50时，它就是不确定的，你也没法理性地对它的方向抱有任何看法。这正是交易区间的标志，所以只要你不确定，就假定市场处在交易区间里。走势图上有一些短暂的时刻，方向概率会更高。在一轮强趋势中，它可能是60%，甚至70%，但这撑不了多久，因为它会向不确定性靠拢，回到多空双方都觉得有价值可言的50–50市场。当趋势存在、方向上也有某种程度的确定性时，市场同样会向支撑区与阻力区靠拢，而这些区域通常在某个等距运动的距离之外；那些区域无一例外，正是不确定性回来、交易区间形成的地方——至少是短暂形成。
-
-
-> this is generally true. When the market is 50–50, it is uncertain and you cannot rationally have an opinion about its direction. This is the hallmark of a trading range, so whenever you are uncertain, assume that the market is in a trading range. There are brief times on a chart when the directional probability is higher. During a strong trend, it might be 60 or even 70 per- cent, but that cannot last long because it will gravitate toward uncertainty and a 50–50 market where both the bulls and bears feel there is value. When there is a trend and some level of directional certainty, the mar- ket will also gravitate toward areas of support and res- istance, which are usually some type of measured move away, and those areas are invariably where un- certainty returns and a trading range develops, at least briefly.
-
-
-交易日里绝不要看消息面。你要是想知道一条消息意味着什么，你面前那张走势图会告诉你。记者们相信消息是全世界最重要的事，发生的一切都必须由他们当天最大的那条消息来解释。既然记者吃的就是消息这碗饭，那消息自然必须是宇宙的中心，必须是金融市场里发生的一切的起因。2011年3月中旬股市抛售时，他们把它归咎于
-
-
-> Never watch the news during the trading day. If you want to know what a news event means, the chart in front of you will tell you. Reporters believe that the news is the most important thing in the world, and that everything that happens has to be caused by their biggest news story of the day. Since reporters are in the news business, news must be the center of the uni- verse and the cause of everything that happens in the financial markets. When the stock market sold off in mid-March 2011, they attributed it to the earthquake
-
-
-发生在日本的地震。他们并不在意市场其实早在三周前、在一次买入高潮之后就开始了抛售。2月下旬，一段持续很久的上涨行情之后，我在日线图上看到连续15根多头趋势K线，就告诉我聊天室的成员：市场很可能要出现一次显著修正。这是一次异常强劲的买入高潮，也是市场做出的一次重要表态。我完全不知道几周后会有一场地震，而且无论如何也不需要知道。走势图一直在告诉我交易者正在做什么：他们正准备平掉多头、开始做空。
-
-
-> in Japan. It did not matter to them that the market began to sell off three weeks earlier, after a buy cli- max. I told the members of my chat room in late February that the odds were good that the market was going to have a significant correction when I saw 15 consecutive bull trend bars on the daily chart after a protracted bull run. This was an unusually strong buy climax, and an important statement by the market. I had no idea that an earthquake was going to happen in a few weeks, and did not need to know that, any- way. The chart was telling me what traders were do- ing; they were getting ready to exit their longs and ini- tiate shorts.
-
-
-电视上的专家同样没用。每逢市场走出一段大行情，记者总能找到某位自信满满、说得头头是道的专家，说他预测到了这波行情，然后采访他或她，让观众以为这位专家有一种不可思议的预测能力——尽管有一个没人提起的事实：这位专家最近10次预测全都错了。接着，这位专家又做出某个对未来的预测，天真的观众会把它看得非常重要，让它影响自己的交易。观众可能没有意识到：有些专家永远100%看多，另一些永远100%看空，还有一些人则总是全力搏一把大的，做出
-
-
-> Television experts are also useless. Invariably when the market makes a huge move, the reporter will find some confident, convincing expert who predicted it and interview him or her, leading the viewers to be- lieve that this pundit has an uncanny ability to predict the market, despite the untold reality that this same pundit has been wrong in his last 10 predictions. The pundit then makes some future prediction and naïve viewers will attach significance to it and let it affect their trading. What the viewers may not realize is that some pundits are bullish 100 percent of the time and others are bearish 100 percent of the time, and still others just swing for the fences all the time and make
-
-
-耸人听闻的预测。记者只是跑向那个与当天消息合拍的人，而这对交易者毫无用处；事实上它还有害，因为它会影响他们的交易，让他们怀疑、偏离自己原来的方法。在这些重大预测上，从来没有谁能一直保持60%以上的正确率；专家讲得令人信服，并不等于他们可靠。同样聪明、同样有说服力的人当中，也有相信相反方向的，只是没人去听他们。这就像旁听一场庭审，却只听辩方一方的说法。只听一面之词，总是令人信服，也总是误导人，可靠程度极少能超过50%。
-
-
-> outrageous predictions. The reporter just rushes to the one who is consistent with the day's news, which is totally useless to traders and in fact it is destructive because it can influence their trading and make them question and deviate from their own methods. No one is ever consistently right more than 60 percent of the time on these major predictions, and just because pundits are convincing does not make them reliable. There are equally smart and convincing people who believe the opposite but are not being heard. This is the same as watching a trial and listening to only the defense side of the argument. Hearing only one side is always convincing and always misleading, and rarely better than 50 percent reliable.
-
-
-机构里的多头和空头一直在下单，这就是市场方向始终充满不确定性的原因。即使没有突发消息，财经频道也整天播放访谈，每位记者都可以为自己的报道挑一位专家。你必须意识到：就未来一小时左右市场的方向而言，她挑对人的机会是50–50。如果你决定依靠这位专家来做交易决策，而他说市场会在午盘后抛售、结果市场却一路涨个不停，你还会去考虑做空吗？你该不该相信这位
-
-
-> Institutional bulls and bears are placing trades all the time, and that is why there is constant uncertainty about the direction of the market. Even in the absence of breaking news, the business channels air interviews all day long and each reporter gets to pick one pundit for her report. What you have to realize is that she has a 50–50 chance of picking the right one in terms of the market's direction over the next hour or so. If you decide to rely on the pundit to make a trading de- cision and he says that the market will sell off after midday and instead it just keeps going up, are you go- ing to look to short? Should you believe this very
-
-
-华尔街顶级公司里那位讲得让人信服的首席交易员？他显然一年赚到一百万美元以上，而公司不会付他这么多钱，除非他能持续正确地预测市场方向。事实上，他多半确实有这个能力，多半也是个不错的选股人，但他几乎肯定不是个日内交易者。因为他管理资金能一年赚15%，就以为他能正确预测未来一两个小时的市场方向，这是愚蠢的。算一算就知道：他要是真有那个本事，就会一天赚两三次1%，一年也许赚到1,000%。既然他没有，你就知道他没有那个本事。他的时间级别是月，你的是分钟。既然他靠日内交易赚不到钱，你为什么要根据一个已经证明在日内交易上失败的人来做交易？他不是个成功的日内交易者，这个简单的事实就已经告诉你：他赚不到日内交易的钱。这等于直说：他要是做日内交易，就会亏钱——因为如果他在行，那就会是他选择去做的事，而且他会赚得比现在多得多。即使你为了复制他那只基金的业绩而把交易持有好几个月，听他的建议仍然是愚蠢的，因为他下周就可能改主意，而
-
-
-> convincing head trader at one of Wall Street's top firms? He obviously is making over a million dollars a year and they would not pay him that much unless he was able to correctly and consistently predict the market's direction. In fact, he probably can and he is probably a good stock picker, but he almost certainly is not a day trader. It is foolish to believe that just be- cause he can make 15 percent annually managing money he can correctly predict the market's direction over the next hour or two. Do the math. If he had that ability, he would be making 1 percent two or three times a day and maybe 1,000 percent a year. Since he is not, you know that he does not have that ability. His time frame is months and yours is minutes. Since he is unable to make money by day trading, why would you ever want to make a trade based on someone who is a proven failure as a day trader? He has shown you that he cannot make money by day trading by the simple fact that he is not a successful day trader. That immediately tells you that if he day trades, he loses money because if he was successful at it, that is what he would choose to do and he would make far more than he is currently making. Even if you are holding trades for months at a time in an attempt to duplicate the results of his fund, it is still foolish to take his ad- vice, because he might change his mind next week and
-
-
-你永远不会知道。一旦进场，管理一笔交易和建仓下单同样重要。如果你跟着这位专家走，还指望像他那样一年赚15%，你就必须跟着他一起管理仓位；可你没有能力做到，长期用这种策略你会亏钱。没错，你偶尔会做成一笔好交易，但你随便买一只股票也能偶尔做成。关键在于这套方法在100笔交易上能不能赚钱，而不是在前一两笔上能不能赚钱。照着你给自己孩子的那条建议去做：不要骗自己相信电视上看到的东西是真的，不管它看起来多么光鲜、多么有说服力。
-
-
-> you would never know it. Managing a trade once you are in is just as important as placing the trade. If you are following the pundit and hope to make 15 percent a year like he does, you need to follow his manage- ment, but you have no ability to do so and you will lose over time employing this strategy. Yes, you will make an occasional great trade, but you can simply do that by randomly buying any stock. The key is wheth- er the approach makes money over 100 trades, not over the first one or two. Follow the advice that you give your kids: don't fool yourself into believing that what you see on television is real, no matter how pol- ished and convincing it appears to be.
-
-
-就像我说过的，总会有专家把消息解读成看涨，另一些解读成看跌，而记者可以挑一个放进自己的报道。你要让一个记者替你决定怎么做交易吗？这太荒唐了！那位记者要是会交易，她早去做交易者了，赚的钱会比当记者多上几百倍。你为什么会愿意让她影响你的决策？你这么做，可能只是因为你对自己的能力没有信心，或者你在寻找一位会爱你、保护你的父亲式人物。如果你容易受记者选择的影响，那这笔交易你就不该做。她挑中的那位专家不是你
-
-
-> As I said, there will be pundits who will see the news as bullish and others who will see it as bearish, and the reporter gets to pick one for her report. Are you going to let a reporter make trading decisions for you? That's insane! If that reporter could trade, she would be a trader and make hundreds of times more money than she is making as a reporter. Why would you ever allow her to influence your decision making? You might do so only out of a lack of confidence in your ability, or perhaps you are searching for a father figure who will love and protect you. If you are prone to be influenced by a reporter's decision, you should not take the trade. The pundit she chooses is not your
-
-
-父亲，他不会保护你，也不会保护你的钱。即使记者挑中的那位专家方向看对了，他也不会留下来陪你管理这笔交易，你很可能会在一次回调中被止损出局、以亏损收场。
-
-
-> father, and he will not protect you or your money. Even if the reporter picks a pundit who is correct on the direction, that pundit will not stay with you to manage your trade, and you will likely be stopped out with a loss on a pullback.
-
-
-财经新闻台的存在不是为了提供公共服务。它们做的是赚钱的生意，这就意味着它们需要尽可能大的观众群，好把广告收入做到最大。没错，它们也希望报道准确，但它们首要的目标是赚钱。它们非常清楚：只有节目让人看着舒服，观众群才能做到最大。这就意味着它们必须有有意思的嘉宾——包括一些会给出耸人听闻预测的人，一些带着教授派头、让人安心的人，还有一些单纯长相好看的人；大多数嘉宾都得有点娱乐价值。有些嘉宾是很优秀的交易者，但他们帮不了你。举例来说，假如他们采访一位全世界最成功的债券交易者，他通常只会笼统地谈谈未来几个月的趋势，而且是在他建好仓位几周之后才说。如果你做日内交易，这对你没有帮助，因为月线图上无论多头还是空头市场，日内图上的上涨次数和下跌次数都几乎一样多，
-
-
-> Financial news stations do not exist to provide pub- lic service. They are in business to make money, and that means they need as large an audience as possible to maximize their advertising income. Yes, they want to be accurate in their reporting, but their primary ob- jective is to make money. They are fully aware that they can maximize their audience size only if they are pleasing to watch. That means that they have to have interesting guests, including some who will make out- rageous predictions, others who are professorial and reassuring, and some who are just physically attract- ive; most of them have to have some entertainment value. Although some guests are great traders, they cannot help you. For example, if they interview one of the world's most successful bond traders, he will usu- ally only speak in general terms about the trend over the next several months, and he will do so only weeks after he has already placed his trades. If you are a day trader, this does not help you, because every bull or bear market on the monthly chart has just about as many up moves on the intraday chart as down moves,
-
-
-而且每天都会有多头交易和空头交易。他的时间级别和你的完全不同，他做的交易和你正在做的事毫无关系。他们也常常会采访某家华尔街大公司的图表分析师：这位分析师的资历很好，但他的观点建立在周线图上，而观众想在几天之内就止盈。对这位图表分析师来说，他建议买入的那轮多头趋势仍然是完好的，哪怕市场在未来两个月左右下跌10%。可是观众远在那之前就已经止损了，三个月后创出的新高他们永远享受不到。除非图表分析师谈的正好是你的具体目标和你的时间级别，否则他说什么都无用。当电视采访的是一位日内交易者时，他谈的是他已经做过的交易，这个信息来得太晚，帮不了你赚钱。等他在电视上露面时，市场也许已经朝反方向走了。如果他是在持仓期间上节目，两分钟的采访结束后很久他都会继续管理这笔交易，而他在直播时是不会管理的。即使你入场做了他持有的那笔交易，他也不会在场——当市场转向对你不利，或者市场朝你有利的方向走
-
-
-> and there will be long and short trades every day. His time frame is very different from yours, and his trad- ing has nothing to do with what you are doing. They will also often interview a chartist from a major Wall Street firm, who, while his credentials are good, will be basing his opinion on a weekly chart, but the view- ers are looking to take profits within a few days. To the chartist, that bull trend that he is recommending buying will still be intact, even if the market falls 10 percent over the next couple of months. The viewers, however, will take their losses long before that, and will never benefit from the new high that comes three months later. Unless the chartist is addressing your specific goals and time frame, whatever he says is use- less. When television interviews a day trader instead, he will talk about the trades that he already took, and the information is too late to help you make money. By the time he is on television, the market might already be going in the opposite direction. If he is talking while still in his day trade, he will continue to manage his trade long after his two-minute interview is over, and he will not manage it while on the air. Even if you enter the trade that he is in, he will not be there when you invariably will have to make an im- portant decision about getting out as the market turns against you, or as the market goes in your direction
-
-
-而你正考虑止盈的时候，你必然要做一个关于何时出场的重要决定。看电视获取交易建议，无论在任何情况下，哪怕是在一条非常重要的消息之后，都是稳赔不赚的路，你永远都不该这么做。
-
-
-> and you are thinking about taking profits. Watching television for trading advice under any circumstances, even after a very important report, is a sure way to lose money and you should never do it.
+> Financial news stations do not exist to provide pub-lic service. They are in business to make money, and that means they need as large an audience as possible to maximize their advertising income. Yes, they want to be accurate in their reporting, but their primary objective is to make money. They are fully aware that they can maximize their audience size only if they are pleasing to watch. That means that they have to have interesting guests, including some who will make outrageous predictions, others who are professorial and reassuring, and some who are just physically attract-ive; most of them have to have some entertainment value. Although some guests are great traders, they cannot help you. For example, if they interview one of the world's most successful bond traders, he will usu-ally only speak in general terms about the trend over the next several months, and he will do so only weeks after he has already placed his trades. If you are a day trader, this does not help you, because every bull or bear market on the monthly chart has just about as many up moves on the intraday chart as down moves, and there will be long and short trades every day. His time frame is very different from yours, and his trad-ing has nothing to do with what you are doing. They will also often interview a chartist from a major Wall Street firm, who, while his credentials are good, will be basing his opinion on a weekly chart, but the view-ers are looking to take profits within a few days. To the chartist, that bull trend that he is recommending buying will still be intact, even if the market falls 10 percent over the next couple of months. The viewers, however, will take their losses long before that, and will never benefit from the new high that comes three months later. Unless the chartist is addressing your specific goals and time frame, whatever he says is use-less. When television interviews a day trader instead, he will talk about the trades that he already took, and the information is too late to help you make money. By the time he is on television, the market might already be going in the opposite direction. If he is talking while still in his day trade, he will continue to manage his trade long after his two-minute interview is over, and he will not manage it while on the air. Even if you enter the trade that he is in, he will not be there when you invariably will have to make an im-portant decision about getting out as the market turns against you, or as the market goes in your direction and you are thinking about taking profits. Watching television for trading advice under any circumstances, even after a very important report, is a sure way to lose money and you should never do it.
 
 
 你只要看走势图就好，它会告诉你需要知道的一切。把钱给你、或者把钱从你手里拿走的，就是走势图，所以它是你交易时唯一该考虑的东西。如果你在交易池里，连你最好的朋友在做什么都不能信。他可能在大量报卖橙汁看涨期权，私下却让经纪商在市场下方等着买入十倍于这个数量的合约。你这位朋友只是想制造一场恐慌、把市场压低，好让他通过代理人以好得多的价格大量建仓。
@@ -782,16 +642,10 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > Only look at the chart and it will tell you what you need to know. The chart is what will give you money or take money from you, so it is the only thing that you should ever consider when trading. If you are on the floor, you can't even trust what your best friend is doing. He might be offering a lot of orange juice calls but secretly having a broker looking to buy 10 times as many below the market. Your friend is just trying to create a panic to drive the market down so he can load up through a surrogate at a much better price.
 
 
-朋友和同事总是主动送上各种意见，你尽管无视。偶尔会有交易者告诉我，他们有一个很棒的建仓形态，想跟我讨论一下。我告诉他们我不感兴趣，结果每次都把他们惹火。他们立刻觉得我自私、固执、思想封闭——而在交易这件事上，我就是那样，可能还更过分。让人赚钱的那些本事，在外行眼里通常是缺点。我为什么不再读关于交易的书和文章，也不再跟别的交易者聊他们的想法？就像我说过的，走势图已经告诉我所有我需要知道的东西，其它任何信息都是
+朋友和同事总是主动送上各种意见，你尽管无视。偶尔会有交易者告诉我，他们有一个很棒的建仓形态，想跟我讨论一下。我告诉他们我不感兴趣，结果每次都把他们惹火。他们立刻觉得我自私、固执、思想封闭——而在交易这件事上，我就是那样，可能还更过分。让人赚钱的那些本事，在外行眼里通常是缺点。我为什么不再读关于交易的书和文章，也不再跟别的交易者聊他们的想法？就像我说过的，走势图已经告诉我所有我需要知道的东西，其它任何信息都是干扰。有几个人被我这种态度得罪过，但我认为，一部分原因在于：他们摆出一副是在给我帮忙的样子，而我把这份好意推掉了——实际上他们送出的是一份礼物，指望着我也回赠一点指导。我告诉他们我不想听别人的交易技术时，他们会既沮丧又生气。我告诉他们，我连自己那一套都还没有掌握，大概永远也掌握不了；但我确信，把已经会的东西练到精，赚到的钱会远远多于把非价格行为的方法塞进自己的交易里。我问他们：如果詹姆斯·高威（James Galway）送给马友友（Yo-Yo Ma）一支漂亮的长笛，并坚持要马友友开始学吹长笛，理由是高威吹长笛赚了那么多钱，马友友该不该接受这个提议？显然不该。马友友应该继续拉大提琴，这样他赚到的钱会远远多于他也去学长笛。我不是高威，也不是马友友，但道理是一样的。价格行为是我唯一想演奏的乐器，我坚信：把它练到精，比把其它成功交易者的想法塞进来，能让我赚到多得多的钱。
 
 
-> Friends and colleagues freely offer opinions for you to ignore. Occasionally traders will tell me that they have a great setup and want to discuss it with me. I in- variably get them angry with me when I tell them that I am not interested. They immediately perceive me as selfish, stubborn, and close-minded, and when it comes to trading, I am all of that and probably much more. The skills that make you money are generally seen as flaws to the layperson. Why do I no longer read books or articles about trading, or talk to other traders about their ideas? As I said, the chart tells me all that I need to know and any other information is a
-
-
-干扰。有几个人被我这种态度得罪过，但我认为，一部分原因在于：他们摆出一副是在给我帮忙的样子，而我把这份好意推掉了——实际上他们送出的是一份礼物，指望着我也回赠一点指导。我告诉他们我不想听别人的交易技术时，他们会既沮丧又生气。我告诉他们，我连自己那一套都还没有掌握，大概永远也掌握不了；但我确信，把已经会的东西练到精，赚到的钱会远远多于把非价格行为的方法塞进自己的交易里。我问他们：如果詹姆斯·高威（James Galway）送给马友友（Yo-Yo Ma）一支漂亮的长笛，并坚持要马友友开始学吹长笛，理由是高威吹长笛赚了那么多钱，马友友该不该接受这个提议？显然不该。马友友应该继续拉大提琴，这样他赚到的钱会远远多于他也去学长笛。我不是高威，也不是马友友，但道理是一样的。价格行为是我唯一想演奏的乐器，我坚信：把它练到精，比把其它成功交易者的想法塞进来，能让我赚到多得多的钱。
-
-
-> distraction. Several people have been offended by my attitude, but I think in part it comes from me turning down what they are presenting as something helpful to me when in reality they are making an offering, hoping that I will reciprocate with some tutoring. They become frustrated and angry when I tell them that I don't want to hear about anyone else's trading techniques. I tell them that I haven't even mastered my own and probably never will, but I am confident that I will make far more money perfecting what I already know than trying to incorporate non-price-ac- tion approaches into my trading. I ask them if James Galway offered a beautiful flute to Yo-Yo Ma and in- sisted that Ma start learning to play the flute because Galway makes so much money by playing his flute, should Ma accept the offer? Clearly not. Ma should continue to play the cello and by doing so he will make far more money than if he also started playing the flute. I am no Galway or Ma, but the concept is the same. Price action is the only instrument that I want to play, and I strongly believe that I will make far more money by mastering it than by incorporating ideas from other successful traders.
+> Friends and colleagues freely offer opinions for you to ignore. Occasionally traders will tell me that they have a great setup and want to discuss it with me. I in-variably get them angry with me when I tell them that I am not interested. They immediately perceive me as selfish, stubborn, and close-minded, and when it comes to trading, I am all of that and probably much more. The skills that make you money are generally seen as flaws to the layperson. Why do I no longer read books or articles about trading, or talk to other traders about their ideas? As I said, the chart tells me all that I need to know and any other information is a distraction. Several people have been offended by my attitude, but I think in part it comes from me turning down what they are presenting as something helpful to me when in reality they are making an offering, hoping that I will reciprocate with some tutoring. They become frustrated and angry when I tell them that I don't want to hear about anyone else's trading techniques. I tell them that I haven't even mastered my own and probably never will, but I am confident that I will make far more money perfecting what I already know than trying to incorporate non-price-ac-tion approaches into my trading. I ask them if James Galway offered a beautiful flute to Yo-Yo Ma and insisted that Ma start learning to play the flute because Galway makes so much money by playing his flute, should Ma accept the offer? Clearly not. Ma should continue to play the cello and by doing so he will make far more money than if he also started playing the flute. I am no Galway or Ma, but the concept is the same. Price action is the only instrument that I want to play, and I strongly believe that I will make far more money by mastering it than by incorporating ideas from other successful traders.
 
 
 告诉你机构究竟怎么解读消息的，是走势图，而不是电视上的专家。
@@ -803,31 +657,25 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 昨天，Costco（COST）的季度盈利增长了32%，高于分析师的预期（见图 I.2）。COST 开盘跳空高开，在第一根K线上回测了这个缺口，随后20分钟内上涨了一美元以上。接着它缓慢回落，去回测昨天的收盘价。它有两波上涨都突破了空头趋势线，而两波都失败了。这就形成了一个双顶（第2根和第3根K线）熊旗，或者说三重顶（第1、2、3根K线），随后市场暴跌$3，跌破前一日的低点。如果你不知道那份报告，你会在第2根和第3根K线上那两次失败的空头趋势线突破处做空，还会在第4根K线下方继续卖出——那是一次跌破昨日低点之后的回调。你会在第5根K线那根大反转K线上反手做多，因为那是对跌破昨日低点那次突破的第二次反转尝试，也是对陡峭空头趋势通道线下沿那次突破的高潮反转。
 
 
-> Yesterday, Costco's earnings were up 32 percent on the quarter and above analysts’ expectations (see Fig- ure I.2). COST gapped up on the open, tested the gap on the first bar, and then ran up over a dollar in 20 minutes. It then drifted down to test yesterday's close. It had two rallies that broke bear trend lines, and both failed. This created a double top (bars 2 and 3) bear flag or triple top (bars 1, 2, and 3), and the market then plunged $3, below the prior day's low. If you were unaware of the report, you would have shorted at the failed bear trend line breaks at bars 2 and 3 and you would have sold more below bar 4, which was a pullback that followed the breakout below yesterday's low. You would have reversed to long on the bar 5 big reversal bar, which was the second attempt to reverse the breakout below yesterday's low and a climactic re- versal of the breakout of the bottom of the steep bear trend channel line.
+> Yesterday, Costco's earnings were up 32 percent on the quarter and above analysts’ expectations (see Fig-ure I.2). COST gapped up on the open, tested the gap on the first bar, and then ran up over a dollar in 20 minutes. It then drifted down to test yesterday's close. It had two rallies that broke bear trend lines, and both failed. This created a double top (bars 2 and 3) bear flag or triple top (bars 1, 2, and 3), and the market then plunged $3, below the prior day's low. If you were unaware of the report, you would have shorted at the failed bear trend line breaks at bars 2 and 3 and you would have sold more below bar 4, which was a pullback that followed the breakout below yesterday's low. You would have reversed to long on the bar 5 big reversal bar, which was the second attempt to reverse the breakout below yesterday's low and a climactic re-versal of the breakout of the bottom of the steep bear trend channel line.
 
 
-**图 I.2忽略消息面**
+![图 I.2](figures/fig-I-2.jpg)
 
 
-> Figure I.2 Ignore the News
+**图 I.2　忽略消息面**
 
 
 另一种可能是：你因为那份看涨的报告在开盘买入，然后一直纳闷：这只股票为什么在崩塌，而不是像电视上的分析师预测的那样一飞冲天；你很可能会在第二次暴跌到第5根K线时把多头仓位卖掉，亏损$2。
 
 
-> Alternatively, you could have bought the open be- cause of the bullish report, and then worried about why the stock was collapsing instead of soaring the way the TV analysts predicted, and you likely would have sold out your long on the second plunge down to bar 5 with a $2 loss.
+> Alternatively, you could have bought the open be-cause of the bullish report, and then worried about why the stock was collapsing instead of soaring the way the TV analysts predicted, and you likely would have sold out your long on the second plunge down to bar 5 with a $2 loss.
 
 
-任何用很少的K线走出很多点的趋势——也就是既有大K线、又有彼此重叠极少的K线的组合——最终都会有回调。这类趋势的动能如此之强，以至于概率上更有利于趋势在回调之后恢复，然后再去回测趋势的极值。只要回调没有翻转成方向相反的新趋势、没有越过原趋势的起点继续延伸，这个极值通常都会被超越。总的来说，回调能重新回到原趋势极值的概率
+任何用很少的K线走出很多点的趋势——也就是既有大K线、又有彼此重叠极少的K线的组合——最终都会有回调。这类趋势的动能如此之强，以至于概率上更有利于趋势在回调之后恢复，然后再去回测趋势的极值。只要回调没有翻转成方向相反的新趋势、没有越过原趋势的起点继续延伸，这个极值通常都会被超越。总的来说，回调能重新回到原趋势极值的概率在回调回撤75%或更多时会大幅下降。对空头趋势中的一次回调来说，到了这个程度，交易者不如把这个回调当成一轮新的多头趋势来看，而不是把它当成旧空头趋势里的回调。第6根K线的回撤幅度约为70%，随后市场在次日开盘时回测了空头高潮的低点。
 
 
-> Any trend that covers a lot of points in very few bars, meaning that there is some combination of large bars and bars that overlap each other only minimally, will eventually have a pullback. These trends have such strong momentum that the odds favor resump- tion of the trend after the pullback and then a test of the trend's extreme. Usually the extreme will be ex- ceeded, as long as the pullback does not turn into a new trend in the opposite direction and extend bey- ond the start of the original trend. In general, the odds
-
-
-在回调回撤75%或更多时会大幅下降。对空头趋势中的一次回调来说，到了这个程度，交易者不如把这个回调当成一轮新的多头趋势来看，而不是把它当成旧空头趋势里的回调。第6根K线的回撤幅度约为70%，随后市场在次日开盘时回测了空头高潮的低点。
-
-
-> that a pullback will get back to the prior trend's ex- treme fall substantially if the pullback retraces 75 per- cent or more. For a pullback in a bear trend, at that point, a trader is better off thinking of the pullback as a new bull trend rather than a pullback in an old bear trend. Bar 6 was about a 70 percent pullback and then the market tested the climactic bear low on the open of the next day.
+> Any trend that covers a lot of points in very few bars, meaning that there is some combination of large bars and bars that overlap each other only minimally, will eventually have a pullback. These trends have such strong momentum that the odds favor resumption of the trend after the pullback and then a test of the trend's extreme. Usually the extreme will be ex-ceeded, as long as the pullback does not turn into a new trend in the opposite direction and extend bey-ond the start of the original trend. In general, the odds that a pullback will get back to the prior trend's ex-treme fall substantially if the pullback retraces 75 per-cent or more. For a pullback in a bear trend, at that point, a trader is better off thinking of the pullback as a new bull trend rather than a pullback in an old bear trend. Bar 6 was about a 70 percent pullback and then the market tested the climactic bear low on the open of the next day.
 
 
 市场因为一条消息而跳空高开，并不意味着它会继续上涨——不管这条消息对多头来说有多有利。
@@ -836,82 +684,52 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > Just because the market gaps up on a news item does not mean that it will continue up, despite how bullish the news is.
 
 
-如图 I.3所示，在雅虎（YHOO）两张走势图上第1根K线开盘之前（左边是日线图，右边是周线图），消息称微软（Microsoft）打算以每股 $31收购雅虎，市场随即跳空高开、几乎涨到那个价格。许多交易者认定这事一定会成，因为微软是全世界最好的公司之一，它要是想买下雅虎，肯定能办到。不仅如此——微软手里的现金那么多，必要时它多半愿意把条件再加好一点。结果呢，雅虎的 CEO 说他的公司大约值每股 $40，而微软始终没有还价。这笔交易慢慢化为泡影，雅虎的股价也随之蒸发。到了10月，雅虎的股价比这笔交易
+如图 I.3所示，在雅虎（YHOO）两张走势图上第1根K线开盘之前（左边是日线图，右边是周线图），消息称微软（Microsoft）打算以每股 $31收购雅虎，市场随即跳空高开、几乎涨到那个价格。许多交易者认定这事一定会成，因为微软是全世界最好的公司之一，它要是想买下雅虎，肯定能办到。不仅如此——微软手里的现金那么多，必要时它多半愿意把条件再加好一点。结果呢，雅虎的 CEO 说他的公司大约值每股 $40，而微软始终没有还价。这笔交易慢慢化为泡影，雅虎的股价也随之蒸发。到了10月，雅虎的股价比这笔交易宣布之前的价位低了20%，比宣布当天下跌了50%，而且还在继续下跌。所谓强劲的基本面、所谓认真的买家提出的收购要约，也就这么回事了。对价格行为交易者来说，空头市场里一次巨大的上涨很可能只是一面熊旗——除非这波上涨之后跟着一连串更高的低点和更高的高点。它之后也可能跟着一面牛旗、然后是更多的上涨，但在多头趋势得到确认之前，你必须清楚：周线图上更大级别的趋势更重要。
 
 
-> As shown in Figure I.3, before the open of bar 1 on both Yahoo! (YHOO) charts (daily on the left, weekly on the right), the news reported that Microsoft was looking to take over Yahoo! at $31 a share, and the market gapped up almost to that price. Many traders assumed that it had to be a done deal because Mi- crosoft is one of the best companies in the world and if it wanted to buy Yahoo!, it certainly could make it happen. Not only that—Microsoft has so much cash that it would likely be willing to sweeten the deal if needed. Well, the CEO of Yahoo! said that his com- pany was worth more like $40 a share, but Microsoft never countered. The deal slowly evaporated, along with Yahoo!'s price. In October, Yahoo! was 20 per- cent below the price where it was before the deal was
+> As shown in Figure I.3, before the open of bar 1 on both Yahoo! (YHOO) charts (daily on the left, weekly on the right), the news reported that Microsoft was looking to take over Yahoo! at $31 a share, and the market gapped up almost to that price. Many traders assumed that it had to be a done deal because Microsoft is one of the best companies in the world and if it wanted to buy Yahoo!, it certainly could make it happen. Not only that—Microsoft has so much cash that it would likely be willing to sweeten the deal if needed. Well, the CEO of Yahoo! said that his com-pany was worth more like $40 a share, but Microsoft never countered. The deal slowly evaporated, along with Yahoo!'s price. In October, Yahoo! was 20 per-cent below the price where it was before the deal was announced and 50 percent lower than on the day of the announcement, and it continues to fall. So much for strong fundamentals and a takeover offer from a serious suitor. To a price action trader, a huge up move in a bear market is probably just a bear flag, un-less the move is followed by a series of higher lows and higher highs. It could be followed by a bull flag and then more of a rally, but until the bull trend is confirmed, you must be aware that the larger weekly trend is more important.
 
 
-宣布之前的价位低了20%，比宣布当天下跌了50%，而且还在继续下跌。所谓强劲的基本面、所谓认真的买家提出的收购要约，也就这么回事了。对价格行为交易者来说，空头市场里一次巨大的上涨很可能只是一面熊旗——除非这波上涨之后跟着一连串更高的低点和更高的高点。它之后也可能跟着一面牛旗、然后是更多的上涨，但在多头趋势得到确认之前，你必须清楚：周线图上更大级别的趋势更重要。
+![图 I.3](figures/fig-I-3.jpg)
 
 
-> announced and 50 percent lower than on the day of the announcement, and it continues to fall. So much for strong fundamentals and a takeover offer from a serious suitor. To a price action trader, a huge up move in a bear market is probably just a bear flag, un- less the move is followed by a series of higher lows and higher highs. It could be followed by a bull flag and then more of a rally, but until the bull trend is confirmed, you must be aware that the larger weekly trend is more important.
+**图 I.3　看涨的消息也可能让市场下跌**
 
 
-**图 I.3看涨的消息也可能让市场下跌**
+唯一名副其实的东西是走势图。如果你看不懂它在告诉你什么，就不要交易。等清晰信号出现。它总会来的。可一旦它出现了，你就必须下单、承担风险，并照自己的计划走。不要切换到1分钟图去收紧止损，因为那样你会亏钱。1分钟图的问题在于：它用更多的小K线提供入场机会、风险也因此更小，借此来诱惑你。但你不可能全都做，于是你会挑挑拣拣，而这会要了你账户的命，因为你必然会挑到太多坏樱桃。当你在5分钟图上入场时，你的交易是基于你对5分钟图的分析，而你对1分钟图长什么样一无所知。所以你必须依靠5分钟图上的止损和目标位，并且接受这个现实：1分钟图会朝你不利的方向走，会频繁打掉1分钟级别的止损。如果你盯着1分钟图，你就无法把全部注意力放在5分钟图上，而一个好交易者会把钱从你的账户里拿走、放进他的账户。如果你想竞争，就必须把一切干扰、一切输入都降到最少，只留下你面前那张走势图上的东西，并相信：这样做你就能赚到很多钱。这听起来不像是真的，但它千真万确。永远不要质疑它。把事情保持简单，然后照着简单的规则做。始终如一地把一件简单的事做下去，是极其困难的，但在我看来，这就是最好的交易方式。归根结底，随着一个交易者对价格行为理解得越来越透，交易就会变得压力小得多，实际上还相当无聊，但赚钱多得多。
 
 
-> Figure I.3 Markets Can Fall on Bullish News
-
-
-唯一名副其实的东西是走势图。如果你看不懂它在告诉你什么，就不要交易。等清晰信号出现。它总会来的。可一旦它
-
-
-> The only thing that is as it seems is the chart. If you cannot figure out what it is telling you, do not trade. Wait for clarity. It will always come. But once it is
-
-
-出现了，你就必须下单、承担风险，并照自己的计划走。不要切换到1分钟图去收紧止损，因为那样你会亏钱。1分钟图的问题在于：它用更多的小K线提供入场机会、风险也因此更小，借此来诱惑你。但你不可能全都做，于是你会挑挑拣拣，而这会要了你账户的命，因为你必然会挑到太多坏樱桃。当你在5分钟图上入场时，你的交易是基于你对5分钟图的分析，而你对1分钟图长什么样一无所知。所以你必须依靠5分钟图上的止损和目标位，并且接受这个现实：1分钟图会朝你不利的方向走，会频繁打掉1分钟级别的止损。如果你盯着1分钟图，你就无法把全部注意力放在5分钟图上，而一个好交易者会把钱从你的账户里拿走、放进他的账户。如果你想竞争，就必须把一切干扰、一切输入都降到最少，只留下你面前那张走势图上的东西，并相信：这样做你就能赚到很多钱。这听起来不像是真的，但它千真万确。永远不要质疑它。把事情保持简单，然后照着简单的规则做。始终如一地把一件简单的事做下去，是极其困难的，但在我看来，这就是最好的交易方式。归根结底，随着一个交易者
-
-
-> there, you must place the trade and assume the risk and follow your plan. Do not dial down to a 1 minute chart and tighten your stop, because you will lose. The problem with the 1 minute chart is that it tempts you by offering lots of entries with smaller bars and there- fore smaller risk. However, you will not be able to take them all and you will instead cherry-pick, which will lead to the death of your account because you will in- variably pick too many bad cherries. When you enter on a 5 minute chart, your trade is based on your ana- lysis of the 5 minute chart without any idea of what the 1 minute chart looks like. You must therefore rely on your five-minute stops and targets, and just accept the reality that the 1 minute chart will move against you and hit a one-minute stop frequently. If you watch the 1 minute chart, you will not be devoting your full attention to the 5 minute chart and a good trader will take your money from your account and put it into his account. If you want to compete, you must minimize all distractions and all inputs other than what is on the chart in front of you, and trust that if you do you will make a lot of money. It will seem unreal but it is very real. Never question it. Just keep things simple and follow your simple rules. It is extremely difficult to consistently do something simple, but in my opin- ion, it is the best way to trade. Ultimately, as a trader
-
-
-对价格行为理解得越来越透，交易就会变得压力小得多，实际上还相当无聊，但赚钱多得多。
-
-
-> understands price action better and better, trading be- comes much less stressful and actually pretty boring, but much more profitable.
+> The only thing that is as it seems is the chart. If you cannot figure out what it is telling you, do not trade. Wait for clarity. It will always come. But once it is there, you must place the trade and assume the risk and follow your plan. Do not dial down to a 1 minute chart and tighten your stop, because you will lose. The problem with the 1 minute chart is that it tempts you by offering lots of entries with smaller bars and there-fore smaller risk. However, you will not be able to take them all and you will instead cherry-pick, which will lead to the death of your account because you will in-variably pick too many bad cherries. When you enter on a 5 minute chart, your trade is based on your ana-lysis of the 5 minute chart without any idea of what the 1 minute chart looks like. You must therefore rely on your five-minute stops and targets, and just accept the reality that the 1 minute chart will move against you and hit a one-minute stop frequently. If you watch the 1 minute chart, you will not be devoting your full attention to the 5 minute chart and a good trader will take your money from your account and put it into his account. If you want to compete, you must minimize all distractions and all inputs other than what is on the chart in front of you, and trust that if you do you will make a lot of money. It will seem unreal but it is very real. Never question it. Just keep things simple and follow your simple rules. It is extremely difficult to consistently do something simple, but in my opin-ion, it is the best way to trade. Ultimately, as a trader understands price action better and better, trading be-comes much less stressful and actually pretty boring, but much more profitable.
 
 
 虽然我从不赌博（因为赔率、风险与回报的组合对我不利，而我永远不想跟数学期望对赌），但交易和赌博确实有一些相似之处，尤其在不做交易的人看来。赌博是一场碰运气的游戏，但我更愿意把定义限定为：赔率略微对你不利、长期下来你会亏钱的那种情形。为什么要这样限定？因为没有这个限定，任何投资都是赌博——其中总有运气的成分和血本无归的风险，哪怕你买的是投资性房地产、买的是自住房、开的是公司、买的是蓝筹股，甚至买的是美国国债（政府可能选择让美元贬值，以缩小我们债务的实际规模；这样一来，你从这些债券里收回的美元，购买力会远低于你当初买债券的时候）。
 
 
-> Although I never gamble (because the combination of odds, risk, and reward are against me, and I never want to bet against math), there are some similarities with gambling, especially in the minds of those who don't trade. Gambling is a game of chance, but I prefer to restrict the definition to situations where the odds are slightly against you and you will lose over time. Why this restriction? Because without it, every invest- ment is a gamble since there is always an element of luck and a risk of total loss, even if you buy invest- ment real estate, buy a home, start a business, buy a blue-chip stock, or even buy Treasury bonds (the gov- ernment might choose to devalue the dollar to reduce the real size of our debt, and in so doing, the purchas- ing power of the dollars that you will get back from those bonds would be much less than when you ori- ginally bought the bonds).
+> Although I never gamble (because the combination of odds, risk, and reward are against me, and I never want to bet against math), there are some similarities with gambling, especially in the minds of those who don't trade. Gambling is a game of chance, but I prefer to restrict the definition to situations where the odds are slightly against you and you will lose over time. Why this restriction? Because without it, every invest-ment is a gamble since there is always an element of luck and a risk of total loss, even if you buy invest-ment real estate, buy a home, start a business, buy a blue-chip stock, or even buy Treasury bonds (the gov-ernment might choose to devalue the dollar to reduce the real size of our debt, and in so doing, the purchas-ing power of the dollars that you will get back from those bonds would be much less than when you originally bought the bonds).
 
 
-有些交易者用简单的博弈论：在一笔或多笔亏损之后加大交易规模（这叫做交易上的马丁格尔方法）。二十一点的算牌者和交易区间交易者非常像。算牌者想弄清楚的，是数学期望什么时候已经朝一个方向偏得太远。具体
+有些交易者用简单的博弈论：在一笔或多笔亏损之后加大交易规模（这叫做交易上的马丁格尔方法）。二十一点的算牌者和交易区间交易者非常像。算牌者想弄清楚的，是数学期望什么时候已经朝一个方向偏得太远。具体说来，他们想知道什么时候牌堆里剩下的牌很可能人头牌占比过高。当算出的点数显示情况很可能正是如此时，他们就依据“接下来人头牌出现的比例会偏高、赢的概率因此上升”这一概率判断来下一笔交易（下注）。交易区间交易者也一样，他们在找那些自己认为市场已经朝一个方向走得太远的时刻，然后朝相反的方向下单（也就是反向操作）。
 
 
-> Some traders use simple game theory and increase the size of a trade after one or more losing trades (this is called a martingale approach to trading). Blackjack card counters are very similar to trading range traders. The card counters are trying to determine when the math has gone too far in one direction. In
+> Some traders use simple game theory and increase the size of a trade after one or more losing trades (this is called a martingale approach to trading). Blackjack card counters are very similar to trading range traders. The card counters are trying to determine when the math has gone too far in one direction. In particular, they want to know when the remaining cards in the deck are likely overweighed with face cards. When the count indicates that this is likely, they place a trade (bet) based on the probability that a disproportionate number of face cards will be coming up, increasing the odds of winning. Trading range traders are looking for times when they think the mar-ket has gone too far in one direction and then they place a trade in the opposite direction (a fade).
 
 
-说来，他们想知道什么时候牌堆里剩下的牌很可能人头牌占比过高。当算出的点数显示情况很可能正是如此时，他们就依据“接下来人头牌出现的比例会偏高、赢的概率因此上升”这一概率判断来下一笔交易（下注）。交易区间交易者也一样，他们在找那些自己认为市场已经朝一个方向走得太远的时刻，然后朝相反的方向下单（也就是反向操作）。
+为了找出交易与赌博的异同，我在网上不用真钱玩过几次扑克。我很快就发现有一件事让我直接放弃：运气带来的那种天然的不公平让我一直焦虑，而我从不想让运气成为我成功概率中很大的一部分。这是一个巨大的差别，它让我把赌博和交易看成根本不同的两件事，尽管大众的印象不是这样。在交易里，每个人拿到的牌都一样，所以这场游戏永远是公平的；长期下来，你得到奖赏还是受到惩罚，完全取决于你做交易的能力。当然，有时候你交易做对了却还是亏钱，而且因为所有可能结果构成的概率分布曲线，这种情况可能连着发生好几次。你交易做得很好却连着亏10次、甚至100次以上，这种可能是存在的，只是微乎其微；但我记不起上一次看到连续四个好信号都失败是什么时候了，所以这个险我愿意冒。如果你交易做得好，长期下来你应该能赚钱，因为这是一场零和游戏（除了手续费——只要你选的经纪商合适，手续费应该很小）。如果你比大多数交易者强，你就会赢走他们的钱。
 
 
-> particular, they want to know when the remaining cards in the deck are likely overweighed with face cards. When the count indicates that this is likely, they place a trade (bet) based on the probability that a disproportionate number of face cards will be coming up, increasing the odds of winning. Trading range traders are looking for times when they think the mar- ket has gone too far in one direction and then they place a trade in the opposite direction (a fade).
-
-
-为了找出交易与赌博的异同，我在网上不用真钱玩过几次扑克。我很快就发现有一件事让我直接放弃：运气带来的那种天然的不公平让我一直焦虑，而我从不想让运气成为我成功概率中很大的一部分。这是一个巨大的差别，它让我把赌博和交易看成根本不同的两件事，尽管大众的印象不是这样。在交易里，每个人拿到的牌都一样，所以这场游戏永远是公平的；长期下来，你得到奖赏还是受到惩罚，完全取决于你做交易的能力。当然，有时候你交易做对了却还是亏钱，而且因为所有可能结果构成的概率分布曲线，这种情况可能连着发生好几次。你交易做得很好却连着亏10次、甚至100次以上，这种可能是存在的，只是微乎其微；但我记不起上一次
-
-
-> I tried playing poker online a few times without us- ing real money to find similarities to and differences from trading. I discovered early on that there was a deal breaker for me: I was constantly anxious because of the inherent unfairness due to luck, and I never want luck to be a large component of the odds for my success. This is a huge difference and makes me see gambling and trading as fundamentally different, des- pite public perception. In trading, everyone is dealt the same cards so the game is always fair and, over time, you get rewarded or penalized entirely due to your skill as a trader. Obviously, sometimes you can trade correctly and lose, and this can happen several times in a row due to the probability curve of all pos- sible outcomes. There is a real but microscopic chance that you can trade well and lose 10 or even 100 times or more in a row; but I cannot remember the last time
-
-
-看到连续四个好信号都失败是什么时候了，所以这个险我愿意冒。如果你交易做得好，长期下来你应该能赚钱，因为这是一场零和游戏（除了手续费——只要你选的经纪商合适，手续费应该很小）。如果你比大多数交易者强，你就会赢走他们的钱。
-
-
-> I saw as many as four good signals fail in a row, so this is a chance that I am willing to take. If you trade well, over time you should make money because it is a zero- sum game (except for commissions, which should be small if you choose an appropriate broker). If you are better than most of the other traders, you will win their money.
+> I tried playing poker online a few times without us-ing real money to find similarities to and differences from trading. I discovered early on that there was a deal breaker for me: I was constantly anxious because of the inherent unfairness due to luck, and I never want luck to be a large component of the odds for my success. This is a huge difference and makes me see gambling and trading as fundamentally different, des-pite public perception. In trading, everyone is dealt the same cards so the game is always fair and, over time, you get rewarded or penalized entirely due to your skill as a trader. Obviously, sometimes you can trade correctly and lose, and this can happen several times in a row due to the probability curve of all pos-sible outcomes. There is a real but microscopic chance that you can trade well and lose 10 or even 100 times or more in a row; but I cannot remember the last time I saw as many as four good signals fail in a row, so this is a chance that I am willing to take. If you trade well, over time you should make money because it is a zero-sum game (except for commissions, which should be small if you choose an appropriate broker). If you are better than most of the other traders, you will win their money.
 
 
 有两类赌博不同于纯粹的碰运气游戏，而它们都和交易相似。在体育博彩和扑克里，赌客想赚的是别的赌客的钱，而不是庄家的钱；因此，只要他们比对手强得多，就能把赔率变得对自己有利。不过，他们付出的“手续费”可能比交易者付出的高出许多，体育博彩尤其如此——那里的抽水通常是10%，这也是像比利·沃尔特斯（Billy Walters）这样极其成功的体育赌客如此罕见的原因：他们必须比对手至少强10%，才能做到不赔不赚。成功的扑克玩家则更常见，看看电视上那些扑克节目就知道了。然而，即便是最好的扑克玩家，赚的钱也远不能和最顶尖的交易者相比，因为他们实际能下的注，上限要小得多。
 
 
-> There are two types of gambling that are different from pure games of chance, and both are similar to trading. In both sports betting and poker, gamblers are trying to take money from other gamblers rather than from the house, and therefore they can create odds in their favor if they are significantly better than their competitors. However, the “commissions” that they pay can be far greater than those that a trader pays, especially with sports betting, where the vig is usually 10 percent, and that is why incredibly success- ful sports gamblers like Billy Walters are so rare: they have to be at least 10 percent better than the competi- tion just to break even. Successful poker players are more common, as can be seen on all of the poker shows on TV. However, even the best poker players do not make anything comparable to what the best traders make, because the practical limits to their trading size are much smaller.
+> There are two types of gambling that are different from pure games of chance, and both are similar to trading. In both sports betting and poker, gamblers are trying to take money from other gamblers rather than from the house, and therefore they can create odds in their favor if they are significantly better than their competitors. However, the “commissions” that they pay can be far greater than those that a trader pays, especially with sports betting, where the vig is usually 10 percent, and that is why incredibly success-ful sports gamblers like Billy Walters are so rare: they have to be at least 10 percent better than the competi-tion just to break even. Successful poker players are more common, as can be seen on all of the poker shows on TV. However, even the best poker players do not make anything comparable to what the best traders make, because the practical limits to their trading size are much smaller.
 
 
 我个人觉得交易并不让人紧张，因为运气的成分太小，小到不值得考虑。不过，交易和打扑克有一点是共通的，那就是耐心的价值。在扑克里，如果你耐心等到只拿最好的牌才下注，你赚的钱会多得多；交易者也是一样——有耐心等到最好的建仓形态，就能赚得更多。对我来说，交易中这种漫长的等待要好受得多，因为行情清淡的时候，我能看到其它所有的“牌”；而且，寻找细微的价格行为现象，本身就很有智力上的乐趣。
 
 
-> I personally find trading not to be stressful, be- cause the luck factor is so tiny that it is not worth con- sidering. However, there is one thing that trading and playing poker share, and that is the value of patience. In poker, you stand to make far more money if you patiently wait to bet on only the very best hands, and traders make more when they have the patience to wait for the very best setups. For me, this protracted downtime is much easier in trading because I can see all of the other “cards” during the slow times, and it is intellectually stimulating to look for subtle price ac- tion phenomena.
+> I personally find trading not to be stressful, be-cause the luck factor is so tiny that it is not worth considering. However, there is one thing that trading and playing poker share, and that is the value of patience. In poker, you stand to make far more money if you patiently wait to bet on only the very best hands, and traders make more when they have the patience to wait for the very best setups. For me, this protracted downtime is much easier in trading because I can see all of the other “cards” during the slow times, and it is intellectually stimulating to look for subtle price ac-tion phenomena.
 
 
 赌博里有一条重要的老话，做什么事都适用：手里没有好牌，就不要下注。交易里也一样。下单之前，先等一个好的建仓形态。如果你做交易既没有纪律、又没有一套站得住的方法，那你就是把盈利寄托在运气和希望上，你的交易毫无疑问就是一种赌博。
@@ -920,225 +738,175 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > There is an important adage in gambling that is true in all endeavors, and that is that you should not bet until you have a good hand. In trading, that is true as well. Wait for a good setup before placing a trade. If you trade without discipline and without a sound method, then you are relying on luck and hope for your profits, and your trading is unquestionably a form of gambling.
 
 
-有一种很糟糕的类比来自不做交易的人：他们认定所有日内交易者——乃至所有市场交易者——都是赌博成瘾的人，因此精神上有病。我怀疑其中确有很多人上瘾：他们做交易，更多是为了刺激，而不是为了盈利。他们愿意
+有一种很糟糕的类比来自不做交易的人：他们认定所有日内交易者——乃至所有市场交易者——都是赌博成瘾的人，因此精神上有病。我怀疑其中确有很多人上瘾：他们做交易，更多是为了刺激，而不是为了盈利。他们愿意去下那些低概率的赌注，输掉大笔的钱，只为了偶尔赢一次时那种强烈的兴奋感。不过，大多数成功的交易者本质上是投资者，和买商业地产、或者买下一家小生意的投资者没有两样。和其它任何类型的投资相比，真正的区别只有两点：时间级别更短，杠杆更大。
 
 
-> One unfortunate comparison is from nontraders who assume that all day traders, and all market traders for that matter, are addicted gamblers and therefore have a mental illness. I suspect that many are addicted, in the sense that they are doing it more for excitement than for profit. They are willing to
+> One unfortunate comparison is from nontraders who assume that all day traders, and all market traders for that matter, are addicted gamblers and therefore have a mental illness. I suspect that many are addicted, in the sense that they are doing it more for excitement than for profit. They are willing to make low-probability bets and lose large sums of money because of the huge rush they feel when they occasionally win. However, most successful traders are essentially investors, just like an investor who buys commercial real estate or a small business. The only real differences from any other type of investing are that the time frame is shorter and the leverage is greater.
 
 
-去下那些低概率的赌注，输掉大笔的钱，只为了偶尔赢一次时那种强烈的兴奋感。不过，大多数成功的交易者本质上是投资者，和买商业地产、或者买下一家小生意的投资者没有两样。和其它任何类型的投资相比，真正的区别只有两点：时间级别更短，杠杆更大。
+遗憾的是，新手偶尔会去赌一把，这是很常见的，而每次都会让他们亏钱。每一个成功的交易者都依据规则交易。只要交易者因为任何原因偏离了那些规则，他们就是在靠希望而不是靠逻辑交易，那一刻他们就是在赌博。新手往往在刚亏了两笔之后就开始赌。他们急于回本，愿意为此冒一些险。他们会做那些平时不会做的交易，因为他们急着把刚亏掉的钱赚回来。既然他们现在做的是一笔自己都认为是低概率的交易，而且是因为亏损带来的焦虑和难过才做的，那他们就不是在交易，而是在赌博。赌输之后，他们的感觉更糟。不仅当天的亏损更大了，他们还会格外难过，因为他们不得不面对一个现实：他们明明知道纪律是成功的关键要素之一，却没有纪律坚持自己的系统。
 
 
-> make low-probability bets and lose large sums of money because of the huge rush they feel when they occasionally win. However, most successful traders are essentially investors, just like an investor who buys commercial real estate or a small business. The only real differences from any other type of investing are that the time frame is shorter and the leverage is greater.
-
-
-遗憾的是，新手偶尔会去赌一把，这是很常见的，而每次都会让他们亏钱。每一个成功的交易者都依据规则交易。只要交易者因为任何原因偏离了那些规则，他们就是在靠希望而不是靠逻辑交易，那一刻他们就是在赌博。新手往往在刚亏了两笔之后就开始赌。他们急于回本，愿意为此冒一些险。他们会做那些平时不会做的交易，因为他们急着把刚亏掉的钱赚回来。既然他们现在做的是一笔自己都认为是低概率的交易，而且是因为亏损带来的焦虑和难过才做的，那他们就不是在交易，而是在赌博。赌输之后，他们的感觉更糟。不仅当天的亏损更大了，他们还会格外难过，因为他们不得不面对一个现实：他们
-
-
-> Unfortunately, it is common for beginners to occa- sionally gamble, and it invariably costs them money. Every successful trader trades on the basis of rules. Whenever traders deviate from those rules for any reason, they are trading on hope rather than logic and are then gambling. Beginning traders often find them- selves gambling right after having a couple of losses. They are eager to be made whole again and are willing to take some chances to make that happen. They will take trades that they normally would not take, be- cause they are eager to get back the money they just lost. Since they are now taking a trade that they be- lieve is a low-probability trade and they are taking it because of anxiety and sadness over their losses, they are now gambling and not trading. After they lose on their gamble, they feel even worse. Not only are they even further down on the day, but they feel especially sad because they are faced with the reality that they
-
-
-明明知道纪律是成功的关键要素之一，却没有纪律坚持自己的系统。
-
-
-> did not have the discipline to stick to their system when they know that discipline is one of the critical ingredients to success.
+> Unfortunately, it is common for beginners to occasionally gamble, and it invariably costs them money. Every successful trader trades on the basis of rules. Whenever traders deviate from those rules for any reason, they are trading on hope rather than logic and are then gambling. Beginning traders often find them-selves gambling right after having a couple of losses. They are eager to be made whole again and are willing to take some chances to make that happen. They will take trades that they normally would not take, be-cause they are eager to get back the money they just lost. Since they are now taking a trade that they be-lieve is a low-probability trade and they are taking it because of anxiety and sadness over their losses, they are now gambling and not trading. After they lose on their gamble, they feel even worse. Not only are they even further down on the day, but they feel especially sad because they are faced with the reality that they did not have the discipline to stick to their system when they know that discipline is one of the critical ingredients to success.
 
 
 有意思的是，神经金融学（neurofinance）的研究者发现：交易者即将下单时的脑部扫描图像，和瘾君子即将吸一口时的图像无法区分。他们发现存在滚雪球效应：无论行为结果如何，想继续下去的欲望都会增强。遗憾的是，面对亏损时，交易者承担的风险反而更大而不是更小，常常因此把自己的账户做死。沃伦·巴菲特（Warren Buffett）不懂神经科学，却清楚地理解这个问题，他那句话就是证明：“拥有普通智力之后，你需要的是控制冲动的气质——正是这些冲动让另一些人在投资里陷入麻烦。”优秀的交易者控制自己的情绪，并且时刻遵守自己的规则。
 
 
-> Interestingly, neurofinance researchers have found that brain scan images of traders about to make a trade are indistinguishable from those of drug addicts about to take a hit. They found a snowball effect and an increased desire to continue, regardless of the out- come of their behavior. Unfortunately, when faced with losses, traders assume more risk rather than less, often leading to the death of their accounts. Without knowing the neuroscience, Warren Buffett clearly un- derstood the problem, as seen in his statement, “Once you have ordinary intelligence, what you need is the temperament to control the urges that get other people into trouble in investing.” The great traders control their emotions and constantly follow their rules.
+> Interestingly, neurofinance researchers have found that brain scan images of traders about to make a trade are indistinguishable from those of drug addicts about to take a hit. They found a snowball effect and an increased desire to continue, regardless of the out-come of their behavior. Unfortunately, when faced with losses, traders assume more risk rather than less, often leading to the death of their accounts. Without knowing the neuroscience, Warren Buffett clearly understood the problem, as seen in his statement, “Once you have ordinary intelligence, what you need is the temperament to control the urges that get other people into trouble in investing.” The great traders control their emotions and constantly follow their rules.
 
 
-关于赌博，最后再说一点：人有一种天然的倾向，认为没有什么能永远持续下去，认为一切行为都会向均值回归。如果市场已经连着出现三笔或四笔亏损交易，那么概率上下一笔总该赚了吧？这就跟抛硬币一样，不是吗？遗憾的是，市场的表现不是这样。当市场在走趋势时，大多数反转尝试都会失败。当市场处在交易区间里时，
+关于赌博，最后再说一点：人有一种天然的倾向，认为没有什么能永远持续下去，认为一切行为都会向均值回归。如果市场已经连着出现三笔或四笔亏损交易，那么概率上下一笔总该赚了吧？这就跟抛硬币一样，不是吗？遗憾的是，市场的表现不是这样。当市场在走趋势时，大多数反转尝试都会失败。当市场处在交易区间里时，大多数突破尝试都会失败。这和抛硬币正好相反——抛硬币的赔率永远是50–50。而在交易里，概率更像是70%甚至更高：刚刚发生的事会一次又一次地继续发生。因为这种“抛硬币”式的逻辑，大多数交易者都会在某个时候开始考虑博弈论。
 
 
-> One final point about gambling: There is a natural tendency to assume that nothing can last forever and that every behavior regresses toward a mean. If the market has three or four losing trades, surely the odds favor the next one being a winner. It's just like flip- ping a coin, isn't it? Unfortunately, that is not how markets behave. When a market is trending, most at- tempts to reverse fail. When it is in a trading range,
+> One final point about gambling: There is a natural tendency to assume that nothing can last forever and that every behavior regresses toward a mean. If the market has three or four losing trades, surely the odds favor the next one being a winner. It's just like flip-ping a coin, isn't it? Unfortunately, that is not how markets behave. When a market is trending, most at-tempts to reverse fail. When it is in a trading range, most attempts to break out fail. This is the opposite of coin flips, where the odds are always 50–50. In trad-ing, the odds are more like 70 percent or better that what just happened will continue to happen again and again. Because of the coin flip logic, most traders at some point begin to consider game theory.
 
 
-大多数突破尝试都会失败。这和抛硬币正好相反——抛硬币的赔率永远是50–50。而在交易里，概率更像是70%甚至更高：刚刚发生的事会一次又一次地继续发生。因为这种“抛硬币”式的逻辑，大多数交易者都会在某个时候开始考虑博弈论。
+马丁格尔技术在理论上很管用，实践中却不行，因为数学与情绪之间存在冲突。这就是马丁格尔悖论。如果你在每次亏损后把仓位规模加倍（甚至加三倍）并反手，理论上你会赚钱。在5分钟 Emini 小型合约图上，只要你仔细挑选交易，连着四笔亏损并不常见，但它们一定会发生，连着十几笔也一样——尽管我记不起自己见过那种情况。无论如何，如果你做10张合约很舒服，却只从1张起步、打算每亏一次就加倍并反手，那么连着四笔亏损就会让你下一笔交易需要16张合约，连着八笔亏损就需要256张合约！连着亏四笔或更多之后，你不太可能去下一笔超出自己舒适区的交易。愿意一开始只做1张合约的人，绝不会愿意去做16张或256张；而愿意做256张合约的人，也绝不会愿意只用1张来启动这个策略。这就是这套方法固有的、不可逾越的数学难题。
 
 
-> most attempts to break out fail. This is the opposite of coin flips, where the odds are always 50–50. In trad- ing, the odds are more like 70 percent or better that what just happened will continue to happen again and again. Because of the coin flip logic, most traders at some point begin to consider game theory.
-
-
-马丁格尔技术在理论上很管用，实践中却不行，因为数学与情绪之间存在冲突。这就是马丁格尔悖论。如果你在每次亏损后把仓位规模加倍（甚至加三倍）并反手，理论上你会赚钱。在5分钟 Emini 小型合约图上，只要你仔细挑选交易，连着四笔亏损并不常见，但它们一定会发生，连着十几笔也一样——尽管我记不起自己见过那种情况。无论如何，如果你做10张合约很舒服，却只从1张起步、打算每亏一次就加倍并反手，那么连着四笔亏损就会让你下一笔交易需要16张合约，连着八笔亏损就需要256张合约！连着亏四笔或更多之后，你不太可能去下一笔超出自己舒适区的交易。愿意一开始只做1张合约的人，绝不会愿意去做16张或256张；而愿意做256张合约的人，也绝不会愿意只用1张来启动这个策略。这就是这套方法固有的、
-
-
-> Martingale techniques work well in theory but not in practice because of the conflict between math and emotion. That is the martingale paradox. If you double (or even triple) your position size and reverse at each loss, you will theoretically make money. Al- though four losers in a row is uncommon on the 5 minute Emini chart if you choose your trades care- fully, they will happen, and so will a dozen or more, even though I can't remember ever seeing that. In any case, if you are comfortable trading 10 contracts, but start with just one and plan to double up and reverse with each loss, four consecutive losers would require 16 contracts on your next trade and eight consecutive losers would require 256 contracts! It is unlikely that you would place a trade that is larger than your com- fort zone following four or more losers. Anyone will- ing to trade one contract initially would never be will- ing to trade 16 or 256 contracts, and anyone willing to trade 256 contracts would never be willing to initiate this strategy with just one. This is the inherent,
-
-
-不可逾越的数学难题。
-
-
-> insurmountable, mathematical problem with this approach.
+> Martingale techniques work well in theory but not in practice because of the conflict between math and emotion. That is the martingale paradox. If you double (or even triple) your position size and reverse at each loss, you will theoretically make money. Al-though four losers in a row is uncommon on the 5 minute Emini chart if you choose your trades care-fully, they will happen, and so will a dozen or more, even though I can't remember ever seeing that. In any case, if you are comfortable trading 10 contracts, but start with just one and plan to double up and reverse with each loss, four consecutive losers would require 16 contracts on your next trade and eight consecutive losers would require 256 contracts! It is unlikely that you would place a trade that is larger than your com-fort zone following four or more losers. Anyone will-ing to trade one contract initially would never be will-ing to trade 16 or 256 contracts, and anyone willing to trade 256 contracts would never be willing to initiate this strategy with just one. This is the inherent, insurmountable, mathematical problem with this approach.
 
 
 既然交易既好玩又有竞争性，人们自然会把它比作游戏；又因为涉及下注，第一个想到的往往就是赌博。然而，一个贴切得多的类比是国际象棋。下棋时，你能清楚看到对手在做什么，不像纸牌游戏里你看不到对手手里的牌。还有，打扑克时你拿到的牌纯属运气，而下棋时你的棋子摆在哪儿，完全是你自己决策的结果。下棋没有任何东西被隐藏起来，决定胜负的只是你和对手谁的棋艺更高。读懂眼前局面的能力，以及判断接下来很可能发生什么的能力，对棋手和交易者来说都是巨大的财富。
 
 
-> Since trading is fun and competitive, it is natural for people to compare it to games, and because wager- ing is involved, gambling is usually the first thing that comes to mind. However, a far more apt analogy is to chess. In chess, you can see exactly what your oppon- ent is doing, unlike in card games where you don't know your opponent's cards. Also, in poker, the cards that you are dealt are yours purely by chance, but in chess, the location of your pieces is entirely due to your decisions. In chess nothing is hidden and it is simply your skill compared to that of your opponent that determines the outcome. Your ability to read what is in front of you and determine what will likely follow is a great asset both to a chess player and to a trader.
+> Since trading is fun and competitive, it is natural for people to compare it to games, and because wager-ing is involved, gambling is usually the first thing that comes to mind. However, a far more apt analogy is to chess. In chess, you can see exactly what your opponent is doing, unlike in card games where you don't know your opponent's cards. Also, in poker, the cards that you are dealt are yours purely by chance, but in chess, the location of your pieces is entirely due to your decisions. In chess nothing is hidden and it is simply your skill compared to that of your opponent that determines the outcome. Your ability to read what is in front of you and determine what will likely follow is a great asset both to a chess player and to a trader.
 
 
-外行还担心崩盘的可能性，而正因为有这种风险，他们又把交易跟赌博联系在一起。在日线图上，崩盘是非常罕见的事件。这些不做交易的人害怕的，是自己在极度情绪化的事件中没法有效思考和行动。虽然“崩盘”这个词一般只用在日线图上，指的是短时间内出现20%以上的空头市场——比如1927年和1987年那样——但更实用的做法是
+外行还担心崩盘的可能性，而正因为有这种风险，他们又把交易跟赌博联系在一起。在日线图上，崩盘是非常罕见的事件。这些不做交易的人害怕的，是自己在极度情绪化的事件中没法有效思考和行动。虽然“崩盘”这个词一般只用在日线图上，指的是短时间内出现20%以上的空头市场——比如1927年和1987年那样——但更实用的做法是把它只看成又一种走势图形态，因为这样能抽掉情绪，帮助交易者遵守规则。如果你把走势图上的时间轴和价格轴拿掉，只盯着价格行为看，那么日内图上频繁出现的一些市场运动，和经典崩盘中的形态根本无法区分。如果你能越过情绪这一关，你就能从崩盘中赚钱，因为在任何走势图上，崩盘呈现出来的都是可交易的价格行为。
 
 
-> Laypeople are also concerned about the possibility of crashes, and because of that risk, they again associ- ate trading with gambling. Crashes are very rare events on daily charts. These nontraders are afraid of their inability to function effectively during extremely emotional events. Although the term crash is gener- ally reserved for daily charts and applied to bear mar- kets of about 20 percent or more happening in a short time frame, like in 1927 and 1987, it is more useful to
-
-
-把它只看成又一种走势图形态，因为这样能抽掉情绪，帮助交易者遵守规则。如果你把走势图上的时间轴和价格轴拿掉，只盯着价格行为看，那么日内图上频繁出现的一些市场运动，和经典崩盘中的形态根本无法区分。如果你能越过情绪这一关，你就能从崩盘中赚钱，因为在任何走势图上，崩盘呈现出来的都是可交易的价格行为。
-
-
-> think of it as just another chart pattern because that removes the emotion and helps traders follow their rules. If you remove the time and price axes from a chart and focus simply on the price action, there are market movements that occur frequently on intraday charts that are indistinguishable from the patterns in a classic crash. If you can get past the emotion, you can make money off crashes, because with all charts, they display tradable price action.
+> Laypeople are also concerned about the possibility of crashes, and because of that risk, they again associ-ate trading with gambling. Crashes are very rare events on daily charts. These nontraders are afraid of their inability to function effectively during extremely emotional events. Although the term crash is gener-ally reserved for daily charts and applied to bear mar-kets of about 20 percent or more happening in a short time frame, like in 1927 and 1987, it is more useful to think of it as just another chart pattern because that removes the emotion and helps traders follow their rules. If you remove the time and price axes from a chart and focus simply on the price action, there are market movements that occur frequently on intraday charts that are indistinguishable from the patterns in a classic crash. If you can get past the emotion, you can make money off crashes, because with all charts, they display tradable price action.
 
 
 图 I.4（来自 TradeStation）展示了市场在任何时间级别上都可能崩盘。左边那张是1987年崩盘期间 GE 的日线图，中间那张是 COST 在一份非常强劲的盈利报告之后的5分钟图，右边那张是 Emini 的1分钟图。虽然“崩盘”这个词几乎只用来指日线图上短时间内20%以上的抛售，而且在过去一百年里，它被广泛使用的次数也只有两次，但价格行为交易者看的是形态，而同样的崩盘形态在日内图上很常见。既然崩盘在日内如此常见，就没必要套用这个词，因为从交易的角度看，它们只是一段空头波段，带有可交易的价格行为。
 
 
-> Figure I.4 (from TradeStation) shows how markets can crash in any time frame. The one on the left is a daily chart of GE during the 1987 crash, the middle is a 5 minute chart of COST after a very strong earnings report, and the one on the right is a 1 minute Emini chart. Although the term crash is used almost exclus- ively to refer to a 20 percent or more sell-off over a short time on a daily chart and was widely used only twice in the past hundred years, a price action trader looks for shape, and the same crash pattern is com- mon on intraday charts. Since crashes are so common intraday, there is no need to apply the term, because from a trading perspective they are just a bear swing with tradable price action.
+> Figure I.4 (from TradeStation) shows how markets can crash in any time frame. The one on the left is a daily chart of GE during the 1987 crash, the middle is a 5 minute chart of COST after a very strong earnings report, and the one on the right is a 1 minute Emini chart. Although the term crash is used almost exclusively to refer to a 20 percent or more sell-off over a short time on a daily chart and was widely used only twice in the past hundred years, a price action trader looks for shape, and the same crash pattern is com-mon on intraday charts. Since crashes are so common intraday, there is no need to apply the term, because from a trading perspective they are just a bear swing with tradable price action.
 
 
-**图 I.4崩盘很常见**
+![图 I.4](figures/fig-I-4.jpg)
 
 
-> Figure I.4 Crashes Are Common
+**图 I.4　崩盘很常见**
 
 
 顺带一提，“同样的形态出现在所有时间级别上”这一概念意味着：分形数学的原理在设计交易系统时也许有用。换句话说，每一种形态在更小时间级别的走势图里，都会细分成标准的价格行为形态；因此，基于价格行为分析做出的交易决策，在所有时间级别上都管用。
 
 
-> Incidentally, the concept that the same patterns ap- pear on all time frames means that the principles of fractal mathematics might be useful in designing trad- ing systems. In other words, every pattern subdivides into standard price action patterns in smaller time frame charts, and trading decisions based on price ac- tion analysis therefore work in all time frames.
+> Incidentally, the concept that the same patterns ap-pear on all time frames means that the principles of fractal mathematics might be useful in designing trad-ing systems. In other words, every pattern subdivides into standard price action patterns in smaller time frame charts, and trading decisions based on price ac-tion analysis therefore work in all time frames.
 
 
-如何阅读
+如何阅读这几本书我尽量把这三本书里的内容，按一个对交易者有帮助的顺序编排。
 
 
-> HOW TO READ THESE
-
-
-这几本书
-
-
-> BOOKS
-
-
-我尽量把这三本书里的内容，按一个对交易者有帮助的顺序编排。
-
-
-> I tried to group the material in the three books in a se- quence that should be helpful to traders.
+> HOW TO READ THESE BOOKS I tried to group the material in the three books in a sequence that should be helpful to traders.
 
 
 第1册：《Trading Price Action Trends：Technical Analysis of Price Charts Bar by Bar for the Serious Trader》（趋势篇）
 
 
-> Book 1: Trading Price Action Trends: Technic- al Analysis of Price Charts Bar by Bar for the Serious Trader
+> Book 1: Trading Price Action Trends: Technic-al Analysis of Price Charts Bar by Bar for the Serious Trader
 
 
-• 价格行为与蜡烛线的基础知识。市场要么在走趋势，要么处在交易区间里。这一点对每一个时间级别都成立，甚至对单根K线也成立：它要么是趋势K线，要么是非趋势K线（十字星）。• 趋势线与趋势通道线。这些是基本工具，可以用来标示出趋势和交易区间的存在。• 趋势。它们是每一张走势图上最显眼、也最赚钱的组成部分。第2册：《Trading Price Action Trading Ranges：Technical Analysis of Price Charts Bar by Bar for the Serious Trader》（区间篇）
+- 价格行为与蜡烛线的基础知识。市场要么在走趋势，要么处在交易区间里。这一点对每一个时间级别都成立，甚至对单根K线也成立：它要么是趋势K线，要么是非趋势K线（十字星）。
+- 趋势线与趋势通道线。这些是基本工具，可以用来标示出趋势和交易区间的存在。
+- 趋势。它们是每一张走势图上最显眼、也最赚钱的组成部分。第2册：《Trading Price Action Trading Ranges：Technical Analysis of Price Charts Bar by Bar for the Serious Trader》（区间篇）
 
 
-> • The basics of price action and candles. The market is either trending or in a trading range. That is true of every time frame down to even an individual bar, which can be a trend bar or a nontrend bar (doji). • Trend lines and trend channel lines. These are basic tools that can be used to highlight the ex- istence of trends and trading ranges. • Trends. These are the most conspicuous and profitable components of every chart. Book 2: Trading Price Action Trading Ranges: Technical Analysis of Price Charts Bar by Bar for the Serious Trader
+> • The basics of price action and candles. The market is either trending or in a trading range. That is true of every time frame down to even an individual bar, which can be a trend bar or a nontrend bar (doji). • Trend lines and trend channel lines. These are basic tools that can be used to highlight the existence of trends and trading ranges. • Trends. These are the most conspicuous and profitable components of every chart. Book 2: Trading Price Action Trading Ranges: Technical Analysis of Price Charts Bar by Bar for the Serious Trader
 
 
-• 突破。突破是交易区间向趋势的转变。• 缺口。突破常常会制造出好几种日内缺口，它们对交易者可能有帮助，但只有当你使用宽泛的缺口定义时，这些缺口才看得出来。• 磁力位、支撑与阻力。市场一旦突破并开始运动，往往会被某些价格吸引过去，而这些磁力位常常会形成反转。
+- 突破。突破是交易区间向趋势的转变。
+- 缺口。突破常常会制造出好几种日内缺口，它们对交易者可能有帮助，但只有当你使用宽泛的缺口定义时，这些缺口才看得出来。
+- 磁力位、支撑与阻力。市场一旦突破并开始运动，往往会被某些价格吸引过去，而这些磁力位常常会形成反转。
 
 
-> • Breakouts. These are transitions from trading ranges into trends. • Gaps. Breakouts often create several types of in- traday gaps that can be helpful to traders, but these gaps are evident only if you use a broad definition. • Magnets, support, and resistance. Once the market breaks out and begins its move, it is of- ten drawn to certain prices, and these magnets often set up reversals.
+> • Breakouts. These are transitions from trading ranges into trends. • Gaps. Breakouts often create several types of intraday gaps that can be helpful to traders, but these gaps are evident only if you use a broad definition. • Magnets, support, and resistance. Once the market breaks out and begins its move, it is of-ten drawn to certain prices, and these magnets often set up reversals.
 
 
-• 回调。回调是趋势向临时交易区间的转变。• 交易区间。交易区间是大体上横盘的价格活动区域，但其中每一段行情都是一个小的趋势，而整个交易区间通常就是更高时间级别图上某轮趋势中的一次回调。• 订单与交易管理。交易者需要尽可能多的工具，也需要理解刮头皮、波段交易，以及分批建仓与分批止盈，还有如何用止损单和限价单入场与出场。• 交易的数学。一切交易都有其数学基础；当你明白事情为什么会那样一步步展开时，交易的压力就会变得小得多。第3册：《Trading Price Action Reversals：Technical Analysis of Price Charts Bar for the Serious Trader》（反转篇）
+- 回调。回调是趋势向临时交易区间的转变。
+- 交易区间。交易区间是大体上横盘的价格活动区域，但其中每一段行情都是一个小的趋势，而整个交易区间通常就是更高时间级别图上某轮趋势中的一次回调。
+- 订单与交易管理。交易者需要尽可能多的工具，也需要理解刮头皮、波段交易，以及分批建仓与分批止盈，还有如何用止损单和限价单入场与出场。
+- 交易的数学。一切交易都有其数学基础；当你明白事情为什么会那样一步步展开时，交易的压力就会变得小得多。第3册：《Trading Price Action Reversals：Technical Analysis of Price Charts Bar for the Serious Trader》（反转篇）
 
 
-> • Pullbacks. These are transitions from trends to temporary trading ranges. • Trading ranges. These are areas of largely side- ways price activity, but each leg is a small trend and an entire trading range is usually a pullback in a trend on a higher time frame chart. • Order and trade management. Traders need as many tools as possible and need to understand scalping, swing trading, and scaling into and out of trades, as well as how to enter and exit on stops and limit orders. • The mathematics of trading. There is a math- ematical basis for all trading, and when you see why things are unfolding the way they do, trad- ing becomes much less stressful. Book 3: Trading Price Action Reversals: Tech- nical Analysis of Price Charts Bar by Bar for the Serious Trader
+> • Pullbacks. These are transitions from trends to temporary trading ranges. • Trading ranges. These are areas of largely side-ways price activity, but each leg is a small trend and an entire trading range is usually a pullback in a trend on a higher time frame chart. • Order and trade management. Traders need as many tools as possible and need to understand scalping, swing trading, and scaling into and out of trades, as well as how to enter and exit on stops and limit orders. • The mathematics of trading. There is a mathematical basis for all trading, and when you see why things are unfolding the way they do, trad-ing becomes much less stressful. Book 3: Trading Price Action Reversals: Technical Analysis of Price Charts Bar by Bar for the Serious Trader
 
 
-# 引言
-
-*Introduction*
-
-
-• 趋势反转。这类交易提供所有交易类型中最好的风险回报比，但由于大多数都会失败，交易者必须有选择地做。• 日内交易。读者现在理解了价格行为，就可以用它来交易。关于日内交易、头一个小时以及详细示例的那几章，会讲清楚该怎么做。
+- 趋势反转。这类交易提供所有交易类型中最好的风险回报比，但由于大多数都会失败，交易者必须有选择地做。
+- 日内交易。读者现在理解了价格行为，就可以用它来交易。关于日内交易、头一个小时以及详细示例的那几章，会讲清楚该怎么做。
 
 
-> • Trend reversals. These offer the best risk/re- ward ratios of any type of trade, but since most fail, traders need to be selective. • Day trading. Now that readers understand price action, they can use it to trade. The chapters on day trading, trading the first hour, and detailed examples show how.
+> • Trend reversals. These offer the best risk/re-ward ratios of any type of trade, but since most fail, traders need to be selective. • Day trading. Now that readers understand price action, they can use it to trade. The chapters on day trading, trading the first hour, and detailed examples show how.
 
 
-• 日线图、周线图和月线图。这些走势图上有非常可靠的价格行为建仓形态。• 期权。价格行为可以有效地用于期权交易。• 最好的交易。有些价格行为建仓形态特别好，初学者应当专注于这些。• 准则。有许多重要概念能帮助交易者保持专注。如果你遇到不熟悉的术语，应当能在书前部的术语表中找到它的定义。
+- 日线图、周线图和月线图。这些走势图上有非常可靠的价格行为建仓形态。
+- 期权。价格行为可以有效地用于期权交易。
+- 最好的交易。有些价格行为建仓形态特别好，初学者应当专注于这些。
+- 准则。有许多重要概念能帮助交易者保持专注。如果你遇到不熟悉的术语，应当能在书前部的术语表中找到它的定义。
 
 
-> • Daily, weekly, and monthly charts. These charts have very reliable price action setups. • Options. Price action can be used effectively in option trading. • Best trades. Some price action setups are espe- cially good, and beginners should focus on these. • Guidelines. There are many important concepts that can help keep traders focused. If you come across an unfamiliar term, you should be able to find its definition in the List of Terms at the beginning of the book.
+> • Daily, weekly, and monthly charts. These charts have very reliable price action setups. • Options. Price action can be used effectively in option trading. • Best trades. Some price action setups are espe-cially good, and beginners should focus on these. • Guidelines. There are many important concepts that can help keep traders focused. If you come across an unfamiliar term, you should be able to find its definition in the List of Terms at the beginning of the book.
 
 
-有些书里的走势图使用市场所在地的时区，但如今交易已经电子化、全球化，那种做法就不再有什么意义了。因为我在加利福尼亚做交易，所以这些走势图用的是太平洋标准时间（PST）。所有走势图都是用 TradeStation 制作的。由于每张图上都有几十个值得注意、却尚未讲到的价格行为事件，我会在主要讨论之后紧接着用“对这张图的深入讨论”来讲其中许多事件。尽管你第一次读到它时可能觉得难以理解，但在第二遍读这几本书时就会明白。你见过的标准形态变体越多，就越能在它们
+有些书里的走势图使用市场所在地的时区，但如今交易已经电子化、全球化，那种做法就不再有什么意义了。因为我在加利福尼亚做交易，所以这些走势图用的是太平洋标准时间（PST）。所有走势图都是用 TradeStation 制作的。由于每张图上都有几十个值得注意、却尚未讲到的价格行为事件，我会在主要讨论之后紧接着用“对这张图的深入讨论”来讲其中许多事件。尽管你第一次读到它时可能觉得难以理解，但在第二遍读这几本书时就会明白。你见过的标准形态变体越多，就越能在它们实时展开的过程中把它们识别出来。我通常还会指出图上最主要的一两笔交易。如果你愿意，第一次读的时候可以跳过这些补充讨论，等读完整套书之后再回头看这些图——那时这些更深入的讨论就看得懂了。由于许多建仓形态都是重要概念的绝佳例证，尽管尚未讲到，许多读者在重读这套书时会乐于有这样一段讨论。
 
 
-> Some books show charts that use the time zone of the location of the market, but now that trading is electronic and global, that is no longer relevant. Since I trade in California, the charts are in Pacific standard time (PST). All of the charts were created with TradeStation. Since every chart has dozens of note- worthy price action events that have not yet been covered, I describe many of them immediately after the primary discussion under “Deeper Discussion of This Chart.” Even though you might find this incom- prehensible when you first read it, you will under- stand it on a second reading of the books. The more variations of standard patterns that you see, the better you will be able to spot them as they are developing in
-
-
-实时展开的过程中把它们识别出来。我通常还会指出图上最主要的一两笔交易。如果你愿意，第一次读的时候可以跳过这些补充讨论，等读完整套书之后再回头看这些图——那时这些更深入的讨论就看得懂了。由于许多建仓形态都是重要概念的绝佳例证，尽管尚未讲到，许多读者在重读这套书时会乐于有这样一段讨论。
-
-
-> real time. I also usually point out the major one or two trades on the chart. If you prefer, you can ignore that supplemental discussion on your first read and then look at the charts again after completing the books when the deeper discussion would be understandable. Since many of the setups are excellent examples of important concepts, even though not yet covered, many readers will appreciate having the discussion if they go through the books again.
+> Some books show charts that use the time zone of the location of the market, but now that trading is electronic and global, that is no longer relevant. Since I trade in California, the charts are in Pacific standard time (PST). All of the charts were created with TradeStation. Since every chart has dozens of note-worthy price action events that have not yet been covered, I describe many of them immediately after the primary discussion under “Deeper Discussion of This Chart.” Even though you might find this incomprehensible when you first read it, you will under-stand it on a second reading of the books. The more variations of standard patterns that you see, the better you will be able to spot them as they are developing in real time. I also usually point out the major one or two trades on the chart. If you prefer, you can ignore that supplemental discussion on your first read and then look at the charts again after completing the books when the deeper discussion would be understandable. Since many of the setups are excellent examples of important concepts, even though not yet covered, many readers will appreciate having the discussion if they go through the books again.
 
 
 在本书出版时，我每天都会在 www.brooks-priceaction.com 发布一份 Emini 小型合约的日终分析，并在交易时段提供实时的图表解读。
 
 
-> At the time of publication, I am posting a daily end- of-day analysis of the Emini and providing real-time chart reading during the trading day at www.brooks- priceaction.com.
+> At the time of publication, I am posting a daily end-of-day analysis of the Emini and providing real-time chart reading during the trading day at www.brooks-priceaction.com.
 
 
 这三本书里的所有走势图，都会在 John Wiley & Sons 的网站 www.wiley.com/go/tradingranges 上以大图格式呈现。（见书末的“关于网站”页面。）你可以放大查看细节，也可以把这些图下载下来或者打印出来。当一段描述长达好几页时，手里有一张打印出来的图，就更容易跟得上讲解。
 
 
-> All of the charts in the three books will be in a lar- ger format on John Wiley & Sons’ site at www.wiley.com/go/tradingranges. (See the “About the Website” page at the back of the book.) You will be able to zoom in to see the details, download the charts, or print them. Having a printout of a chart when the description is several pages long will make it easier to follow the commentary.
+> All of the charts in the three books will be in a lar-ger format on John Wiley & Sons’ site at www.wiley.com/go/tradingranges. (See the “About the Website” page at the back of the book.) You will be able to zoom in to see the details, download the charts, or print them. Having a printout of a chart when the description is several pages long will make it easier to follow the commentary.
 
 
-强势信号：趋势、突破、
+强势信号：趋势、突破、反转K线，以及反转以下是强趋势中常见的若干个特征：
 
 
-> SIGNS OF STRENGTH: TRENDS, BREAKOUTS,
+> SIGNS OF STRENGTH: TRENDS, BREAKOUTS, REVERSAL BARS, AND REVERSALS Here are some characteristics that are commonly found in strong trends:
 
 
-反转K线，以及
+- 当天开盘出现一个大缺口。
+- 高点与低点（摆动点）依次走高或走低。
+- 大多数K线都是顺着趋势方向的趋势K线。
+- 相邻K线的实体之间重叠很少。例如，在一段多头急速行情中，许多K线的低点正好等于、或只比前一根K线的收盘价低一个最小报价单位。有些K线的低点正好等于前一根K线的收盘价、并没有低于它，于是那些试图在前一根K线收盘价处挂限价单买入的交易者无法成交，只好到更高的价位去买。
+- 有些K线没有影线，或者两个方向的影线都很小，这说明市场急切。例如，在多头趋势中，如果一根多头趋势K线开在自己的最低价上、然后一路上行，说明交易者急于在前一根K线一收盘时就去买它。如果它收在自己的最高价上或最高价附近，交易者就会继续强力买入，因为他们预期这根K线一收盘就会有新的买家进场。他们愿意一路买进到收盘，因为他们担心：如果等到这根K线收盘再动手，可能就得多花一两个最小报价单位才能买到。
+- 偶尔会出现实体之间的缺口（例如，在多头趋势中，某根K线的开盘价可能高于前一根K线的收盘价）。
+- 突破缺口出现在趋势启动时，形态是一根强劲的趋势K线。
+- 测量缺口出现在突破回测不触及突破点的位置。例如，多头突破之后的回调没有跌到发生突破那根K线的高点之下。
+- 微型测量缺口出现在这种情况：有一根强劲的趋势K线，而且它前一根K线与后一根K线之间存在缺口。例如，在多头趋势中，如果某根强劲多头趋势K线之后那根K线的低点正好位于、或高于该趋势K线之前那根K线的高点，这就是一个缺口、一次突破回测，也是一种强势信号。
+- 不出现大的高潮。
 
 
-> REVERSAL BARS, AND
+> • There is a big gap opening on the day. • There are trending highs and lows (swings). • Most of the bars are trend bars in the direction of the trend. • There is very little overlap of the bodies of consecutive bars. For example, in a bull spike, many bars have lows that are at or just one tick below the closes of the prior bar. Some bars have lows that are at and not below the close of the prior bar, so traders trying to buy on a limit order at the close of the prior bar do not get their orders filled and they have to buy higher. • There are bars with no tails or small tails in either direction, indicating urgency. For ex-ample, in a bull trend, if a bull trend bar opens on its low tick and trends up, traders were eager to buy it as soon as the prior bar closed. If it closes on or near its high tick, traders continued their strong buying in anticipation of new buy-ers entering right after the bar closes. They were willing to buy going into the close because they were afraid that if they waited for the bar to close, they might have to buy a tick or two higher. • Occasionally, there are gaps between the bodies (for example, the open of a bar might be above the close of the prior bar in a bull trend). • A breakout gap appears in the form of a strong trend bar at the start of the trend. • Measuring gaps occur where the breakout test does not overlap the breakout point. For ex-ample, the pullback from a bull breakout does not drop below the high of the bar where the breakout occurred. • Micro measuring gaps appear where there is a strong trend bar and a gap between the bar be-fore it and the bar after it. For example, if the low of the bar after a strong bull trend bar in a bull trend is at or above the high of the bar be-fore the trend bar, this is a gap and a breakout test and a sign of strength. • No big climaxes appear.
 
 
-反转
+- 不常出现大K线（连大趋势K线也不多）。往往最大的几根趋势K线都是逆势的，这会把交易者套住，让他们转头去找逆势交易，结果错过顺势交易。逆势建仓形态几乎总是看起来比顺势建仓形态更好。
+- 不出现明显的趋势通道线过靶，轻微的过靶也只带来横盘修正。
+- 趋势线被突破之后出现横盘修正。
+- 出现失败的楔形，以及其它失败的反转。
+- 出现一连串20根均线缺口K线（连续20根或更多不触及均线的K线，第2册中有讨论）。
+- 几乎找不到能盈利的逆势交易。
+- 回调很小、出现得不频繁，而且大多是横盘式的。例如，如果 Emini 小型合约的平均区间是12点，那么这些回调很可能都不到三四个点，市场也常常一连走五根或更多K线都不回调。
+- 有一种紧迫感。你会发现自己一等就是无数根K线，只为一个像样的顺势回调，却始终等不到，而市场仍在缓慢地延续趋势。
+- 回调带有很强的建仓形态。例如，多头趋势中的高1和高2回调，其信号K线都是强劲的多头反转K线。
+- 在最强的趋势里，回调的信号K线通常很弱，让许多交易者不去做，逼着交易者去追市场。例如，在空头趋势中，低2做空的信号K线常常是两根或三根K线组成的多头急速行情里的小多头K线，有些入场K线还是外包下跌K线。它的“任何东西”都在走趋势：收盘价、高点、低点或者实体。
+- 反复出现的两段式回调，都会给出顺势入场的机会。
+- 不会出现连续两根趋势K线的收盘价落在均线的另一侧。
+- 趋势走得很远，接连突破好几个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 逆着趋势的急速行情式反转尝试都没有后续行情，最终失败，变成顺趋势方向的旗形。
 
 
-> REVERSALS
-
-
-以下是强趋势中常见的若干个特征：
-
-
-> Here are some characteristics that are commonly found in strong trends:
-
-
-• 当天开盘出现一个大缺口。• 高点与低点（摆动点）依次走高或走低。• 大多数K线都是顺着趋势方向的趋势K线。• 相邻K线的实体之间重叠很少。例如，在一段多头急速行情中，许多K线的低点正好等于、或只比前一根K线的收盘价低一个最小报价单位。有些K线的低点正好等于前一根K线的收盘价、并没有低于它，于是那些试图在前一根K线收盘价处挂限价单买入的交易者无法成交，只好到更高的价位去买。• 有些K线没有影线，或者两个方向的影线都很小，这说明市场急切。例如，在多头趋势中，如果一根多头趋势K线开在自己的最低价上、然后一路上行，说明交易者急于
-
-
-> • There is a big gap opening on the day. • There are trending highs and lows (swings). • Most of the bars are trend bars in the direction of the trend. • There is very little overlap of the bodies of con- secutive bars. For example, in a bull spike, many bars have lows that are at or just one tick below the closes of the prior bar. Some bars have lows that are at and not below the close of the prior bar, so traders trying to buy on a limit order at the close of the prior bar do not get their orders filled and they have to buy higher. • There are bars with no tails or small tails in either direction, indicating urgency. For ex- ample, in a bull trend, if a bull trend bar opens on its low tick and trends up, traders were eager
-
-
-在前一根K线一收盘时就去买它。如果它收在自己的最高价上或最高价附近，交易者就会继续强力买入，因为他们预期这根K线一收盘就会有新的买家进场。他们愿意一路买进到收盘，因为他们担心：如果等到这根K线收盘再动手，可能就得多花一两个最小报价单位才能买到。• 偶尔会出现实体之间的缺口（例如，在多头趋势中，某根K线的开盘价可能高于前一根K线的收盘价）。• 突破缺口出现在趋势启动时，形态是一根强劲的趋势K线。• 测量缺口出现在突破回测不触及突破点的位置。例如，多头突破之后的回调没有跌到发生突破那根K线的高点之下。• 微型测量缺口出现在这种情况：有一根强劲的趋势K线，而且它前一根K线与后一根K线之间存在缺口。例如，在多头趋势中，如果某根强劲多头趋势K线之后那根K线的低点正好位于、或高于该趋势K线之前那根K线的高点，这就是一个缺口、一次突破回测，也是一种强势信号。• 不出现大的高潮。
-
-
-> to buy it as soon as the prior bar closed. If it closes on or near its high tick, traders continued their strong buying in anticipation of new buy- ers entering right after the bar closes. They were willing to buy going into the close because they were afraid that if they waited for the bar to close, they might have to buy a tick or two higher. • Occasionally, there are gaps between the bodies (for example, the open of a bar might be above the close of the prior bar in a bull trend). • A breakout gap appears in the form of a strong trend bar at the start of the trend. • Measuring gaps occur where the breakout test does not overlap the breakout point. For ex- ample, the pullback from a bull breakout does not drop below the high of the bar where the breakout occurred. • Micro measuring gaps appear where there is a strong trend bar and a gap between the bar be- fore it and the bar after it. For example, if the low of the bar after a strong bull trend bar in a bull trend is at or above the high of the bar be- fore the trend bar, this is a gap and a breakout test and a sign of strength. • No big climaxes appear.
-
-
-• 不常出现大K线（连大趋势K线也不多）。往往最大的几根趋势K线都是逆势的，这会把交易者套住，让他们转头去找逆势交易，结果错过顺势交易。逆势建仓形态几乎总是看起来比顺势建仓形态更好。• 不出现明显的趋势通道线过靶，轻微的过靶也只带来横盘修正。• 趋势线被突破之后出现横盘修正。• 出现失败的楔形，以及其它失败的反转。• 出现一连串20根均线缺口K线（连续20根或更多不触及均线的K线，第2册中有讨论）。• 几乎找不到能盈利的逆势交易。• 回调很小、出现得不频繁，而且大多是横盘式的。例如，如果 Emini 小型合约的平均区间是12点，那么这些回调很可能都不到三四个点，市场也常常一连走五根或更多K线都不回调。• 有一种紧迫感。你会发现自己一等就是无数根K线，只为一个像样的顺势
-
-
-> • Not many large bars appear (not even large trend bars). Often, the largest trend bars are countertrend, trapping traders into looking for countertrend trades and missing with-trend trades. The countertrend setups almost always look better than the with-trend setups. • No significant trend channel line overshoots oc- cur, and the minor ones result in only sideways corrections. • There are sideways corrections after trend line breaks. • Failed wedges and other failed reversals occur. • There is a sequence of 20 moving average gap bars (20 or more consecutive bars that do not touch the moving average, discussed in book 2). • Few if any profitable countertrend trades are found. • There are small, infrequent, and mostly side- ways pullbacks. For example, if the Emini's av- erage range is 12 points, the pullbacks will all likely be less than three or four points, and the market will often go for five or more bars without a pullback. • There is a sense of urgency. You find yourself waiting through countless bars for a good with-
-
-
-回调，却始终等不到，而市场仍在缓慢地延续趋势。• 回调带有很强的建仓形态。例如，多头趋势中的高1和高2回调，其信号K线都是强劲的多头反转K线。• 在最强的趋势里，回调的信号K线通常很弱，让许多交易者不去做，逼着交易者去追市场。例如，在空头趋势中，低2做空的信号K线常常是两根或三根K线组成的多头急速行情里的小多头K线，有些入场K线还是外包下跌K线。它的“任何东西”都在走趋势：收盘价、高点、低点或者实体。• 反复出现的两段式回调，都会给出顺势入场的机会。• 不会出现连续两根趋势K线的收盘价落在均线的另一侧。• 趋势走得很远，接连突破好几个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。• 逆着趋势的急速行情式反转尝试都没有后续行情，最终失败，变成顺趋势方向的旗形。
-
-
-> trend pullback and one never comes, yet the market slowly continues to trend. • The pullbacks have strong setups. For example, the high 1 and high 2 pullbacks in a bull trend have strong bull reversal bars for signal bars. • In the strongest trends, the pullbacks usually have weak signal bars, making many traders not take them, and forcing traders to chase the mar- ket. For example, in a bear trend the signal bars for a low 2 short are often small bull bars in two or three bar bull spikes, and some of the entry bars are outside down bars. It has trending “anything”: closes, highs, lows, or bodies. • Repeated two-legged pullbacks are setting up with trend entries. • No two consecutive trend bar closes occur on the opposite side of the moving average. • The trend goes very far and breaks several res- istance levels, like the moving average, prior swing highs, and trend lines, and each by many ticks. • Reversal attempts in the form of spikes against the trend have no follow-through, fail, and be- come flags in the direction of the trend.
+> • Not many large bars appear (not even large trend bars). Often, the largest trend bars are countertrend, trapping traders into looking for countertrend trades and missing with-trend trades. The countertrend setups almost always look better than the with-trend setups. • No significant trend channel line overshoots oc-cur, and the minor ones result in only sideways corrections. • There are sideways corrections after trend line breaks. • Failed wedges and other failed reversals occur. • There is a sequence of 20 moving average gap bars (20 or more consecutive bars that do not touch the moving average, discussed in book 2). • Few if any profitable countertrend trades are found. • There are small, infrequent, and mostly side-ways pullbacks. For example, if the Emini's average range is 12 points, the pullbacks will all likely be less than three or four points, and the market will often go for five or more bars without a pullback. • There is a sense of urgency. You find yourself waiting through countless bars for a good with-trend pullback and one never comes, yet the market slowly continues to trend. • The pullbacks have strong setups. For example, the high 1 and high 2 pullbacks in a bull trend have strong bull reversal bars for signal bars. • In the strongest trends, the pullbacks usually have weak signal bars, making many traders not take them, and forcing traders to chase the mar-ket. For example, in a bear trend the signal bars for a low 2 short are often small bull bars in two or three bar bull spikes, and some of the entry bars are outside down bars. It has trending “anything”: closes, highs, lows, or bodies. • Repeated two-legged pullbacks are setting up with trend entries. • No two consecutive trend bar closes occur on the opposite side of the moving average. • The trend goes very far and breaks several resistance levels, like the moving average, prior swing highs, and trend lines, and each by many ticks. • Reversal attempts in the form of spikes against the trend have no follow-through, fail, and be-come flags in the direction of the trend.
 
 
 一次多头突破具备下列特征中的越多，这次突破就越可能走强：
@@ -1147,100 +915,162 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > The more of the following characteristics that a bull breakout has, the more likely the breakout will be strong:
 
 
-• 突破K线有一个巨大的多头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。• 如果这根大突破K线的成交量达到最近K线平均成交量的10到20倍，出现后续买入、并进而可能形成一段等距运动的概率就会上升。• 急速行情走得很远，持续好几根K线，并且突破了若干个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。• 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的高点附近，回调很小（不到这根正在生长的K线高度的四分之一）。• 有一种紧迫感。你觉得自己非买不可，却又想等一个回调，可回调偏偏不来。• 接下来两三根K线同样带有多头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根
+- 突破K线有一个巨大的多头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。
+- 如果这根大突破K线的成交量达到最近K线平均成交量的10到20倍，出现后续买入、并进而可能形成一段等距运动的概率就会上升。
+- 急速行情走得很远，持续好几根K线，并且突破了若干个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的高点附近，回调很小（不到这根正在生长的K线高度的四分之一）。
+- 有一种紧迫感。你觉得自己非买不可，却又想等一个回调，可回调偏偏不来。
+- 接下来两三根K线同样带有多头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。
+- 急速行情长到5到10根K线，中间回调不超过一根K线左右。
+- 急速行情中有一根或多根K线的低点，正好等于、或只比前一根K线的收盘价低一个最小报价单位。
+- 急速行情中有一根或多根K线的开盘价高于前一根K线的收盘价。
+- 急速行情中有一根或多根K线的收盘价收在最高价上，或仅比最高价低一个最小报价单位。
+- 一根多头趋势K线之后那根K线的低点，正好位于或高于这根多头趋势K线之前那根K线的高点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪高点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。
+- 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲突破空头趋势线之后，对空头低点做一次更高的低点或更低的低点测试。
+- 市场最近出现过好几个强劲的多头趋势日。
 
 
-> • The breakout bar has a large bull trend body and small tails or no tails. The larger the bar, the more likely the breakout will succeed. • If the volume of the large breakout bar is 10 to 20 times the average volume of recent bars, the chance of follow-through buying and a possible measured move increases. • The spike goes very far, lasts several bars, and breaks several resistance levels, like the moving average, prior swing highs, and trend lines, and each by many ticks. • As the first bar of the breakout bar is forming, it spends most of its time near its high and the pullbacks are small (less than a quarter of the height of the growing bar). • There is a sense of urgency. You feel like you have to buy but you want a pullback, yet it never comes. • The next two or three bars also have bull bodies that are at least the average size of the recent bull and bear bodies. Even if the bodies are rel- atively small and the tails are prominent, if the follow-through bar (the bar after the initial
+> • The breakout bar has a large bull trend body and small tails or no tails. The larger the bar, the more likely the breakout will succeed. • If the volume of the large breakout bar is 10 to 20 times the average volume of recent bars, the chance of follow-through buying and a possible measured move increases. • The spike goes very far, lasts several bars, and breaks several resistance levels, like the moving average, prior swing highs, and trend lines, and each by many ticks. • As the first bar of the breakout bar is forming, it spends most of its time near its high and the pullbacks are small (less than a quarter of the height of the growing bar). • There is a sense of urgency. You feel like you have to buy but you want a pullback, yet it never comes. • The next two or three bars also have bull bodies that are at least the average size of the recent bull and bear bodies. Even if the bodies are relatively small and the tails are prominent, if the follow-through bar (the bar after the initial breakout bar) is large, the odds of the trend continuing are greater. • The spike grows to five to 10 bars without pulling back for more than a bar or so. • One or more bars in the spike have a low that is at or just one tick below the close of the prior bar. • One or more bars in the spike have an open that is above the close of the prior bar. • One or more bars in the spike have a close on the bar's high or just one tick below its high. • The low of the bar after a bull trend bar is at or above the high of the bar before the bull trend bar, creating a micro gap, which is a sign of strength. These gaps sometimes become meas-uring gaps. Although it is not significant to trad-ing, according to Elliott Wave Theory they prob-ably represent the space between a smaller time frame Elliott Wave 1 high and a Wave 4 pull-back, which can touch but not overlap. • The overall context makes a breakout likely, like the resumption of a trend after a pullback, or a higher low or lower low test of the bear low after a strong break above the bear trend line. • The market has had several strong bull trend days recently.
 
 
-突破K线之后的那根K线）很大，趋势延续的可能性就更大。• 急速行情长到5到10根K线，中间回调不超过一根K线左右。• 急速行情中有一根或多根K线的低点，正好等于、或只比前一根K线的收盘价低一个最小报价单位。• 急速行情中有一根或多根K线的开盘价高于前一根K线的收盘价。• 急速行情中有一根或多根K线的收盘价收在最高价上，或仅比最高价低一个最小报价单位。• 一根多头趋势K线之后那根K线的低点，正好位于或高于这根多头趋势K线之前那根K线的高点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪高点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。• 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲突破空头趋势线之后，对空头低点做一次更高的低点或更低的低点测试。• 市场最近出现过好几个强劲的多头趋势日。
+- 交易区间内买压不断积聚，表现为许多根巨大的多头趋势K线，而且在区间里多头趋势K线明显比空头趋势K线更醒目。
+- 第一次回调只在突破进行了三根或更多K线之后才出现。
+- 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的空头反转K线。
+- 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。
+- 这次突破反转了最近许多根K线的收盘价和高点。例如，当市场处在空头通道中、并形成一根巨大的多头K线时，这根突破K线的高点和收盘价都高于五根、甚至20根或更多K线的高点和收盘价。由这根多头K线的收盘价反转的K线数量多，比由它的高点反转同样多的K线，是更强的信号。一次空头突破具备下列特征中的越多，这次突破就越可能走强：
 
 
-> breakout bar) is large, the odds of the trend con- tinuing are greater. • The spike grows to five to 10 bars without pulling back for more than a bar or so. • One or more bars in the spike have a low that is at or just one tick below the close of the prior bar. • One or more bars in the spike have an open that is above the close of the prior bar. • One or more bars in the spike have a close on the bar's high or just one tick below its high. • The low of the bar after a bull trend bar is at or above the high of the bar before the bull trend bar, creating a micro gap, which is a sign of strength. These gaps sometimes become meas- uring gaps. Although it is not significant to trad- ing, according to Elliott Wave Theory they prob- ably represent the space between a smaller time frame Elliott Wave 1 high and a Wave 4 pull- back, which can touch but not overlap. • The overall context makes a breakout likely, like the resumption of a trend after a pullback, or a higher low or lower low test of the bear low after a strong break above the bear trend line. • The market has had several strong bull trend days recently.
+> • There is growing buying pressure in the trading range, represented by many large bull trend bars, and the bull trend bars are clearly more prominent than the bear trend bars in the range. • The first pullback occurs only after three or more bars of breaking out. • The first pullback lasts only one or two bars, and it follows a bar that is not a strong bear re-versal bar. • The first pullback does not reach the breakout point and does not hit a breakeven stop (the entry price). • The breakout reverses many recent closes and highs. For example, when there is a bear chan-nel and a large bull bar forms, this breakout bar has a high and close that are above the highs and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bull bar is a stronger sign than a similar number of bars reversed by the high. The more of the following characteristics that a bear breakout has, the more likely the breakout will be strong:
 
 
-• 交易区间内买压不断积聚，表现为许多根巨大的多头趋势K线，而且在区间里多头趋势K线明显比空头趋势K线更醒目。• 第一次回调只在突破进行了三根或更多K线之后才出现。• 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的空头反转K线。• 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。• 这次突破反转了最近许多根K线的收盘价和高点。例如，当市场处在空头通道中、并形成一根巨大的多头K线时，这根突破K线的高点和收盘价都高于五根、甚至20根或更多K线的高点和收盘价。由这根多头K线的收盘价反转的K线数量多，比由它的高点反转同样多的K线，是更强的信号。一次空头突破具备下列特征中的越多，这次突破就越可能走强：
+- 突破K线有一个巨大的空头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。
+- 如果这根大突破K线的成交量达到最近K线平均成交量的10到20倍，出现后续卖出、并进而可能形成一段向下等距运动的概率就会上升。
+- 急速行情走得很远，持续好几根K线，并且突破了若干个支撑位，比如均线、此前的摆动低点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的低点附近，回调很小（不到这根正在生长的K线高度的四分之一）。
+- 有一种紧迫感。你觉得自己非卖不可，却又想等一个回调，可回调偏偏不来。
+- 接下来两三根K线同样带有空头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。
 
 
-> • There is growing buying pressure in the trading range, represented by many large bull trend bars, and the bull trend bars are clearly more prominent than the bear trend bars in the range. • The first pullback occurs only after three or more bars of breaking out. • The first pullback lasts only one or two bars, and it follows a bar that is not a strong bear re- versal bar. • The first pullback does not reach the breakout point and does not hit a breakeven stop (the entry price). • The breakout reverses many recent closes and highs. For example, when there is a bear chan- nel and a large bull bar forms, this breakout bar has a high and close that are above the highs and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bull bar is a stronger sign than a similar number of bars reversed by the high. The more of the following characteristics that a bear breakout has, the more likely the breakout will be strong:
+> • The breakout bar has a large bear trend body and small tails or no tails. The larger the bar, the more likely the breakout will succeed. • If the volume of the large breakout bar is 10 to 20 times the average volume of recent bars, the chance of follow-through selling and a possible measured move down increases. • The spike goes very far, lasts several bars, and breaks several support levels like the moving average, prior swing lows, and trend lines, and each by many ticks. • As the first bar of the breakout bar is forming, it spends most of its time near its low and the pullbacks are small (less than a quarter of the height of the growing bar). • There is a sense of urgency. You feel like you have to sell but you want a pullback, yet it never comes. • The next two or three bars also have bear bodies that are at least the average size of the recent bull and bear bodies. Even if the bodies are relatively small and the tails are prominent, if the follow-through bar (the bar after the initial breakout bar) is large, the odds of the trend continuing are greater.
 
 
-• 突破K线有一个巨大的空头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。• 如果这根大突破K线的成交量达到最近K线平均成交量的10到20倍，出现后续卖出、并进而可能形成一段向下等距运动的概率就会上升。• 急速行情走得很远，持续好几根K线，并且突破了若干个支撑位，比如均线、此前的摆动低点以及趋势线，而且每一个都突破了很多个最小报价单位。• 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的低点附近，回调很小（不到这根正在生长的K线高度的四分之一）。• 有一种紧迫感。你觉得自己非卖不可，却又想等一个回调，可回调偏偏不来。• 接下来两三根K线同样带有空头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。
+- 急速行情长到5到10根K线，中间回调不超过一根K线左右。
+- 当空头突破跌破此前某个重要的摆动低点时，跌破该低点后的跌幅足够大，使得在比该摆动低点低一个最小报价单位处挂止损单入场的刮头皮交易者也能获利。
+- 急速行情中有一根或多根K线的高点，正好等于、或只比前一根K线的收盘价高一个最小报价单位。
+- 急速行情中有一根或多根K线的开盘价低于前一根K线的收盘价。
+- 急速行情中有一根或多根K线的收盘价收在最低价上，或仅比最低价高一个最小报价单位。
+- 一根空头趋势K线之后那根K线的高点，正好位于或低于这根空头趋势K线之前那根K线的低点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪低点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。
+- 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲跌破多头趋势线之后，对多头高点做一次更低的高点或更高的高点测试。
+- 市场最近出现过好几个强劲的空头趋势日。
+- 交易区间内卖压不断积聚，表现为许多根巨大的空头趋势K线，而且在区间里空头趋势K线明显比多头趋势K线更醒目。
+- 第一次回调只在突破进行了三根或更多K线之后才出现。
+- 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的多头反转K线。
+- 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。
+- 这次突破反转了最近许多根K线的收盘价和低点。例如，当市场处在多头通道中、并形成一根巨大的空头K线时，这根突破K线的低点和收盘价都低于五根、甚至20根或更多K线的低点和收盘价。由这根空头K线的收盘价反转的K线数量多，比由它的低点反转同样多的K线，是更强的信号。最著名的信号K线是反转K线，而一根多头反转K线至少应当具备的是要么收盘价高于自己的开盘价（即多头实体），要么收盘价高于自己的中点。最好的多头反转K线具备下列特征中的一条以上：
 
 
-> • The breakout bar has a large bear trend body and small tails or no tails. The larger the bar, the more likely the breakout will succeed. • If the volume of the large breakout bar is 10 to 20 times the average volume of recent bars, the chance of follow-through selling and a possible measured move down increases. • The spike goes very far, lasts several bars, and breaks several support levels like the moving av- erage, prior swing lows, and trend lines, and each by many ticks. • As the first bar of the breakout bar is forming, it spends most of its time near its low and the pullbacks are small (less than a quarter of the height of the growing bar). • There is a sense of urgency. You feel like you have to sell but you want a pullback, yet it never comes. • The next two or three bars also have bear bodies that are at least the average size of the recent bull and bear bodies. Even if the bodies are rel- atively small and the tails are prominent, if the follow-through bar (the bar after the initial breakout bar) is large, the odds of the trend con- tinuing are greater.
+> • The spike grows to five to 10 bars without pulling back for more than a bar or so. • As a bear breakout goes below a prior signific-ant swing low, the move below the low goes far enough for a scalper to make a profit if he entered on a stop at one tick below that swing low. • One or more bars in the spike has a high that is at or just one tick above the close of the prior bar. • One or more bars in the spike has an open that is below the close of the prior bar. • One or more bars in the spike has a close on its low or just one tick above its low. • The high of the bar after a bear trend bar is at or below the low of the bar before the bear trend bar, creating a micro gap, which is a sign of strength. These gaps sometimes become meas-uring gaps. Although it is not significant to trad-ing, they probably represent the space between a smaller time frame Elliott wave 1 low and a wave 4 pullback, which can touch but not overlap. • The overall context makes a breakout likely, like the resumption of a trend after a pullback, or a lower high or higher high test of the bull high after a strong break below the bull trend line. • The market has had several strong bear trend days recently. • There was growing selling pressure in the trad-ing range, represented by many large bear trend bars, and the bear trend bars were clearly more prominent than the bull trend bars in the range. • The first pullback occurs only after three or more bars of breaking out. • The first pullback lasts only one or two bars and it follows a bar that is not a strong bull reversal bar. • The first pullback does not reach the breakout point and does not hit a breakeven stop (the entry price). • The breakout reverses many recent closes and lows. For example, when there is a bull channel and a large bear bar forms, this breakout bar has a low and close that are below the lows and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bear bar is a stronger sign than a similar number of bars reversed by its low. The best-known signal bar is the reversal bar and the minimum that a bull reversal bar should have is either a close above its open (a bull body) or a close above its midpoint. The best bull reversal bars have more than one of the following:
 
 
-• 急速行情长到5到10根K线，中间回调不超过一根K线左右。• 当空头突破跌破此前某个重要的摆动低点时，跌破该低点后的跌幅足够大，使得在比该摆动低点低一个最小报价单位处挂止损单入场的刮头皮交易者也能获利。• 急速行情中有一根或多根K线的高点，正好等于、或只比前一根K线的收盘价高一个最小报价单位。• 急速行情中有一根或多根K线的开盘价低于前一根K线的收盘价。• 急速行情中有一根或多根K线的收盘价收在最低价上，或仅比最低价高一个最小报价单位。• 一根空头趋势K线之后那根K线的高点，正好位于或低于这根空头趋势K线之前那根K线的低点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪低点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。• 整体背景使突破变得很可能，比如回调之后趋势恢复，或者
-
-
-> • The spike grows to five to 10 bars without pulling back for more than a bar or so. • As a bear breakout goes below a prior signific- ant swing low, the move below the low goes far enough for a scalper to make a profit if he entered on a stop at one tick below that swing low. • One or more bars in the spike has a high that is at or just one tick above the close of the prior bar. • One or more bars in the spike has an open that is below the close of the prior bar. • One or more bars in the spike has a close on its low or just one tick above its low. • The high of the bar after a bear trend bar is at or below the low of the bar before the bear trend bar, creating a micro gap, which is a sign of strength. These gaps sometimes become meas- uring gaps. Although it is not significant to trad- ing, they probably represent the space between a smaller time frame Elliott wave 1 low and a wave 4 pullback, which can touch but not overlap. • The overall context makes a breakout likely, like the resumption of a trend after a pullback, or a
-
-
-在强劲跌破多头趋势线之后，对多头高点做一次更低的高点或更高的高点测试。• 市场最近出现过好几个强劲的空头趋势日。• 交易区间内卖压不断积聚，表现为许多根巨大的空头趋势K线，而且在区间里空头趋势K线明显比多头趋势K线更醒目。• 第一次回调只在突破进行了三根或更多K线之后才出现。• 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的多头反转K线。• 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。• 这次突破反转了最近许多根K线的收盘价和低点。例如，当市场处在多头通道中、并形成一根巨大的空头K线时，这根突破K线的低点和收盘价都低于五根、甚至20根或更多K线的低点和收盘价。由这根空头K线的收盘价反转的K线数量多，比由它的低点反转同样多的K线，是更强的信号。最著名的信号K线是反转K线，而一根多头反转K线至少应当具备的是
-
-
-> lower high or higher high test of the bull high after a strong break below the bull trend line. • The market has had several strong bear trend days recently. • There was growing selling pressure in the trad- ing range, represented by many large bear trend bars, and the bear trend bars were clearly more prominent than the bull trend bars in the range. • The first pullback occurs only after three or more bars of breaking out. • The first pullback lasts only one or two bars and it follows a bar that is not a strong bull reversal bar. • The first pullback does not reach the breakout point and does not hit a breakeven stop (the entry price). • The breakout reverses many recent closes and lows. For example, when there is a bull channel and a large bear bar forms, this breakout bar has a low and close that are below the lows and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bear bar is a stronger sign than a similar number of bars reversed by its low. The best-known signal bar is the reversal bar and the minimum that a bull reversal bar should have is
-
-
-要么收盘价高于自己的开盘价（即多头实体），要么收盘价高于自己的中点。最好的多头反转K线具备下列特征中的一条以上：
-
-
-> either a close above its open (a bull body) or a close above its midpoint. The best bull reversal bars have more than one of the following:
-
-
-• 开盘价接近或低于前一根K线的收盘价，而收盘价高于自己的开盘价、也高于前一根K线的收盘价。• 下影线大约为这根K线高度的三分之一到一半，上影线很小或者没有。• 与前一根或前几根K线重叠不多。• 信号K线之后的那根K线不是十字星内包K线，而是一根强劲的入场K线（带相对较大的实体、小影线的多头趋势K线）。• 收盘价反转（即收在一根以上K线的收盘价和高点之上）。一根空头反转K线至少应当具备的是：要么收盘价低于自己的开盘价（即空头实体），要么收盘价低于自己的中点。最好的空头反转K线具备下列特征：
+- 开盘价接近或低于前一根K线的收盘价，而收盘价高于自己的开盘价、也高于前一根K线的收盘价。
+- 下影线大约为这根K线高度的三分之一到一半，上影线很小或者没有。
+- 与前一根或前几根K线重叠不多。
+- 信号K线之后的那根K线不是十字星内包K线，而是一根强劲的入场K线（带相对较大的实体、小影线的多头趋势K线）。
+- 收盘价反转（即收在一根以上K线的收盘价和高点之上）。一根空头反转K线至少应当具备的是：要么收盘价低于自己的开盘价（即空头实体），要么收盘价低于自己的中点。最好的空头反转K线具备下列特征：
 
 
 > • An open near or below the close of the prior bar and a close above the open and above the prior bar's close. • A lower tail that is about one-third to one-half the height of the bar and a small or nonexistent upper tail. • Not much overlap with the prior bar or bars. • The bar after the signal bar is not a doji inside bar and instead is a strong entry bar (a bull trend bar with a relatively large body and small tails). • A close that reverses (closes above) the closes and highs of more than one bar. The minimum that a bear reversal bar should have is either a close below its open (a bear body) or a close below its midpoint. The best bear reversal bars have:
 
 
-• 开盘价接近或高于前一根K线的收盘价，而收盘价明显低于前一根K线的收盘价。• 上影线大约为这根K线高度的三分之一到一半，下影线很小或者没有。• 与前一根或前几根K线重叠不多。
+- 开盘价接近或高于前一根K线的收盘价，而收盘价明显低于前一根K线的收盘价。
+- 上影线大约为这根K线高度的三分之一到一半，下影线很小或者没有。
+- 与前一根或前几根K线重叠不多。
 
 
 > • An open near or above the close of the prior bar and a close well below the prior bar's close. • An upper tail that is about one-third to one-half the height of the bar and a small or nonexistent lower tail. • Not much overlap with the prior bar or bars.
 
 
-• 信号K线之后的那根K线不是十字星内包K线，而是一根强劲的入场K线（带相对较大的实体、小影线的空头趋势K线）。• 收盘价反转（即收在一根以上K线的收盘价和极值之下）。以下是强劲多头反转中常见的若干个特征：
+- 信号K线之后的那根K线不是十字星内包K线，而是一根强劲的入场K线（带相对较大的实体、小影线的空头趋势K线）。
+- 收盘价反转（即收在一根以上K线的收盘价和极值之下）。以下是强劲多头反转中常见的若干个特征：
 
 
-> • The bar after the signal bar is not a doji inside bar and instead is a strong entry bar (a bear trend bar with a relatively large body and small tails). • A close that reverses (closes below) the closes and extremes of more than one bar. Here are a number of characteristics that are com- mon in strong bull reversals:
+> • The bar after the signal bar is not a doji inside bar and instead is a strong entry bar (a bear trend bar with a relatively large body and small tails). • A close that reverses (closes below) the closes and extremes of more than one bar. Here are a number of characteristics that are com-mon in strong bull reversals:
 
 
-• 有一根强劲的多头反转K线，带一个巨大的多头趋势K线实体，影线很小或没有影线。• 接下来两三根K线同样带有多头实体，其大小至少达到最近多空K线实体的平均水平。• 急速行情长到5到10根K线，中间回调不超过一根K线左右，而且它反转了此前空头趋势中许多根K线、摆动高点以及熊旗。• 急速行情中有一根或多根K线的低点，正好等于、或只比前一根K线的收盘价低一个最小报价单位。• 急速行情中有一根或多根K线的开盘价高于前一根K线的收盘价。• 急速行情中有一根或多根K线的收盘价收在该K线的最高价上，或仅比最高价低一个最小报价单位。
+- 有一根强劲的多头反转K线，带一个巨大的多头趋势K线实体，影线很小或没有影线。
+- 接下来两三根K线同样带有多头实体，其大小至少达到最近多空K线实体的平均水平。
+- 急速行情长到5到10根K线，中间回调不超过一根K线左右，而且它反转了此前空头趋势中许多根K线、摆动高点以及熊旗。
+- 急速行情中有一根或多根K线的低点，正好等于、或只比前一根K线的收盘价低一个最小报价单位。
+- 急速行情中有一根或多根K线的开盘价高于前一根K线的收盘价。
+- 急速行情中有一根或多根K线的收盘价收在该K线的最高价上，或仅比最高价低一个最小报价单位。
 
 
-> • There is a strong bull reversal bar with a large bull trend body and small tails or no tails. • The next two or three bars also have bull bodies that are at least the average size of the recent bull and bear bodies. • The spike grows to five to 10 bars without pulling back for more than a bar or so, and it re- verses many bars, swing highs, and bear flags of the prior bear trend. • One or more bars in the spike have a low that is at or just one tick below the close of the prior bar. • One or more bars in the spike have an open that is above the close of the prior bar. • One or more bars in the spike have a close on the high of the bar or just one tick below its high.
+> • There is a strong bull reversal bar with a large bull trend body and small tails or no tails. • The next two or three bars also have bull bodies that are at least the average size of the recent bull and bear bodies. • The spike grows to five to 10 bars without pulling back for more than a bar or so, and it re-verses many bars, swing highs, and bear flags of the prior bear trend. • One or more bars in the spike have a low that is at or just one tick below the close of the prior bar. • One or more bars in the spike have an open that is above the close of the prior bar. • One or more bars in the spike have a close on the high of the bar or just one tick below its high.
 
 
-• 整体背景使反转变得很可能，比如在强劲突破空头趋势线之后，对空头低点做一次更高的低点或更低的低点测试。• 第一次回调只在三根或更多K线之后才出现。• 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的空头反转K线。• 第一次回调没有触及保本止损（即入场价）。• 急速行情走得很远，并且突破了若干个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。• 在反转的第一根K线形成的过程中，它大部分时间都停在自己的高点附近，回调小于这根正在生长的K线高度的四分之一。• 有一种紧迫感。你觉得自己非买不可，却又想等一个回调，可回调偏偏不来。• 这个信号是最近几根K线之内的第二次反转尝试（也就是第二个信号）。• 这次反转一开始是旧趋势的趋势通道线过靶所引发的反转。
+- 整体背景使反转变得很可能，比如在强劲突破空头趋势线之后，对空头低点做一次更高的低点或更低的低点测试。
+- 第一次回调只在三根或更多K线之后才出现。
+- 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的空头反转K线。
+- 第一次回调没有触及保本止损（即入场价）。
+- 急速行情走得很远，并且突破了若干个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 在反转的第一根K线形成的过程中，它大部分时间都停在自己的高点附近，回调小于这根正在生长的K线高度的四分之一。
+- 有一种紧迫感。你觉得自己非买不可，却又想等一个回调，可回调偏偏不来。
+- 这个信号是最近几根K线之内的第二次反转尝试（也就是第二个信号）。
+- 这次反转一开始是旧趋势的趋势通道线过靶所引发的反转。
 
 
-> • The overall context makes a reversal likely, like a higher low or lower low test of the bear low after a strong break above the bear trend line. • The first pullback occurs only after three or more bars. • The first pullback lasts only one or two bars, and it follows a bar that is not a strong bear re- versal bar. • The first pullback does not hit a breakeven stop (the entry price). • The spike goes very far and breaks several res- istance levels like the moving average, prior swing highs, and trend lines, and each by many ticks. • As the first bar of the reversal is forming, it spends most of its time near its high and the pullbacks are less than a quarter of the height of the growing bar. • There is a sense of urgency. You feel like you have to buy but you want a pullback, yet it never comes. • The signal is the second attempt to reverse with- in the past few bars (a second signal). • The reversal began as a reversal from an over- shoot of a trend channel line from the old trend.
+> • The overall context makes a reversal likely, like a higher low or lower low test of the bear low after a strong break above the bear trend line. • The first pullback occurs only after three or more bars. • The first pullback lasts only one or two bars, and it follows a bar that is not a strong bear re-versal bar. • The first pullback does not hit a breakeven stop (the entry price). • The spike goes very far and breaks several resistance levels like the moving average, prior swing highs, and trend lines, and each by many ticks. • As the first bar of the reversal is forming, it spends most of its time near its high and the pullbacks are less than a quarter of the height of the growing bar. • There is a sense of urgency. You feel like you have to buy but you want a pullback, yet it never comes. • The signal is the second attempt to reverse with-in the past few bars (a second signal). • The reversal began as a reversal from an over-shoot of a trend channel line from the old trend.
 
 
-• 它反转的是一个重要的摆动高点或低点（例如，它跌破此前一个强劲的摆动低点之后向上反转）。• 高1和高2回调的信号K线都是强劲的多头反转K线。• 它的“任何东西”都在走趋势：收盘价、高点、低点或者实体。• 回调很小，而且是横盘式的。• 此前已经出现过对更早那条空头趋势线的突破（这不是看涨力量的第一个迹象）。• 回测空头低点的那次回调缺乏动能，证据是它包含许多相互重叠的K线，其中很多是多头趋势K线。• 回测空头低点的那次回调在均线处、或者在原来那条空头趋势线处失败。• 这次突破反转了最近许多根K线的收盘价和高点。例如，当市场处在空头通道中、并形成一根巨大的多头K线时，这根突破K线的高点和收盘价都高于五根、甚至20根或更多K线的高点和收盘价。由这根多头K线的收盘价反转的K线数量多，比仅由它的高点反转同样多的K线，是更强的信号。以下是强劲空头反转中常见的若干个特征：
+- 它反转的是一个重要的摆动高点或低点（例如，它跌破此前一个强劲的摆动低点之后向上反转）。
+- 高1和高2回调的信号K线都是强劲的多头反转K线。
+- 它的“任何东西”都在走趋势：收盘价、高点、低点或者实体。
+- 回调很小，而且是横盘式的。
+- 此前已经出现过对更早那条空头趋势线的突破（这不是看涨力量的第一个迹象）。
+- 回测空头低点的那次回调缺乏动能，证据是它包含许多相互重叠的K线，其中很多是多头趋势K线。
+- 回测空头低点的那次回调在均线处、或者在原来那条空头趋势线处失败。
+- 这次突破反转了最近许多根K线的收盘价和高点。例如，当市场处在空头通道中、并形成一根巨大的多头K线时，这根突破K线的高点和收盘价都高于五根、甚至20根或更多K线的高点和收盘价。由这根多头K线的收盘价反转的K线数量多，比仅由它的高点反转同样多的K线，是更强的信号。以下是强劲空头反转中常见的若干个特征：
 
 
-> • It is reversing a significant swing high or low (e.g., it breaks below a strong prior swing low and reverses up). • The high 1 and high 2 pullbacks have strong bull reversal bars for signal bars. • It has trending “anything”: closes, highs, lows, or bodies. • The pullbacks are small and sideways. • There were prior breaks of earlier bear trend lines (this isn't the first sign of bullish strength). • The pullback to test the bear low lacks mo- mentum, as evidenced by its having many over- lapping bars with many being bull trend bars. • The pullback that tests the bear low fails at the moving average or the old bear trend line. • The breakout reverses many recent closes and highs. For example, when there is a bear chan- nel and a large bull bar forms, this breakout bar has a high and close that are above the highs and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bull bar is a stronger sign than a similar number of bars reversed by only its high. Here are a number of characteristics that are com- mon in strong bear reversals:
+> • It is reversing a significant swing high or low (e.g., it breaks below a strong prior swing low and reverses up). • The high 1 and high 2 pullbacks have strong bull reversal bars for signal bars. • It has trending “anything”: closes, highs, lows, or bodies. • The pullbacks are small and sideways. • There were prior breaks of earlier bear trend lines (this isn't the first sign of bullish strength). • The pullback to test the bear low lacks mo-mentum, as evidenced by its having many over-lapping bars with many being bull trend bars. • The pullback that tests the bear low fails at the moving average or the old bear trend line. • The breakout reverses many recent closes and highs. For example, when there is a bear chan-nel and a large bull bar forms, this breakout bar has a high and close that are above the highs and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bull bar is a stronger sign than a similar number of bars reversed by only its high. Here are a number of characteristics that are com-mon in strong bear reversals:
 
 
-• 有一根强劲的空头反转K线，带一个巨大的空头趋势K线实体，影线很小或没有影线。• 接下来两三根K线同样带有空头实体，其大小至少达到最近多空K线实体的平均水平。• 急速行情长到5到10根K线，中间回调不超过一根K线左右，而且它反转了此前多头趋势中许多根K线、摆动低点以及牛旗。• 急速行情中有一根或多根K线的高点，正好等于、或只比前一根K线的收盘价高一个最小报价单位。• 急速行情中有一根或多根K线的开盘价低于前一根K线的收盘价。• 急速行情中有一根或多根K线的收盘价收在最低价上，或仅比最低价高一个最小报价单位。• 整体背景使反转变得很可能，比如在强劲跌破多头趋势线之后，对多头高点做一次更低的高点或更高的高点测试。• 第一次回调只在三根或更多K线之后才出现。• 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的多头反转K线。
+- 有一根强劲的空头反转K线，带一个巨大的空头趋势K线实体，影线很小或没有影线。
+- 接下来两三根K线同样带有空头实体，其大小至少达到最近多空K线实体的平均水平。
+- 急速行情长到5到10根K线，中间回调不超过一根K线左右，而且它反转了此前多头趋势中许多根K线、摆动低点以及牛旗。
+- 急速行情中有一根或多根K线的高点，正好等于、或只比前一根K线的收盘价高一个最小报价单位。
+- 急速行情中有一根或多根K线的开盘价低于前一根K线的收盘价。
+- 急速行情中有一根或多根K线的收盘价收在最低价上，或仅比最低价高一个最小报价单位。
+- 整体背景使反转变得很可能，比如在强劲跌破多头趋势线之后，对多头高点做一次更低的高点或更高的高点测试。
+- 第一次回调只在三根或更多K线之后才出现。
+- 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的多头反转K线。
 
 
-> • A strong bear reversal bar with a large bear trend body and small tails or no tails. • The next two or three bars also have bear bodies that are at least the average size of the recent bull and bear bodies. • The spike grows to five to 10 bars without pulling back for more than a bar or so, and it re- verses many bars, swing lows, and bull flags of the prior bull trend. • One or more bars in the spike has a high that is at or just one tick above the close of the prior bar. • One or more bars in the spike has an open that is below the close of the prior bar. • One or more bars in the spike has a close on its low or just one tick above its low. • The overall context makes a reversal likely, like a lower high or higher high test of the bull high after a strong break below the bull trend line. • The first pullback occurs only after three or more bars. • The first pullback lasts only one or two bars and it follows a bar that is not a strong bull reversal bar.
+> • A strong bear reversal bar with a large bear trend body and small tails or no tails. • The next two or three bars also have bear bodies that are at least the average size of the recent bull and bear bodies. • The spike grows to five to 10 bars without pulling back for more than a bar or so, and it re-verses many bars, swing lows, and bull flags of the prior bull trend. • One or more bars in the spike has a high that is at or just one tick above the close of the prior bar. • One or more bars in the spike has an open that is below the close of the prior bar. • One or more bars in the spike has a close on its low or just one tick above its low. • The overall context makes a reversal likely, like a lower high or higher high test of the bull high after a strong break below the bull trend line. • The first pullback occurs only after three or more bars. • The first pullback lasts only one or two bars and it follows a bar that is not a strong bull reversal bar.
 
 
-• 第一次回调没有触及保本止损（即入场价）。• 急速行情走得很远，并且突破了若干个支撑位，比如均线、此前的摆动低点以及趋势线，而且每一个都突破了很多个最小报价单位。• 在反转的第一根K线形成的过程中，它大部分时间都停在自己的低点附近，回调小于这根正在生长的K线高度的四分之一。• 有一种紧迫感。你觉得自己非卖不可，却又想等一个回调，可回调偏偏不来。• 这个信号是最近几根K线之内的第二次反转尝试（也就是第二个信号）。• 这次反转一开始是旧趋势的趋势通道线过靶所引发的反转。• 它是在一个重要的摆动高点或低点区域发生反转（例如，它突破此前一个强劲的摆动高点之后向下反转）。• 低1和低2回调的信号K线都是强劲的空头反转K线。• 它的“任何东西”都在走趋势：收盘价、高点、低点或者实体。• 回调很小，而且是横盘式的。
+- 第一次回调没有触及保本止损（即入场价）。
+- 急速行情走得很远，并且突破了若干个支撑位，比如均线、此前的摆动低点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 在反转的第一根K线形成的过程中，它大部分时间都停在自己的低点附近，回调小于这根正在生长的K线高度的四分之一。
+- 有一种紧迫感。你觉得自己非卖不可，却又想等一个回调，可回调偏偏不来。
+- 这个信号是最近几根K线之内的第二次反转尝试（也就是第二个信号）。
+- 这次反转一开始是旧趋势的趋势通道线过靶所引发的反转。
+- 它是在一个重要的摆动高点或低点区域发生反转（例如，它突破此前一个强劲的摆动高点之后向下反转）。
+- 低1和低2回调的信号K线都是强劲的空头反转K线。
+- 它的“任何东西”都在走趋势：收盘价、高点、低点或者实体。
+- 回调很小，而且是横盘式的。
 
 
-> • The first pullback does not hit a breakeven stop (the entry price). • The spike goes very far and breaks several sup- port levels like the moving average, prior swing lows, and trend lines, and each by many ticks. • As the first bar of the reversal is forming, it spends most of its time near its low and the pullbacks are less than a quarter of the height of the growing bar. • There is a sense of urgency. You feel like you have to sell, but you want a pullback, yet it never comes. • The signal is the second attempt to reverse with- in the past few bars (a second signal). • The reversal began as a reversal from an over- shoot of a trend channel line from the old trend. • It is reversing at a significant swing high or low area (e.g., breaks above a strong prior swing high and reverses down). • The low 1 and low 2 pullbacks have strong bear reversal bars for signal bars. • It has trending “anything”: closes, highs, lows, or bodies. • The pullbacks are small and sideways.
+> • The first pullback does not hit a breakeven stop (the entry price). • The spike goes very far and breaks several sup-port levels like the moving average, prior swing lows, and trend lines, and each by many ticks. • As the first bar of the reversal is forming, it spends most of its time near its low and the pullbacks are less than a quarter of the height of the growing bar. • There is a sense of urgency. You feel like you have to sell, but you want a pullback, yet it never comes. • The signal is the second attempt to reverse with-in the past few bars (a second signal). • The reversal began as a reversal from an over-shoot of a trend channel line from the old trend. • It is reversing at a significant swing high or low area (e.g., breaks above a strong prior swing high and reverses down). • The low 1 and low 2 pullbacks have strong bear reversal bars for signal bars. • It has trending “anything”: closes, highs, lows, or bodies. • The pullbacks are small and sideways.
 
 
-• 此前已经出现过对更早那条多头趋势线的突破（这不是看跌力量的第一个迹象）。• 回测多头高点的那次回调缺乏动能，证据是它包含许多相互重叠的K线，其中很多是空头趋势K线。• 回测多头高点的那次回调在均线处、或者在原来那条多头趋势线处失败。• 这次突破反转了最近许多根K线的收盘价和低点。例如，当市场处在多头通道中、并形成一根巨大的空头K线时，这根突破K线的低点和收盘价都低于五根、甚至20根或更多K线的低点和收盘价。由这根空头K线的收盘价反转的K线数量多，比仅由它的低点反转同样多的K线，是更强的信号。
+- 此前已经出现过对更早那条多头趋势线的突破（这不是看跌力量的第一个迹象）。
+- 回测多头高点的那次回调缺乏动能，证据是它包含许多相互重叠的K线，其中很多是空头趋势K线。
+- 回测多头高点的那次回调在均线处、或者在原来那条多头趋势线处失败。
+- 这次突破反转了最近许多根K线的收盘价和低点。例如，当市场处在多头通道中、并形成一根巨大的空头K线时，这根突破K线的低点和收盘价都低于五根、甚至20根或更多K线的低点和收盘价。由这根空头K线的收盘价反转的K线数量多，比仅由它的低点反转同样多的K线，是更强的信号。
 
 
-> • There were prior breaks of earlier bull trend lines (this isn't the first sign of bearish strength). • The pullback to test the bull high lacks mo- mentum, as evidenced by it having many over- lapping bars with many being bear trend bars. • The pullback that tests the bull high fails at the moving average or the old bull trend line. • The breakout reverses many recent closes and lows. For example, when there is a bull channel and a large bear bar forms, this breakout bar has a low and close that are below the lows and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bear bar is a stronger sign than a similar number of bars reversed by only its low.
+> • There were prior breaks of earlier bull trend lines (this isn't the first sign of bearish strength). • The pullback to test the bull high lacks mo-mentum, as evidenced by it having many over-lapping bars with many being bear trend bars. • The pullback that tests the bull high fails at the moving average or the old bull trend line. • The breakout reverses many recent closes and lows. For example, when there is a bull channel and a large bear bar forms, this breakout bar has a low and close that are below the lows and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bear bar is a stronger sign than a similar number of bars reversed by only its low.
 
 
 数K线基础：
@@ -1249,28 +1079,10 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > BAR COUNTING BASICS:
 
 
-高1、高2、低1、
+高1、高2、低1、低2判断多头趋势或交易区间中的一次回调已经结束，有一个可靠的信号：当前这根K线的高点向上超过前一根K线的高点至少一个最小报价单位。这就引出一个很有用的概念：数一数这件事发生过多少次，称为数K线。在多头趋势或交易区间中的一段横盘或向下行情里，第一根高点高于前一根K线高点的K线就是高1，它结束了这段横盘或向下行情的第一段——不过这一段也可能成为更大回调中的一个小段。如果市场没有转变为一段多头波段，而是继续横盘或向下，那就把下一次出现的高点高于前一根K线高点的K线标记为高2，它结束了第二段。
 
 
-> HIGH 1, HIGH 2, LOW 1,
-
-
-低2
-
-
-> LOW 2
-
-
-判断多头趋势或交易区间中的一次回调已经结束，有一个可靠的信号：当前这根K线的
-
-
-> A reliable sign that a pullback in a bull trend or in a trading range has ended is when the current bar's
-
-
-高点向上超过前一根K线的高点至少一个最小报价单位。这就引出一个很有用的概念：数一数这件事发生过多少次，称为数K线。在多头趋势或交易区间中的一段横盘或向下行情里，第一根高点高于前一根K线高点的K线就是高1，它结束了这段横盘或向下行情的第一段——不过这一段也可能成为更大回调中的一个小段。如果市场没有转变为一段多头波段，而是继续横盘或向下，那就把下一次出现的高点高于前一根K线高点的K线标记为高2，它结束了第二段。
-
-
-> high extends at least one tick above the high of the prior bar. This leads to a useful concept of counting the number of times that this occurs, which is called bar counting. In a sideways or downward move in a bull trend or a trading range, the first bar whose high is above the high of the prior bar is a high 1, and this ends the first leg of the sideways or down move, al- though this leg may become a small leg in a larger pullback. If the market does not turn into a bull swing and instead continues sideways or down, label the next occurrence of a bar with a high above the high of the prior bar as a high 2, ending the second leg.
+> HIGH 1, HIGH 2, LOW 1, LOW 2 A reliable sign that a pullback in a bull trend or in a trading range has ended is when the current bar's high extends at least one tick above the high of the prior bar. This leads to a useful concept of counting the number of times that this occurs, which is called bar counting. In a sideways or downward move in a bull trend or a trading range, the first bar whose high is above the high of the prior bar is a high 1, and this ends the first leg of the sideways or down move, al-though this leg may become a small leg in a larger pullback. If the market does not turn into a bull swing and instead continues sideways or down, label the next occurrence of a bar with a high above the high of the prior bar as a high 2, ending the second leg.
 
 
 多头趋势中的高2和空头趋势中的低2，常常被称为 ABC 修正：第一段是 A，形成高1或低1入场的那次方向变化是 B，回调的最后一段是 C。从 C 突破出来的那根K线，在多头 ABC 修正中是高2入场K线，在空头 ABC 修正中是低2入场K线。
@@ -1285,58 +1097,27 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > If the bull pullback ends after a third leg, the buy setup is a high 3 and is usually a type of wedge bull flag. When a bear rally ends in a third leg, it is a low 3 sell setup and usually a wedge bear flag.
 
 
-有些多头回调还能继续发展，形成高4。高4形成时，有时是以一个高2开头的，而这个高2没能走很远。它
+有些多头回调还能继续发展，形成高4。高4形成时，有时是以一个高2开头的，而这个高2没能走很远。它接下来反而又走出两段下跌、以及第二个高2，而整段行情在更高的时间级别上只是一个高2。另一些时候，高4是一段小型的急速与通道式空头趋势：第一次或第二次向下推进是一段空头急速行情，之后的几次向下推进则落在一条空头通道里。如果高4没能让趋势恢复，市场还跌破了它的低点，那么市场很可能已经不再是在多头趋势中形成回调，而是处在空头波段中。先等更多的价格行为展开，再下单交易。
 
 
-> Some bull pullbacks can grow further and form a high 4. When a high 4 forms, it sometimes begins with a high 2 and this high 2 fails to go very far. It is
-
-
-接下来反而又走出两段下跌、以及第二个高2，而整段行情在更高的时间级别上只是一个高2。另一些时候，高4是一段小型的急速与通道式空头趋势：第一次或第二次向下推进是一段空头急速行情，之后的几次向下推进则落在一条空头通道里。如果高4没能让趋势恢复，市场还跌破了它的低点，那么市场很可能已经不再是在多头趋势中形成回调，而是处在空头波段中。先等更多的价格行为展开，再下单交易。
-
-
-> instead followed by another two legs down and a second high 2, and the entire move is simply a high 2 in a higher time frame. At other times, the high 4 is a small spike and channel bear trend where the first or second push down is a bear spike and the next pushes down are in a bear channel. If the high 4 fails to re- sume the trend and the market falls below its low, it is likely that the market is no longer forming a pullback in a bull trend and instead is in a bear swing. Wait for more price action to unfold before placing a trade.
+> Some bull pullbacks can grow further and form a high 4. When a high 4 forms, it sometimes begins with a high 2 and this high 2 fails to go very far. It is instead followed by another two legs down and a second high 2, and the entire move is simply a high 2 in a higher time frame. At other times, the high 4 is a small spike and channel bear trend where the first or second push down is a bear spike and the next pushes down are in a bear channel. If the high 4 fails to re-sume the trend and the market falls below its low, it is likely that the market is no longer forming a pullback in a bull trend and instead is in a bear swing. Wait for more price action to unfold before placing a trade.
 
 
 当空头趋势或横盘市场正在横盘或向上修正时，第一根低点低于前一根K线低点的K线就是低1，它结束了这次修正的第一段，而这一段可能短到只有这一根K线。此后再次出现的，就依次称为低2、低3和低4入场。如果低4失败（在低4做空被触发之后，有一根K线向上越过低4信号K线的高点），价格行为就表明空头已经失去控制：要么市场转为双向，多空轮流掌控；要么多头将取得控制权。无论如何，空头要证明自己重新掌握控制权，最好的做法就是带着强劲动能突破一条多头趋势线。
 
 
-> When a bear trend or a sideways market is correct- ing sideways or up, the first bar with a low below the low of the prior bar is a low 1, ending the first leg of the correction, which can be as brief as that single bar. Subsequent occurrences are called the low 2, low 3, and low 4 entries. If the low 4 fails (a bar extends above the high of the low 4 signal bar after the low 4 short is triggered), the price action indicates that the bears have lost control and either the market will become two-sided, with bulls and bears alternating control, or the bulls will gain control. In any case, the bears can best demonstrate that they have regained control by breaking a bull trend line with strong momentum.
+> When a bear trend or a sideways market is correct-ing sideways or up, the first bar with a low below the low of the prior bar is a low 1, ending the first leg of the correction, which can be as brief as that single bar. Subsequent occurrences are called the low 2, low 3, and low 4 entries. If the low 4 fails (a bar extends above the high of the low 4 signal bar after the low 4 short is triggered), the price action indicates that the bears have lost control and either the market will become two-sided, with bulls and bears alternating control, or the bulls will gain control. In any case, the bears can best demonstrate that they have regained control by breaking a bull trend line with strong momentum.
 
 
-第一部分
+# 第 Ⅰ 部分　突破：向新趋势过渡
+
+*Part I　Breakouts: Transitioning into a New Trend*
 
 
-> Part I
+市场总是在试图突破，紧接着市场又总想让每一次突破都失败。这是所有交易中最根本的一面，也是我们所做的一切的核心。交易者能够掌握的最重要技能之一，就是可靠地判断一次突破会在什么时候成功、什么时候失败（从而形成反转）。记住，每一根趋势K线都是一次突破；无论一根多头或空头趋势K线看起来多么强劲，它的高点和低点处都有买家和卖家。正因为每一根趋势K线都是一次突破，而趋势K线又很常见，交易者必须明白：他们得整天每隔几根K线就评估一次——这次突破会继续还是会失败、然后反转。这是交易中最根本的概念，理解它对交易者能否取得财务上的成功至关重要。任何东西的突破都是一回事。就连 V 形底这样的高潮反转，也不过是一次突破、随后又一次突破失败。有些交易者基于“突破会成功”的信念下单，另一些交易者则朝相反方向下单，赌它会失败。交易者在判断突破会成功还是失败这件事上越强，就越有条件靠交易谋生。这次突破会成功吗？会，那就找机会顺着这个方向交易。不会（也就是变成一次失败的突破，而失败突破就是反转），那就找机会朝相反方向交易。所有交易最终都归结为这一个决定。
 
 
-突破：转入
-
-
-> Breakouts: Trans-
-
-
-一个新的
-
-
-> itioning into a
-
-
-趋势
-
-
-> New Trend
-
-
-市场总是在试图突破，紧接着市场又总想让每一次突破都失败。这是所有交易中最根本的一面，也是我们所做的一切的核心。交易者能够掌握的最重要技能之一，就是可靠地判断一次突破会在什么时候成功、什么时候失败（从而形成反转）。记住，每一根趋势K线都是一次突破；无论一根多头或空头趋势K线看起来多么强劲，它的高点和低点处都有买家和卖家。正因为每一根趋势K线都是一次突破，而趋势K线又很常见，交易者必须明白：他们得整天每隔几根K线就评估一次——这次突破会继续
-
-
-> The market is always trying to break out, and then the market tries to make every breakout fail. This is the most fundamental aspect of all trading and is at the heart of everything that we do. One of the most im- portant skills that a trader can acquire is the ability to reliably determine when a breakout will succeed or fail (creating a reversal). Remember, every trend bar is a breakout, and there are buyers and sellers at the top and bottom of every bull and bear trend bar, no matter how strong the bar appears. Since every trend bar is a breakout and trend bars are common, traders must understand that they have to be assessing every few bars all day long whether a breakout will continue
-
-
-还是会失败、然后反转。这是交易中最根本的概念，理解它对交易者能否取得财务上的成功至关重要。任何东西的突破都是一回事。就连 V 形底这样的高潮反转，也不过是一次突破、随后又一次突破失败。有些交易者基于“突破会成功”的信念下单，另一些交易者则朝相反方向下单，赌它会失败。交易者在判断突破会成功还是失败这件事上越强，就越有条件靠交易谋生。这次突破会成功吗？会，那就找机会顺着这个方向交易。不会（也就是变成一次失败的突破，而失败突破就是反转），那就找机会朝相反方向交易。所有交易最终都归结为这一个决定。
-
-
-> or fail and then reverse. This is the most fundamental concept in trading, and it is crucial to a trader's finan- cial success to understand it. A breakout of anything is the same. Even a climactic reversal like a V bottom is simply a breakout and then a failed breakout. There are traders placing trades based on the belief that the breakout will succeed, and other traders placing trades in the opposite direction, betting it will fail. The better traders become at assessing whether a breakout will succeed or fail, the better positioned they are to make a living as a trader. Will the breakout succeed? If yes, then look to trade in that direction. If no (and become a failed breakout, which is a reversal), then look to trade in the opposite direction. All trading comes down to this decision.
+> The market is always trying to break out, and then the market tries to make every breakout fail. This is the most fundamental aspect of all trading and is at the heart of everything that we do. One of the most im-portant skills that a trader can acquire is the ability to reliably determine when a breakout will succeed or fail (creating a reversal). Remember, every trend bar is a breakout, and there are buyers and sellers at the top and bottom of every bull and bear trend bar, no matter how strong the bar appears. Since every trend bar is a breakout and trend bars are common, traders must understand that they have to be assessing every few bars all day long whether a breakout will continue or fail and then reverse. This is the most fundamental concept in trading, and it is crucial to a trader's finan-cial success to understand it. A breakout of anything is the same. Even a climactic reversal like a V bottom is simply a breakout and then a failed breakout. There are traders placing trades based on the belief that the breakout will succeed, and other traders placing trades in the opposite direction, betting it will fail. The better traders become at assessing whether a breakout will succeed or fail, the better positioned they are to make a living as a trader. Will the breakout succeed? If yes, then look to trade in that direction. If no (and become a failed breakout, which is a reversal), then look to trade in the opposite direction. All trading comes down to this decision.
 
 
 “突破”（breakout）这个词有点误导，因为其中的 out 暗示它只指市场试图从交易区间转入趋势，但它也可以指一次买入高潮或卖出高潮试图反转成相反方向的趋势。关于突破，最重要的一点是：大多数突破都会失败。市场有强烈的倾向去延续它一直在做的事，因此对改变有很强的抗拒。正如大多数终结趋势的尝试都会失败一样，大多数终结交易区间、开启趋势的尝试也会失败。
@@ -1345,159 +1126,88 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > Breakout is a misleading term because out implies that it refers only to a market attempting to transition from a trading range into a trend, but it can also be a buy or sell climax attempting to reverse into a trend in the opposite direction. The most important thing to understand about breakouts is that most breakouts fail. There is a strong propensity for the market to continue what it has been doing, and therefore there is a strong resistance to change. Just as most attempts to end a trend fail, most attempts to end a trading range and begin a trend also fail.
 
 
-一次突破就是价格越过了此前某个有意义的点位，比如一条趋势线、或前一个高点或低点，也包括前一根K线的高点或低点。那个点位就成为突破点；如果市场后来又回来测试这个点位，这次回调就是突破回测（一次回撤到突破点所在区域的突破回调）。突破点与突破回测之间的空档就是突破缺口。一次重要的突破——它会让始终入场的位置明确变成做多或做空，并且很可能有至少持续几根K线的后续行情——几乎总是表现为一根相对较大的趋势K线，没有明显的影线。“始终入场”在第3册中有详细讨论，它的意思是：如果你必须时刻留在市场里，要么做多要么做空，那么始终入场的位置就是你当前持仓的方向。突破是市场的一次尝试：要么反转趋势，要么从交易区间转入一段新趋势。只要市场处在交易区间中，就应当认为它处于突破模式。双向交易会一直持续，直到某一方放弃、市场变得严重单边，形成一段急速行情，而这段急速行情就成了突破。所有突破都是急速行情，可以由一根或连续几根趋势K线构成。这一类或那一类的突破非常常见，在每张图上几乎每隔
+一次突破就是价格越过了此前某个有意义的点位，比如一条趋势线、或前一个高点或低点，也包括前一根K线的高点或低点。那个点位就成为突破点；如果市场后来又回来测试这个点位，这次回调就是突破回测（一次回撤到突破点所在区域的突破回调）。突破点与突破回测之间的空档就是突破缺口。一次重要的突破——它会让始终入场的位置明确变成做多或做空，并且很可能有至少持续几根K线的后续行情——几乎总是表现为一根相对较大的趋势K线，没有明显的影线。“始终入场”在第3册中有详细讨论，它的意思是：如果你必须时刻留在市场里，要么做多要么做空，那么始终入场的位置就是你当前持仓的方向。突破是市场的一次尝试：要么反转趋势，要么从交易区间转入一段新趋势。只要市场处在交易区间中，就应当认为它处于突破模式。双向交易会一直持续，直到某一方放弃、市场变得严重单边，形成一段急速行情，而这段急速行情就成了突破。所有突破都是急速行情，可以由一根或连续几根趋势K线构成。这一类或那一类的突破非常常见，在每张图上几乎每隔几根K线就会出现一次。正如第6章关于缺口的讨论所说，所有突破在功能上都等同于缺口；而且既然每一根趋势K线都是一次突破（同时也是一段急速行情、一次高潮），它也是一个缺口。许多突破很容易被忽略，而任何一次突破都可能同时突破了好几个东西。有时市场在两个方向上都有建仓形态，因此处于突破模式；这种情况有时被称为处在拐点区域。交易者会准备好在任一方向上顺着突破的方向入场。正因为突破是每张图上最常见的特征之一，理解突破、理解它的后续行情与它的失败，就变得极为必要。
 
 
-> A breakout is simply a move beyond some prior point of significance such as a trend line or a prior high or low, including the high or low of the previous bar. That point becomes the breakout point, and if the market later comes back to test that point, the pull- back is the breakout test (a breakout pullback that reaches the area of the breakout point). The space between the breakout point and the breakout test is the breakout gap. A significant breakout, one that makes the always-in position clearly long or short and is likely to have follow-through for at least several bars, almost always appears as a relatively large trend bar without significant tails. “Always in” is discussed in detail in the third book, and it means that if you had to be in the market at all times, either long or short, the always-in position is whatever your current position is. The breakout is an attempt by the market either to reverse the trend or to move from a trading range into a new trend. Whenever the market is in a trading range, it should be considered to be in break- out mode. There is two-sided trading until one side gives up and the market becomes heavily one-sided, creating a spike that becomes a breakout. All break- outs are spikes and can be made up of one or several consecutive trend bars. Breakouts of one type or an- other are very common and occur as often as every
-
-
-几根K线就会出现一次。正如第6章关于缺口的讨论所说，所有突破在功能上都等同于缺口；而且既然每一根趋势K线都是一次突破（同时也是一段急速行情、一次高潮），它也是一个缺口。许多突破很容易被忽略，而任何一次突破都可能同时突破了好几个东西。有时市场在两个方向上都有建仓形态，因此处于突破模式；这种情况有时被称为处在拐点区域。交易者会准备好在任一方向上顺着突破的方向入场。正因为突破是每张图上最常见的特征之一，理解突破、理解它的后续行情与它的失败，就变得极为必要。
-
-
-> few bars on every chart. As is discussed in Chapter 6 on gaps, all breakouts are functionally equivalent to gaps, and since every trend bar is a breakout (and also a spike and a climax), it is also a gap. Many breakouts are easily overlooked, and any single one may be breaking out of many things at one time. Sometimes the market will have setups in both directions and is therefore in breakout mode; this is sometimes re- ferred to as being in an inflection area. Traders will be ready to enter in the direction of the breakout in either direction. Because breakouts are one of the most common features of every chart, it is imperative to understand them, their follow-through, and their failure.
+> A breakout is simply a move beyond some prior point of significance such as a trend line or a prior high or low, including the high or low of the previous bar. That point becomes the breakout point, and if the market later comes back to test that point, the pull-back is the breakout test (a breakout pullback that reaches the area of the breakout point). The space between the breakout point and the breakout test is the breakout gap. A significant breakout, one that makes the always-in position clearly long or short and is likely to have follow-through for at least several bars, almost always appears as a relatively large trend bar without significant tails. “Always in” is discussed in detail in the third book, and it means that if you had to be in the market at all times, either long or short, the always-in position is whatever your current position is. The breakout is an attempt by the market either to reverse the trend or to move from a trading range into a new trend. Whenever the market is in a trading range, it should be considered to be in break-out mode. There is two-sided trading until one side gives up and the market becomes heavily one-sided, creating a spike that becomes a breakout. All break-outs are spikes and can be made up of one or several consecutive trend bars. Breakouts of one type or an-other are very common and occur as often as every few bars on every chart. As is discussed in Chapter 6 on gaps, all breakouts are functionally equivalent to gaps, and since every trend bar is a breakout (and also a spike and a climax), it is also a gap. Many breakouts are easily overlooked, and any single one may be breaking out of many things at one time. Sometimes the market will have setups in both directions and is therefore in breakout mode; this is sometimes referred to as being in an inflection area. Traders will be ready to enter in the direction of the breakout in either direction. Because breakouts are one of the most common features of every chart, it is imperative to understand them, their follow-through, and their failure.
 
 
 前一根K线的高点，通常是在某个更小时间级别图上的一处摆动高点；所以市场一旦越过前一根K线的高点，就是在突破一个更小时间级别的摆动高点。同样，当市场突破当前图上的一个此前摆动高点时，那个高点在某个更高时间级别的图上就只是前一根K线的高点。前一根K线的低点也是如此：它通常是更小时间级别图上的一处摆动低点，而当前图上的任何摆动低点，通常也只是更高时间级别图上前一根K线的低点。
 
 
-> The high of the prior bar is usually a swing high on some lower time frame chart, so if the market moves above the high of the prior bar, it is breaking above a lower time frame swing high. Also, when the market breaks above a prior swing high on the current chart, that high is simply the high of the prior bar on some higher time frame chart. The same is true for the low of the prior bar. It is usually a swing low on a lower time frame chart, and any swing low on the current chart is usually just the low of the prior bar on a high- er time frame chart.
+> The high of the prior bar is usually a swing high on some lower time frame chart, so if the market moves above the high of the prior bar, it is breaking above a lower time frame swing high. Also, when the market breaks above a prior swing high on the current chart, that high is simply the high of the prior bar on some higher time frame chart. The same is true for the low of the prior bar. It is usually a swing low on a lower time frame chart, and any swing low on the current chart is usually just the low of the prior bar on a high-er time frame chart.
 
 
 必须区分两种突破：一种是突破进入一段新趋势，另一种是突破更大交易区间内部的一个小交易区间。举例来说，如果你屏幕上的图正处在交易区间中，而市场向上突破了这个屏幕下半部分的小交易区间，那么大多数交易者会认为市场仍在那个更大的交易区间之内，还没进入多头趋势。市场可能只是在形成一次买入价格真空式的测试，去测试这个大交易区间的顶部。正因如此，聪明的交易者不会在屏幕顶部附近那些强劲多头趋势K线的收盘价处买入。事实上，许多人会卖掉自己的多头仓位以止盈，另一些人还会做空它们，因为他们预期这次突破尝试会失败。同样，虽然在强劲多头急速行情中买入一个高1建仓形态可能是极好的交易，但它只在多头趋势中才极好；在交易区间的顶部就不好，因为在那里，大多数突破尝试都会失败。一般来说，如果出现了一次强劲的多头突破，但它仍低于屏幕左半部分那些K线的高点，那么在考虑于急速行情顶部附近买入之前，先确认确实有一轮强劲的趋势反转正在进行。如果你认为市场可能仍在交易区间之内，就只考虑买入回调，而不是想在急速行情顶部附近买入。
 
 
-> It is important to distinguish a breakout into a new trend from a breakout of a small trading range within a larger trading range. For example, if the chart on your screen is in a trading range, and the market breaks above a small trading range in the bottom half of the screen, most traders will assume that the mar- ket is still within the larger trading range, and not yet in a bull trend. The market might simply be forming a buy vacuum test of the top of the larger trading range. Because of this, smart traders will not buy the closes of the strong bull trend bars near the top of the screen. In fact, many will sell out of their longs to take profits and others will short them, expecting the breakout attempt to fail. Similarly, even though buy- ing a high 1 setup in strong bull spike can be a great trade, it is great only in a bull trend, not at the top of a trading range, where most breakout attempts will fail. In general, if there is a strong bull breakout, but it is still below the high of the bars on the left half of the screen, make sure that the there is a strong trend re- versal underway before looking to buy near the top of the spike. If you believe that the market might still be within a trading range, only consider buying pull- backs, instead of looking to buy near the top of the spike.
+> It is important to distinguish a breakout into a new trend from a breakout of a small trading range within a larger trading range. For example, if the chart on your screen is in a trading range, and the market breaks above a small trading range in the bottom half of the screen, most traders will assume that the mar-ket is still within the larger trading range, and not yet in a bull trend. The market might simply be forming a buy vacuum test of the top of the larger trading range. Because of this, smart traders will not buy the closes of the strong bull trend bars near the top of the screen. In fact, many will sell out of their longs to take profits and others will short them, expecting the breakout attempt to fail. Similarly, even though buy-ing a high 1 setup in strong bull spike can be a great trade, it is great only in a bull trend, not at the top of a trading range, where most breakout attempts will fail. In general, if there is a strong bull breakout, but it is still below the high of the bars on the left half of the screen, make sure that the there is a strong trend re-versal underway before looking to buy near the top of the spike. If you believe that the market might still be within a trading range, only consider buying pull-backs, instead of looking to buy near the top of the spike.
 
 
-大交易者在趋势的急速阶段毫不犹豫地入场，因为他们预期会有可观的后续行情，即便入场后立刻出现一次回调也是如此。如果出现回调，他们反而会加大自己的仓位规模。例如，如果出现一段持续几根K线的强劲多头突破，随着每一个更高的最小报价单位出现，越来越多的机构会相信市场已经变成始终做多；而一旦他们确信市场会走高，就开始买入，并在市场持续上涨时通过买入更多来加码自己的交易。这让急速行情增长得非常快。他们的入场方式有很多，比如用市价单买入、在一两个最小报价单位的回调处买入、在前一根K线上方挂止损单买入，或者在突破前一个摆动高点时买入。他们怎么进场并不重要，因为他们的重点是先建立至少一个小仓位，然后随着市场上行、或者市场回调时再买入更多。由于市场走高时他们会继续加仓，急速行情可以延续很多根K线。新手交易者看着不断扩大的急速行情，会想不通怎么会有人在这么巨大的一波行情顶部买入。他们不明白的是：机构对市场很快会走高如此有信心，以致他们愿意一路上买——因为他们不想为了等回调形成而错过这波行情。初学者
+大交易者在趋势的急速阶段毫不犹豫地入场，因为他们预期会有可观的后续行情，即便入场后立刻出现一次回调也是如此。如果出现回调，他们反而会加大自己的仓位规模。例如，如果出现一段持续几根K线的强劲多头突破，随着每一个更高的最小报价单位出现，越来越多的机构会相信市场已经变成始终做多；而一旦他们确信市场会走高，就开始买入，并在市场持续上涨时通过买入更多来加码自己的交易。这让急速行情增长得非常快。他们的入场方式有很多，比如用市价单买入、在一两个最小报价单位的回调处买入、在前一根K线上方挂止损单买入，或者在突破前一个摆动高点时买入。他们怎么进场并不重要，因为他们的重点是先建立至少一个小仓位，然后随着市场上行、或者市场回调时再买入更多。由于市场走高时他们会继续加仓，急速行情可以延续很多根K线。新手交易者看着不断扩大的急速行情，会想不通怎么会有人在这么巨大的一波行情顶部买入。他们不明白的是：机构对市场很快会走高如此有信心，以致他们愿意一路上买——因为他们不想为了等回调形成而错过这波行情。初学者还担心自己的止损不得不放在急速行情的底部下方，或者至少放在它的中点下方，而那个位置离得很远。机构知道这一点，于是干脆把仓位规模调小，调到他们承担的风险金额与做任何其它交易时相同。
 
 
-> Big traders don't hesitate to enter a trend during its spike phase, because they expect significant follow- through, even if there is a pullback immediately after their entry. If a pullback occurs, they increase the size of their position. For example, if there is a strong bull breakout lasting several bars, more and more institu- tions become convinced that the market has become always-in long with each new higher tick, and as they become convinced that the market will go higher, they start buying, and they press the trades by buying more as the market continues to rise. This makes the spike grow very quickly. They have many ways to enter, like buying at the market, buying a one- or two-tick pull- back, buying above the prior bar on a stop, or buying on a breakout above a prior swing high. It does not matter how they get in, because their focus is to get at least a small position on, and then look to buy more as the market moves higher or if it pulls back. Because they will add on as the market goes higher, the spike can extend for many bars. A beginning trader sees the growing spike and wonders how anyone could be buy- ing at the top of such a huge move. What they don't understand is that the institutions are so confident that the market will soon be higher that they will buy all of the way up, because they don't want to miss the move while waiting for a pullback to form. Beginners
+> Big traders don't hesitate to enter a trend during its spike phase, because they expect significant follow-through, even if there is a pullback immediately after their entry. If a pullback occurs, they increase the size of their position. For example, if there is a strong bull breakout lasting several bars, more and more institu-tions become convinced that the market has become always-in long with each new higher tick, and as they become convinced that the market will go higher, they start buying, and they press the trades by buying more as the market continues to rise. This makes the spike grow very quickly. They have many ways to enter, like buying at the market, buying a one-or two-tick pull-back, buying above the prior bar on a stop, or buying on a breakout above a prior swing high. It does not matter how they get in, because their focus is to get at least a small position on, and then look to buy more as the market moves higher or if it pulls back. Because they will add on as the market goes higher, the spike can extend for many bars. A beginning trader sees the growing spike and wonders how anyone could be buy-ing at the top of such a huge move. What they don't understand is that the institutions are so confident that the market will soon be higher that they will buy all of the way up, because they don't want to miss the move while waiting for a pullback to form. Beginners are also afraid that their stops would have to be below the bottom of the spike, or at least below its midpoint, which is far away. The institutions know this, and simply adjust their position size down to a level where their dollars at risk are the same as for any other trade.
 
 
-还担心自己的止损不得不放在急速行情的底部下方，或者至少放在它的中点下方，而那个位置离得很远。机构知道这一点，于是干脆把仓位规模调小，调到他们承担的风险金额与做任何其它交易时相同。
+在某个阻力位处，早入场的买家会止盈一部分，随后市场小幅回调。市场一回调，想建立更大仓位的交易者就迅速买入，从而让第一次回调保持很小。同时，错过了更早入场点的多头也会利用这次回调终于做多。有些交易者不喜欢买急速行情，因为他们不愿冒太大的风险（止损往往需要放在急速行情的底部下方）。他们更愿意觉得自己是在一个更好的价格（打折价）上买入，因此会等回调形成之后再买。如果人人都想买回调，那回调又怎么会出现呢？原因是并非人人都在找机会买。早早就买入的、经验丰富的交易者知道市场随时可能反转；一旦他们感觉市场已经到了一个阻力区域——他们认为那里可能出现止盈、或者市场可能反转——他们就会止盈一部分（开始分批止盈自己的多头仓位），有时还会把整个仓位卖掉。这些人并不是那些想在第一次回调时买低几个最小报价单位的交易者。正在部分止盈的经验丰富的交易者之所以分批止盈，是因为他们害怕反转，或者害怕出现更深的回调——在那种回调里他们本可以在低很多个最小报价单位的位置买回来。如果他们相信这次回调只会持续几个最小报价单位、之后多头就会恢复上行，他们根本不会离场。他们总是在某个阻力位止盈，比如一个等距运动目标位、一条趋势线、一条趋势通道线、一个新高点，或者上方某个交易区间的底部。大部分交易都是电脑完成的，所以一切都有数学依据——这意味着止盈目标都基于屏幕上的价格。通过练习，交易者可以学会识别电脑可能止盈的区域，并且可以在相同的价格上止盈，预期随后会出现一次回调。虽然趋势有惯性、会越过大多数阻力区域，但反转最终真的到来时，它总会发生在某个阻力区域——不管这个区域对你来说是否明显。
 
 
-> are also afraid that their stops would have to be below the bottom of the spike, or at least below its midpoint, which is far away. The institutions know this, and simply adjust their position size down to a level where their dollars at risk are the same as for any other trade.
+> At some resistance level, the early buyers take some profits, and then the market pulls back a little. When it does, the traders who want a larger position quickly buy, thereby keeping the initial pullback small. Also, the bulls who missed the earlier entries will use the pullback to finally get long. Some traders don't like to buy spikes, because they don't like to risk too much (the stop often needs to be below the bottom of the spike). They prefer to feel like they are buying at a bet-ter price (a discount) and therefore will wait for a pullback to form before buying. If everyone is looking to buy a pullback, why would one ever develop? It is because not everyone is looking to buy. Experienced traders who bought early on know that the market can reverse at any time, and once they feel that the market has reached a resistance area where they think that profit taking might come in or the market might re-verse, they will take partial profits (they will begin to scale out of their longs), and sometimes will sell out of their entire position. These are not the bulls who are looking to buy a few ticks lower on the first pullback. The experienced traders who are taking partial profits are scaling out because they are afraid of a reversal, or of a deeper pullback where they could buy back many ticks lower. If they believed that the pullback was only going to last for a few ticks, and then the bull was go-ing to resume, they would never have exited. They al-ways take their profits at some resistance level, like a measured move target, a trend line, a trend channel line, a new high, or at the bottom of a trading range above. Most of the trading is done by computers, so everything has a mathematical basis, which means that the profit taking targets are based on the prices on the screen. With practice, traders can learn to spot areas where the computers might take profits, and they can take their profits at the same prices, expect-ing a pullback to follow. Although trends have inertia and will go above most resistance areas, when a re-versal finally does come, it will always be at a resist-ance area, whether or not it is obvious to you.
 
 
-在某个阻力位处，早入场的买家会止盈一部分，随后市场小幅回调。市场一回调，想建立更大仓位的交易者就迅速买入，从而让第一次回调保持很小。同时，错过了更早入场点的多头也会利用这次回调终于做多。有些交易者不喜欢买急速行情，因为他们不愿冒太大的风险（止损往往需要放在急速行情的底部下方）。他们更愿意觉得自己是在一个更好的价格（打折价）上买入，因此会等回调形成之后再买。如果人人都想买回调，那回调又怎么会出现呢？原因是并非人人都在找机会买。早早就买入的、经验丰富的交易者知道市场随时可能反转；一旦他们感觉市场已经到了一个阻力区域——他们认为那里可能出现止盈、或者市场可能反转——他们就会止盈一部分（开始分批止盈自己的多头仓位），有时还会把整个仓位卖掉。这些人并不是那些
+有时急速行情中会出现某根K线或某个形态，只要激进的空头认为回调迫在眉睫、而且有足够的空间赚一笔，他们就能借此做一次小刮头皮。然而，这样尝试的绝大多数交易者都会亏钱，因为大多数回调走的距离都不够赚取利润，或者这次交易者等式很弱（做一次刮头皮盈利的概率乘以利润幅度，小于亏损的概率乘以保护性止损的幅度）。此外，做空的交易者太盼望那点小利润，以致无一例外地错过了几分钟后出现的、利润丰厚得多的多头机会。
 
 
-> At some resistance level, the early buyers take some profits, and then the market pulls back a little. When it does, the traders who want a larger position quickly buy, thereby keeping the initial pullback small. Also, the bulls who missed the earlier entries will use the pullback to finally get long. Some traders don't like to buy spikes, because they don't like to risk too much (the stop often needs to be below the bottom of the spike). They prefer to feel like they are buying at a bet- ter price (a discount) and therefore will wait for a pullback to form before buying. If everyone is looking to buy a pullback, why would one ever develop? It is because not everyone is looking to buy. Experienced traders who bought early on know that the market can reverse at any time, and once they feel that the market has reached a resistance area where they think that profit taking might come in or the market might re- verse, they will take partial profits (they will begin to scale out of their longs), and sometimes will sell out of their entire position. These are not the bulls who are
+> Sometimes the spike will have a bar or a pattern that will allow aggressive bears to take a small scalp, if they think that the pullback is imminent and that there is enough room for a profit. However, most traders who attempt this will lose, because most of the pullbacks do not go far enough for a profit, or the trader's equation is weak (the probability of making a scalp times the size of the profit is smaller than the probability of losing times the size of the protective stop). Also, traders who take the short are hoping so much for their small profit that they invariably end up missing the much more profitable long that forms a few minutes later.
 
 
-想在第一次回调时买低几个最小报价单位的交易者。正在部分止盈的经验丰富的交易者之所以分批止盈，是因为他们害怕反转，或者害怕出现更深的回调——在那种回调里他们本可以在低很多个最小报价单位的位置买回来。如果他们相信这次回调只会持续几个最小报价单位、之后多头就会恢复上行，他们根本不会离场。他们总是在某个阻力位止盈，比如一个等距运动目标位、一条趋势线、一条趋势通道线、一个新高点，或者上方某个交易区间的底部。大部分交易都是电脑完成的，所以一切都有数学依据——这意味着止盈目标都基于屏幕上的价格。通过练习，交易者可以学会识别电脑可能止盈的区域，并且可以在相同的价格上止盈，预期随后会出现一次回调。虽然趋势有惯性、会越过大多数阻力区域，但反转最终真的到来时，它总会发生在某个阻力区域——不管这个区域对你来说是否明显。
+交易者朝突破的方向入场，或朝相反方向入场，取决于他们预期这次突破会成功还是失败。他们是相信的人，还是不信的人？顺着突破方向入场有许多种方式。一旦交易者因为相信一波重要行情可能正在展开而产生紧迫感，他们就需要进场。对许多交易者来说，在突破期间入场很难，因为风险更大、行情又快。他们常常会僵住，不做这笔交易。他们担心潜在亏损的幅度，这意味着他们太在乎这笔交易，以致做不下去。他们必须把仓位规模降到“我不在乎”的大小，这样才能迅速进场。要做一笔让人害怕的交易，最好的办法就是自动只做平常交易规模的三分之一或四分之一，并使用必需的宽止损。他们可能因此抓住一波大行情，而在一个小仓位上赚到很多，也远比在他们平时使用的仓位规模上一无所获要好得多。重要的是，要避免犯这样的错误：不在乎到了开始交易弱势建仓形态、随后亏钱的地步。先找到一个好的建仓形态，然后再进入“我不在乎”的状态。
 
 
-> looking to buy a few ticks lower on the first pullback. The experienced traders who are taking partial profits are scaling out because they are afraid of a reversal, or of a deeper pullback where they could buy back many ticks lower. If they believed that the pullback was only going to last for a few ticks, and then the bull was go- ing to resume, they would never have exited. They al- ways take their profits at some resistance level, like a measured move target, a trend line, a trend channel line, a new high, or at the bottom of a trading range above. Most of the trading is done by computers, so everything has a mathematical basis, which means that the profit taking targets are based on the prices on the screen. With practice, traders can learn to spot areas where the computers might take profits, and they can take their profits at the same prices, expect- ing a pullback to follow. Although trends have inertia and will go above most resistance areas, when a re- versal finally does come, it will always be at a resist- ance area, whether or not it is obvious to you.
+> Traders enter in the direction of the breakout or in the opposite direction, depending on whether they ex-pect it to succeed or to fail. Are they believers or non-believers? There are many ways to enter in the direc-tion of the breakout. Once traders feel a sense of urgency because they believe that a significant move might be underway, they need to get into the market. Entering during a breakout is difficult for many traders because the risk is larger and the move is fast. They will often freeze and not take the trade. They are worried about the size of the potential loss, which means that they are caring too much to trade. They have to get their position size down to the “I don't care” size so that they can quickly get in the trade. The best way for them to take a scary trade is to automat-ically trade only a third or a quarter of their normal trade size and use the wide stop that is required. They might catch a big move, and making a lot on a small position is much better than making nothing on their usual position size. It is important to avoid making the mistake of not caring to the point that you begin to trade weak setups and then lose money. First spot a good setup and then enter the “I don't care” mode.
 
 
-有时急速行情中会出现某根K线或某个形态，只要激进的空头认为回调迫在眉睫、而且有足够的空间赚一笔，他们就能借此做一次小刮头皮。然而，这样尝试的绝大多数交易者都会亏钱，因为大多数回调走的距离都不够赚取利润，或者这次
+交易者一旦觉得市场已经走出一段明确的始终入场（always in）走势，就会认定一轮趋势已经开始，必须尽快入场。比如，如果出现一次强劲的多头突破，他们可以在那根让他们相信趋势已经开始的K线收盘价处买入。他们可能需要看到下一根K线也是阳线收盘。如果他们等到了这根阳线收盘，就可以在这根K线一收盘时立刻买入，方式既可以是在该K线的收盘价这一价位挂限价单，也可以直接下市价单。他们也可以等第一根停顿K线或回调K线出现，然后挂限价单买入：挂在它的收盘价、它低点上方一个最小报价单位、它的低点、或者它低点下方一两个最小报价单位处。任何小幅回调他们都可以挂限价单买入，比如 Emini 小型合约里一到四个最小报价单位的回调，或者一只股票上5到10美分的回调。如果突破K线不算太大，下一根K线的低点可能回测突破前那根K线的高点，形成一次突破回测。他们可以在这根K线的高点处或略高于高点处挂限价单买入，把风险放在突破K线的低点。如果他们想在停顿K线处或它的下方买入却没有成交，就可以把买入止损单挂在那根K线最高点上方一个最小报价单位处。如果急速行情很强，他们可以等第一次出现高1建仓形态时买入，那是一次突破回调（breakout pullback）。更早一些，他们可以看1分钟、2分钟或3分钟图，在前一根K线的低点处或更低处买入，在高1或高2信号K线的高点上方买入，或者在均线处挂限价单买入。一旦进场，他们就应当像管理任何顺势交易那样管理这笔仓位，并且去找一段到达等距运动目标位的波段行情来止盈，而不是赚一小笔刮头皮就出场。多头会预期空头的每一次尝试都会失败，因此每一次都想买入。他们会在每一根空头趋势K线的收盘价附近买入，哪怕这根K线很大、并且收在它的最低点。当市场跌破前一根K线的低点、跌破之前任何一个摆动低点、跌破任何一个支撑位（比如趋势线）时，他们都会买入。市场每一次尝试走高，他们也都会买入，比如在多头趋势K线的最高点附近买入，或者在市场升破前一根K线的高点、升破某个阻力位时买入。这与交易者在强空头市场里的做法完全相反——那时他们在K线的上方和下方卖出，在阻力与支撑的上方和下方都卖出。他们会在K线上方卖出（也会在各种阻力位附近卖出），包括在强劲的多头趋势K线上方卖出，因为他们把每一次上涨都看成一次反转趋势的尝试，而大多数趋势反转的尝试都会失败。他们会在K线下方卖出（也会在各种支撑位附近卖出），因为他们把每一次下跌都看成一次恢复空头趋势的尝试，并且预期其中大多数都会成功。
 
 
-> Sometimes the spike will have a bar or a pattern that will allow aggressive bears to take a small scalp, if they think that the pullback is imminent and that there is enough room for a profit. However, most traders who attempt this will lose, because most of the pullbacks do not go far enough for a profit, or the
+> As soon as traders feel that the market has had a clear always-in move, they believe that a trend is underway and they need to get in as soon as possible. For example, if there is a strong bull breakout, they can buy the close of the bar that made them believe that the trend has begun. They might need to see the next bar also have a bull close. If they wait and they get that bull close, they could buy as soon as the bar closes, either with a limit order at the level of the close of the bar or with a market order. They could wait for the first pause or pullback bar and place a limit order to buy at its close, a tick above its low, at its low, or a tick or two below its low. They can place a limit order to buy any small pullback, like a one-to four-tick pull-back in the Emini, or a 5 to 10 cent pullback in a stock. If the breakout bar is not too large, the low of the next bar might test the high of the bar before the breakout, creating a breakout test. They might place a limit or-der to buy at or just above the high of that bar, and risk to the low of the breakout bar. If they try to buy at or below a pause bar and they do not get filled, they can place a buy stop order at one tick above the high of the bar. If the spike is strong, they can look to buy the first high 1 setup, which is a breakout pullback. Earlier on, they can look at a 1, 2, or 3 minute chart and buy at or below the low of a prior bar, above a high 1 or high 2 signal bar, or with a limit order at the moving average. Once they are in, they should man-age the position like any trend trade, and look for a swing to a measured move target to take profits and not exit with a small scalp. The bulls will expect every attempt by the bears to fail, and therefore look to buy each one. They will buy around the close of every bear trend bar, even if the bar is large and closes on its low. They will buy as the market falls below the low of the prior bar, any prior swing low, and any support level, like a trend line. They also will buy every attempt by the market to go higher, like around the high of a bull trend bar or as the market moves above the high of the prior bar or above a resistance level. This is the ex-act opposite of what traders do in strong bear mar-kets, when they sell above and below bars, and above and below both resistance and support. They sell above bars (and around every type of resistance), including strong bull trend bars, because they see each move up as an attempt to reverse the trend, and most trend reversal attempts fail. They will sell below bars (and around every type of support), because they see each move down as an attempt to resume the bear trend, and expect that most will succeed.
 
 
-交易者等式很弱（做一次刮头皮盈利的概率乘以利润幅度，小于亏损的概率乘以保护性止损的幅度）。此外，做空的交易者太盼望那点小利润，以致无一例外地错过了几分钟后出现的、利润丰厚得多的多头机会。
+由于大多数突破尝试都会失败，很多交易者会朝着突破的相反方向入场。比如，如果市场处在多头趋势中，却出现一根收在最低点的大号空头趋势K线，大多数交易者就会预期这次反转尝试失败，其中很多人会在该K线的收盘价处买入。如果下一根K线有阳线实体，他们会在该K线收盘价处以及它的高点上方买入。第一个目标是那根空头趋势K线的高点，下一个目标是等距运动上涨，幅度等于那根空头趋势K线的高度。有些交易者会使用一个初始保护性止损，其最小报价单位数与那根空头趋势K线的高度大致相当；另一些人则用自己平时的止损，比如 Emini 小型合约里两个点。突破期间信息来得很快，交易者通常能在之后每一根K线收盘时形成越来越强的判断。如果出现第二根强劲的空头趋势K线，接着又出现第三根，就会有更多交易者相信始终入场方向已经反转向下，空头也会做空得更多。那些买在空头急速行情里的多头很快会认定，市场在接下来几根K线里会走低，因此会平掉自己的多单。既然他们认为不久的将来市场会更低，那继续持有多头就没有意义。对他们来说更合理的做法是卖出手里的多单、认下这笔亏损，然后等他们认为多头趋势即将恢复时，再在更低的价格上买回来。因为多头已经变成了卖方——至少接下来几根K线是如此——市场上再没有人买入，于是市场跌向下一个支撑位。如果市场在那第一根空头K线之后上涨，空头很快就会发现自己做错了，于是买回自己的空单。既然再没有人做空，而所有人都在买入（多头开新多单，空头买回自己的空单），市场就很可能会上涨，至少再涨几根K线。
 
 
-> trader's equation is weak (the probability of making a scalp times the size of the profit is smaller than the probability of losing times the size of the protective stop). Also, traders who take the short are hoping so much for their small profit that they invariably end up missing the much more profitable long that forms a few minutes later.
+> Since most breakout attempts fail, many traders enter breakouts in the opposite direction. For ex-ample, if there is a bull trend and it forms a large bear trend bar closing on its low, most traders will expect this reversal attempt to fail, and many will buy at the close of the bar. If the next bar has a bull body, they will buy at the close of the bar and above its high. The first target is the high of the bear trend bar, and the next target is a measured move up, equal to the height of the bear trend bar. Some traders will use an initial protective stop that is about the same number of ticks as the bear trend bar is tall, and others will use their usual stop, like two points in the Emini. Information comes fast during a breakout, and traders can usually formulate increasingly strong opinions with the close of each subsequent bar. If there is a second strong bear trend bar and then a third, more traders will be-lieve that the always-in position has reversed to down, and the bears will short more. The bulls who bought the bear spike will soon decide that the market will work lower over the next several bars and will there-fore exit their longs. It does not make sense for them to hold long when they believe that the market will be lower in the near future. It makes more sense for them to sell out of their longs, take the loss, and then buy again at a lower price once they think that the bull trend will resume. Because the bulls have become sellers, at least for the next several bars, there is no one left to buy, and the market falls to the next level of support. If the market rallied after that first bear bar, the bears would quickly see that they were wrong and would buy back their shorts. With no one left to short and everyone buying (the bulls initiating new longs and the bears buying back their shorts), the market will probably rally, at least for several more bars.
 
 
-交易者朝突破的方向入场，或朝相反方向入场，取决于他们预期这次突破会成功还是失败。他们是相信的人，还是不信的人？顺着突破方向入场有许多种方式。一旦交易者因为相信一波重要行情可能正在展开而产生紧迫感，他们就需要进场。对许多交易者来说，在突破期间入场很难，因为风险更大、行情又快。他们常常会僵住，不做这笔交易。他们担心潜在亏损的幅度，这意味着他们太在乎这笔交易，以致做不下去。他们必须把仓位规模降到“我不在乎”的大小，这样才能迅速进场。要做一笔让人害怕的交易，最好的办法就是自动只做平常交易规模的三分之一或四分之一，并使用必需的宽止损。他们可能因此抓住一波大行情，而在一个小仓位上赚到很多，也远比在他们
+交易者评估一次突破时，必须把它放到整张图里去看，而不能只看当前这一段行情。比如，如果市场正在以一段强劲的多头急速行情向上突破，就朝屏幕左侧整张图看过去。如果在当前价格这个位置上左侧没有任何K线，那么买入收盘价、把风险放在急速行情底部下方，通常就是不错的策略。因为风险大，仓位要小；但由于一次强劲突破至少有60% 的机会走出一段大小大致等于这段急速行情的等距运动（measured move），交易者等式（trader's equation）是有利的（成功概率乘以潜在回报，大于失败概率乘以风险）。不过，当你朝屏幕左侧看过去，如果发现当前这次突破仍然低于20根或30根K线之前的高点那么市场可能仍然处在交易区间之中。交易区间里经常出现急速的多头拉升冲到区间顶部，结果却反转回来。随后市场又急速冲向底部，而那一次突破尝试同样失败。正因为如此，在交易区间顶部附近买入强劲多头趋势K线的收盘价是有风险的，通常更好的做法是转而寻找回调买入的机会。在市场明确进入趋势之前，交易者都应当把它当作交易区间来交易。
 
 
-> Traders enter in the direction of the breakout or in the opposite direction, depending on whether they ex- pect it to succeed or to fail. Are they believers or non- believers? There are many ways to enter in the direc- tion of the breakout. Once traders feel a sense of ur- gency because they believe that a significant move might be underway, they need to get into the market. Entering during a breakout is difficult for many traders because the risk is larger and the move is fast. They will often freeze and not take the trade. They are worried about the size of the potential loss, which means that they are caring too much to trade. They have to get their position size down to the “I don't care” size so that they can quickly get in the trade. The best way for them to take a scary trade is to automat- ically trade only a third or a quarter of their normal trade size and use the wide stop that is required. They might catch a big move, and making a lot on a small position is much better than making nothing on their
-
-
-# 引言
-
-*Introduction*
-
-
-平时使用的仓位规模上一无所获要好得多。重要的是，要避免犯这样的错误：不在乎到了开始交易弱势建仓形态、随后亏钱的地步。先找到一个好的建仓形态，然后再进入“我不在乎”的状态。
-
-
-> usual position size. It is important to avoid making the mistake of not caring to the point that you begin to trade weak setups and then lose money. First spot a good setup and then enter the “I don't care” mode.
-
-
-交易者一旦觉得市场已经走出一段明确的始终入场（always in）走势，就会认定一轮趋势已经开始，必须尽快入场。比如，如果出现一次强劲的多头突破，他们可以在那根让他们相信趋势已经开始的K线收盘价处买入。他们可能需要看到下一根K线也是阳线收盘。如果他们等到了这根阳线收盘，就可以在这根K线一收盘时立刻买入，方式既可以是在该K线的收盘价这一价位挂限价单，也可以直接下市价单。他们也可以等第一根停顿K线或回调K线出现，然后挂限价单买入：挂在它的收盘价、它低点上方一个最小报价单位、它的低点、或者它低点下方一两个最小报价单位处。任何小幅回调他们都可以挂限价单买入，比如 Emini 小型合约里一到四个最小报价单位的回调，或者一只股票上5到10美分的回调。如果突破K线不算太大，下一根K线的低点可能回测突破前那根K线的高点，形成一次突破回测。他们可以在这根K线的高点处或略高于高点处挂限价单买入，把风险放在突破K线的低点。如果他们想在停顿K线处或它的下方买入却没有成交，就可以把买入止损单挂在那根K线最高点
-
-
-> As soon as traders feel that the market has had a clear always-in move, they believe that a trend is un- derway and they need to get in as soon as possible. For example, if there is a strong bull breakout, they can buy the close of the bar that made them believe that the trend has begun. They might need to see the next bar also have a bull close. If they wait and they get that bull close, they could buy as soon as the bar closes, either with a limit order at the level of the close of the bar or with a market order. They could wait for the first pause or pullback bar and place a limit order to buy at its close, a tick above its low, at its low, or a tick or two below its low. They can place a limit order to buy any small pullback, like a one- to four-tick pull- back in the Emini, or a 5 to 10 cent pullback in a stock. If the breakout bar is not too large, the low of the next bar might test the high of the bar before the breakout, creating a breakout test. They might place a limit or- der to buy at or just above the high of that bar, and risk to the low of the breakout bar. If they try to buy at or below a pause bar and they do not get filled, they can place a buy stop order at one tick above the high
-
-
-上方一个最小报价单位处。如果急速行情很强，他们可以等第一次出现高1建仓形态时买入，那是一次突破回调（breakout pullback）。更早一些，他们可以看1分钟、2分钟或3分钟图，在前一根K线的低点处或更低处买入，在高1或高2信号K线的高点上方买入，或者在均线处挂限价单买入。一旦进场，他们就应当像管理任何顺势交易那样管理这笔仓位，并且去找一段到达等距运动目标位的波段行情来止盈，而不是赚一小笔刮头皮就出场。多头会预期空头的每一次尝试都会失败，因此每一次都想买入。他们会在每一根空头趋势K线的收盘价附近买入，哪怕这根K线很大、并且收在它的最低点。当市场跌破前一根K线的低点、跌破之前任何一个摆动低点、跌破任何一个支撑位（比如趋势线）时，他们都会买入。市场每一次尝试走高，他们也都会买入，比如在多头趋势K线的最高点附近买入，或者在市场升破前一根K线的高点、升破某个阻力位时买入。这与交易者在强空头市场里的做法完全相反——那时他们在K线的上方和下方卖出，在阻力与支撑的上方和下方都卖出。他们会在K线上方卖出（也会在各种阻力位附近卖出），包括在强劲的多头趋势K线上方卖出，因为他们把每一次上涨都看成一次反转趋势的尝试，而大多数趋势反转的尝试都会失败。他们会在K线下方卖出（也会在各种支撑位附近卖出），因为他们把
-
-
-> of the bar. If the spike is strong, they can look to buy the first high 1 setup, which is a breakout pullback. Earlier on, they can look at a 1, 2, or 3 minute chart and buy at or below the low of a prior bar, above a high 1 or high 2 signal bar, or with a limit order at the moving average. Once they are in, they should man- age the position like any trend trade, and look for a swing to a measured move target to take profits and not exit with a small scalp. The bulls will expect every attempt by the bears to fail, and therefore look to buy each one. They will buy around the close of every bear trend bar, even if the bar is large and closes on its low. They will buy as the market falls below the low of the prior bar, any prior swing low, and any support level, like a trend line. They also will buy every attempt by the market to go higher, like around the high of a bull trend bar or as the market moves above the high of the prior bar or above a resistance level. This is the ex- act opposite of what traders do in strong bear mar- kets, when they sell above and below bars, and above and below both resistance and support. They sell above bars (and around every type of resistance), in- cluding strong bull trend bars, because they see each move up as an attempt to reverse the trend, and most trend reversal attempts fail. They will sell below bars (and around every type of support), because they see
-
-
-每一次下跌都看成一次恢复空头趋势的尝试，并且预期其中大多数都会成功。
-
-
-> each move down as an attempt to resume the bear trend, and expect that most will succeed.
-
-
-由于大多数突破尝试都会失败，很多交易者会朝着突破的相反方向入场。比如，如果市场处在多头趋势中，却出现一根收在最低点的大号空头趋势K线，大多数交易者就会预期这次反转尝试失败，其中很多人会在该K线的收盘价处买入。如果下一根K线有阳线实体，他们会在该K线收盘价处以及它的高点上方买入。第一个目标是那根空头趋势K线的高点，下一个目标是等距运动上涨，幅度等于那根空头趋势K线的高度。有些交易者会使用一个初始保护性止损，其最小报价单位数与那根空头趋势K线的高度大致相当；另一些人则用自己平时的止损，比如 Emini 小型合约里两个点。突破期间信息来得很快，交易者通常能在之后每一根K线收盘时形成越来越强的判断。如果出现第二根强劲的空头趋势K线，接着又出现第三根，就会有更多交易者相信始终入场方向已经反转向下，空头也会做空得更多。那些买在空头急速行情里的多头很快会认定，市场在接下来几根K线里会走低，因此会平掉自己的多单。既然他们认为不久的将来市场会更低，那继续持有多头就没有意义。对他们来说更合理的做法是
-
-
-> Since most breakout attempts fail, many traders enter breakouts in the opposite direction. For ex- ample, if there is a bull trend and it forms a large bear trend bar closing on its low, most traders will expect this reversal attempt to fail, and many will buy at the close of the bar. If the next bar has a bull body, they will buy at the close of the bar and above its high. The first target is the high of the bear trend bar, and the next target is a measured move up, equal to the height of the bear trend bar. Some traders will use an initial protective stop that is about the same number of ticks as the bear trend bar is tall, and others will use their usual stop, like two points in the Emini. Information comes fast during a breakout, and traders can usually formulate increasingly strong opinions with the close of each subsequent bar. If there is a second strong bear trend bar and then a third, more traders will be- lieve that the always-in position has reversed to down, and the bears will short more. The bulls who bought the bear spike will soon decide that the market will work lower over the next several bars and will there- fore exit their longs. It does not make sense for them to hold long when they believe that the market will be lower in the near future. It makes more sense for
-
-
-卖出手里的多单、认下这笔亏损，然后等他们认为多头趋势即将恢复时，再在更低的价格上买回来。因为多头已经变成了卖方——至少接下来几根K线是如此——市场上再没有人买入，于是市场跌向下一个支撑位。如果市场在那第一根空头K线之后上涨，空头很快就会发现自己做错了，于是买回自己的空单。既然再没有人做空，而所有人都在买入（多头开新多单，空头买回自己的空单），市场就很可能会上涨，至少再涨几根K线。
-
-
-> them to sell out of their longs, take the loss, and then buy again at a lower price once they think that the bull trend will resume. Because the bulls have become sellers, at least for the next several bars, there is no one left to buy, and the market falls to the next level of support. If the market rallied after that first bear bar, the bears would quickly see that they were wrong and would buy back their shorts. With no one left to short and everyone buying (the bulls initiating new longs and the bears buying back their shorts), the market will probably rally, at least for several more bars.
-
-
-交易者评估一次突破时，必须把它放到整张图里去看，而不能只看当前这一段行情。比如，如果市场正在以一段强劲的多头急速行情向上突破，就朝屏幕左侧整张图看过去。如果在当前价格这个位置上左侧没有任何K线，那么买入收盘价、把风险放在急速行情底部下方，通常就是不错的策略。因为风险大，仓位要小；但由于一次强劲突破至少有60% 的机会走出一段大小大致等于这段急速行情的等距运动（measured move），交易者等式（trader's equation）是有利的（成功概率乘以潜在回报，大于失败概率乘以风险）。不过，当你朝屏幕左侧看过去，如果发现当前这次突破仍然低于20根或30根K线之前的高点
-
-
-> Traders have to assess a breakout in relation to the entire chart and not just the current leg. For example, if the market is breaking out in a strong bull spike, look across the chart to the left side of the screen. If there are no bars at the level of the current price, then buying closes and risking to below the bottom of the spike is often a good strategy. Since the risk is big, trade small, but because a strong breakout has at least a 60 percent chance of reaching a measured move that is approximately equal to the size of the spike, the trader's equation is good (the probability of success times the potential reward is greater than the probab- ility of failure times the risk). However, when you look to the left side of the screen, if you see that the current breakout is still below the high from 20 or 30 bars
-
-
-那么市场可能仍然处在交易区间之中。交易区间里经常出现急速的多头拉升冲到区间顶部，结果却反转回来。随后市场又急速冲向底部，而那一次突破尝试同样失败。正因为如此，在交易区间顶部附近买入强劲多头趋势K线的收盘价是有风险的，通常更好的做法是转而寻找回调买入的机会。在市场明确进入趋势之前，交易者都应当把它当作交易区间来交易。
-
-
-> earlier, the market might still be in a trading range. Trading ranges regularly have sharp bull spikes that race to the top, only to reverse. The market then races to the bottom and that breakout attempt also fails. Be- cause of this, buying the closes of strong bull trend bars near the top of the trading range is risky, and it is usually better to look to buy pullbacks instead. Traders should trade the market like a trading range until it is clearly in a trend.
+> Traders have to assess a breakout in relation to the entire chart and not just the current leg. For example, if the market is breaking out in a strong bull spike, look across the chart to the left side of the screen. If there are no bars at the level of the current price, then buying closes and risking to below the bottom of the spike is often a good strategy. Since the risk is big, trade small, but because a strong breakout has at least a 60 percent chance of reaching a measured move that is approximately equal to the size of the spike, the trader's equation is good (the probability of success times the potential reward is greater than the probability of failure times the risk). However, when you look to the left side of the screen, if you see that the current breakout is still below the high from 20 or 30 bars earlier, the market might still be in a trading range. Trading ranges regularly have sharp bull spikes that race to the top, only to reverse. The market then races to the bottom and that breakout attempt also fails. Be-cause of this, buying the closes of strong bull trend bars near the top of the trading range is risky, and it is usually better to look to buy pullbacks instead. Traders should trade the market like a trading range until it is clearly in a trend.
 
 
 在多头趋势中，价格升破前一个高点通常会带来三种结果之一：更多买盘、止盈，或者做空。当趋势强劲时，强势多头会买入对旧高点的这次突破来加码（add to）自己的多单，随后会出现某种形式的等距运动上涨。如果市场在突破之后涨得足够高，让交易者在出现回调之前至少能赚到一笔可获利的刮头皮，那么就应当认为，在这个高点处主要是新的买盘。如果行情横向整理，并且这次突破显露出疲弱迹象（后文会讨论），就应当认为出现了止盈，多头正打算在稍低一些的位置再买回来。如果市场大幅反转向下，就应当认为强势空头在新高处占据了主导，市场很可能会向下走出至少两段行情、至少10根K线。
 
 
-> A move above a prior high in a bull trend will gen- erally lead to one of three outcomes: more buying, profit taking, or shorting. When the trend is strong, strong bulls will press (add to) their longs by buying the breakout above the old high and there will be a measured move up of some kind. If the market goes up far enough above the breakout to enable a trader to make at least a profitable scalp before there is a pull- back, then assume that there was mostly new buying at the high. If it goes sideways and the breakout shows signs of weakness (discussed further on), assume that there was profit taking and that the bulls are looking to buy again a little lower. If the market reverses down hard, assume that the strong bears dominated at the new high and that the market will likely trade down for at least a couple of legs and at least 10 bars.
+> A move above a prior high in a bull trend will gen-erally lead to one of three outcomes: more buying, profit taking, or shorting. When the trend is strong, strong bulls will press (add to) their longs by buying the breakout above the old high and there will be a measured move up of some kind. If the market goes up far enough above the breakout to enable a trader to make at least a profitable scalp before there is a pull-back, then assume that there was mostly new buying at the high. If it goes sideways and the breakout shows signs of weakness (discussed further on), assume that there was profit taking and that the bulls are looking to buy again a little lower. If the market reverses down hard, assume that the strong bears dominated at the new high and that the market will likely trade down for at least a couple of legs and at least 10 bars.
 
 
 除非出现某种罕见而戏剧性的消息面事件，交易者不会从极度看多一下子转成极度看空。这个转变是渐进的：交易者先变得不那么看多，然后转为中性，再转为看空。一旦有足够多的交易者完成了这种转变，市场就会反转，进入一轮更深的修正，或者进入空头趋势。每家交易机构对“过度”都有自己的衡量标准，到了某个时候，足够多的机构会认定趋势已经走得太远。它们相信，即使自己不再在旧高点上方买入，也几乎没有错过一大波上涨的风险，所以只在回调时买入。如果市场在旧高点上方犹犹豫豫，就说明市场正在变成双向市场，强势多头正在利用这个新高止盈。
 
 
-> In the absence of some rare, dramatic news event, traders don't suddenly switch from extremely bullish to extremely bearish. There is a gradual transition. A trader becomes less bullish, then neutral, and then bearish. Once enough traders make this transition, the market reverses into a deeper correction or into a bear trend. Every trading firm has its own measure of excess, and at some point enough firms decide that the trend has gone too far. They believe that there is little risk of missing a great move up if they stop buy- ing above the old high, and they will buy only on pull- backs. If the market hesitates above the old high, the market is becoming two-sided, and the strong bulls are using the new high to take profits.
+> In the absence of some rare, dramatic news event, traders don't suddenly switch from extremely bullish to extremely bearish. There is a gradual transition. A trader becomes less bullish, then neutral, and then bearish. Once enough traders make this transition, the market reverses into a deeper correction or into a bear trend. Every trading firm has its own measure of excess, and at some point enough firms decide that the trend has gone too far. They believe that there is little risk of missing a great move up if they stop buy-ing above the old high, and they will buy only on pull-backs. If the market hesitates above the old high, the market is becoming two-sided, and the strong bulls are using the new high to take profits.
 
 
-止盈意味着交易者仍然看多，正在等着买回调。大多数新高之后都会出现止盈。每一个新高都是一个潜在的顶部，但大多数反转尝试都会失败，变成牛旗的开端，随后又走出另一个新高。如果一段回测高点的上涨行情在它的上升过程中包含好几次小幅回调，K线大量重叠，出现好几根阴线实体，K线顶部带着长影线，并且大多数多头趋势K线都偏弱，那么市场正在变得越来越双向。多头在K线的顶部止盈，只在K线的底部买入，而空头
+止盈意味着交易者仍然看多，正在等着买回调。大多数新高之后都会出现止盈。每一个新高都是一个潜在的顶部，但大多数反转尝试都会失败，变成牛旗的开端，随后又走出另一个新高。如果一段回测高点的上涨行情在它的上升过程中包含好几次小幅回调，K线大量重叠，出现好几根阴线实体，K线顶部带着长影线，并且大多数多头趋势K线都偏弱，那么市场正在变得越来越双向。多头在K线的顶部止盈，只在K线的底部买入，而空头则开始在K线的顶部做空。同样地，随着市场接近多头趋势的顶部，多头在止盈，空头也在做空得更多。如果市场升到多头高点之上，止盈和做空很可能会更加强烈。
 
 
-> Profit taking means that traders are still bullish and are looking to buy a pullback. Most new highs are fol- lowed by profit taking. Every new high is a potential top, but most reversal attempts fail and become the beginning of bull flags, only to be followed by another new high. If a rally to test the high has several small pullbacks within the leg up, with lots of overlapping bars, several bear bodies, and big tails on the tops of the bars, and most of the bull trend bars are weak, then the market is becoming increasingly two-sided. The bulls are taking profits at the tops of the bars and buying only at the bottoms of the bars, and the bears
+> Profit taking means that traders are still bullish and are looking to buy a pullback. Most new highs are fol-lowed by profit taking. Every new high is a potential top, but most reversal attempts fail and become the beginning of bull flags, only to be followed by another new high. If a rally to test the high has several small pullbacks within the leg up, with lots of overlapping bars, several bear bodies, and big tails on the tops of the bars, and most of the bull trend bars are weak, then the market is becoming increasingly two-sided. The bulls are taking profits at the tops of the bars and buying only at the bottoms of the bars, and the bears are beginning to short at the tops of the bars. Simil-arly, the bulls are taking profits as the market approaches the top of the bull trend and the bears are shorting more. If the market goes above the bull high, it is likely that the profit taking and shorting will be even stronger.
 
 
-则开始在K线的顶部做空。同样地，随着市场接近多头趋势的顶部，多头在止盈，空头也在做空得更多。如果市场升到多头高点之上，止盈和做空很可能会更加强烈。
+大多数交易者不喜欢反手，所以如果他们在预判某个反转信号，宁可先平掉自己的多单，然后再等那个信号出现。这些多头在趋势最后一段上涨中的退场，正是这波冲上最终高点的上涨行情走势偏弱的原因之一。如果市场升破前一个高点之后出现强劲的反转向下，就说明强势空头正在夺取市场的控制权，至少短期内是如此。一旦出现这种情况，原本指望买一次小幅回调的多头就会转而相信市场还会跌得更多。因此他们会一直等到出现大得多的回调才买入，而他们的缺席让空头得以把市场打压下去，进入一轮持续10根K线以上、往往包含两段或更多行情段的更深修正。每当出现一轮新趋势，交易者的思维都会跟着反转。当多头趋势反转成空头趋势时，他们不再用止损单在K线上方买入、不再用限价单在K线下方买入，而是开始用限价单在K线上方卖出、用止损单在K线下方卖出。当空头趋势反转成多头趋势时，他们就不再挂止损单在K线下方卖出、不再挂限价单在K线上方卖出，而是开始挂止损单在K线上方买入、挂限价单在K线下方买入。
 
 
-> are beginning to short at the tops of the bars. Simil- arly, the bulls are taking profits as the market ap- proaches the top of the bull trend and the bears are shorting more. If the market goes above the bull high, it is likely that the profit taking and shorting will be even stronger.
-
-
-大多数交易者不喜欢反手，所以如果他们在预判某个反转信号，宁可先平掉自己的多单，然后再等那个信号出现。这些多头在趋势最后一段上涨中的退场，正是这波冲上最终高点的上涨行情走势偏弱的原因之一。如果市场升破前一个高点之后出现强劲的反转向下，就说明强势空头正在夺取市场的控制权，至少短期内是如此。一旦出现这种情况，原本指望买一次小幅回调的多头就会转而相信市场还会跌得更多。因此他们会一直等到出现大得多的回调才买入，而他们的缺席让空头得以把市场打压下去，进入一轮持续10根K线以上、往往包含两段或更多行情段的更深修正。每当出现一轮新趋势，交易者的思维都会跟着反转。当多头趋势反转成空头趋势时，他们不再用止损单在K线上方买入、不再用限价单在K线下方买入，而是开始用限价单在K线上方卖出、用止损单在K线下方卖出。当空头趋势反转成多头趋势时，他们
-
-
-> Most traders do not like to reverse, so if they are anticipating a reversal signal, they prefer to exit their longs and then wait for that signal. The loss of these bulls on the final leg up in the trend contributes to the weakness of the rally to the final high. If there is a strong reversal down after the market breaks above the prior high, the strong bears are taking control of the market, at least for the near term. Once that hap- pens, then the bulls who were hoping to buy a small pullback believe instead that the market will fall fur- ther. They therefore wait to buy until there is a much larger pullback, and their absence of buying allows the bears to drive the market down into a deeper correc- tion lasting 10 or more bars and often having two or more legs. Whenever there is a new trend, traders re- verse their mind-set. When a bull trend reverses to a bear trend, they stop buying above bars on stops and buying below bars on limit orders, and begin selling above bars on limit orders and selling below bars on stops. When a bear trend reverses to a bull trend, they
-
-
-就不再挂止损单在K线下方卖出、不再挂限价单在K线上方卖出，而是开始挂止损单在K线上方买入、挂限价单在K线下方买入。
-
-
-> stop selling below bars on stops and selling above bars on limit orders, and begin buying above bars on stops and buying below bars on limit orders.
+> Most traders do not like to reverse, so if they are anticipating a reversal signal, they prefer to exit their longs and then wait for that signal. The loss of these bulls on the final leg up in the trend contributes to the weakness of the rally to the final high. If there is a strong reversal down after the market breaks above the prior high, the strong bears are taking control of the market, at least for the near term. Once that hap-pens, then the bulls who were hoping to buy a small pullback believe instead that the market will fall fur-ther. They therefore wait to buy until there is a much larger pullback, and their absence of buying allows the bears to drive the market down into a deeper correc-tion lasting 10 or more bars and often having two or more legs. Whenever there is a new trend, traders re-verse their mind-set. When a bull trend reverses to a bear trend, they stop buying above bars on stops and buying below bars on limit orders, and begin selling above bars on limit orders and selling below bars on stops. When a bear trend reverses to a bull trend, they stop selling below bars on stops and selling above bars on limit orders, and begin buying above bars on stops and buying below bars on limit orders.
 
 
 有一种情形是这样的：多头趋势中的突破会习惯性地招来激进的做空者，而这些人通常会接管市场。回调是反方向的一段小级别趋势，交易者预期它很快就会结束、更大的趋势会恢复。当强空头趋势中出现回调时，市场在小级别多头趋势中往往会走出两段上涨行情。当市场升破第一段上涨行情的高点时，它是在向上突破小级别多头趋势中先前的一个摆动高点。然而，由于大多数交易者会把这段上涨看成一次很快就会结束的回调，所以在这次突破上占主导的交易者通常不是激进的新买盘，而是激进的卖方；因此，在向上突破回调中的第一个或第二个摆动高点之后，这段小级别多头趋势通常会反转向下，回到主要空头趋势的方向上去。
@@ -1506,118 +1216,76 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > There is one situation where the breakout in a bull trend is routinely met by aggressive shorts who will usually take over the market. A pullback is a minor trend in the opposite direction, and traders expect it to end soon and for the larger trend to resume. When there is a pullback in a strong bear trend, the market will often have two legs up in the minor bull trend. As the market goes above the high of the first leg up, it is breaking out above a prior swing high in a minor bull trend. However, since most traders will see the move up as a pullback that will end very soon, the dominant traders on the breakout will usually be aggressive sellers, instead of aggressive new buyers, and the minor bull trend will usually reverse back down into the direction of the major bear trend after breaking out above the first or second swing high in the pullback.
 
 
-空头趋势中的新低也是同样的道理。当空头趋势强劲时，强势空头会在向新低的突破上加码自己的空单，市场会持续下跌，直到触及某个等距运动目标位。随着趋势走弱，价格行为在新低处的表现会变得不那么
+空头趋势中的新低也是同样的道理。当空头趋势强劲时，强势空头会在向新低的突破上加码自己的空单，市场会持续下跌，直到触及某个等距运动目标位。随着趋势走弱，价格行为在新低处的表现会变得不那么清晰了，这意味着强势空头把新低当作给自己的空单止盈的区域，而不再是加仓做空的区域。随着空头趋势进一步失去力量，强势多头最终会把新低看成一个建立多单的绝佳价格，并且有能力做出一个反转形态，随后带动一波相当可观的上涨行情。
 
 
-> The same is true of new lows in a bear trend. When the bear trend is strong, strong bears will press their shorts by adding to their positions on the breakout to a new low and the market will continue to fall until it reaches some measured move target. As the trend weakens, the price action at a new low will be less
+> The same is true of new lows in a bear trend. When the bear trend is strong, strong bears will press their shorts by adding to their positions on the breakout to a new low and the market will continue to fall until it reaches some measured move target. As the trend weakens, the price action at a new low will be less clear, which means that the strong bears are using the new low as an area to take profits on their shorts rather than as an area to add to their shorts. As the bear trend further loses strength, the strong bulls will eventually see a new low as a great price to initiate longs and they will be able to create a reversal pattern and then a significant rally.
 
 
-清晰了，这意味着强势空头把新低当作给自己的空单止盈的区域，而不再是加仓做空的区域。随着空头趋势进一步失去力量，强势多头最终会把新低看成一个建立多单的绝佳价格，并且有能力做出一个反转形态，随后带动一波相当可观的上涨行情。
+随着趋势走向成熟，它通常会转入交易区间，但最初形成的几个交易区间之后，趋势往往还会延续。当趋势逐渐成熟时，强势多头和强势空头各自怎么动作？在多头趋势中，趋势强劲时回调都很小，因为强势多头想在回调时买得更多。既然他们猜测在市场涨到高得多之前可能都不会有回调，他们就开始分批买入，但买得毫不停歇。他们寻找任何可以买入的理由，而市场上有这么多大交易者，任何一种想得到的理由都会带来一些买盘。他们会挂限价单在低几个最小报价单位处买入，也会挂别的限价单在前一根K线低点上方几个最小报价单位处、前一根K线低点处、以及前一根K线低点下方买入。他们会挂止损单在前一根K线高点上方买入，并在突破之前任何一个摆动高点时买入。此外，无论多头还是空头趋势K线，他们都会在它的收盘价处买入。他们把空头趋势K线看成一次短暂的以更好价格买入的机会，而把多头趋势K线看成市场即将快速上涨的信号。
 
 
-> clear, which means that the strong bears are using the new low as an area to take profits on their shorts rather than as an area to add to their shorts. As the bear trend further loses strength, the strong bulls will eventually see a new low as a great price to initiate longs and they will be able to create a reversal pattern and then a significant rally.
+> As a trend matures, it usually transitions into a trading range, but the first trading ranges that form are usually followed by a continuation of the trend. How do the strong bulls and bears act as a trend ma-tures? In a bull trend, when the trend is strong, the pullbacks are small because the strong bulls want to buy more on a pullback. Since they suspect that there may not be a pullback until the market is much high-er, they begin to buy in pieces, but relentlessly. They look for any reason to buy, and with so many big traders in the market, there will be some buying for every imaginable reason. They place limit orders to buy a few ticks down and other limit orders to buy a few ticks above the low of the prior bar, at the low of the prior bar, and below the low of the prior bar. They place stop orders to buy above the high of the prior bar and on a breakout above any prior swing high. They also buy on the close of both any bull or bear trend bar. They see the bear trend bar as a brief opportunity to buy at a better price and the bull trend bar as a sign that the market is about to move up quickly.
 
 
-随着趋势走向成熟，它通常会转入交易区间，但最初形成的几个交易区间之后，趋势往往还会延续。当趋势逐渐成熟时，强势多头和强势空头各自怎么动作？在多头趋势中，趋势强劲时回调都很小，因为强势多头想在回调时买得更多。既然他们猜测在市场涨到高得多之前可能都不会有回调，他们就开始分批买入，但买得毫不停歇。他们寻找任何可以买入的理由，而市场上有这么多大交易者，任何一种想得到的理由都会带来一些买盘。他们会挂限价单在低几个最小报价单位处买入，也会挂别的限价单在前一根K线低点上方几个最小报价单位处、前一根K线低点处、以及前一根K线低点下方买入。他们会挂止损单在前一根K线高点上方买入，并在突破之前任何一个摆动高点时买入。此外，无论多头还是空头趋势K线，他们都会在它的收盘价处买入。他们把空头趋势K线看成一次短暂的
+强势空头很聪明，看得清正在发生什么。既然他们和强势多头一样相信市场不久就会更高，做空对他们来说就没有道理。他们只是站到一边，一直等到能在更高的价位卖出。高多少？每家机构对“过度”都有自己的衡量标准，但一旦市场来到某个价位，让足够多看空的机构相信它可能不会再往上涨，它们就会开始做空。如果有足够多的机构在同一个价位附近做空，就会出现更多、更大的空头趋势K线，K线顶部也开始带上影线。这些都是卖压的信号，它们告诉所有交易者：多头正在变弱，空头正在变强。强势多头最终不再在上一个摆动高点上方买入，而是随着市场走向新高开始止盈。他们依然看多，但变得挑剔了，只在回调时买入。随着双向交易增多、抛售中出现更多空头趋势K线、持续更多根K线，强势多头会只想在正在形成的交易区间底部买入，并且会在顶部设法止盈。强势空头开始在新高处做空，并且此时已经愿意在更高的价位分批建仓。如果他们认为市场可能反转向上、突破到新高，他们可能会在正在形成的交易区间底部附近兑现部分利润，但仍然会继续寻找在新高处做空的机会。到了某个时候，市场会变成一个50–50的市场，多头和空头都控制不了局面；最终空头占据主导，一轮空头趋势开始，随后相反的过程就会展开。
 
 
-> As a trend matures, it usually transitions into a trading range, but the first trading ranges that form are usually followed by a continuation of the trend. How do the strong bulls and bears act as a trend ma- tures? In a bull trend, when the trend is strong, the pullbacks are small because the strong bulls want to buy more on a pullback. Since they suspect that there may not be a pullback until the market is much high- er, they begin to buy in pieces, but relentlessly. They look for any reason to buy, and with so many big traders in the market, there will be some buying for every imaginable reason. They place limit orders to buy a few ticks down and other limit orders to buy a few ticks above the low of the prior bar, at the low of the prior bar, and below the low of the prior bar. They place stop orders to buy above the high of the prior bar and on a breakout above any prior swing high. They also buy on the close of both any bull or bear trend bar. They see the bear trend bar as a brief
+> The strong bears are smart and see what is going on. Since they believe, just like the strong bulls, that the market is going to be higher before long, it does not make sense for them to be shorting. They just step aside and wait until they can sell higher. How much higher? Each institution has its own measure of ex-cess, but once the market gets to a price level where enough bear firms believe that it might not go any higher, they will begin to short. If enough of them short around the same price level, more and larger bear trend bars form and bars start to get tails on the tops. These are signs of selling pressure, and they tell all traders that the bulls are becoming weaker and the bears are becoming stronger. The strong bulls eventu-ally stop buying above the last swing high and instead begin to take profits as the market goes to a new high. They are still bullish but are becoming selective and will buy only on pullbacks. As the two-sided trading increases and the sell-offs have more bear trend bars and last for more bars, the strong bulls will want to buy only at the bottom of the developing trading range and will look to take profits at the top. The strong bears begin to short at new highs and are now willing to scale in higher. They might take partial profits near the bottom of the developing trading range if they think that the market might reverse back up and break out to a new high, but they will keep looking to short new highs. At some point, the market becomes a 50–50 market and neither the bulls nor the bears are in control; eventually the bears become dominant, a bear trend begins, and the opposite pro-cess unfolds.
 
 
-以更好价格买入的机会，而把多头趋势K线看成市场即将快速上涨的信号。
+一段持续很久的趋势常常会出现一次异常强劲的突破，但它也可能是一次衰竭型高潮。比如，在一段持续很久的多头趋势中，所有强势多头和强势空头都乐意看到一两根大号的多头趋势K线，尤其是当它大得异乎寻常时，因为他们预期这会是一个短暂而难得的机会。一旦市场接近强势多头和强势空头想要卖出的位置，比如接近某个等距运动目标位或趋势通道线，尤其是在这一段行情是连续第二个或第三个买入高潮时，他们就会站到一边。最强的那些交易者不再卖出，结果就在市场上方形成了一片价格真空。那些在K线早期就识别出动量的程序看到这一点，会迅速反复买入，直到动量的脚步放缓。由于几乎没有强势交易者在卖出，结果就是出现一两根相对较大的多头趋势K线。这段多头急速行情正是强势交易者一直在等的信号，而一旦它真的出现，他们就仿佛凭空冒出来一样开始卖出。多头平掉自己的多单止盈，空头建立新的空单。双方都会激进地卖出：在该K线的收盘价处卖出、在它的高点上方卖出、在下一根K线的收盘价处卖出（尤其是当那根K线偏弱时），以及在再下一根K线的收盘价处卖出，特别是在这些K线开始出现阴线实体的时候。他们还会在前一根K线低点下方做空。当他们看到一根强劲的空头趋势K线时，会在这根K线的收盘价处以及它的低点下方做空。动量程序也在止盈。多头和空头都预期会出现一次较大的修正，而多头至少要等到一次持续10根K线的两段式修正才会考虑再次买入，而且即便如此，也只有在抛售看起来偏弱时才会买。空头也预期同样的一次抛售，因此不会急于过早止盈。
 
 
-> opportunity to buy at a better price and the bull trend bar as a sign that the market is about to move up quickly.
+> A protracted trend will often have an unusually strong breakout, but it can be an exhaustive climax. For example, in a protracted bull trend, all strong bulls and bears love to see a large bull trend bar or two, especially if it is exceptionally large, because they expect it to be a brief, unusually great opportunity. Once the market is close to where the strong bulls and bears want to sell, like near a measured move target or a trend channel line, especially if the move is the second or third consecutive buy climax, they step aside. The absence of selling by the strongest traders results in a vacuum above the market. The programs that detect the momentum early on in a bar see this and quickly buy repeatedly until the momentum slows. Since few strong traders are selling, the result is one or two relatively large bull trend bars. This bull spike is just the sign that the strong traders have been waiting for, and once it is there, they appear as if out of nowhere and begin their selling. The bulls take profits on their longs and the bears initiate new shorts. Both sell aggressively at the close of the bar, above its high, at the close of the next bar (especially if it is a weaker bar), and at the close of the following bar, especially if the bars are starting to have bear bodies. They also short below the low of the prior bar. When they see a strong bear trend bar, they short at its close and below its low. The momentum programs also take profits. Both the bulls and the bears expect a larger correction, and the bulls will not consider buy-ing again until at least a 10-bar, two-legged correc-tion, and even then only if the sell-off looks weak. The bears expect the same sell-off and will not be eager to take profits too early.
 
 
-强势空头很聪明，看得清正在发生什么。既然他们和强势多头一样相信市场不久就会更高，做空对他们来说就没有道理。他们只是站到一边，一直等到能在更高的价位卖出。高多少？每家机构对“过度”都有自己的衡量标准，但一旦市场来到某个价位，让足够多看空的机构相信它可能不会再往上涨，它们就会开始做空。如果有足够多的机构在同一个价位附近做空，就会出现更多、更大的空头趋势K线，K线顶部也开始带上影线。这些都是卖压的信号，它们告诉所有交易者：多头正在变弱，空头正在变强。强势多头最终不再在上一个摆动高点上方买入，而是随着市场走向新高开始止盈。他们依然看多，但变得挑剔了，只在回调时买入。随着双向交易增多、抛售中出现更多空头趋势K线、持续更多根K线，强势多头会只想在正在形成的交易区间底部买入，并且会在顶部设法止盈。强势空头开始在新高处做空，并且此时已经
+弱势交易者看到那根大号多头趋势K线时，想法正好相反。那些一直观望、指望等一次轻松的回调再买入的弱势多头，看到市场正在离自己远去，就想确保自己抓住这接下来的一段上涨行情，尤其是因为这根K线如此强劲、而这一天又快要结束了。那些早早做空、也许还分批加过仓的弱势空头，被这根K线冲向新高的速度吓住了。他们害怕接下来会有毫不间断的后续行情买盘，于是买回自己的空单。这些弱势交易者是带着情绪在交易，而他们的对手是计算机，计算机的算法里并没有把情绪当作变量之一。既然市场由计算机掌控，那么在过度延伸的多头趋势末端出现大号多头趋势K线时，这些弱势交易者的情绪就注定他们要承受巨大亏损。
 
 
-> The strong bears are smart and see what is going on. Since they believe, just like the strong bulls, that the market is going to be higher before long, it does not make sense for them to be shorting. They just step aside and wait until they can sell higher. How much higher? Each institution has its own measure of ex- cess, but once the market gets to a price level where enough bear firms believe that it might not go any higher, they will begin to short. If enough of them short around the same price level, more and larger bear trend bars form and bars start to get tails on the tops. These are signs of selling pressure, and they tell all traders that the bulls are becoming weaker and the bears are becoming stronger. The strong bulls eventu- ally stop buying above the last swing high and instead begin to take profits as the market goes to a new high. They are still bullish but are becoming selective and will buy only on pullbacks. As the two-sided trading increases and the sell-offs have more bear trend bars and last for more bars, the strong bulls will want to buy only at the bottom of the developing trading range and will look to take profits at the top. The strong bears begin to short at new highs and are now
-
-
-愿意在更高的价位分批建仓。如果他们认为市场可能反转向上、突破到新高，他们可能会在正在形成的交易区间底部附近兑现部分利润，但仍然会继续寻找在新高处做空的机会。到了某个时候，市场会变成一个50–50的市场，多头和空头都控制不了局面；最终空头占据主导，一轮空头趋势开始，随后相反的过程就会展开。
-
-
-> willing to scale in higher. They might take partial profits near the bottom of the developing trading range if they think that the market might reverse back up and break out to a new high, but they will keep looking to short new highs. At some point, the market becomes a 50–50 market and neither the bulls nor the bears are in control; eventually the bears become dominant, a bear trend begins, and the opposite pro- cess unfolds.
-
-
-一段持续很久的趋势常常会出现一次异常强劲的突破，但它也可能是一次衰竭型高潮。比如，在一段持续很久的多头趋势中，所有强势多头和强势空头都乐意看到一两根大号的多头趋势K线，尤其是当它大得异乎寻常时，因为他们预期这会是一个短暂而难得的机会。一旦市场接近强势多头和强势空头想要卖出的位置，比如接近某个等距运动目标位或趋势通道线，尤其是在这一段行情是连续第二个或第三个买入高潮时，他们就会站到一边。最强的那些交易者不再卖出，结果就在市场上方形成了一片价格真空。那些在K线早期就识别出动量的程序看到这一点，会迅速反复买入，直到动量的脚步放缓。由于几乎没有强势交易者在卖出，结果就是出现一两根相对较大的多头趋势K线。这段多头急速行情正是强势交易者一直
-
-
-> A protracted trend will often have an unusually strong breakout, but it can be an exhaustive climax. For example, in a protracted bull trend, all strong bulls and bears love to see a large bull trend bar or two, especially if it is exceptionally large, because they expect it to be a brief, unusually great opportunity. Once the market is close to where the strong bulls and bears want to sell, like near a measured move target or a trend channel line, especially if the move is the second or third consecutive buy climax, they step aside. The absence of selling by the strongest traders results in a vacuum above the market. The programs that detect the momentum early on in a bar see this and quickly buy repeatedly until the momentum slows. Since few strong traders are selling, the result is one or two relatively large bull trend bars. This bull spike is just the sign that the strong traders have been
-
-
-在等的信号，而一旦它真的出现，他们就仿佛凭空冒出来一样开始卖出。多头平掉自己的多单止盈，空头建立新的空单。双方都会激进地卖出：在该K线的收盘价处卖出、在它的高点上方卖出、在下一根K线的收盘价处卖出（尤其是当那根K线偏弱时），以及在再下一根K线的收盘价处卖出，特别是在这些K线开始出现阴线实体的时候。他们还会在前一根K线低点下方做空。当他们看到一根强劲的空头趋势K线时，会在这根K线的收盘价处以及它的低点下方做空。动量程序也在止盈。多头和空头都预期会出现一次较大的修正，而多头至少要等到一次持续10根K线的两段式修正才会考虑再次买入，而且即便如此，也只有在抛售看起来偏弱时才会买。空头也预期同样的一次抛售，因此不会急于过早止盈。
-
-
-> waiting for, and once it is there, they appear as if out of nowhere and begin their selling. The bulls take profits on their longs and the bears initiate new shorts. Both sell aggressively at the close of the bar, above its high, at the close of the next bar (especially if it is a weaker bar), and at the close of the following bar, especially if the bars are starting to have bear bodies. They also short below the low of the prior bar. When they see a strong bear trend bar, they short at its close and below its low. The momentum programs also take profits. Both the bulls and the bears expect a larger correction, and the bulls will not consider buy- ing again until at least a 10-bar, two-legged correc- tion, and even then only if the sell-off looks weak. The bears expect the same sell-off and will not be eager to take profits too early.
-
-
-弱势交易者看到那根大号多头趋势K线时，想法正好相反。那些一直观望、指望等一次轻松的回调再买入的弱势多头，看到市场正在离自己远去，就想确保自己抓住这接下来的一段上涨行情，尤其是因为这根K线如此强劲、而这一天又快要结束了。那些早早做空、也许还分批加过仓的弱势空头，被这根K线冲向新高的速度吓住了。他们害怕接下来会有毫不间断的后续行情买盘，于是买回自己的空单。这些
-
-
-> Weak traders see that large bull trend bar in the opposite way. The weak bulls, who had been sitting on the sidelines hoping for an easy pullback to buy, see the market running away from them and want to make sure they catch this next leg up, especially since the bar is so strong and the day is almost over. The weak bears, who shorted early and maybe scaled in, were terrified by the rapidity with which the bar broke to a new high. They are afraid of relentless follow- through buying, so they buy back their shorts. These
-
-
-弱势交易者是带着情绪在交易，而他们的对手是计算机，计算机的算法里并没有把情绪当作变量之一。既然市场由计算机掌控，那么在过度延伸的多头趋势末端出现大号多头趋势K线时，这些弱势交易者的情绪就注定他们要承受巨大亏损。
-
-
-> weak traders are trading on emotion and are compet- ing against computers, which do not have emotion as one of the variables in their algorithms. Since the computers control the market, the emotions of the weak traders doom them to big losses on big bull trend bars at the end of an overdone bull trend.
+> Weak traders see that large bull trend bar in the opposite way. The weak bulls, who had been sitting on the sidelines hoping for an easy pullback to buy, see the market running away from them and want to make sure they catch this next leg up, especially since the bar is so strong and the day is almost over. The weak bears, who shorted early and maybe scaled in, were terrified by the rapidity with which the bar broke to a new high. They are afraid of relentless follow-through buying, so they buy back their shorts. These weak traders are trading on emotion and are compet-ing against computers, which do not have emotion as one of the variables in their algorithms. Since the computers control the market, the emotions of the weak traders doom them to big losses on big bull trend bars at the end of an overdone bull trend.
 
 
 一旦强多头趋势开始出现相对较大的回调，这些回调——它们始终是小型的交易区间——的表现就更像交易区间，而不像牛旗。突破的方向变得不那么确定，交易者开始认为向下突破的可能性跟向上突破差不多。此时的新高，就是一次对交易区间上沿的突破尝试，而它多半会失败。同样，一旦强空头趋势开始出现相对较大的回调，那些回调的表现也更像交易区间，而不像熊旗，因此新低就是一次向下突破交易区间的尝试，而它多半会失败。
 
 
-> Once a strong bull trend begins to have pullbacks that are relatively large, the pullbacks, which are al- ways small trading ranges, behave more like trading ranges than like bull flags. The direction of the break- out becomes less certain, and traders begin to think that a downside breakout is about as likely as an up- side breakout. A new high is now a breakout attempt above a trading range, and the odds are that it will fail. Likewise, once a strong bear trend begins to have relatively large pullbacks, those pullbacks behave more like trading ranges than like bear flags, and therefore a new low is an attempt to break below a trading range and the odds are that it will fail.
+> Once a strong bull trend begins to have pullbacks that are relatively large, the pullbacks, which are al-ways small trading ranges, behave more like trading ranges than like bull flags. The direction of the break-out becomes less certain, and traders begin to think that a downside breakout is about as likely as an up-side breakout. A new high is now a breakout attempt above a trading range, and the odds are that it will fail. Likewise, once a strong bear trend begins to have relatively large pullbacks, those pullbacks behave more like trading ranges than like bear flags, and therefore a new low is an attempt to break below a trading range and the odds are that it will fail.
 
 
-每一个交易区间都处在多头趋势或空头趋势之中。一旦双向交易强到足以形成交易区间，趋势就不再强劲了，至少在这个交易区间持续期间是如此。区间最终总会出现突破；如果突破向上、并且非常强劲，市场就处在
+每一个交易区间都处在多头趋势或空头趋势之中。一旦双向交易强到足以形成交易区间，趋势就不再强劲了，至少在这个交易区间持续期间是如此。区间最终总会出现突破；如果突破向上、并且非常强劲，市场就处在一轮强多头趋势之中。如果突破向下、并且很强劲，市场就处在一轮强空头趋势之中。
 
 
-> Every trading range is within either a bull or a bear trend. Once the two-sided trading is strong enough to create the trading range, the trend is no longer strong, at least while the trading range is in effect. There will always be a breakout from the range eventually, and if it is to the upside and it is very strong, the market is in
-
-
-一轮强多头趋势之中。如果突破向下、并且很强劲，市场就处在一轮强空头趋势之中。
-
-
-> a strong bull trend. If it is to the downside and strong, the market is in a strong bear trend.
+> Every trading range is within either a bull or a bear trend. Once the two-sided trading is strong enough to create the trading range, the trend is no longer strong, at least while the trading range is in effect. There will always be a breakout from the range eventually, and if it is to the upside and it is very strong, the market is in a strong bull trend. If it is to the downside and strong, the market is in a strong bear trend.
 
 
 一旦空头强大到足以把回调压到远低于多头趋势线和均线的位置，他们就足够有把握，认定市场可能不会再涨多少，于是会在旧高点上方激进做空。到这个时候，多头已经决定，只去买深度回调了。在新高处，一种新的思维现在已经占了上风。这里不再是买入的地方，因为它不再代表多少力量。没错，多头确实在这里止盈，但大多数大交易者现在把新高看成一个建立空单的绝佳机会。市场已经来到临界点，大多数交易者不再想着买小幅回调，而是转为卖出上涨行情。空头占据主导，这种强劲的卖盘很可能会导致一次大的修正，甚至引发趋势反转。在下一次强劲的向下推进之后，空头会寻找一个更低的高点再次卖出、或者加仓自己的空单；而那些买在回调处的多头则会开始担心趋势可能已经反转，或者至少会出现一次大得多的回调。他们不再指望出现新的多头高点来给自己的多单止盈，而是会在一个更低的高点止盈，并且在出现更大的修正之前不再考虑买入。
 
 
-> Once the bears are strong enough to push a pull- back well below the bull trend line and the moving av- erage, they are confident enough that the market will likely not go much higher and they will aggressively short above the old high. At this point, the bulls will have decided that they should buy only a deep pull- back. A new mind-set is now dominant at the new high. It is no longer a place to buy, because it no longer represents much strength. Yes, there is profit taking by the bulls, but most big traders now look at the new high as a great opportunity to initiate shorts. The market has reached the tipping point, and most traders have stopped looking to buy small pullbacks and instead are looking to sell rallies. The bears are dominant and the strong selling will likely lead to a large correction or even a trend reversal. After the next strong push down, the bears will look for a lower high to sell again or to add to their short positions, and the bulls who bought the pullback will become concerned that the trend might have reversed or at least that there will be a much larger pullback. Instead of hoping for a new bull high to take profits on their longs, they will now take profits at a lower high and not look to buy again until after a larger correction.
+> Once the bears are strong enough to push a pull-back well below the bull trend line and the moving average, they are confident enough that the market will likely not go much higher and they will aggressively short above the old high. At this point, the bulls will have decided that they should buy only a deep pull-back. A new mind-set is now dominant at the new high. It is no longer a place to buy, because it no longer represents much strength. Yes, there is profit taking by the bulls, but most big traders now look at the new high as a great opportunity to initiate shorts. The market has reached the tipping point, and most traders have stopped looking to buy small pullbacks and instead are looking to sell rallies. The bears are dominant and the strong selling will likely lead to a large correction or even a trend reversal. After the next strong push down, the bears will look for a lower high to sell again or to add to their short positions, and the bulls who bought the pullback will become concerned that the trend might have reversed or at least that there will be a much larger pullback. Instead of hoping for a new bull high to take profits on their longs, they will now take profits at a lower high and not look to buy again until after a larger correction.
 
 
 多头知道大多数反转尝试都会失败，因此很多一路顺着这轮趋势做多的多头，要等到空头展示出把市场狠狠打压下去的能力之后才会平掉自己的多单。一旦这些多头看到这么强劲的卖压，他们才会等待一次上涨行情来最终退出自己的多单。他们挂出的卖盘会限制这波上涨行情的空间，而他们的卖出——再加上激进空头的做空，以及那些把这次抛售看成买入机会的多头的止盈——会形成第二段下跌行情。
 
 
-> Bulls know that most reversal attempts fail, and many who rode the trend up will not exit their longs until after the bears have demonstrated the ability to push the market down hard. Once these bulls see this im- pressive selling pressure, they will then look for a rally to finally exit their longs. Their supply will limit the rally, and their selling, added to the shorting by ag- gressive bears and the profit taking by bulls who saw the sell-off as a buying opportunity, will create a second leg down.
+> Bulls know that most reversal attempts fail, and many who rode the trend up will not exit their longs until after the bears have demonstrated the ability to push the market down hard. Once these bulls see this impressive selling pressure, they will then look for a rally to finally exit their longs. Their supply will limit the rally, and their selling, added to the shorting by ag-gressive bears and the profit taking by bulls who saw the sell-off as a buying opportunity, will create a second leg down.
 
 
 如果市场进入空头趋势，这个过程就会反过来。当空头趋势强劲时，交易者会在之前的低点下方做空。随着趋势走弱，空头会在新低止盈，市场很可能会进入交易区间。在一波升破多头趋势线和均线的强劲上涨行情之后，空头会在新低止盈，强势多头则会激进买入，试图夺取市场的控制权。〔译注：原文此处作 bull trend line，与本段空头趋势的语境不符，疑为 bear trend line 之误；译文照字面保留〕结果会是一波更大的空头反弹，甚至可能反转成多头趋势。
 
 
-> If the market enters a bear trend, the process will reverse. When the bear trend is strong, traders will short below prior lows. As the trend weakens, the bears will take profits at new lows and the market will likely enter a trading range. After a strong rally above the bull trend line and the moving average, the bears will take profits at a new low and strong bulls will ag- gressively buy and try to take control of the market. The result will be a larger bear rally or possibly a re- versal into a bull trend.
+> If the market enters a bear trend, the process will reverse. When the bear trend is strong, traders will short below prior lows. As the trend weakens, the bears will take profits at new lows and the market will likely enter a trading range. After a strong rally above the bull trend line and the moving average, the bears will take profits at a new low and strong bulls will aggressively buy and try to take control of the market. The result will be a larger bear rally or possibly a re-versal into a bull trend.
 
 
-当回调大到让交易者开始怀疑趋势是否已经反转时，会出现类似的情形。比如，如果多头趋势中出现一次深而急的回调，交易者就会开始怀疑市场是否已经反转。他们在观察价格跌破之前摆动低点时的动作，但这发生在一个
+当回调大到让交易者开始怀疑趋势是否已经反转时，会出现类似的情形。比如，如果多头趋势中出现一次深而急的回调，交易者就会开始怀疑市场是否已经反转。他们在观察价格跌破之前摆动低点时的动作，但这发生在一个多头趋势中的回调这一背景之下，而不是空头趋势的组成部分。他们会观察市场跌破（向下突破）前一个摆动低点时会发生什么。市场会跌得足够远，让那些用卖出止损单在该摆动低点下方入场的空头赚到钱吗？这个新低处的卖方是否多过买方？如果是，那就说明空头很强，这次回调很可能会走得更远。趋势甚至可能已经反转了。
 
 
-> A similar situation occurs when there is a pullback that is large enough to make traders wonder if the trend has reversed. For example, if there is a deep, sharp pullback in a bull trend, traders will begin to wonder if the market has reversed. They are looking at moves below prior swing lows, but this is in the
-
-
-多头趋势中的回调这一背景之下，而不是空头趋势的组成部分。他们会观察市场跌破（向下突破）前一个摆动低点时会发生什么。市场会跌得足够远，让那些用卖出止损单在该摆动低点下方入场的空头赚到钱吗？这个新低处的卖方是否多过买方？如果是，那就说明空头很强，这次回调很可能会走得更远。趋势甚至可能已经反转了。
-
-
-> context of a pullback in a bull trend instead of as part of a bear trend. They will watch what happens as the market falls (breaks out) below a prior swing low. Will the market fall far enough for bears, who entered on a sell stop below that swing low, to make a profit? Did the new low find more sellers than buyers? If it did, that is a sign that the bears are strong and that the pullback will probably go further. The trend might even have reversed.
+> A similar situation occurs when there is a pullback that is large enough to make traders wonder if the trend has reversed. For example, if there is a deep, sharp pullback in a bull trend, traders will begin to wonder if the market has reversed. They are looking at moves below prior swing lows, but this is in the context of a pullback in a bull trend instead of as part of a bear trend. They will watch what happens as the market falls (breaks out) below a prior swing low. Will the market fall far enough for bears, who entered on a sell stop below that swing low, to make a profit? Did the new low find more sellers than buyers? If it did, that is a sign that the bears are strong and that the pullback will probably go further. The trend might even have reversed.
 
 
 向新低突破的另一种可能是：市场进入交易区间，这说明空头已经止盈了，而多头的买入乏善可陈。最后一种可能是，市场在向新低突破之后反转向上。这意味着在那个摆动低点下方有强势多头，一直在等市场回测到那里。这是一个信号，说明这次抛售更可能只是一段仍在延续的多头趋势中的大回调。那些在更高位置做空的交易者之所以在向新低突破时止盈，是因为他们认为趋势仍然向上。强势多头之所以激进买入，是因为他们认为市场不会再跌，并且会反弹去回测多头高点。
 
 
-> Another possibility on the breakout to a new low is that the market enters a trading range, which is evid- ence that the shorts took profits and that there was unimpressive buying by the bulls. The final alternative is that the market reverses up after the breakout to a new low. This means that there were strong bulls be- low that swing low just waiting for the market to test there. This is a sign that the sell-off is more likely just a big pullback in an ongoing bull trend. The shorts from higher up took profits on the breakout to the new low because they believed that the trend was still up. The strong bulls bought aggressively because they believed that the market would not fall further and that it would rally to test the bull high.
+> Another possibility on the breakout to a new low is that the market enters a trading range, which is evid-ence that the shorts took profits and that there was unimpressive buying by the bulls. The final alternative is that the market reverses up after the breakout to a new low. This means that there were strong bulls be-low that swing low just waiting for the market to test there. This is a sign that the sell-off is more likely just a big pullback in an ongoing bull trend. The shorts from higher up took profits on the breakout to the new low because they believed that the trend was still up. The strong bulls bought aggressively because they believed that the market would not fall further and that it would rally to test the bull high.
 
 
 每当价格向下突破任何一个摆动低点时，交易者都会仔细观察，寻找多头已经回归、或者空头已经夺取控制权的证据。
@@ -1629,79 +1297,49 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 他们需要判断，在新低处哪一种力量更大，而市场的行为会帮他们做出这个判断。如果突破很强劲，那么新的卖盘占主导。如果市场的走势不确定，那么正在发生的是空头止盈和多头疲弱的买入，市场很可能会进入交易区间。如果出现强劲的反转向上，那么最重要的因素就是多头的激进买入。
 
 
-> They need to decide what influence is greater at the new low, and will use the market's behavior to make that decision. If there is a strong breakout, then new selling is dominant. If the market's movement is un- certain, then profit taking by the shorts and weak buy- ing by the bulls are taking place, and the market will likely enter a trading range. If there is a strong re- versal up, then aggressive buying by the longs is the most important factor.
+> They need to decide what influence is greater at the new low, and will use the market's behavior to make that decision. If there is a strong breakout, then new selling is dominant. If the market's movement is un-certain, then profit taking by the shorts and weak buy-ing by the bulls are taking place, and the market will likely enter a trading range. If there is a strong re-versal up, then aggressive buying by the longs is the most important factor.
 
 
-有时候，当市场处在弱趋势中时，会出现一根顺着趋势方向的大号突破K线。这根突破K线往往扮演急速行情的角色，后面通常会跟着好几根趋势K线，但这些K线通常相互重叠，并带有影线。这些K线形成一条窄幅多头通道。和任何急速与通道式趋势一样，市场常常会回测通道的起点，在这里就是突破缺口所在区域。举例来说，如果有一段相对偏弱的多头波段行情，随后市场以一根大号多头趋势K线向上突破，接着又出现三四根更小的多头趋势K线，这些K线通常构成一段通道。一旦市场向下交易到这些通道K线中第一根所在的区域，它常常会略微跌破那根K线的低点，从而把市场带到由那根突破K线所形成的缺口区域里。这个缺口既是测量缺口，也是突破缺口，而对
+有时候，当市场处在弱趋势中时，会出现一根顺着趋势方向的大号突破K线。这根突破K线往往扮演急速行情的角色，后面通常会跟着好几根趋势K线，但这些K线通常相互重叠，并带有影线。这些K线形成一条窄幅多头通道。和任何急速与通道式趋势一样，市场常常会回测通道的起点，在这里就是突破缺口所在区域。举例来说，如果有一段相对偏弱的多头波段行情，随后市场以一根大号多头趋势K线向上突破，接着又出现三四根更小的多头趋势K线，这些K线通常构成一段通道。一旦市场向下交易到这些通道K线中第一根所在的区域，它常常会略微跌破那根K线的低点，从而把市场带到由那根突破K线所形成的缺口区域里。这个缺口既是测量缺口，也是突破缺口，而对这个缺口的回测，之后通常是趋势的恢复，而不是反转向下的开始。
 
 
-> Sometimes, when the market is in a weak trend, there is a large breakout bar in the direction of the trend. That breakout bar often acts as a spike, and it is usually followed by several more trend bars, but they usually overlap and have tails. These bars create a tight bull channel. Like with any spike and channel trend, the market often tests back to the start of the channel, which in this case is the breakout gap area. For example, if there is a relatively weak bull swing and then the market breaks to the upside with a large bull trend bar, and this is followed by three or four more smaller bull trend bars, these bars usually act as a channel. Once the market trades down to the area of the first of those channel bars, it often goes slightly below its low, and that puts the market in the gap area that was created by the breakout bar. The gap is both a measuring gap and a breakout gap, and the test of
+> Sometimes, when the market is in a weak trend, there is a large breakout bar in the direction of the trend. That breakout bar often acts as a spike, and it is usually followed by several more trend bars, but they usually overlap and have tails. These bars create a tight bull channel. Like with any spike and channel trend, the market often tests back to the start of the channel, which in this case is the breakout gap area. For example, if there is a relatively weak bull swing and then the market breaks to the upside with a large bull trend bar, and this is followed by three or four more smaller bull trend bars, these bars usually act as a channel. Once the market trades down to the area of the first of those channel bars, it often goes slightly below its low, and that puts the market in the gap area that was created by the breakout bar. The gap is both a measuring gap and a breakout gap, and the test of the gap is usually followed by a resumption of the trend rather than the start of a reversal down.
 
 
-这个缺口的回测，之后通常是趋势的恢复，而不是反转向下的开始。
+拐点是一个数学术语，意思是方向发生了一次改变。比如，如果有一条水平方向反复上下起伏的波浪，当这条波浪下行时，随着它开始构筑底部，某个时刻它的斜率会从陡峭下行变为不那么陡峭地下行。再比如，字母 S 的正中间就是这条曲线上的拐点，因为正是在这一点，斜率开始改变方向。在交易中，拐点只是你预期会出现趋势反转的一个区域，而反转是否真的发生则不一定。由于行情可能朝任何一个方向发展，市场处在突破模式之中，交易者会准备好顺着突破的方向入场。无论朝哪个方向走，市场常常会走出一段等距运动——也就是一段所覆盖的点数大约等于此前那个形态的行情。例如，双顶往往会带来一次向上或向下的突破。突破之后，市场常常会越过突破点，奔向一个等距运动目标位，而这一目标位与突破点之间的点数，大致等于双顶从底到顶的距离。突破点和第一次回调之间常常存在一个缺口，而这个缺口的中间位置往往带来一段等距运动（测量缺口在第6章讨论缺口时会有详细说明）。
 
 
-> the gap is usually followed by a resumption of the trend rather than the start of a reversal down.
-
-
-拐点是一个数学术语，意思是方向发生了一次改变。比如，如果有一条水平方向反复上下起伏的波浪，当这条波浪下行时，随着它开始构筑底部，某个时刻它的斜率会从陡峭下行变为不那么陡峭地下行。再比如，字母 S 的正中间就是这条曲线上的拐点，因为正是在这一点，斜率开始改变方向。在交易中，拐点只是你预期会出现趋势反转的一个区域，而反转是否真的发生则不一定。由于行情可能朝任何一个方向发展，市场处在突破模式之中，交易者会准备好顺着突破的方向入场。无论朝哪个方向走，市场常常会走出一段等距运动——也就是一段所覆盖的点数大约等于此前那个形态的行情。例如，双顶往往会带来一次向上或向下的突破。突破之后，市场常常会越过突破点，奔向一个等距运动目标位，而这一目标位与突破点之间的点数，大致等于双顶从底到顶的距离。突破点和第一次回调之间常常存在一个缺口，而
-
-
-> An inflection is a mathematical term that means that there has been a change of direction. For ex- ample, if there is a horizontal wave that goes up and down repeatedly, when the wave is going down, at some point the slope changes from steeply down to less steeply down as it begins to form a bottom. For example, the middle of the letter S is the inflection point in the curve, because it is the point where the slope begins to change direction. In trading, an inflec- tion is just an area where you expect a trend reversal, which may or may not develop. Since the move can go in either direction, the market is in breakout mode and traders will be ready to enter in the direction of the breakout. In either case, the market will often make a measured move, which is a move that covers about the same number of points as the pattern that led up to it. For example, a double top often leads to a breakout to the upside or downside. After the break- out, the market often runs beyond the breakout point to a measured move target that is about the same number of points away as the distance from the bot- tom to the top of the double top. There is often a gap between the breakout point and the first pullback, and
-
-
-这个缺口的中间位置往往带来一段等距运动（测量缺口在第6章讨论缺口时会有详细说明）。
-
-
-> the middle of the gap often leads to a measured move (measuring gaps are discussed in Chapter 6 on gaps).
+> An inflection is a mathematical term that means that there has been a change of direction. For ex-ample, if there is a horizontal wave that goes up and down repeatedly, when the wave is going down, at some point the slope changes from steeply down to less steeply down as it begins to form a bottom. For example, the middle of the letter S is the inflection point in the curve, because it is the point where the slope begins to change direction. In trading, an inflection is just an area where you expect a trend reversal, which may or may not develop. Since the move can go in either direction, the market is in breakout mode and traders will be ready to enter in the direction of the breakout. In either case, the market will often make a measured move, which is a move that covers about the same number of points as the pattern that led up to it. For example, a double top often leads to a breakout to the upside or downside. After the break-out, the market often runs beyond the breakout point to a measured move target that is about the same number of points away as the distance from the bot-tom to the top of the double top. There is often a gap between the breakout point and the first pullback, and the middle of the gap often leads to a measured move (measuring gaps are discussed in Chapter 6 on gaps).
 
 
 突破模式的情形在交易区间里可能会有相反的表现。比如，如果在交易区间中部出现一个突破模式建仓形态，那么在这根K线下方可能买方多过卖方，而在它上方则卖方多过买方。如果局面太不确定，让交易者不相信自己有一个有利的交易者等式，那么通常更好的做法是等到局面明朗。在交易区间的两端，可能发生三种情况：（1）反转；（2）突破失败，随后反转；（3）突破成功。三者之中只有一种会带来趋势。这与“大多数突破尝试都会失败”这一理念是一致的。
 
 
-> Breakout mode situations can behave in an oppos- ite way in a trading range. For example, if there is a breakout mode setup in the middle of a trading range, there may be more buyers than sellers below the bar and more sellers than buyers above. If the situation is too uncertain to make traders believe that they have a good trader's equation, it is usually better to wait for clarity. At the extremes of a trading range, three things can happen: there can be (1) a reversal, (2) a breakout that fails and is followed by a reversal, or (3) a successful breakout. Only one of the three leads to a trend. This is consistent with the concept that most breakout attempts fail.
+> Breakout mode situations can behave in an oppos-ite way in a trading range. For example, if there is a breakout mode setup in the middle of a trading range, there may be more buyers than sellers below the bar and more sellers than buyers above. If the situation is too uncertain to make traders believe that they have a good trader's equation, it is usually better to wait for clarity. At the extremes of a trading range, three things can happen: there can be (1) a reversal, (2) a breakout that fails and is followed by a reversal, or (3) a successful breakout. Only one of the three leads to a trend. This is consistent with the concept that most breakout attempts fail.
 
 
-当出现一次逆着趋势的突破时，逆势交易者正试图在自己的急速行情之后形成一段通道（也就是急速与通道式趋势），或者形成某种其他形式的新趋势。然而，顺势交易者通常能在几根K线之内把这次突破反转过来，使它变成一面旗形。比如，如果一段空头通道中出现一两根大号多头趋势K线、向上突破通道，多头就希望能在回调之后形成一段多头通道。然而，他们通常会失败，这段多头急速行情最终只是成了熊旗的一部分。空头把这波急速行情看成一次绝佳的
+当出现一次逆着趋势的突破时，逆势交易者正试图在自己的急速行情之后形成一段通道（也就是急速与通道式趋势），或者形成某种其他形式的新趋势。然而，顺势交易者通常能在几根K线之内把这次突破反转过来，使它变成一面旗形。比如，如果一段空头通道中出现一两根大号多头趋势K线、向上突破通道，多头就希望能在回调之后形成一段多头通道。然而，他们通常会失败，这段多头急速行情最终只是成了熊旗的一部分。空头把这波急速行情看成一次绝佳的在短暂出现的高价上加仓自己空单的机会，而在他们看来，这个价格正确体现了价值。
 
 
-> When there is a breakout against a trend, the coun- tertrend traders are trying to create a channel (a spike and channel trend) or some other form of a new trend after their spike. However, the trend traders are usu- ally able to reverse the breakout within a few bars, turning it into a flag. For example, if there is a bear channel that has a large bull trend bar or two breaking above the channel, the bulls are hoping to form a bull channel after a pullback. However, they will usually fail and the bull spike will end up as simply part of a bear flag. The bears saw the spike as a great
+> When there is a breakout against a trend, the coun-tertrend traders are trying to create a channel (a spike and channel trend) or some other form of a new trend after their spike. However, the trend traders are usu-ally able to reverse the breakout within a few bars, turning it into a flag. For example, if there is a bear channel that has a large bull trend bar or two breaking above the channel, the bulls are hoping to form a bull channel after a pullback. However, they will usually fail and the bull spike will end up as simply part of a bear flag. The bears saw the spike as a great opportunity to add to their shorts at a brief, high price, which represented correctly value to them.
 
 
-在短暂出现的高价上加仓自己空单的机会，而在他们看来，这个价格正确体现了价值。
-
-
-> opportunity to add to their shorts at a brief, high price, which represented correctly value to them.
+![图 PI.1](figures/fig-PI-1.jpg)
 
 
 **图 PI.1　新高会引来新的买盘、止盈盘与空头**
 
 
-> Figure PI.1 New Highs Find New Buyers, Profit Takers, and Shorts
+当多头趋势向上突破一个先前的摆动高点时，那里会出现新的买盘、止盈盘和空头（见图 PI.1）。如果突破之前的那段趋势才刚刚开始、并且非常强劲，会有一些止盈，比如第5、12、17根K线之后的情形，但新的买盘会压倒空头，趋势会很快恢复。在趋势的后期，新的买盘会少得多，止盈会多得多，比如第19根K线之后的情形。衡量“过度”的标尺有很多，而一旦足够多的交易机构相信这轮多头趋势已经过度延伸，它们就会平掉自己的多单止盈，并且要等到大约一次10根K线的两段式修正之后才会再次买入。“10根K线、两段式”这个说法我用得很频繁，我想表达的意思是：这次修正会比一次小幅回调持续更久、结构更复杂。这通常需要至少10根K线和两段行情，有时还可能演变成一次趋势反转。
 
 
-当多头趋势向上突破一个先前的摆动高点时，那里会出现新的买盘、止盈盘和空头（见图 PI.1）。如果突破之前的那段趋势才刚刚开始、并且非常强劲，会有一些止盈，比如第5、12、17根K线之后的情形，但新的买盘会压倒空头，趋势会很快恢复。在趋势的后期，新的买盘会少得多，止盈会多得多，比如第19根K线之后的情形。衡量“过度”的标尺有很多，而一旦足够多的交易机构相信这轮多头趋势
+> When a bull trend breaks above a prior swing high, there will be new buyers, profit takers, and shorts (see Figure PI.1). If the trend that preceded the breakout is starting out and is very strong, there will be some profit taking, like after bars 5, 12, and 17, but the new buyers will overwhelm the bears, and the trend will quickly resume. Later in the trend, there will be much less new buying and much more profit taking, like after bar 19. There are many measures of excess, and once enough trading firms believe that the bull trend is overdone, they will take profits on their longs and buy again only after about a 10-bar, two-legged cor-rection. I use the phrase “10-bar, two-legged” often, and my intention is to say that the correction will last longer and be more complex than a small pullback. That usually requires at least 10 bars and two legs, and sometimes can result in a trend reversal.
 
 
-> When a bull trend breaks above a prior swing high, there will be new buyers, profit takers, and shorts (see Figure PI.1). If the trend that preceded the breakout is starting out and is very strong, there will be some profit taking, like after bars 5, 12, and 17, but the new buyers will overwhelm the bears, and the trend will quickly resume. Later in the trend, there will be much less new buying and much more profit taking, like after bar 19. There are many measures of excess, and once enough trading firms believe that the bull trend
+每当出现一次突破，它都可能失败，并引发一次趋势反转。如果背景合适、反转K线又很强，那么反转成功的几率就更大。如果导致这次突破的突破K线和急速行情比那根反转K线更强，而出现高潮反转的可能性又不大，那么这次反转尝试多半会在几根K线之内失败，形成一个突破回调建仓形态，随后趋势恢复。比如，第12根K线是一根小号空头反转K线，但它前面是一段强得多的、由三根K线组成的多头急速行情，而且市场在大幅跳空高开之后一整天都在一条窄幅通道中向上运行。这使得反转成功的几率很小，于是多头在第12根K线的低点处及其下方买入。下一根K线是十字星，对空头来说因此是一根疲弱的入场K线，所以在它的高点上方几乎可以肯定买方会多过卖方。它成了一个突破回调买入信号K线（在这里是一个高1买入建仓形态）。再下一根K线是阳线，于是更多买方在它的高点上方买入。一般来说，当交易者等到一根阳线出现之后再在其高点上方入场时，买入信号成功的几率更大。第14根K线是那根突破K线，但它收在自己的最低点，形成一根空头十字星反转K线——在这样一条窄幅多头通道面前，这是一次疲弱的做空信号。多头太激进了，不想让这笔空单触发。他们在空头K线的低点处及其上方挂限价单，买单多到足以压倒空头。那笔空单始终没有触发，市场继续上涨。第14根K线不过是从突破处展开的又一次回调（同时它本身也是那次突破），于是交易者在第15根K线的高点上方买入，那是又一次突破回调买入信号。
 
 
-已经过度延伸，它们就会平掉自己的多单止盈，并且要等到大约一次10根K线的两段式修正之后才会再次买入。“10根K线、两段式”这个说法我用得很频繁，我想表达的意思是：这次修正会比一次小幅回调持续更久、结构更复杂。这通常需要至少10根K线和两段行情，有时还可能演变成一次趋势反转。
-
-
-> is overdone, they will take profits on their longs and buy again only after about a 10-bar, two-legged cor- rection. I use the phrase “10-bar, two-legged” often, and my intention is to say that the correction will last longer and be more complex than a small pullback. That usually requires at least 10 bars and two legs, and sometimes can result in a trend reversal.
-
-
-每当出现一次突破，它都可能失败，并引发一次趋势反转。如果背景合适、反转K线又很强，那么反转成功的几率就更大。如果导致这次突破的突破K线和急速行情比那根反转K线更强，而出现高潮反转的可能性又不大，那么这次反转尝试多半会在几根K线之内失败，形成一个突破回调建仓形态，随后趋势恢复。比如，第12根K线是一根小号空头反转K线，但它前面是一段强得多的、由三根K线组成的多头急速行情，而且市场在大幅跳空高开之后一整天都在一条窄幅通道中向上运行。这使得反转成功的几率很小，于是多头在第12根K线的低点处及其下方买入。下一根K线是十字星，对空头来说因此是一根疲弱的入场K线，所以在它的高点上方几乎可以肯定买方会多过卖方。它成了一个突破回调买入信号K线（在这里是一个高1买入建仓形态）。再下一根K线是阳线，于是更多买方
-
-
-> Whenever there is a breakout, it might fail and lead to a trend reversal. The chance of a successful reversal is greater if the context is right and the reversal bar is strong. If the breakout bar and spike leading to the breakout is stronger than the reversal bar, and the chance of a climactic reversal is not great, the odds are that the reversal attempt will fail within a few bars and form a breakout pullback setup that will lead to a resumption of the trend. For example, bar 12 was a small bear reversal bar, but it followed a much stronger three-bar bull spike and the market was trending up in a tight channel all day following a large gap up. This made the odds of a successful reversal small, so bulls bought at and below the low of bar 12. The next bar was a doji and therefore a weak entry bar for the bears, so there were almost certainly going to be more buyers than sellers above its high. It became a breakout pullback buy signal bar (here, a high 1 buy setup). The next bar was a bull bar, and more buyers
-
-
-在它的高点上方买入。一般来说，当交易者等到一根阳线出现之后再在其高点上方入场时，买入信号成功的几率更大。第14根K线是那根突破K线，但它收在自己的最低点，形成一根空头十字星反转K线——在这样一条窄幅多头通道面前，这是一次疲弱的做空信号。多头太激进了，不想让这笔空单触发。他们在空头K线的低点处及其上方挂限价单，买单多到足以压倒空头。那笔空单始终没有触发，市场继续上涨。第14根K线不过是从突破处展开的又一次回调（同时它本身也是那次突破），于是交易者在第15根K线的高点上方买入，那是又一次突破回调买入信号。
-
-
-> bought above its high. In general, the odds of a suc- cessful buy signal are greater when traders wait to enter above a bull bar. Bar 14 was the breakout bar, but it closed on its low and formed a bear doji reversal bar, which is a weak sell signal in the face of such a tight bull channel. The bulls were so aggressive that they did not want the short to trigger. They placed limit orders at and above the low of the bear bar, and there were enough buy orders to overwhelm the bears. The short never triggered and the market continued to rally. Bar 14 was simply another pullback from the breakout (and it was also the breakout), and traders bought above the high of bar 15, which was another breakout pullback buy signal.
+> Whenever there is a breakout, it might fail and lead to a trend reversal. The chance of a successful reversal is greater if the context is right and the reversal bar is strong. If the breakout bar and spike leading to the breakout is stronger than the reversal bar, and the chance of a climactic reversal is not great, the odds are that the reversal attempt will fail within a few bars and form a breakout pullback setup that will lead to a resumption of the trend. For example, bar 12 was a small bear reversal bar, but it followed a much stronger three-bar bull spike and the market was trending up in a tight channel all day following a large gap up. This made the odds of a successful reversal small, so bulls bought at and below the low of bar 12. The next bar was a doji and therefore a weak entry bar for the bears, so there were almost certainly going to be more buyers than sellers above its high. It became a breakout pullback buy signal bar (here, a high 1 buy setup). The next bar was a bull bar, and more buyers bought above its high. In general, the odds of a successful buy signal are greater when traders wait to enter above a bull bar. Bar 14 was the breakout bar, but it closed on its low and formed a bear doji reversal bar, which is a weak sell signal in the face of such a tight bull channel. The bulls were so aggressive that they did not want the short to trigger. They placed limit orders at and above the low of the bear bar, and there were enough buy orders to overwhelm the bears. The short never triggered and the market continued to rally. Bar 14 was simply another pullback from the breakout (and it was also the breakout), and traders bought above the high of bar 15, which was another breakout pullback buy signal.
 
 
 另一个比较突破强度与反转强度的例子出现在第5根K线的那次突破上。第5根K线之后的那根空头K线，是第4根K线单根K线牛旗的突破失败、以及向上突破第3根K线的信号K线。与从第4根K线开始的那段由3根K线组成的多头急速行情相比，这个空头信号很小，因此不太可能反转趋势。下一根K线是一个突破回调买入建仓形态，但带阴线实体，并不是一根强有力的买入信号K线。再下一根K线带阳线实体，因此在它的高点上方买入，成功的概率更高。
@@ -1719,64 +1357,43 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 这次修正有时会突破多头趋势线，并制造出足够的卖压，让空头在下一个新高处变得激进起来，就像他们在第25根K线处那样。此时多头仍有一些止盈，但新的买盘已经很少了。进入收盘阶段，空头夺取了控制权。
 
 
-> The correction sometimes breaks the bull trend line and creates enough selling pressure for the bears to become aggressive at the next new high, as they were at bar 25. There was still some profit taking by the bulls, but very little new buying. The bears took con- trol going into the close.
+> The correction sometimes breaks the bull trend line and creates enough selling pressure for the bears to become aggressive at the next new high, as they were at bar 25. There was still some profit taking by the bulls, but very little new buying. The bears took con-trol going into the close.
 
 
-强势多头和强势空头都在期待最终那波冲向第19根K线的强劲突破。他们乐意看到一段持续已久的多头趋势之后出现一大段多头急速行情，因为随之而来的预期修正给他们双方都提供了一次短暂的交易机会。这是自第11根K线低点以来连续第三次没经过修正的多头高潮（第11到第12根、第15到第17根是前两次），而连续的买入高潮常常带来一次两段式修正，持续约10根K线，并把价格压到均线下方。强势多头和强势空头都在第19根K线之前那段两K线多头急速行情的收盘价处卖出、在它的高点上方卖出、在第19根K线的收盘价处卖出（尤其是因为它带阴线实体），并在它的低点下方卖出。多头没有考虑再次买入，空头也没有给自己的空单止盈，直到这次两段式
+强势多头和强势空头都在期待最终那波冲向第19根K线的强劲突破。他们乐意看到一段持续已久的多头趋势之后出现一大段多头急速行情，因为随之而来的预期修正给他们双方都提供了一次短暂的交易机会。这是自第11根K线低点以来连续第三次没经过修正的多头高潮（第11到第12根、第15到第17根是前两次），而连续的买入高潮常常带来一次两段式修正，持续约10根K线，并把价格压到均线下方。强势多头和强势空头都在第19根K线之前那段两K线多头急速行情的收盘价处卖出、在它的高点上方卖出、在第19根K线的收盘价处卖出（尤其是因为它带阴线实体），并在它的低点下方卖出。多头没有考虑再次买入，空头也没有给自己的空单止盈，直到这次两段式修正完成——那是在第21根K线到第24根K线这一带。这次抛售足够强劲，让双方都认为市场可能会在用一个更低的高点或更高的高点回测第19根K线的多头高点之后，出现趋势反转、转入空头趋势，而这最后造就了从第25根K线一直持续到收盘的那波抛售。
 
 
-> Both the strong bulls and bears looked forward to the final, strong breakout up to bar 19. They liked see- ing a large bull spike after a protracted bull trend, be- cause the expected correction provided both of them with a temporary trading opportunity. It was the third consecutive bull climax without a correction since the bar 11 low (bars 11 to 12 and 15 to 17 were the first two), and consecutive buy climaxes often lead to a two-legged correction lasting about 10 bars and falling below the moving average. Both the strong bulls and bears sold at the close of the two-bar bull spike before bar 19, above its high, at the close of bar 19 (especially since it had a bear body), and below its low. The bulls didn't look to buy again and the bears did not take profits on their shorts until after the two-legged
-
-
-修正完成——那是在第21根K线到第24根K线这一带。这次抛售足够强劲，让双方都认为市场可能会在用一个更低的高点或更高的高点回测第19根K线的多头高点之后，出现趋势反转、转入空头趋势，而这最后造就了从第25根K线一直持续到收盘的那波抛售。
-
-
-> correction was complete, which was in the bar 21 to bar 24 area. The sell-off was strong enough for both to think that the market might have a trend reversal into a bear trend after a lower high or higher high test of the bar 19 bull high, and this resulted in the sell-off from bar 25 into the close.
+> Both the strong bulls and bears looked forward to the final, strong breakout up to bar 19. They liked see-ing a large bull spike after a protracted bull trend, be-cause the expected correction provided both of them with a temporary trading opportunity. It was the third consecutive bull climax without a correction since the bar 11 low (bars 11 to 12 and 15 to 17 were the first two), and consecutive buy climaxes often lead to a two-legged correction lasting about 10 bars and falling below the moving average. Both the strong bulls and bears sold at the close of the two-bar bull spike before bar 19, above its high, at the close of bar 19 (especially since it had a bear body), and below its low. The bulls didn't look to buy again and the bears did not take profits on their shorts until after the two-legged correction was complete, which was in the bar 21 to bar 24 area. The sell-off was strong enough for both to think that the market might have a trend reversal into a bear trend after a lower high or higher high test of the bar 19 bull high, and this resulted in the sell-off from bar 25 into the close.
 
 
 由于大多数反转尝试都会失败，交易者常常对它们做反向操作。第22根K线是多头趋势中的一根强空头趋势K线，很多交易者在它的收盘价买入。他们的第一个目标是价格回到这根K线高点的那一波走势，这在两根K线之后就出现了；接着是一段等距运动上涨，到当天收盘时也达到了。
 
 
-> Since most reversal attempts fail, traders often fade them. Bar 22 was a strong bear trend bar in a bull trend, and many traders bought its close. Their first target was a move to the high of the bar, which oc- curred two bars later, and then a measured move up, which was reached by the end of the day.
+> Since most reversal attempts fail, traders often fade them. Bar 22 was a strong bear trend bar in a bull trend, and many traders bought its close. Their first target was a move to the high of the bar, which occurred two bars later, and then a measured move up, which was reached by the end of the day.
 
 
 第5根K线之后的那根空头K线是一个突破模式建仓形态。由于它是在向上突破第3根K线的摆动高点之后出现的一根空头K线，所以它是一个突破失败做空建仓形态。同时它也是多头突破中的一次单根K线回调，因此还是一个高1突破回调买入建仓形态。在这种情况下，由于那段三K线多头急速行情太强，在它的下方和上方，多头的人数都更可能多过空头。有些人用限价单在那根空头内包K线的低点处买入，另一些人则用止损单在它的上方、以及第6根K线的上方买入。
 
 
-> The bear bar after bar 5 was a breakout mode setup. Since it was a bear bar after a bull breakout above the bar 3 swing high, it was a failed breakout short setup. It was also a one-bar pullback in a bull breakout, so it was a high 1 breakout pullback buy setup. In this case, since the three-bar bull spike was so strong, it was more likely that the bulls would out- number the bears both below and above the bar. Some bought at the low of the bear inside bar with limit or- ders, whereas others bought above it and above bar 6 with stop orders.
+> The bear bar after bar 5 was a breakout mode setup. Since it was a bear bar after a bull breakout above the bar 3 swing high, it was a failed breakout short setup. It was also a one-bar pullback in a bull breakout, so it was a high 1 breakout pullback buy setup. In this case, since the three-bar bull spike was so strong, it was more likely that the bulls would out-number the bears both below and above the bar. Some bought at the low of the bear inside bar with limit or-ders, whereas others bought above it and above bar 6 with stop orders.
+
+
+![图 PI.2](figures/fig-PI-2.jpg)
 
 
 **图 PI.2　空头趋势中的低成交量多头突破**
 
 
-> Figure PI.2 Low-Volume Bull Breakout in a Bear Trend
-
-
 如图 PI.2所示，Emini 小型合约在左边那张60分钟图上处于空头趋势中，很多交易者都在等着买入一次等距运动下跌的落点，这次下跌的幅度按第1根K线到第2根K线那段初始下跌急速行情的高度测算。空头买回自己的空单止盈，而激进的多头则买入建立多单，预期可能出现一次趋势反转、并回测空头通道的起点（第2根K线之后那个更低的摆动高点）。第3根K线那根均线缺口K线引发的反转向下、以及向上突破空头趋势线，都提高了至少走出两段上涨行情的可能性（反转在第三本书中有详细讨论）。
 
 
-> As shown in Figure PI.2, the Emini was in a bear trend on the 60 minute chart on the left and many traders looked to buy a measured move down, based on the height of the initial spike down from bar 1 to bar 2. The bears bought back their shorts to take profits, and aggressive bulls bought to initiate longs, expecting a possible trend reversal and test of the start of the bear channel (the lower swing high after bar 2). The chance of at least two legs up was in- creased by the reversal down from the bar 3 moving average gap bar and break above the bear trend line (reversals are covered in the third book).
+> As shown in Figure PI.2, the Emini was in a bear trend on the 60 minute chart on the left and many traders looked to buy a measured move down, based on the height of the initial spike down from bar 1 to bar 2. The bears bought back their shorts to take profits, and aggressive bulls bought to initiate longs, expecting a possible trend reversal and test of the start of the bear channel (the lower swing high after bar 2). The chance of at least two legs up was in-creased by the reversal down from the bar 3 moving average gap bar and break above the bear trend line (reversals are covered in the third book).
 
 
-右边那张5分钟图在跌破60分钟图上的等距运动目标位一个最小报价单位之后反转向上（第4根K线在两张图上对应同一时间）。第5根K线
+右边那张5分钟图在跌破60分钟图上的等距运动目标位一个最小报价单位之后反转向上（第4根K线在两张图上对应同一时间）。第5根K线是一根带着短小影线的大号多头反转K线，多头都盼着出现一次强劲的反转向上。然而，这根K线只有23,000手合约，大约是一根普通5分钟K线的三倍。当普通5分钟K线的成交量是5,000到10,000手合约时，大多数伴随持久后续行情的多头反转，成交量大约是这个数字的5到10倍，也就是至少40,000到50,000手合约。最可靠的K线成交量超过100,000手合约。交易者不必为成交量操心，因为走势图会告诉他们需要知道的东西；但在一根正在突破的大号趋势K线上看到巨量成交，会提高出现后续行情的可能性，而且通常至少会出现某种形式的等距运动。当市场处在强空头趋势中，反转向上只走了两根K线就开始回调，并且第二根上涨K线带着长影线时，这次反转并不强。更有经验的交易者可以去看成交量，把它当成又一个说明这次反转不强的迹象；也可以去看60分钟图，看到那里正是强空头趋势。不过，日内交易者下单交易只需要看5分钟图就够了。他们会在第5根K线形成的过程中买入、在它收盘时买入、并在它的高点上方买入。他们还会买入第7根K线的 ioi形态（内包—外包—内包）、也就是位于均线处的高4牛旗。由于他们买的是一段强劲的多头上涨行情，他们就应当假定自己至少有60% 的机会赚到一笔至少与风险同样大的回报。他们本可以选择两个点的止损，因为这种做法最近效果不错，然后用两个点的止盈目标。另一位在第5根K线收盘价处买入的交易者，可能愿意把风险放在第5根K线低点下方（大约四个点），那么他的止盈目标可能就是他所必须承担风险的那么多点。那位在第7根K线上方买入的交易者，止损会放在第7根K线低点下方、或者它前一根K线的下方。她的风险大约是两个点，而她既可以为两个点持有，也可以持有到价格升破第6根K线的高点（在这里，那也大约是两个点）。
 
 
-> The 5 minute chart on the right reversed up after falling one tick below the 60 minute measured move target (bar 4 is the same time on both charts). Bar 5
-
-
-是一根带着短小影线的大号多头反转K线，多头都盼着出现一次强劲的反转向上。然而，这根K线只有23,000手合约，大约是一根普通5分钟K线的三倍。当普通5分钟K线的成交量是5,000到10,000手合约时，大多数伴随持久后续行情的多头反转，成交量大约是这个数字的5到10倍，也就是至少40,000到50,000手合约。最可靠的K线成交量超过100,000手合约。交易者不必为成交量操心，因为走势图会告诉他们需要知道的东西；但在一根正在突破的大号趋势K线上看到巨量成交，会提高出现后续行情的可能性，而且通常至少会出现某种形式的等距运动。当市场处在强空头趋势中，反转向上只走了两根K线就开始回调，并且第二根上涨K线带着长影线时，这次反转并不强。更有经验的交易者可以去看成交量，把它当成又一个说明这次反转不强的迹象；也可以去看60分钟图，看到那里正是强空头趋势。不过，日内交易者下单交易只需要看5分钟图就够了。他们会在第5根K线形成的过程中买入、在它收盘时买入、并在它的高点上方买入。他们还会买入第7根K线的 ioi形态（内包—外包—内包）、也就是位于均线处的高4牛旗。由于他们买的是一段强劲的多头
-
-
-> was a large bull reversal bar with a small tail, and bulls were hopeful for a strong reversal up. However, the bar had only 23,000 contracts, or about three times as many as an average 5 minute bar. When the average 5 minute bar has 5,000 to 10,000 contracts, most bull reversals with protracted follow-through have about 5 to 10 times that volume, or at least 40,000 to 50,000 contracts. The most reliable bars have over 100,000 contracts. Traders do not have to worry about volume because the chart will tell them what they need to know, but seeing huge volume on a large trend bar that is breaking out increases the chances that there will be follow-through and usually at least some kind of measured move. When there is a strong bear trend and the reversal up goes for only two bars and then pulls back, and the second bar up has a large tail, the reversal is not strong. More exper- ienced traders can look at the volume and see it as an- other sign that the reversal is not strong, or they can look at the 60 minute chart and see the strong bear trend. However, all day traders need to see is the 5 minute chart to place their trades. They would have bought bar 5 as it was forming, as it closed, and above its high. They would have also bought the bar 7 ioi (inside-outside-inside) pattern, high 4 bull flag at the moving average. Since they were buying a strong bull
-
-
-上涨行情，他们就应当假定自己至少有60% 的机会赚到一笔至少与风险同样大的回报。他们本可以选择两个点的止损，因为这种做法最近效果不错，然后用两个点的止盈目标。另一位在第5根K线收盘价处买入的交易者，可能愿意把风险放在第5根K线低点下方（大约四个点），那么他的止盈目标可能就是他所必须承担风险的那么多点。那位在第7根K线上方买入的交易者，止损会放在第7根K线低点下方、或者它前一根K线的下方。她的风险大约是两个点，而她既可以为两个点持有，也可以持有到价格升破第6根K线的高点（在这里，那也大约是两个点）。
-
-
-> move, they should have assumed that they had at least a 60 percent chance of making a reward that was at least as large as their risk. They could have chosen a two-point stop, since that worked well lately, and then used a two-point profit target. Another trader who bought at the bar 5 close might have been willing to risk to below the bar 5 low (about four points), and his profit taking target might have been as many points as he had to risk. The stop for the trader who bought above bar 7 would have been below the low of bar 7 or below the bar before it. Her risk was about two points, and she could have held for either two points or for a move above the bar 6 high (here, it was also about two points).
-
-
-# 第 Ⅰ 部分　突破：向新趋势过渡
+> The 5 minute chart on the right reversed up after falling one tick below the 60 minute measured move target (bar 4 is the same time on both charts). Bar 5 was a large bull reversal bar with a small tail, and bulls were hopeful for a strong reversal up. However, the bar had only 23,000 contracts, or about three times as many as an average 5 minute bar. When the average 5 minute bar has 5,000 to 10,000 contracts, most bull reversals with protracted follow-through have about 5 to 10 times that volume, or at least 40,000 to 50,000 contracts. The most reliable bars have over 100,000 contracts. Traders do not have to worry about volume because the chart will tell them what they need to know, but seeing huge volume on a large trend bar that is breaking out increases the chances that there will be follow-through and usually at least some kind of measured move. When there is a strong bear trend and the reversal up goes for only two bars and then pulls back, and the second bar up has a large tail, the reversal is not strong. More experienced traders can look at the volume and see it as an-other sign that the reversal is not strong, or they can look at the 60 minute chart and see the strong bear trend. However, all day traders need to see is the 5 minute chart to place their trades. They would have bought bar 5 as it was forming, as it closed, and above its high. They would have also bought the bar 7 ioi (inside-outside-inside) pattern, high 4 bull flag at the moving average. Since they were buying a strong bull move, they should have assumed that they had at least a 60 percent chance of making a reward that was at least as large as their risk. They could have chosen a two-point stop, since that worked well lately, and then used a two-point profit target. Another trader who bought at the bar 5 close might have been willing to risk to below the bar 5 low (about four points), and his profit taking target might have been as many points as he had to risk. The stop for the trader who bought above bar 7 would have been below the low of bar 7 or below the bar before it. Her risk was about two points, and she could have held for either two points or for a move above the bar 6 high (here, it was also about two points).
 
 
 # 第 1 章　如何交易一次突破
@@ -1921,43 +1538,92 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > The minimum criterion for a breakout to be successful is that a trader could enter on the breakout and make at least a scalper's profit. The strongest breakouts will result in strong trends that can last for dozens of bars. There are early signs that increase the likelihood that a breakout will be strong enough to run to one or more measured move targets. For example, the more of the following characteristics that a bull breakout has, the more likely the breakout will be strong:
 
 
-• 突破K线有一个巨大的多头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。• 如果成交量达到最近K线平均成交量的10到20倍，出现后续买入、并进而可能形成一段等距运动的概率就会上升。
+- 突破K线有一个巨大的多头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。
+- 如果成交量达到最近K线平均成交量的10到20倍，出现后续买入、并进而可能形成一段等距运动的概率就会上升。
 
 
 > • The breakout bar has a large bull trend body and small tails or no tails. The larger the bar, the more likely the breakout will succeed. • If the volume is 10 to 20 times the average volume of recent bars, the chance of follow-through buying and a possible measured move increases.
 
 
-• 急速行情走得很远，持续好几根K线，并且突破了若干个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。• 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的高点附近，回调很小（不到这根正在生长的K线高度的四分之一）。• 有一种紧迫感。你觉得自己非买不可，却又想等一个回调，可回调偏偏不来。• 接下来两三根K线同样带有多头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。• 急速行情长到5到10根K线，中间回调不超过一根K线左右。• 当多头突破越过此前某个重要的摆动高点时，越过该高点后的涨幅足够大，使得在比该摆动高点高一个最小报价单位处挂止损单入场的刮头皮交易者也能获利。
+- 急速行情走得很远，持续好几根K线，并且突破了若干个阻力位，比如均线、此前的摆动高点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的高点附近，回调很小（不到这根正在生长的K线高度的四分之一）。
+- 有一种紧迫感。你觉得自己非买不可，却又想等一个回调，可回调偏偏不来。
+- 接下来两三根K线同样带有多头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。
+- 急速行情长到5到10根K线，中间回调不超过一根K线左右。
+- 当多头突破越过此前某个重要的摆动高点时，越过该高点后的涨幅足够大，使得在比该摆动高点高一个最小报价单位处挂止损单入场的刮头皮交易者也能获利。
 
 
 > • The spike goes very far, lasts several bars, and breaks several resistance levels like the moving average, prior swing highs, and trend lines, and each by many ticks. • As the first bar of the breakout bar is forming, it spends most of its time near its high and the pullbacks are small (less than a quarter of the height of the growing bar). • There is a sense of urgency. You feel like you have to buy but you want a pullback, yet it never comes. • The next two or three bars also have bull bodies that are at least the average size of the recent bull and bear bodies. Even if the bodies are relatively small and the tails are prominent, if the follow-through bar (the bar after the initial breakout bar) is large, the odds of the trend continuing are greater. • The spike grows to five to 10 bars without pulling back for more than a bar or so. • As a bull breakout goes above a prior significant swing high, the move above the high goes far enough for scalpers to make a profit if they entered on a stop at one tick above that swing high.
 
 
-• 急速行情中有一根或多根K线的低点，正好等于、或只比前一根K线的收盘价低一个最小报价单位。• 急速行情中有一根或多根K线的开盘价高于前一根K线的收盘价。• 急速行情中有一根或多根K线的收盘价收在最高价上，或仅比最高价低一个最小报价单位。• 一根多头趋势K线之后那根K线的低点，正好位于或高于这根多头趋势K线之前那根K线的高点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪高点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。• 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲突破空头趋势线之后，对空头低点做一次更高的低点或更低的低点测试。• 市场最近出现过好几个强劲的多头趋势日。• 交易区间内买压不断积聚，表现为许多根巨大的多头趋势K线，而且在区间里多头趋势K线明显比空头趋势K线更醒目。• 第一次回调只在突破进行了三根或更多K线之后才出现。• 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的空头反转K线。• 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。• 这次突破反转了最近许多根K线的收盘价和高点。例如，当市场处在空头通道中、并形成一根巨大的多头K线时，这根突破K线的高点和收盘价都高于五根、甚至20根或更多K线的高点和收盘价。由这根多头K线的收盘价反转的K线数量多，比由它的高点反转同样多的K线，是更强的信号。一次多头突破具备下列特征中的越多，它就越可能失败，并导致交易区间或反转：
+- 急速行情中有一根或多根K线的低点，正好等于、或只比前一根K线的收盘价低一个最小报价单位。
+- 急速行情中有一根或多根K线的开盘价高于前一根K线的收盘价。
+- 急速行情中有一根或多根K线的收盘价收在最高价上，或仅比最高价低一个最小报价单位。
+- 一根多头趋势K线之后那根K线的低点，正好位于或高于这根多头趋势K线之前那根K线的高点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪高点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。
+- 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲突破空头趋势线之后，对空头低点做一次更高的低点或更低的低点测试。
+- 市场最近出现过好几个强劲的多头趋势日。
+- 交易区间内买压不断积聚，表现为许多根巨大的多头趋势K线，而且在区间里多头趋势K线明显比空头趋势K线更醒目。
+- 第一次回调只在突破进行了三根或更多K线之后才出现。
+- 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的空头反转K线。
+- 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。
+- 这次突破反转了最近许多根K线的收盘价和高点。例如，当市场处在空头通道中、并形成一根巨大的多头K线时，这根突破K线的高点和收盘价都高于五根、甚至20根或更多K线的高点和收盘价。由这根多头K线的收盘价反转的K线数量多，比由它的高点反转同样多的K线，是更强的信号。一次多头突破具备下列特征中的越多，它就越可能失败，并导致交易区间或反转：
 
 
 > • One or more bars in the spike has a low that is at or just one tick below the close of the prior bar. • One or more bars in the spike has an open that is above the close of the prior bar. • One or more bars in the spike has a close on its high or just one tick below its high. • The low of the bar after a bull trend bar is at or above the high of the bar before the bull trend bar, creating a micro gap, which is a sign of strength. These gaps sometimes become measuring gaps. Although it is not significant to trading, they probably represent the space between a smaller time frame Elliott wave 1 high and a wave 4 pullback, which can touch but not overlap. • The overall context makes a breakout likely, like the resumption of a trend after a pullback, or a higher low or lower low test of the bear low after a strong break above the bear trend line. • The market has had several strong bull trend days recently. • There was growing buying pressure in the trading range, represented by many large bull trend bars, and the bull trend bars were clearly more prominent than the bear trend bars in the range. • The first pullback occurs only after three or more bars of breaking out. • The first pullback lasts only one or two bars and it follows a bar that is not a strong bear reversal bar. • The first pullback does not reach the breakout point and does not hit a breakeven stop (the entry price). • The breakout reverses many recent closes and highs. For example, when there is a bear channel and a large bull bar forms, this breakout bar has a high and close that are above the highs and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bull bar is a stronger sign than a similar number of bars reversed by its high. The more of the following characteristics that a bull breakout has, the more likely it will fail and lead to either a trading range or a reversal:
 
 
-• 突破K线只有一个小或中等大小的多头趋势K线实体，上方却有一根很长的影线。• 下一根K线是空头实体，而且要么是一根空头反转K线，要么是一根空头内包K线；那根K线收在最低价上或最低价附近，其实体大小约等于突破之前那些K线实体的平均水平（而不是只有一根最小报价单位高的空头实体）。• 整体背景使突破不太可能发生，比如一波上涨行情去测试交易区间日的高点，但这波上涨行情里有空头K线、许多重叠的K线、影线显眼的K线，沿途还有两三次回调。• 市场已经在交易区间里待了好几天。• 突破K线之后的那根K线是一根强劲的空头反转K线或一根空头内包K线。• 一根多头趋势K线之后的那根K线，其低点低于这根多头趋势K线之前那根K线的高点。• 第一次回调出现在反转之后两根K线处。• 回调延续了好几根K线。• 回调之后的趋势恢复陷入停滞，市场带着一根空头信号K线形成一个更低的高点。• 急速行情只比某个阻力位高了大约一个最小报价单位就反转向下——这个阻力位可能是摆动高点、空头趋势线或多头趋势通道线。
+- 突破K线只有一个小或中等大小的多头趋势K线实体，上方却有一根很长的影线。
+- 下一根K线是空头实体，而且要么是一根空头反转K线，要么是一根空头内包K线；那根K线收在最低价上或最低价附近，其实体大小约等于突破之前那些K线实体的平均水平（而不是只有一根最小报价单位高的空头实体）。
+- 整体背景使突破不太可能发生，比如一波上涨行情去测试交易区间日的高点，但这波上涨行情里有空头K线、许多重叠的K线、影线显眼的K线，沿途还有两三次回调。
+- 市场已经在交易区间里待了好几天。
+- 突破K线之后的那根K线是一根强劲的空头反转K线或一根空头内包K线。
+- 一根多头趋势K线之后的那根K线，其低点低于这根多头趋势K线之前那根K线的高点。
+- 第一次回调出现在反转之后两根K线处。
+- 回调延续了好几根K线。
+- 回调之后的趋势恢复陷入停滞，市场带着一根空头信号K线形成一个更低的高点。
+- 急速行情只比某个阻力位高了大约一个最小报价单位就反转向下——这个阻力位可能是摆动高点、空头趋势线或多头趋势通道线。
 
 
 > • The breakout bar has a small or average-size bull trend body and a large tail on top. • The next bar has a bear body and is either a bear reversal bar or a bear inside bar; that bar closes on or near its low, and the body is about the size of the average bodies of the bars before the breakout (not just a one-tick-tall bear body). • The overall context makes a breakout unlikely, like a rally to test the high of a trading range day, but the rally has bear bars, many overlapping bars, bars with prominent tails, and a couple of pullbacks along the way. • The market has been in a trading range for several days. • The bar after the breakout bar is a strong bear reversal bar or a bear inside bar. • The bar after a bull trend bar has a low that is below the high of the bar before the bull trend bar. • The first pullback occurs two bars after the reversal. • The pullback extends for several bars. • The trend resumption after the pullback stalls and the market forms a lower high with a bear signal bar. • The spike breaks above a resistance level like a swing high, a bear trend line, or a bull trend channel line by only a tick or so and then reverses down.
 
 
-• 急速行情勉强突破了某一个阻力位，但在突破只稍高一点的其他价位之前就回调了。• 在比此前的摆动高点高一个最小报价单位处挂止损单买入的交易者，在回调出现之前赚不到一个刮头皮交易者的利润。• 在突破K线形成的过程中，它的回调幅度超过这根K线高度的三分之二。• 在突破K线形成的过程中，它至少有两次回撤幅度达到自身高度的三分之一。• 回调跌破了突破点。任何一根K线的低点，与比它早两根的那根K线的高点之间，都不存在缺口。• 回调跌破了急速行情第一根K线的低点。• 回调触及了保本止损。• 有一种困惑感。你觉得自己拿不准这次突破到底会成功还是失败。对空头突破来说，上面所有内容的反面都成立。一次空头突破具备下列特征中的越多，这次突破就越可能走强：
+- 急速行情勉强突破了某一个阻力位，但在突破只稍高一点的其他价位之前就回调了。
+- 在比此前的摆动高点高一个最小报价单位处挂止损单买入的交易者，在回调出现之前赚不到一个刮头皮交易者的利润。
+- 在突破K线形成的过程中，它的回调幅度超过这根K线高度的三分之二。
+- 在突破K线形成的过程中，它至少有两次回撤幅度达到自身高度的三分之一。
+- 回调跌破了突破点。任何一根K线的低点，与比它早两根的那根K线的高点之间，都不存在缺口。
+- 回调跌破了急速行情第一根K线的低点。
+- 回调触及了保本止损。
+- 有一种困惑感。你觉得自己拿不准这次突破到底会成功还是失败。对空头突破来说，上面所有内容的反面都成立。一次空头突破具备下列特征中的越多，这次突破就越可能走强：
 
 
 > • The spike barely breaks above a single resistance level but pulls back before breaking above other levels that are just a little higher. • A trader who bought on a stop above a prior swing high would not be able to make a scalper's profit before there was a pullback. • As the breakout bar is forming, it pulls back more than two-thirds of the height of the bar. • As the breakout bar is forming, it pulls back for at least a third of its height two or more times. • The pullback falls below the breakout point. There are no gaps between the low of any bar and the high of the bar two bars earlier. • The pullback falls below the low of the first bar of the spike. • The pullback hits the breakeven stop. • There is a sense of confusion. You feel like you are not certain whether the breakout will succeed or fail. The opposite of all of the preceding is true for bear breakouts. The more of the following characteristics that a bear breakout has, the more likely the breakout will be strong:
 
 
-• 突破K线有一个巨大的空头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。• 如果成交量达到最近K线平均成交量的10到20倍，出现后续卖出、并进而可能形成一段向下等距运动的概率就会上升。• 急速行情走得很远，持续好几根K线，并且突破了若干个支撑位，比如均线、此前的摆动低点以及趋势线，而且每一个都突破了很多个最小报价单位。• 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的低点附近，回调很小（不到这根正在生长的K线高度的四分之一）。• 有一种紧迫感。你觉得自己非卖不可，却又想等一个回调，可回调偏偏不来。• 接下来两三根K线同样带有空头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。
+- 突破K线有一个巨大的空头趋势K线实体，影线很小或没有影线。K线越大，这次突破就越可能成功。
+- 如果成交量达到最近K线平均成交量的10到20倍，出现后续卖出、并进而可能形成一段向下等距运动的概率就会上升。
+- 急速行情走得很远，持续好几根K线，并且突破了若干个支撑位，比如均线、此前的摆动低点以及趋势线，而且每一个都突破了很多个最小报价单位。
+- 在突破K线的第一根K线形成的过程中，它大部分时间都停在自己的低点附近，回调很小（不到这根正在生长的K线高度的四分之一）。
+- 有一种紧迫感。你觉得自己非卖不可，却又想等一个回调，可回调偏偏不来。
+- 接下来两三根K线同样带有空头实体，其大小至少达到最近多空K线实体的平均水平。即便这些实体相对较小、影线很显眼，只要后续K线（即最初那根突破K线之后的那根K线）很大，趋势延续的可能性就更大。
 
 
 > • The breakout bar has a large bear trend body and small tails or no tails. The larger the bar, the more likely the breakout will succeed. • If the volume is 10 to 20 times the average volume of recent bars, the chance of follow-through selling and a possible measured move down increases. • The spike goes very far, lasts several bars, and breaks several support levels like the moving average, prior swing lows, and trend lines, and each by many ticks. • As the first bar of the breakout bar is forming, it spends most of its time near its low and the pullbacks are small (less than a quarter of the height of the growing bar). • There is a sense of urgency. You feel like you have to sell but you want a pullback, yet it never comes. • The next two or three bars also have bear bodies that are at least the average size of the recent bull and bear bodies. Even if the bodies are relatively small and the tails are prominent, if the follow-through bar (the bar after the initial breakout bar) is large, the odds of the trend continuing are greater.
 
 
-• 急速行情长到5到10根K线，中间回调不超过一根K线左右。• 当空头突破跌破此前某个重要的摆动低点时，跌破该低点后的跌幅足够大，使得在比该摆动低点低一个最小报价单位处挂止损单入场的刮头皮交易者也能获利。• 急速行情中有一根或多根K线的高点，正好等于、或只比前一根K线的收盘价高一个最小报价单位。• 急速行情中有一根或多根K线的开盘价低于前一根K线的收盘价。• 急速行情中有一根或多根K线的收盘价收在最低价上，或仅比最低价高一个最小报价单位。• 一根空头趋势K线之后那根K线的高点，正好位于或低于这根空头趋势K线之前那根K线的低点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪低点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。• 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲跌破多头趋势线之后，对多头高点做一次更低的高点或更高的高点测试。• 市场最近出现过好几个强劲的空头趋势日。• 交易区间内卖压不断积聚，表现为许多根巨大的空头趋势K线，而且在区间里空头趋势K线明显比多头趋势K线更醒目。• 第一次回调只在突破进行了三根或更多K线之后才出现。• 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的多头反转K线。• 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。• 这次突破反转了最近许多根K线的收盘价和低点。例如，当市场处在多头通道中、并形成一根巨大的空头K线时，这根突破K线的低点和收盘价都低于五根、甚至20根或更多K线的低点和收盘价。由这根空头K线的收盘价反转的K线数量多，比由它的低点反转同样多的K线，是更强的信号。
+- 急速行情长到5到10根K线，中间回调不超过一根K线左右。
+- 当空头突破跌破此前某个重要的摆动低点时，跌破该低点后的跌幅足够大，使得在比该摆动低点低一个最小报价单位处挂止损单入场的刮头皮交易者也能获利。
+- 急速行情中有一根或多根K线的高点，正好等于、或只比前一根K线的收盘价高一个最小报价单位。
+- 急速行情中有一根或多根K线的开盘价低于前一根K线的收盘价。
+- 急速行情中有一根或多根K线的收盘价收在最低价上，或仅比最低价高一个最小报价单位。
+- 一根空头趋势K线之后那根K线的高点，正好位于或低于这根空头趋势K线之前那根K线的低点，从而形成一个微型缺口，这是一种强势信号。这类缺口有时会变成测量缺口。虽然它对交易并无重要意义，但它们很可能代表了更小时间级别上艾略特波浪第1浪低点与第4浪回调之间的空隙——两者可以触碰，但不能重叠。
+- 整体背景使突破变得很可能，比如回调之后趋势恢复，或者在强劲跌破多头趋势线之后，对多头高点做一次更低的高点或更高的高点测试。
+- 市场最近出现过好几个强劲的空头趋势日。
+- 交易区间内卖压不断积聚，表现为许多根巨大的空头趋势K线，而且在区间里空头趋势K线明显比多头趋势K线更醒目。
+- 第一次回调只在突破进行了三根或更多K线之后才出现。
+- 第一次回调只持续一两根K线，而且它跟随的那根K线并不是一根强劲的多头反转K线。
+- 第一次回调没有回到突破点，也没有触及保本止损（即入场价）。
+- 这次突破反转了最近许多根K线的收盘价和低点。例如，当市场处在多头通道中、并形成一根巨大的空头K线时，这根突破K线的低点和收盘价都低于五根、甚至20根或更多K线的低点和收盘价。由这根空头K线的收盘价反转的K线数量多，比由它的低点反转同样多的K线，是更强的信号。
 
 
 > • The spike grows to five to 10 bars without pulling back for more than a bar or so. • As a bear breakout goes below a prior significant swing low, the move below the low goes far enough for scalpers to make a profit if they entered on a stop at one tick below that swing low. • One or more bars in the spike has a high that is at or just one tick above the close of the prior bar. • One or more bars in the spike has an open that is below the close of the prior bar. • One or more bars in the spike has a close on its low or just one tick above its low. • The high of the bar after a bear trend bar is at or below the low of the bar before the bear trend bar, creating a micro gap, which is a sign of strength. These gaps sometimes become measuring gaps. Although it is not significant to trading, they probably represent the space between a smaller time frame Elliott wave 1 low and a wave 4 pullback, which can touch but not overlap. • The overall context makes a breakout likely, like the resumption of a trend after a pullback, or a lower high or higher high test of the bull high after a strong break below the bull trend line. • The market has had several strong bear trend days recently. • There was growing selling pressure in the trading range, represented by many large bear trend bars, and the bear trend bars were clearly more prominent than the bull trend bars in the range. • The first pullback occurs only after three or more bars of breaking out. • The first pullback lasts only one or two bars and it follows a bar that is not a strong bull reversal bar. • The first pullback does not reach the breakout point and does not hit a breakeven stop (the entry price). • The breakout reverses many recent closes and lows. For example, when there is a bull channel and a large bear bar forms, this breakout bar has a low and close that are below the lows and closes of five or even 20 or more bars. A large number of bars reversed by the close of the bear bar is a stronger sign than a similar number of bars reversed by its low.
@@ -1969,19 +1635,34 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > The more of the following characteristics that a bear breakout has, the more likely it will fail and lead to either a trading range or a reversal:
 
 
-• 突破K线只有一个小或中等大小的空头趋势K线实体，下方却有一根很长的影线。• 下一根K线是多头实体，而且要么是一根多头反转K线，要么是一根多头内包K线；那根K线收在最高价上或最高价附近，其实体大小约等于突破之前那些K线实体的平均水平（而不是只有一根最小报价单位高的多头实体）。• 整体背景使突破不太可能发生，比如一波抛售去测试交易区间日的低点，但这波抛售里有多头K线、许多重叠的K线、影线显眼的K线，沿途还有两三次回调。• 市场已经在交易区间里待了好几天。• 突破K线之后的那根K线是一根强劲的多头反转K线或一根多头内包K线。• 一根空头趋势K线之后的那根K线，其高点高于这根空头趋势K线之前那根K线的低点。• 第一次回调出现在反转之后两根K线处。• 回调延续了好几根K线。
+- 突破K线只有一个小或中等大小的空头趋势K线实体，下方却有一根很长的影线。
+- 下一根K线是多头实体，而且要么是一根多头反转K线，要么是一根多头内包K线；那根K线收在最高价上或最高价附近，其实体大小约等于突破之前那些K线实体的平均水平（而不是只有一根最小报价单位高的多头实体）。
+- 整体背景使突破不太可能发生，比如一波抛售去测试交易区间日的低点，但这波抛售里有多头K线、许多重叠的K线、影线显眼的K线，沿途还有两三次回调。
+- 市场已经在交易区间里待了好几天。
+- 突破K线之后的那根K线是一根强劲的多头反转K线或一根多头内包K线。
+- 一根空头趋势K线之后的那根K线，其高点高于这根空头趋势K线之前那根K线的低点。
+- 第一次回调出现在反转之后两根K线处。
+- 回调延续了好几根K线。
 
 
 > • The breakout bar has a small or average-size bear trend body and a large tail on the bottom. • The next bar has a bull body and is either a bull reversal bar or a bull inside bar; that bar closes on or near its high, and the body is about the size of the average bodies of the bars before the breakout (not just a one-tick-tall bull body). • The overall context makes a breakout unlikely, like a sell-off to test the low of a trading range day, but the sell-off has bull bars, many overlapping bars, bars with prominent tails, and a couple of pullbacks along the way. • The market has been in a trading range for several days. • The bar after the breakout bar is a strong bull reversal bar or a bull inside bar. • The bar after a bear trend bar has a high that is above the low of the bar before the bear trend bar. • The first pullback occurs two bars after the reversal. • The pullback extends for several bars.
 
 
-• 回调之后的趋势恢复陷入停滞，市场带着一根多头信号K线形成一个更高的低点。• 急速行情只比某个支撑位低了大约一个最小报价单位就反转向上——这个支撑位可能是摆动低点、多头趋势线或空头趋势通道线。• 急速行情勉强跌破了某一个支撑位，但在跌破只稍低一点的其他价位之前就回调了。• 在比此前的摆动低点低一个最小报价单位处挂止损单做空的交易者，在回调出现之前赚不到一个刮头皮交易者的利润。• 在突破K线形成的过程中，它的回调幅度超过这根K线高度的三分之二。• 在突破K线形成的过程中，它至少有两次回撤幅度达到自身高度的三分之一。• 回调向上反弹，越过了突破点。任何一根K线的高点，与比它早两根的那根K线的低点之间，都不存在缺口。• 回调向上反弹，越过了急速行情第一根K线的高点。• 回调触及了保本止损。
+- 回调之后的趋势恢复陷入停滞，市场带着一根多头信号K线形成一个更高的低点。
+- 急速行情只比某个支撑位低了大约一个最小报价单位就反转向上——这个支撑位可能是摆动低点、多头趋势线或空头趋势通道线。
+- 急速行情勉强跌破了某一个支撑位，但在跌破只稍低一点的其他价位之前就回调了。
+- 在比此前的摆动低点低一个最小报价单位处挂止损单做空的交易者，在回调出现之前赚不到一个刮头皮交易者的利润。
+- 在突破K线形成的过程中，它的回调幅度超过这根K线高度的三分之二。
+- 在突破K线形成的过程中，它至少有两次回撤幅度达到自身高度的三分之一。
+- 回调向上反弹，越过了突破点。任何一根K线的高点，与比它早两根的那根K线的低点之间，都不存在缺口。
+- 回调向上反弹，越过了急速行情第一根K线的高点。
+- 回调触及了保本止损。
 
 
 > • The trend resumption after the pullback stalls, and the market forms a higher low with a bull signal bar. • The spike breaks below a support level like a swing low, a bull trend line, or a bear trend channel line by only a tick or so and then reverses up. • The spike barely breaks below a single support level but pulls back before breaking below other levels that are just a little lower. • A trader who shorted on a stop below a prior swing low would not be able to make a scalper's profit before there was a pullback. • As the breakout bar is forming, it pulls back more than two-thirds of the height of the bar. • As the breakout bar is forming, it pulls back for at least a third of its height two or more times. • The pullback rallies above the breakout point. There are no gaps between the high of any bar and the low of the bar two bars earlier. • The pullback rallies above the high of the first bar of the spike. • The pullback hits the breakeven stop.
 
 
-• 有一种困惑感。你觉得自己拿不准这次突破到底会成功还是失败。在交易者眼中，突破意味着强势，也意味着可能出现一轮新趋势。它出现在一段双向交易之后——在那段时间里，多空双方都认同价格有价值，也都愿意建仓。在突破期间，双方则一致认为市场应当在另一个价位找到价值，而突破就是一次奔向那个新价位的快速运动。市场偏爱不确定性，并且会快速移动去寻找它。突破则是一段确定性的时期。在空头突破中，多空双方都确信突破区间内的价格太高；在多头突破中，双方都确信价格太低；而出现后续行情的概率通常约为60% 到70%。市场快速移动，去寻找这样一个价位：在那里，多空双方都认同有价值，愿意开仓。这意味着不确定性再一次出现，没有人知道哪一方会获胜、并成功制造出下一次突破。不确定性正是交易区间的标志，所以突破是在寻找一个交易区间、寻找不确定性，以及寻找等距运动中50% 的方向概率。急速行情之后的通道，通常会大致勾勒出随后那个交易区间的顶部和底部。
+- 有一种困惑感。你觉得自己拿不准这次突破到底会成功还是失败。在交易者眼中，突破意味着强势，也意味着可能出现一轮新趋势。它出现在一段双向交易之后——在那段时间里，多空双方都认同价格有价值，也都愿意建仓。在突破期间，双方则一致认为市场应当在另一个价位找到价值，而突破就是一次奔向那个新价位的快速运动。市场偏爱不确定性，并且会快速移动去寻找它。突破则是一段确定性的时期。在空头突破中，多空双方都确信突破区间内的价格太高；在多头突破中，双方都确信价格太低；而出现后续行情的概率通常约为60% 到70%。市场快速移动，去寻找这样一个价位：在那里，多空双方都认同有价值，愿意开仓。这意味着不确定性再一次出现，没有人知道哪一方会获胜、并成功制造出下一次突破。不确定性正是交易区间的标志，所以突破是在寻找一个交易区间、寻找不确定性，以及寻找等距运动中50% 的方向概率。急速行情之后的通道，通常会大致勾勒出随后那个交易区间的顶部和底部。
 
 
 > • There is a sense of confusion. You feel like you are not certain whether the breakout will succeed or fail. To a trader, the breakout implies strength and a possible new trend. It follows a period of two-sided trading where the bulls and bears both agree that there is value and both are willing to take positions. During the breakout, they both now agree that the market should find value at another price and the breakout is a fast move in search of that new price. The market prefers uncertainty and quickly moves in search of it. A breakout is a period of certainty. Bulls and bears are certain that the prices within the breakout are too high in a bear breakout or too low in a bull breakout, and the odds of follow-through are usually about 60 to 70 percent. The market moves quickly in search of a price level where both the bulls and bears agree there is value for them to initiate trades. This means that there is once again uncertainty, and no one knows which side will win and succeed in creating the next breakout. Uncertainty is the hallmark of a trading range, so a breakout is a search for a trading range, for uncertainty, and a 50 percent directional probability of an equidistant move. The channel that follows the spike usually creates an approximate top and bottom of the trading range that typically follows.
@@ -2668,7 +2349,16 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > Following a bull breakout, these are some of the common areas that often get by the pullback:
 
 
-• 突破点（突破开始的那个价格）。 • 急速与通道多头趋势中那段急速行情的顶部。市场一旦跌破通道，通常就会向下测试到急速行情的顶部，最终还会测试到通道的底部。 • 末端旗形突破中那段急速行情的顶部。市场一旦突破一个潜在末端旗形并开始回调，通常就会测试该旗形之前的摆动高点。 • 楼梯形态中最近的摆动高点。多头楼梯形态的回调，通常至少会略微跌破最近的摆动高点。 • 多头趋势型交易区间日中，下方那个交易区间的顶部。如果价格没有向上反转回去，就可能回撤到那个下方交易区间的底部。 • 市场上涨到潜在楔形（一个上升的收敛通道）的第三次推进之后，测试第二次推进顶部的概率非常高。一旦反转，它通常会测试到楔形的底部（第一次回调的底部，也就是楔形通道的底部）。 • 信号K线的高点。即便突破K线突破的是10根K线之前的一个摆动高点，也往往会测试突破K线之前那一根K线的高点。 • 入场K线的低点。如果市场跌破入场K线，通常是以一根强势空头趋势K线的形式跌下去的，从这里开始的下跌行情通常大到至少能做一次刮头皮。 • 上涨行情段起点的那个摆动低点。市场有时会跌破入场K线和信号K线，回撤到多头行情段的底部，在那里往往形成双底牛旗。 • 任何支撑区域，比如移动平均线、此前的摆动低点、趋势线或趋势通道线（例如市场形成楔形牛旗的时候）。
+- 突破点（突破开始的那个价格）。
+- 急速与通道多头趋势中那段急速行情的顶部。市场一旦跌破通道，通常就会向下测试到急速行情的顶部，最终还会测试到通道的底部。
+- 末端旗形突破中那段急速行情的顶部。市场一旦突破一个潜在末端旗形并开始回调，通常就会测试该旗形之前的摆动高点。
+- 楼梯形态中最近的摆动高点。多头楼梯形态的回调，通常至少会略微跌破最近的摆动高点。
+- 多头趋势型交易区间日中，下方那个交易区间的顶部。如果价格没有向上反转回去，就可能回撤到那个下方交易区间的底部。
+- 市场上涨到潜在楔形（一个上升的收敛通道）的第三次推进之后，测试第二次推进顶部的概率非常高。一旦反转，它通常会测试到楔形的底部（第一次回调的底部，也就是楔形通道的底部）。
+- 信号K线的高点。即便突破K线突破的是10根K线之前的一个摆动高点，也往往会测试突破K线之前那一根K线的高点。
+- 入场K线的低点。如果市场跌破入场K线，通常是以一根强势空头趋势K线的形式跌下去的，从这里开始的下跌行情通常大到至少能做一次刮头皮。
+- 上涨行情段起点的那个摆动低点。市场有时会跌破入场K线和信号K线，回撤到多头行情段的底部，在那里往往形成双底牛旗。
+- 任何支撑区域，比如移动平均线、此前的摆动低点、趋势线或趋势通道线（例如市场形成楔形牛旗的时候）。
 
 
 > • The breakout point (the price where the breakout began). • The top of a spike in a spike and channel bull trend. Once the market breaks below the channel, it usually tests down to the top of the spike, and eventually to the bottom of the channel. • The top of the spike in a final flag breakout. Once the market begins to pull back after breaking out of a potential final flag, it usually tests the swing high that preceded the flag. • The most recent swing high in a stairs pattern. Bull stairs usually have pullbacks that fall at least a little below the most recent swing high. • The top of the lower trading range in a bull trending trading range day. If it does not reverse back up, it can retrace to the bottom of that lower trading range. • After the market rallies to the third push up in a potential wedge (a rising convergent channel), the odds are very high that it will test the top of the second push up. Once it reverses, it usually tests to the bottom of the wedge (the bottom of the first pullback, which is the bottom of the wedge channel). • The high of the signal bar. Even if the breakout bar breaks out above a swing high from 10 bars earlier, there will often be a test of the high of the bar just before the breakout bar. • The low of the entry bar. If the market falls below the entry bar, it often does so in a strong bear trend bar, and the move down from there is usually big enough for at least a scalp. • The bottom of the swing low at the start of the leg up. The market sometimes falls below the entry bar and signal bar and retraces to the bottom of the bull leg, where it often will form a double bottom bull flag. • Any support area like the moving average, a prior swing low, a trend line, or a trend channel line (like if the market forms a wedge bull flag).
@@ -3465,22 +3155,9 @@ wedge flag（楔形旗）趋势中以楔形或三次推进形式出现的回调�
 > The downside gap reversed up on the second bar and it was therefore an exhaustion gap. Day traders would instead just think of it as a failed gap down opening and an opening reversal up.
 
 
-第二部
+# 第 Ⅱ 部分　磁力位：支撑与阻力
 
-
-> Part II
-
-
-磁力位：支撑与
-
-
-> Magnets: Support and
-
-
-阻力
-
-
-> Resistance
+*Part II　Magnets: Support and Resistance*
 
 
 磁力位有两类：支撑与阻力。磁力位位于市场下方时，它是支撑位，也就是多头建立仓位、空头对自己的空头仓位止盈的区域。磁力位位于市场上方时，它是阻力位，也就是多头对多头仓位止盈、空头建立空头仓位的区域。支撑与阻力都是把市场拉向自己的磁力位。当你意识到某个磁力位离当前价格不远时，在价格到达它之前，只顺着磁力位的方向交易。到达之后，你就得判断：市场看起来是会反转、会横盘，还是干脆无视这个磁力位继续沿趋势走。磁力位告诉你可能的目的地，却不告诉你路径，途中可能有大幅回调。另外，市场可能在几十根K线里都处于交易区间，但距离某个磁力位只有一步之遥。尽管你应该意识到这个磁力位，但在市场决定是否去回测它、以及怎么走到那里的时候，两个方向上都仍然可能存在可靠的交易机会。
@@ -3513,13 +3190,23 @@ Emini 小型合约的交易大多由计算机完成，它们的算法基于逻�
 > Any significant type of price action can form support or resistance, and common examples include:
 
 
-• 趋势线。• 趋势通道线。• 任何时间级别上任何类型的均线。• 等距运动目标位。• 先前的摆动高点或摆动低点。• 多头入场K线的低点和空头入场K线的高点。• 多头信号K线的高点和空头信号K线的低点。• 昨天的高点、低点、开盘价和收盘价。
+- 趋势线。
+- 趋势通道线。
+- 任何时间级别上任何类型的均线。
+- 等距运动目标位。
+- 先前的摆动高点或摆动低点。
+- 多头入场K线的低点和空头入场K线的高点。
+- 多头信号K线的高点和空头信号K线的低点。
+- 昨天的高点、低点、开盘价和收盘价。
 
 
 > • Trend lines. • Trend channel lines. • Any type of moving average on any time frame. • Measured move targets. • Prior swing highs or lows. • Bull entry bar lows and bear entry bar highs. • Bull signal bar highs and bear signal bar lows. • Yesterday's high, low, open, and close.
 
 
-• 任何一根K线的高点、低点、开盘价或收盘价，尤其是当这根K线是大实体趋势K线时。• 日线枢轴点。• 斐波那契回撤位与投射目标。• 任何类型的带状指标线。支撑和阻力是交易者创造的术语，用来描述某个价格具有足够的数学优势，值得交易者做一笔能赚钱的交易。这些术语是交易者为了帮自己找到交易机会而创造的。任何时间级别上每根K线的高点都处在某个阻力位上，每根K线的低点都处在支撑上，而收盘价之所以停在它所处的位置、不高也不低1个最小报价单位，是因为计算机把它放在那里自有道理。支撑和阻力可能并不显眼，但既然计算机控制着一切、而且它们遵循逻辑，那么一切都必然说得通，哪怕常常难以理解。图上的每个价格都有某种数学优势，但这些优势通常太小，只有高频交易（HFT）程序才做得起来——许多高频程序就是为赚1美分而刮头皮设计的。按定义，一个价格只有在方向概率上存在失衡时，才算是支撑或阻力。举例来说，如果市场跌到某个支撑位，交易者相信至少有大约60% 或更高的概率出现一次至少够做一次刮头皮的反弹，而刮头皮是每个交易者的最小交易单位。如果概率只有52% 或53%，交易者大概不会认为它高到配得上这个称呼，而只会觉得这个价格平平无奇。如果市场处在交易区间的中段，前一根K线的低点从广义上说始终至少算一个最低限度的支撑区域，但这并不意味着预期的反弹大到足以做一笔赚钱的交易。如果预期的反弹只有两个最小报价单位，从交易者的角度看它就不算支撑。如果当前K线还在形成之中、正处在它的低点上、且比前一根K线的低点高1个最小报价单位，那么市场先反弹两个最小报价单位再下跌两个最小报价单位的概率也许是53%。但这个优势太小、价格波动也太小，交易者不会据此下单（尽管高频程序可能会做这笔交易），所以交易者不会称它为支撑。阻力的情况正好相反。
+- 任何一根K线的高点、低点、开盘价或收盘价，尤其是当这根K线是大实体趋势K线时。
+- 日线枢轴点。
+- 斐波那契回撤位与投射目标。
+- 任何类型的带状指标线。支撑和阻力是交易者创造的术语，用来描述某个价格具有足够的数学优势，值得交易者做一笔能赚钱的交易。这些术语是交易者为了帮自己找到交易机会而创造的。任何时间级别上每根K线的高点都处在某个阻力位上，每根K线的低点都处在支撑上，而收盘价之所以停在它所处的位置、不高也不低1个最小报价单位，是因为计算机把它放在那里自有道理。支撑和阻力可能并不显眼，但既然计算机控制着一切、而且它们遵循逻辑，那么一切都必然说得通，哪怕常常难以理解。图上的每个价格都有某种数学优势，但这些优势通常太小，只有高频交易（HFT）程序才做得起来——许多高频程序就是为赚1美分而刮头皮设计的。按定义，一个价格只有在方向概率上存在失衡时，才算是支撑或阻力。举例来说，如果市场跌到某个支撑位，交易者相信至少有大约60% 或更高的概率出现一次至少够做一次刮头皮的反弹，而刮头皮是每个交易者的最小交易单位。如果概率只有52% 或53%，交易者大概不会认为它高到配得上这个称呼，而只会觉得这个价格平平无奇。如果市场处在交易区间的中段，前一根K线的低点从广义上说始终至少算一个最低限度的支撑区域，但这并不意味着预期的反弹大到足以做一笔赚钱的交易。如果预期的反弹只有两个最小报价单位，从交易者的角度看它就不算支撑。如果当前K线还在形成之中、正处在它的低点上、且比前一根K线的低点高1个最小报价单位，那么市场先反弹两个最小报价单位再下跌两个最小报价单位的概率也许是53%。但这个优势太小、价格波动也太小，交易者不会据此下单（尽管高频程序可能会做这笔交易），所以交易者不会称它为支撑。阻力的情况正好相反。
 
 
 > • The high, low, open, or close of any bar, especially if the bar is a large trend bar. • Daily pivots. • Fibonacci retracement levels and projections. • Any type of band. Support and resistance are terms created by traders to describe any price as having enough of a mathematical edge for a trader to place a profitable trade. These terms were created by traders to help them spot trades. The high of every bar on every time frame is at some resistance level, the low of every bar is at support, and the close is where it is and not one tick higher or lower because computers put it there for a reason. The support and resistance may not be obvious, but since computers control everything and they use logic, everything has to make sense, even if it is often difficult to understand. Every price on the chart has some mathematical edge, but the edges are usually too small to be tradable except by high-frequency trading (HFT) programs, many of which are designed to scalp for a penny of profit. By definition, a price is support or resistance only if it has a directional probability imbalance. For example, if a market falls to a level of support, traders believe that there is about a 60 percent chance or better that there will be at least a bounce big enough for a scalp, which is every trader's minimal trade. If the chance was only 52 or 53 percent, traders would probably not consider that high enough to use the term and instead would just consider the price as unremarkable. If the market is in the middle of a trading range, the low of the prior bar is always at least a minimal area of support in the general sense of the word, but that does not mean the expected bounce is big enough to place a profitable trade. If the expected bounce is only a couple of ticks, it is not support from a trader's perspective. If the current bar is still forming and it is on its low and is one tick above the low of the prior bar, there might be a 53 percent chance of the market bouncing two ticks before it falls two ticks. However, that is too small an edge and too small a price movement for traders to place a trade (although a high-frequency program might make that trade), and therefore traders would not call it support. The opposite is true for resistance.
@@ -3621,10 +3308,10 @@ Emini 小型合约的交易大多由计算机完成，它们的算法基于逻�
 > In a strong trend, the market extends beyond most magnets. For example, in a bull trend, beginning traders will discover that the rally continues up far beyond every measured move target and trend channel line that they draw. These beginners will mistakenly be shorting at every perceived resistance level, finding their losses growing all day long. They incorrectly keep shorting tops that look great but are bad, and refuse to buy pullbacks that look bad but are great. However, once there finally is a pullback or a reversal, it will always occur at a resistance level. Even in strong trends, measured move targets often work precisely to the tick. Obviously, this is in part because computers can calculate them accurately. Computers control the market and their profit taking has to be at some calculated level, which is always at some magnet. Additionally, if a trade is minimally “good,” meaning that the strategy is profitable, the reward has to be at least as large as the risk to create a positive trader's equation. This usually results in some profit taking once the reward reaches the size of the risk, because this is the minimum level that the market has to reach to make the strategy profitable. Minor swings often end precisely at measured move projections, and many strong trends end exactly at, or within a tick, of a significant measured move target, as the price gets vacuumed to the magnet.
 
 
-图 PII.1　**道琼斯工业平均指数月线图**
+![图 PII.1](figures/fig-PII-1.jpg)
 
 
-> Figure PII.1 Dow Jones Industrial Average Monthly Chart
+**图 PII.1　道琼斯工业平均指数月线图**
 
 
 道琼斯工业平均指数的月线图（图 PII.1）展示了几种类型的支撑和阻力（它们全都是磁力位）。
@@ -3657,10 +3344,10 @@ Emini 小型合约的交易大多由计算机完成，它们的算法基于逻�
 > Trading ranges act as support and resistance. The breakout below the bar 9 trading range was resistance to the bar 11 rally, and the bar 15 trading range was resistance to the bar 17 rally. Once the market rallied up to bar 15, bar 16 found support at the top of the bar 9 trading range. Swing highs and lows act as support and resistance. Bar 12 found support at the bar 8 low and formed a double bottom. Bar 13 formed a double top with bar 11, but the market went sideways and soon broke above that resistance.
 
 
-图 PII.2　**支撑可以变成阻力，阻力也可以变成支撑**
+![图 PII.2](figures/fig-PII-2.jpg)
 
 
-> Figure PII.2 Support Can Become Resistance, and Resistance Can Become Support
+**图 PII.2　支撑可以变成阻力，阻力也可以变成支撑**
 
 
 在图 PII.2所示的 Emini 小型合约5分钟图上，支撑变成了阻力，阻力变成了支撑。均线和趋势线都是如此。
@@ -3691,9 +3378,6 @@ Emini 小型合约的交易大多由计算机完成，它们的算法基于逻�
 
 
 > Incidentally, any upward-sloping channel should be thought of as a bear flag, even if it is part of a bull market, because eventually there will be a break below the trend line and the market will behave as if the channel was a bear flag for trading purposes. Likewise, any downward-sloping channel should be thought of as a bull flag and its eventual breakout should be traded as if a bull leg is underway.
-
-
-# 第 Ⅱ 部分　磁力位：支撑与阻力
 
 
 # 第 7 章　基于第一段行情（急速行情）幅度的等距运动
@@ -4130,19 +3814,36 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > There are many other price magnets that will tend to draw the market toward them for a test. Here is a list of some. Many of these are discussed elsewhere in the books. When a market is trending toward a magnet, it is prudent to trade with the trend until the magnet is tested and preferably overshot. Do not trade counter-trend at the magnet unless there has been some prior countertrend strength like a trend line break, or unless the move is a pullback in a higher time frame trend.
 
 
-• 趋势线。• 趋势通道线。• 任何等距运动目标位，包括第1段行情 = 第2段行情（leg 1 = leg 2）的投射位。• 急速与通道：通道的起点通常在不久之后就会被测试。• 昨天的高点、低点、开盘价和收盘价。
+- 趋势线。
+- 趋势通道线。
+- 任何等距运动目标位，包括第1段行情 = 第2段行情（leg 1 = leg 2）的投射位。
+- 急速与通道：通道的起点通常在不久之后就会被测试。
+- 昨天的高点、低点、开盘价和收盘价。
 
 
 > • Trend lines. • Trend channel lines. • Any measured move target including a leg 1 = leg 2 projection. • Spike and channel: the start of the channel is usually tested before long. • High, low, open, and close of yesterday.
 
 
-• 过去几根K线、甚至过去几天的摆动高点和摆动低点，它们往往会形成双底牛旗和双顶熊旗。• 突破点。• 任何类型的缺口，包括均线缺口。• 每一种回调之后趋势的极值点（关于第一次回调序列，见第11章）。• 当天早些时候或此前几天形成的交易区间，包括窄幅交易区间和铁丝网：它们的极值和中部往往都会被测试。• 交易区间日上该区间的大致中点，尤其是在那个区域还存在一个日内交易区间时（也就是一片“厚实”区域）。• 末端旗形：市场从旗形突破之后，会回到该旗形处，通常再从另一侧突破出去。• 铁丝网。• 入场K线和信号K线的保护性止损。• 入场价（突破回测）。• 巨大趋势K线反向的那一端极值（一根巨大多头趋势K线的低点，一根巨大空头趋势K线的高点）。
+- 过去几根K线、甚至过去几天的摆动高点和摆动低点，它们往往会形成双底牛旗和双顶熊旗。
+- 突破点。
+- 任何类型的缺口，包括均线缺口。
+- 每一种回调之后趋势的极值点（关于第一次回调序列，见第11章）。
+- 当天早些时候或此前几天形成的交易区间，包括窄幅交易区间和铁丝网：它们的极值和中部往往都会被测试。
+- 交易区间日上该区间的大致中点，尤其是在那个区域还存在一个日内交易区间时（也就是一片“厚实”区域）。
+- 末端旗形：市场从旗形突破之后，会回到该旗形处，通常再从另一侧突破出去。
+- 铁丝网。
+- 入场K线和信号K线的保护性止损。
+- 入场价（突破回测）。
+- 巨大趋势K线反向的那一端极值（一根巨大多头趋势K线的低点，一根巨大空头趋势K线的高点）。
 
 
 > • Swing highs and lows of the past few bars or even days, often setting up double bottom bull flags and double top bear flags. • Breakout points. • Gaps of any kind, including moving average gaps. • The extreme of a trend after every type of pullback (see Chapter 11 on the first pullback sequence). • Trading ranges from earlier in the day or prior days, including tight trading ranges and barbwire: the extremes and the middle often get tested. • The approximate middle of the range on a trading range day, especially if there is an intraday trading range in that area (a fat area). • Final flags: after the breakout from the flag, the market comes back to the flag and usually breaks out of the other side. • Barbwire. • Entry bar and signal bar protective stops. • Entry price (breakout test). • Huge trend bar opposite extreme (the low of a huge bull trend bar and the high of a huge bear trend bar).
 
 
-• 刮头皮和波段仓位的常见止盈目标：在苹果（AAPL）上是50美分和1美元；在5分钟 Emini 小型合约上，一笔4个最小报价单位的刮头皮对应五到六个最小报价单位，一笔波段交易则对应3、4和10个点。• 一段相当于所需保护性止损规模的行情：如果一笔 Emini 交易要求你用12个最小报价单位的保护性止损来避免被打掉，那就预期这波行情最终会朝你有利的方向走到12个最小报价单位。• 日线、周线和月线上的摆动高点和低点、K线的高点和低点、均线、缺口、斐波那契回撤位与投射位，以及趋势线。• 整数价位，比如股票上的整百（例如苹果在 $300）和道琼斯工业平均指数上的整千（道指12,000）。如果一只股票快速从 $50涨到 $88，它很可能会去测试 $100，并且通常在回调之前会走到 $105或 $110。
+- 刮头皮和波段仓位的常见止盈目标：在苹果（AAPL）上是50美分和1美元；在5分钟 Emini 小型合约上，一笔4个最小报价单位的刮头皮对应五到六个最小报价单位，一笔波段交易则对应3、4和10个点。
+- 一段相当于所需保护性止损规模的行情：如果一笔 Emini 交易要求你用12个最小报价单位的保护性止损来避免被打掉，那就预期这波行情最终会朝你有利的方向走到12个最小报价单位。
+- 日线、周线和月线上的摆动高点和低点、K线的高点和低点、均线、缺口、斐波那契回撤位与投射位，以及趋势线。
+- 整数价位，比如股票上的整百（例如苹果在 $300）和道琼斯工业平均指数上的整千（道指12,000）。如果一只股票快速从 $50涨到 $88，它很可能会去测试 $100，并且通常在回调之前会走到 $105或 $110。
 
 
 > • Common profit targets for scalp and swing positions: in AAPL, 50 cents and a dollar; in the 5 minute Emini, five to six ticks for a four-tick scalp, and three, four, and 10 points for a swing. • A move equal to the size of the required protective stop: if an Emini trade required you to use a 12-tick protective stop to avoid getting stopped out, expect the move to ultimately reach 12 ticks in your favor. • Daily, weekly, and monthly swing highs and lows, bar highs and lows, moving averages, gaps, Fibonacci retracements and extensions, and trend lines. • Round numbers like hundreds in stocks (e.g., AAPL at $300) and thousands in the Dow Jones Industrial Average (Dow 12,000). If a stock quickly moves from $50 to $88, it will likely try to test $100 and usually go to $105 or $110 before pulling back.
@@ -4172,22 +3873,9 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Bars 3 and 4 were also huge trend bars with small tails, but neither was followed by an immediate pullback that ran stops.
 
 
-第三部
+# 第 Ⅲ 部分　回调：趋势向交易区间转化
 
-
-> Part III
-
-
-回调：趋势如何转化为
-
-
-> Pullbacks: Trends Converting to Trading
-
-
-交易区间
-
-
-> Ranges
+*Part III　Pullbacks: Trends Converting to Trading Ranges*
 
 
 即使一张图处在强趋势中，它也会出现双边成交的时段；但只要交易者相信趋势会恢复，这些时段就只是回调。这些交易区间小到足以让交易者把它们看作趋势中的短暂停顿，而不是这张图的主要特征。所有回调，在你正在看的那张图上，都是小型交易区间；所有交易区间，在更大时间级别的图上，都是回调。不过，在你面前这张图上，大多数试图突破交易区间的尝试都会失败，而大多数试图突破回调的尝试都会成功。在更大时间级别的图上，交易区间就是一次简单的回调；如果你在那个图上交易，就可以像对待任何其他回调一样对待它。
@@ -4430,10 +4118,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > This is important for traders who are waiting to enter on pullbacks. When the trend is strong, it is often better to enter at the market than to wait for a pullback.
 
 
-**图 PIII.1回调始于反转**
+![图 PIII.1](figures/fig-PIII-1.jpg)
 
 
-> Figure PIII.1 Pullbacks Begin with Reversals
+**图 PIII.1　回调始于反转**
 
 
 所有回调都始于一次反转，而这次反转往往强到让交易者在顺势信号终于出现时却不敢进场。在图 PIII.1中，左边那张图显示了均线处第10根K线低2做空建仓形态形成时5分钟图的样子，右边那张图显示的是整整一天。第7根K线是一根强势多头反转K线，它后面跟着一次强势的两根K线反转，并在第9根K线处形成一个更高的低点。不过，市场已经20多根K线没有触及均线，所以空头趋势很强，空头很可能会在涨到均线的两段式上涨行情中寻找做空机会，尤其是在出现一根空头信号K线时。当这个完美的建仓形态终于形成时，很多新手太专注于第7根和第9根K线，以至于忽略了它们之前的那段空头趋势，也忽略了这样一个事实：在均线处、并且有空头信号K线的情况下，低2做空是一个可靠的做空建仓形态。这轮上涨行情是多头止盈和做多刮头皮者共同制造的，而双方都打算在这次涨向均线附近的两段式回调中、趁强势卖出。多头止盈，空头重新建立自己的空头仓位。任何事都不会有100% 的确定性；但在空头趋势中、均线处、且带有空头信号K线时的低2，通常至少有60% 的概率能让那些在第10根K线下方1个最小报价单位处挂止损的空头做成一笔成功的做空。在这个具体案例中，信号K线只有三个最小报价单位高，所以空头为回测空头低点所承担的风险是五个最小报价单位，而那个空头低点大约低两个点。很多空头在均线下方1个最小报价单位处挂限价单，做空了这第一次回撤到均线的行情。另一些空头把它看作第一轮两段式空头上涨行情，因而预期它会失败。当他们看到第9根K线的多头反转时，就把做空的限价单挂在第8根K线高点处及其上方，并在涨到第10根K线的这段上涨行情中成交。他们预期任何反转都只是熊旗的起点，并认为任何向上突破都是在更高价格重新建立空头仓位的短暂机会；他们激进地抓住了这个机会，压倒了那些买入第8根K线上方突破的多头。
@@ -4466,10 +4154,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > The bar 24 bear reversal bar had a tail on the bottom and was slightly less strong than the bull breakout of the bear micro channel from bar 20 to the bar before bar 23. The breakout bar was a large bull trend bar, and it followed two bull bars. Some traders shorted below bar 24, expecting the bull breakout to fail. Others waited to see what the next couple of bars would look like. The short entry bar was a strong bear bar but held above the low of the bull breakout bar, so the market did not yet flip to always in short. The next bar had a bull body, and therefore did not confirm the selling. Bulls bought above its high, believing that it was a reasonable breakout pullback buy setup at the moving average in a bull trend, or in a bull leg in a developing trading range.
 
 
-**图 PIII.2每一次回调都始于一次反转**
+![图 PIII.2](figures/fig-PIII-2.jpg)
 
 
-> Figure PIII.2 Every Pullback Begins with a Reversal
+**图 PIII.2　每一次回调都始于一次反转**
 
 
 每一次回调都始于某种反转建仓形态。这个反转之所以必要，是因为许多顺势交易者要靠它开始止盈，逆势交易者也要靠它建立仓位。是的，反转形态是机构制造出来的：顺势的机构止盈，逆势的机构开始分批建立反转交易。不过，还有许多其他机构和交易者会等到反转出现早期迹象之后才建立自己的仓位，所有交易者累积起来的效果就制造了这次回调。如果趋势很强而反转建仓形态很弱，回调有时只持续一两根K线，比如图 PIII.2中的第3根、第9根和第19根K线处。有时它只是一次停顿，形成一个横盘式的回调，比如第7根K线。
@@ -4514,10 +4202,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Bar 26 was a bear reversal bar and a possible lower high after a reversal down through the bar 16 bottom of the trading range. However, more traders believed that the day was a strong bull trend day and they bought at and below the low of bar 26.
 
 
-**图 PIII.3突破回调**
+![图 PIII.3](figures/fig-PIII-3.jpg)
 
 
-> Figure PIII.3 Breakout Pullbacks
+**图 PIII.3　突破回调**
 
 
 当通道很陡时，最好不要在突破趋势线时就做反转交易，而应该等着看是否会出现一个突破回调、形成第二个信号。在图 PIII.3中，上涨到第2根K线的急速行情太陡，不适合在第一次跌破趋势线时做空。相反，交易者只有在出现一次回测急速行情高点的突破回调时才应该考虑做空。这次回测可以是更低的高点、双顶，或者更高的高点。在这里，这个更高的高点出现在均线略下方的第4根空头反转K线处。
@@ -4568,9 +4256,6 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Although bars 5 and 12 were strong bear trend bars and attempts to flip the always-in position to short, they did what most such attempts do—they failed. The bears needed one more strong bear trend bar before they could convince traders that the short-term trend was down and lower prices were likely over the next several bars. When it became clear that the bulls were buying relentlessly and the bears could not push the market down, they bought back their shorts. Their buying, combined with the continued buying by the bulls who saw the strong bear trend bars as great opportunities to buy at a low price, resulted in the resumption of the bull trend. Bulls like to see strong bear trend bars into support. They know that they represent attempts by the bears to reverse the trend and that most will be brief and fail. They often step aside and wait for one to form, and they see it as a likely end of the pullback. This gives them a brief opportunity to buy at a low price. Experienced traders can buy at the close of the bear trend bar, at and below its low, and at the close of the next couple of bars. Most traders should instead wait for a bull reversal bar and buy above its high, or wait for the reversal up, and then buy above a pullback from the breakout of the bull flag (like above the two-bar sideways pullback that followed the bar 13 breakout of the bar 12 high 2 bull flag).
 
 
-# 第 Ⅲ 部分　回调：趋势向交易区间转化
-
-
 # 第 11 章　第一次回调序列：K线、小趋势线、均线、均线缺口、主要趋势线
 
 *11. First Pullback Sequence: Bar, Minor Trend Line, Moving Average, Moving Average Gap, Major Trend Line*
@@ -4594,37 +4279,75 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Here is the general order in which signs of weakness in a bull trend develop:
 
 
-• 多头实体变小。 • 上影线开始出现在K线顶部，并在随后的K线上变得更大。 • K线与各自前一根K线的重叠比此前更多。 • 某根K线实体很小，或是十字星实体。 • 某根K线是空头实体。 • 当前K线的高点位于前一根K线高点处或之下。
+- 多头实体变小。
+- 上影线开始出现在K线顶部，并在随后的K线上变得更大。
+- K线与各自前一根K线的重叠比此前更多。
+- 某根K线实体很小，或是十字星实体。
+- 某根K线是空头实体。
+- 当前K线的高点位于前一根K线高点处或之下。
 
 
 > • The bull bodies become smaller. • Tails start to form on the tops of bars, and the tails become larger on subsequent bars. • Bars overlap their respective prior bars more than they did earlier. • A bar has a very small body or a doji body. • A bar has a bear body. • The high of the current bar is at or below the high of prior bar.
 
 
-• 当前K线的低点位于前一根K线低点处或仅略高于它。 • 当前K线的低点低于前一根K线的低点。 • 出现一段式回调（高1买入建仓形态），此时该K线的高点低于前一根K线的高点。 • 出现两段式回调（高2买入建仓形态），只持续5根到大约10根K线。 • 出现三段式回调（楔形牛旗或三角形），只持续5根到大约15根K线。 • 小多头趋势线被突破。 • 某根K线触及均线（20根均线缺口K线买入建仓形态）。 • 下一轮涨到新高的上涨行情中出现一根或多根空头趋势K线，以及一两次回调。 • 某根K线的收盘价低于均线。 • 某根K线的高点低于均线（一根均线缺口K线）。 • 主要多头趋势线被突破。 • 一旦出现一根高点低于均线的K线，市场要重新升到均线上方，就得先走出第二段下跌行情。
+- 当前K线的低点位于前一根K线低点处或仅略高于它。
+- 当前K线的低点低于前一根K线的低点。
+- 出现一段式回调（高1买入建仓形态），此时该K线的高点低于前一根K线的高点。
+- 出现两段式回调（高2买入建仓形态），只持续5根到大约10根K线。
+- 出现三段式回调（楔形牛旗或三角形），只持续5根到大约15根K线。
+- 小多头趋势线被突破。
+- 某根K线触及均线（20根均线缺口K线买入建仓形态）。
+- 下一轮涨到新高的上涨行情中出现一根或多根空头趋势K线，以及一两次回调。
+- 某根K线的收盘价低于均线。
+- 某根K线的高点低于均线（一根均线缺口K线）。
+- 主要多头趋势线被突破。
+- 一旦出现一根高点低于均线的K线，市场要重新升到均线上方，就得先走出第二段下跌行情。
 
 
 > • The low of the current bar is at or just above the low of the prior bar. • The low of the current bar is below the low of the prior bar. • There is a one-legged pullback (a high 1 buy setup), where the high of the bar is below the high of the prior bar. • There is a two-legged pullback (a high 2 buy setup) lasting only five to about 10 bars. • There is a three-legged pullback (a wedge bull flag or a triangle) lasting only five to about 15 bars. • There is a break of a minor bull trend line. • A bar touches the moving average (a 20 gap bar buy setup). • The next rally to a new high has one or more bear trend bars and a pullback or two. • A bar has a close below the moving average. • A bar has a high below the moving average (a moving average gap bar). • There is a break of a major bull trend line. • Once there is a bar with a high below the moving average, there is a second leg down before the market gets back above the moving average.
 
 
-• 涨到新高的上涨行情有两次或更多次回调，每次持续两三根K线，并且空头实体更加醒目。 • 出现一次更大的两段式回调，持续10根K线以上，第二段下跌行情跌破一个醒目的更高低点，形成更低的低点。 • 市场进入交易区间，多头K线和空头K线大致同样醒目。 • 市场向上突破交易区间，随后又回到交易区间之内，形成一个更大的交易区间。 下面则是空头趋势变弱的顺序：
+- 涨到新高的上涨行情有两次或更多次回调，每次持续两三根K线，并且空头实体更加醒目。
+- 出现一次更大的两段式回调，持续10根K线以上，第二段下跌行情跌破一个醒目的更高低点，形成更低的低点。
+- 市场进入交易区间，多头K线和空头K线大致同样醒目。
+- 市场向上突破交易区间，随后又回到交易区间之内，形成一个更大的交易区间。 下面则是空头趋势变弱的顺序：
 
 
 > • The rally to the new high has two or more pullbacks, each lasting two or three bars and having more prominent bear bodies. • There is a larger two-legged pullback, lasting more than 10 bars, with the second leg down falling below a prominent higher low, forming a lower low. • The market enters a trading range, and the bull and bear bars are about equally prominent. • The market breaks above the trading range and comes back into the trading range, forming a larger trading range. This is the sequence of weakening of a bear trend:
 
 
-• 空头实体变小。 • 下影线开始出现在K线底部，并在随后的K线上变得更大。 • K线与各自前一根K线的重叠比此前更多。 • 某根K线实体很小，或是十字星实体。 • 某根K线是多头实体。 • 当前K线的低点位于前一根K线低点处或之上。 • 当前K线的高点位于前一根K线高点处或仅略低于它。
+- 空头实体变小。
+- 下影线开始出现在K线底部，并在随后的K线上变得更大。
+- K线与各自前一根K线的重叠比此前更多。
+- 某根K线实体很小，或是十字星实体。
+- 某根K线是多头实体。
+- 当前K线的低点位于前一根K线低点处或之上。
+- 当前K线的高点位于前一根K线高点处或仅略低于它。
 
 
 > • The bear bodies become smaller. • Tails start to form on the bottoms of bars, and the tails become larger on subsequent bars. • Bars overlap their respective prior bars more than they did earlier. • A bar has a very small body or a doji body. • A bar has a bull body. • The low of the current bar is at or above the low of prior bar. • The high of the current bar is at or just below the high of the prior bar.
 
 
-• 当前K线的高点高于前一根K线的高点。 • 出现一段式回调（低1卖出建仓形态），此时该K线的低点高于前一根K线的低点。 • 出现两段式回调（低2卖出建仓形态），只持续5根到大约10根K线。 • 出现三段式回调（楔形熊旗或三角形），只持续5根到大约15根K线。 • 小空头趋势线被突破。 • 某根K线触及均线（20根均线缺口K线卖出建仓形态）。 • 下一轮跌到新低的下跌行情中出现一根或多根多头趋势K线，以及一两次回调。 • 某根K线的收盘价高于均线。 • 某根K线的低点高于均线（一根均线缺口K线）。 • 主要空头趋势线被突破。 • 一旦出现一根低点高于均线的K线，市场要重新跌到均线下方，就得先走出第二段上涨行情。 • 跌到新低的这波抛售有两次或更多次回调，每次持续两三根K线，并且多头实体更加醒目。
+- 当前K线的高点高于前一根K线的高点。
+- 出现一段式回调（低1卖出建仓形态），此时该K线的低点高于前一根K线的低点。
+- 出现两段式回调（低2卖出建仓形态），只持续5根到大约10根K线。
+- 出现三段式回调（楔形熊旗或三角形），只持续5根到大约15根K线。
+- 小空头趋势线被突破。
+- 某根K线触及均线（20根均线缺口K线卖出建仓形态）。
+- 下一轮跌到新低的下跌行情中出现一根或多根多头趋势K线，以及一两次回调。
+- 某根K线的收盘价高于均线。
+- 某根K线的低点高于均线（一根均线缺口K线）。
+- 主要空头趋势线被突破。
+- 一旦出现一根低点高于均线的K线，市场要重新跌到均线下方，就得先走出第二段上涨行情。
+- 跌到新低的这波抛售有两次或更多次回调，每次持续两三根K线，并且多头实体更加醒目。
 
 
 > • The high of the current bar is above the high of the prior bar. • There is a one-legged pullback (a low 1 sell setup), where the low of the bar is above the low of the prior bar. • There is a two-legged pullback (a low 2 sell setup) lasting only five to about 10 bars. • There is a three-legged pullback (a wedge bear flag or a triangle) lasting only five to about 15 bars. • There is a break of a minor bear trend line. • A bar touches the moving average (a 20 gap bar sell setup). • The next rally to a new low has one or more bull trend bars and a pullback or two. • A bar has a close above the moving average. • A bar has a low above the moving average (a moving average gap bar). • There is a break of a major bear trend line. • Once there is a bar with a low above the moving average, there is a second leg up before the market gets back below the moving average. • The sell-off to the new low has two or more pullbacks, each lasting two or three bars and having more prominent bull bodies.
 
 
-• 出现一次更大的两段式回调，持续10根K线以上，第二段上涨行情升到一个醒目的更低高点之上，形成更高的高点。 • 市场进入交易区间，多头K线和空头K线大致同样醒目。 • 市场向下跌破交易区间，随后又回到交易区间之内，形成一个更大的交易区间。 大多数第一次回调都属于小级别，仍然是大趋势第一段行情的一部分。不过，随着逆势交易者越来越愿意建仓、顺势交易者越来越急于止盈，每一次回调往往都会变得更大。逆势交易者开始在新的极值处夺取控制权。比如在多头趋势中，交易者将开始能够通过做空新高处的反转来赚钱，而顺势交易者在新高突破处买入则会开始亏钱。到了某个时点，逆势交易者将压过顺势交易者，趋势将反转。
+- 出现一次更大的两段式回调，持续10根K线以上，第二段上涨行情升到一个醒目的更低高点之上，形成更高的高点。
+- 市场进入交易区间，多头K线和空头K线大致同样醒目。
+- 市场向下跌破交易区间，随后又回到交易区间之内，形成一个更大的交易区间。 大多数第一次回调都属于小级别，仍然是大趋势第一段行情的一部分。不过，随着逆势交易者越来越愿意建仓、顺势交易者越来越急于止盈，每一次回调往往都会变得更大。逆势交易者开始在新的极值处夺取控制权。比如在多头趋势中，交易者将开始能够通过做空新高处的反转来赚钱，而顺势交易者在新高突破处买入则会开始亏钱。到了某个时点，逆势交易者将压过顺势交易者，趋势将反转。
 
 
 > • There is a larger two-legged pullback, lasting more than 10 bars, with the second leg up reaching above a prominent lower high, forming a higher high. • The market enters a trading range, and the bull and bear bars are about equally prominent. • The market breaks below the trading range and comes back into the trading range, forming a larger trading range. Most of the first pullbacks are minor and are still part of the larger trend's first leg. However, each pullback tends to be greater as the countertrend traders become more willing to take positions and the with-trend traders become quicker to take profits. Counter-trend traders start to take control at new extremes. For example, in a bull trend, traders will start to be able to make profitable trades by shorting reversals from new highs, and with-trend traders will begin to lose when they buy breakouts to new highs. At some point, the countertrend traders will overwhelm the with-trend traders and the trend will reverse.
@@ -4893,16 +4616,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > There was also a small double bottom bull flag after the bar 3 low formed by the third and seventh bars that followed bar 3. This was a failed low 2 short setup, which often becomes a double bottom bull flag.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 图 12.2中的第1根K线是一根强劲的多头反转K线，它把一次向下的突破反转了过来——那次突破跌到了移动平均线之下，也跌到了延续至昨日收盘的那个小型交易区间之下。随后出现一段两根K线的、向下到第3根K线的空头急速行情，接着市场转入横盘，多空双方为通道的方向展开争夺。由于多头急速行情更大（有些交易者认为急速行情结束于第1根K线的高点，另一些人认为它结束于第2根K线），概率更倾向于多头会构建出一段多头通道，而空头在急速下跌之后争取后续行情的尝试会失败。第3根K线之后的双底牛旗是一个更高低点的做多建仓形态，它引出了一段结束于第6根K线的楔形通道。既然它是楔形，那么出现两段下跌行情的可能性就很大；又因为它是多头急速与通道结构，所以对通道起点第3根K线一带的测试也很可能出现。有时这次测试要花上一天以上，但一旦它成形，市场通常就会试图与通道的低点构成一个双底。由于涨向第2根K线和涨向第6根K线的急速行情都如此强劲，市场也可能不会跌到第3根K线一带，而是转而构成一面楔形牛旗，让第5根K线和第7根K线充当前两次向下推进。事实上，情况正是如此，高盛在接下来的一天跳空高开。
@@ -5025,16 +4742,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Bar 18 formed a double bottom bull flag with bar 16. Remember, the lows don't have to be exactly the same. If a pattern resembles a textbook setup, it will likely behave in a similar way. Bar 29 formed another with bar 27, and again set up a high 2 buy in a strong bull channel. A high 2 is simply a two-legged pullback, which all double bottoms are.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 如图 12.6所示，昨天以一波强劲的多头上冲收盘，随后回调到略微低于移动平均线的位置，多头会在那里寻找一个更高的低点，然后等第二段上涨。跌向第6根K线的通道足够陡峭，因此交易者不应该在开盘时买入第7根K线那个外包上涨突破。第8根K线是一根强劲的多头反转K线，同时也是一个更高的低点，还是一个大型交易区间中的高2。它也是从连续两次卖出高潮反转向上。第一次卖出高潮是第5根K线多头通道之后那段三根K线的空头急速行情，第二次卖出高潮是由第7根K线尝试反转向上之后那两根强劲的空头趋势K线构成的。连续出现的高潮之后，通常至少会跟着一段两段式逆势行情，而且往往跟着一次反转。由于这一切发生在头一个小时之内，它可能正在构建当日的低点，多头应当把他们多头仓位的大部分做波段持有。
@@ -5163,16 +4874,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Bars 13 and 14 set up a double top, even though bar 14 was one tick higher. The market reversed up at bar 15 but the upside breakout failed and bars 13, 14, and 16 became a wedge bear flag short setup.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 图 12.7中第13、14根K线的双顶，形成于移动平均线略下方的铁丝网之中。空头铁丝网常常包含一个失败的低2，交易者可以在低2信号K线下方买入，预期向下突破会失败。这属于刮头皮。由于从铁丝网中突破出来的第一根趋势K线通常会失败，交易者可以留意在第16根K线下方做空。
@@ -5240,16 +4945,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Bars 7, 9, and 10 formed a bear wedge, and this is a reversal pattern. The bar 10 signal bar was not strong enough to convince traders that the market was reversing up, so they were still looking for short setups around the moving average. The bottom was strong enough to have a second leg up to bar 15, where it formed a double top bear flag with bar 13.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 图 13.1中，市场以一根空头趋势K线跳空低开，所以这次突破有可能演变为开盘即形成的空头趋势。两根K线之后突破失败，但这个建仓形态还不够强，不宜买入。相反，空头应当离场、等待。第4根K线与第3根K线构成双顶熊旗，并与紧随其后的那根K线构成两根K线反转。交易者可以在第4根K线下方挂止损单去做空这个双顶，也可以继续等待。下一根K线是一根空头趋势K线，价格跌破了第4根K线，让第4根K线成为摆动高点。由于此时既有摆动低点也有摆动高点，而开盘区间不到近期日均波幅的三分之一，市场就处在突破模式之中。多头会在交易区间上方挂止损单做多，空头会在区间下方一个最小报价单位处挂止损单做空。突破应当有后续行情，这一天往往就会变成趋势日，这里的走势正是如此。
@@ -5276,16 +4975,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > If the market has not touched the moving average for 20 or more bars but there was first a climax, the 20 gap bar setup may not lead to a bounce and a test of the extreme. As shown in Figure 13.2, Research in Motion (RIMM) had a parabolic bull trend up to bar 10. Since a parabolic move is not sustainable, it is a type of climax, and any climax is usually followed by at least a two-legged correction that lasts at least 10 bars, and it can even be followed by a trend reversal. This makes a one-legged correction to the moving average a risky long.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 在图 13.2中，多头本来可以在第13根K线处按均线挂限价单做多，刮到一点小利润，但在一次高潮之后买入一段空头急速行情是有风险的，因为至少应该预期有两段下跌行情。第15根K线是更好的建仓形态，因为那是第二段下跌行情，而且有一根不错的多头反转K线，但它在第16根K线的低2处失败了。第16根K线还与第14根K线构成了双顶熊旗。由于市场处在窄幅交易区间里，这算不上一个强有力的做空建仓形态。
@@ -5365,16 +5058,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > Bar 7 was a moving average gap bar setup, but since there was so little room to the moving average, traders would be less likely to buy it for a scalp solely based on its being a moving average gap bar.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 市场在图 14.1中向上突破，但当日第一根K线很小，因此不是一根可靠的信号K线去放空突破失败。第三根K线是一根强势K线，因此是一个更好的形态，可能演变成开盘即空头趋势。
@@ -5502,16 +5189,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > The day opened as a trend from the first bar bull trend and pulled back below the bar 10 signal bar at 7:00 a.m., which was likely on some kind of report. Since there were three large sideways bars with prominent tails, this represented a small trading range and buying above it was risky. So the market broke briefly to the downside on the report, trapping bears in, and then it broke to the upside above bar 11, trapping bulls in and bears out; it then turned down a second time at bar 12. When there are trapped bulls and bears, in or out, the next signal is usually good for at least a scalp.
 
 
-深入讨论：
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 在图 15.3中，奔向昨日收盘价的那波上涨行情，是从一个楔形底部反转上来的，很可能至少有两段行情。第9根K线处的更高低点反转向上，位置足够接近，可以算作一个双底；而太平洋标准时间上午7:40第13根K线出现的更高低点，是一次双底回调。由于开盘之后的那段上涨行情是一段强劲的向上急速行情，市场很可能在回调之后尝试形成一段通道，但它在第12根K线与第1根K线构成双顶时失败了。之后一个小时里出现了几段空头急速行情，最终走成一段空头通道，并在上午11:30、第24根K线处反转向上。上午11:00第22根K线的那次反转尝试失败了。市场所处的空头通道太陡，所以对通道的第一次突破之后，很可能接着一次突破回调，并给出概率更高的做多机会，而第24根K线就是那个信号K线。它同时也是市场从当日新低反转向上的第二次尝试。
@@ -5704,16 +5385,10 @@ SPY（也就是与 Emini 小型合约相当的交易所交易基金（ETF））�
 > High 3 and low 3 patterns should be traded like wedges (or a traditional triangle, if the pattern is mostly horizontal) because functionally they are the same. However, to keep the terminology consistent, it is better to call them wedges when they act as reversal patterns because by definition a high 3 is a pullback (a wedge bull flag) in a bull trend or trading range, and a low 3 is a wedge bear flag in a bear trend or a trading range. For example, if there is a bull trend or a trading range, a high 3 means that there were three legs down, and that sets up a buy signal above the high of the signal bar. If there is a bear trend, you are looking for low 1, 2, 3, and 4 setups and not high 1, 2, 3, and 4 patterns. If there is a clear wedge bottom in a bear trend, you should look to buy the reversal; but since it is in a bear trend, you should call this a wedge bottom and not a high 3. Likewise, if there is a bear trend or a trading range, a low 3 means that there were three pushes up and you should trade it like a wedge top. If there is a bull trend, you should not be looking for a low 3 to short, but shorting below a wedge top can be acceptable.
 
 
-失败的高4/低4还有一种变体。如果高4或低4的信号K线特别小，尤其是当它是一根十字星时，有时候入场K线会迅速反转成一根外包K线，把刚刚入场的交易者的保护性止损打掉。当信号K线很小时，为了避免被反复扫损，最好的做法常常是把保护性止损放在信号K线之外一个最小报价单位以上的位置（也许三个最小报价单位，但在
+失败的高4/低4还有一种变体。如果高4或低4的信号K线特别小，尤其是当它是一根十字星时，有时候入场K线会迅速反转成一根外包K线，把刚刚入场的交易者的保护性止损打掉。当信号K线很小时，为了避免被反复扫损，最好的做法常常是把保护性止损放在信号K线之外一个最小报价单位以上的位置（也许三个最小报价单位，但在Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总共不要超过八个最小报价单位），并且仍然把这个形态当作有效，即使它在技术上已经失败——尽管只是差了一个最小报价单位左右。记住，一切都是主观的，交易者总是在寻找接近完美的东西，但从不期待完美，因为完美很罕见。
 
 
-> There is also a variation for a failed high/low 4. If the signal bar for the high 4 or low 4 is particularly small, especially if it is a doji, sometimes the entry bar will quickly reverse into an outside bar, running the protective stops of the traders who just entered. When the signal bar is small, to avoid a whipsaw it is often best to place your protective stop at more than one tick beyond the signal bar (maybe three ticks, but no more than a total of eight ticks from your entry in the
-
-
-Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总共不要超过八个最小报价单位），并且仍然把这个形态当作有效，即使它在技术上已经失败——尽管只是差了一个最小报价单位左右。记住，一切都是主观的，交易者总是在寻找接近完美的东西，但从不期待完美，因为完美很罕见。
-
-
-> Emini when the average range is about 10 points) and still to treat the pattern as valid even though technically it failed, albeit by only a tick or so. Remember, everything is subjective and a trader is always looking for something close to perfect, but never expecting perfection, because perfection is rare.
+> There is also a variation for a failed high/low 4. If the signal bar for the high 4 or low 4 is particularly small, especially if it is a doji, sometimes the entry bar will quickly reverse into an outside bar, running the protective stops of the traders who just entered. When the signal bar is small, to avoid a whipsaw it is often best to place your protective stop at more than one tick beyond the signal bar (maybe three ticks, but no more than a total of eight ticks from your entry in the Emini when the average range is about 10 points) and still to treat the pattern as valid even though technically it failed, albeit by only a tick or so. Remember, everything is subjective and a trader is always looking for something close to perfect, but never expecting perfection, because perfection is rare.
 
 
 要注意，5分钟图上的复杂修正，在更高时间级别的图上常常表现为简单的高1、高2、低1、低2修正。去看更高时间级别的图并不值得，因为交易机会在5分钟图上已经很明显，而你有可能会为了找那些罕见的信号分散注意力，反而错过太多5分钟图上的信号。
@@ -5770,16 +5445,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > High 1 and low 1 patterns are with-trend setups, so if one occurs within a pullback in a trend but in the direction of the pullback and not the trend, do not take the trade. Instead, wait for it to fail and then enter with the trend on the breakout pullback. For example, if there is a bull trend and then a four-bar-long bear micro trend line forms at or above the moving average, do not short the failed breakout above the trend line. You do not want to be shorting a bull trend at the bottom of a pullback near the moving average, which is commonly near the end of the pullback. Instead, look for this failure to fail and turn into a breakout pullback, which will be in the direction of the trend (up). There is a breakout above the bear micro trend line that failed. The failed breakout traded down briefly, but it failed to go far and it reversed up. Once it reversed up, the reversal up was a breakout pullback entry from the initial breakout above the micro trend line. However, if the bear leg has four or more consecutive bear trend bars and the failed micro trend line setup is below the moving average, it will likely be a profitable short scalp, even though the day may be a bull trend day.
 
 
-趋势里的高点与低点也都在走趋势：在多头趋势里，每个低点通常高于前一个低点（一个更高的低点），每个高点也逐步抬高（一个更高的高点）；在空头趋势里，则是一个个更低的高点和更低的低点。一般来说，“更高的高点”和“更高的低点”这两个说法，专门用于多头趋势看起来已经成立、或者正在形成的情形；而“更低的低点”和“更低的高点”则意味着空头趋势可能正在起作用。这些说法意味着此前至少出现过一次小级别趋势线突破，因此你是在考虑买入多头趋势中（一次回调）或空头趋势中（逆势，但可能是一次反转）的一个更高的低点
+趋势里的高点与低点也都在走趋势：在多头趋势里，每个低点通常高于前一个低点（一个更高的低点），每个高点也逐步抬高（一个更高的高点）；在空头趋势里，则是一个个更低的高点和更低的低点。一般来说，“更高的高点”和“更高的低点”这两个说法，专门用于多头趋势看起来已经成立、或者正在形成的情形；而“更低的低点”和“更低的高点”则意味着空头趋势可能正在起作用。这些说法意味着此前至少出现过一次小级别趋势线突破，因此你是在考虑买入多头趋势中（一次回调）或空头趋势中（逆势，但可能是一次反转）的一个更高的低点以及在多头趋势或空头趋势中卖出一个更低的高点。做逆势交易时，除非反转很强，否则你应当把大部分或全部仓位用来刮头皮。
 
 
-> Trends have trending highs and lows. In a bull trend, each low is usually above the prior low (a higher low) and each high gets higher (a higher high); in bear trends, there are lower highs and lower lows. In general, the terms higher high and higher low are reserved for situations in which a bull trend appears to be in place or in the process of developing, and lower low and lower high imply that a bear trend might be in effect. These terms imply that there will have been at least a minor trend line break, so you are considering buying a higher low in a bull trend (a pullback) or in a bear trend (countertrend but it may be a reversal)
-
-
-以及在多头趋势或空头趋势中卖出一个更低的高点。做逆势交易时，除非反转很强，否则你应当把大部分或全部仓位用来刮头皮。
-
-
-> and selling a lower high in a bull trend or a bear trend. When trading countertrend, you should scalp most or all of your position unless the reversal is strong.
+> Trends have trending highs and lows. In a bull trend, each low is usually above the prior low (a higher low) and each high gets higher (a higher high); in bear trends, there are lower highs and lower lows. In general, the terms higher high and higher low are reserved for situations in which a bull trend appears to be in place or in the process of developing, and lower low and lower high imply that a bear trend might be in effect. These terms imply that there will have been at least a minor trend line break, so you are considering buying a higher low in a bull trend (a pullback) or in a bear trend (countertrend but it may be a reversal) and selling a lower high in a bull trend or a bear trend. When trading countertrend, you should scalp most or all of your position unless the reversal is strong.
 
 
 在多头趋势或交易区间里，高2做多一旦被触发，如果市场随后反转、并且在还没走出至少够一次刮头皮的利润之前就跌到该形态的低点之下，那么这个高2买入就失败了。同样，如果在空头趋势或交易区间里做空低2，而市场没能走出至少够一次刮头皮的利润、反而突破了形态的顶部，那么这个低2卖出就失败了。高2或低2失败最常见的原因，是交易者不肯承认趋势已经反转，还在顺着旧趋势的方向找交易。
@@ -5884,16 +5553,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Since the market was in a strong bear trend at bar 25 and you could not buy above the high of the prior bar, you could have shorted above the high of the prior bar, bar 24, and you could have sold more below bar 25.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 图 17.1中的第1根K线，试图在一个大幅跳空高开的日子里成为一段开盘即多头趋势行情的起点，但它在紧接着的下一根K线就失败了，那根K线变成了一个多头陷阱（把多头套进了一笔亏损交易）。由于那根空头反转K线走到第1根K线之上后又掉头向下，它可以被看作一次失败的高1。这就让第2根K线成为一个高2做多建仓形态；但在那个多头陷阱之后，最好先等第二段下跌、并且至少出现一个像样的多头实体，再考虑买入。另外，跌到第2根K线的那段下跌是一条微型通道，而对该通道的向上突破很可能会伴随一次回调，所以最好等那次回调出现后再考虑买入。别为这种不清晰的数K线发愁；相反，要把注意力放在目标上：找到一次两段式回调来买入。这里值得注意的一点是，在很多日子里，当天的第二根K线走到第一根K线之上、随后市场又下跌时，那根第二根K线往往就成为高2买入建仓形态里的那个高1；只要建仓形态看起来不错，你就应当准备好买那个高2。虽然第2根K线这个高2带来了能赚钱的一次刮头皮，但如果第2根K线是一根多头反转K线，它会是一个更强的买入建仓形态，尤其是如果它的低点位于移动平均线之下。
@@ -6244,16 +5907,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Later in the day, a high 2 failed but turned up after a high 3 (a form of wedge) instead of a high 4. The moves up from the high 1 and high 2 each lasted several bars, indicating some strength by the bulls. Although the breakout below the failed high 2 was strong, it was an exhaustive sell climax. The increasing size of the bodies of the bars in the bear spike was a sign of exhaustion, and it occurred at the trend channel line and in the area of the bar 2 low. Since bar 2 was the start of a bull channel, it was a magnet that should be expected to be tested, as it was here. After the test, the market usually rallies to at least about 25 percent of the height of the developing trading range. Since the three-bar bear spike down to bar 9 represented strong bearish momentum, there was a possibility of at least one more leg down. Because of the sell climax, the odds favored at least two legs sideways to up. This made buying the bar 10 higher low a good probability trade, especially since the odds favored an attempt at a trading range after the test of the bar 2 bottom of the bull channel.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 如图 17.9所示，今天以一次突破失败开盘：在向下跳空突破之后反转向上。先是一段由强多头趋势K线组成的急速行情，随后是一条窄幅通道一直走到第1根K线；在更高时间级别的图上，整段走势很可能就是一段多头急速行情。当动能这样强的时候，概率上更支持回调之后至少还有第二段上涨；这就使得市场一回调到第2根K线（多头通道起点）那片区域，考虑找买入建仓形态是合理的。
@@ -6292,16 +5949,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Bar 12 was a low 2 short setup below the moving average, but the market was beginning to form a trading range and therefore this was not a reliable short. In fact, it made more sense to buy at the bar 12 low, but this is something that only experienced traders should attempt. Whenever there is a sell signal just below the moving average and the signal bar is large and mostly overlaps two or more bars, the market is in a small trading range and shorting at the bottom is usually a losing strategy.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 图 17.10中，今天以一次大幅向下跳空开盘，因此是一轮空头突破。尽管第1根K线是一根空头趋势K线，它仍然可能是开盘即多头趋势日的第一根K线，虽然这比它是一根多头趋势K线时要更不可能。交易者在第1根K线的高点之上买入，做的是突破失败的上涨行情。这轮上涨只走了两根K线，随后空头在第二根多头K线之下、以及两根K线反转（那根空头入场K线的低点）之下做空，做的是突破回调做空，同时也是在赌一个可能的开盘即空头趋势日。大幅向下跳空成为空头趋势日的概率更高，交易者应当尽量抓住所有说得过去的做空建仓形态，做一段下跌的波段。
@@ -6508,16 +6159,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Bar 18 was a double bottom with bar 16 and a high 2 based on the two small pushes down from bar 17.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 如图 17.12所示，今天大幅向下跳空，因此是一轮空头突破。第一根K线是一根空头趋势K线，也可能是当日高点；因此它是一个可以接受的做空建仓形态。然而，市场在下一根K线反转向上，变成了一次突破失败做多建仓形态，而当天也有可能变成开盘即多头趋势日。大幅向下跳空仍然对空头有利，除非多头以一段强多头急速行情加后续行情、清晰地掌控了市场。
@@ -6651,16 +6296,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > As shown in Figure 18.3, the large gap up in Apple (AAPL) was effectively a steep bull leg (a bull spike). This was followed by three pullbacks, the third of which was a failure swing (it failed to go below the prior low). It can be called a wedge for simplicity's sake, although it does not have a good wedge shape. The gap up was the spike, and the sideways move to bar 3 was the pullback that led to the bull channel. This is a variant of a trend resumption day where here the first bull leg was the gap opening.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 如图 18.3所示，交易者应当把第3根K线入场建立的多头仓位的一部分或全部拿去做波段，预期出现一次向上的等距运动，其高度大约等于这个跳空缺口所形成的急速行情的高度（从昨天最后一根K线的低点，到今天第一根K线的高点）。这次等距运动也可能属于第1段行情 = 第2段行情那一类，其中第3根K线是第二段上涨行情的底部。
@@ -6848,16 +6487,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > All pullbacks end in dueling lines patterns, even if the long-term support is not readily seen. A pullback is a small trend in the opposite direction from the larger trend. All pullbacks always end for a reason, and a bull pullback always ends at some longer-term support, like a trend line, a measured move, or a prior swing high or low. In Figure 19.1, a bear trend channel line drawn between bars 3 and 5 created support for bar 6. All swing points should be considered when drawing trend lines and trend channel lines, even those from a prior trend. Bar 3 was a swing low in a bull trend, and bar 5 was a swing low in the correction of a possible new bear trend. The move down to bar 6 became just a large two-legged correction in the bull market. There were dueling lines at bar 6 (a bull trend line and a bear trend channel line of opposite slopes) and the market reversed up at the intersection, as is common. Since the move down to bar 6 was steep, it was reasonable to wait for the second entry at the bar 7 higher low, buying on a stop at one tick over its high. A bear trend channel line could also have been based on a trend line drawn across the two swing highs that followed the bar 4 high, and then anchored to bar 5. The goal is to look at the overall shape and then choose any trend channel line that contains the price action. Then, watch how the market reacts after penetrating the line.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 第6根K线是图 19.1中的楔形牛旗。在跌向第6根K线的行情之前，还有一个双顶熊旗，而多头顶部之后的双顶熊旗，可以看成一个带两个峰的更低的高点。
@@ -6890,16 +6523,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Figure 19.3 is a variant of dueling lines where the long-term support came in the form of a horizontal line at a prior swing low and the result was a double bottom. This led to a reversal up from the new low of the day on this trading range day. The sell-off on the open was a bear spike, and the move from bar 4 to bar 6 was a channel.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 在图 19.3中，市场突破了某个摆动高点，但今天的第一根K线是一根空头趋势K线，形成了一次突破失败做空的建仓形态。这同时也是一个扩张三角形顶部，第一次向上推进既可以采用昨天太平洋标准时间上午11:05的那根K线，也可以采用上午11:55的那根K线。随后有一段急速上涨到第4根K线，接着是一次创出更低的低点、回落到第5根K线的回调，它与第1根K线一起构成双底牛旗。这带来了一波长达三小时的上涨行情（第4根K线多头急速行情之后、从第5根K线向上的那段通道），随后是一波一直跌到收盘的抛售。尽管这是个交易区间日，它在日线图上看起来却像空头趋势日，因为它开在接近最高点处、收在接近最低点处。
@@ -6997,16 +6624,9 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > The third push up of the wedge bear flag became the head of a head and shoulders top bear flag. The head of that head and shoulders top was the end of a two-legged rally that ended at a first moving average gap bar at 11:15 a.m. PST. The market tried to form a higher low after that head, but it failed and the small rally became the right shoulder, which was a breakout pullback from the channel up to the head. The breakout led to the test of the bear low, which was expected after a first moving average gap bar in a strong bear trend.
 
 
-第四部分
+# 第 Ⅳ 部分　交易区间
 
-
-> Part IV
-
-
-交易区间
-
-
-> Trading Ranges
+*Part IV　Trading Ranges*
 
 
 交易区间最宽泛、最有用的定义是：它就是一个双边交易区域。它可以小到只有一根K线（一根十字星K线），也可以比你屏幕上所有的K线都大。它可以基本水平，表示多空双方势均力敌；也可以略微倾斜。如果它向上倾斜，多头更强势；如果它向下倾斜，空头更强势；如果它倾斜得太厉害，就应该被看成趋势通道，而不是交易区间。它可能有持续很多根K线的大幅波段，也可能非常窄幅、每一个波段只持续一根K线左右，形成一条窄幅通道。当它水平时，容纳它的那些线就是支撑线与阻力线，支撑线在下、阻力线在上。
@@ -7033,13 +6653,30 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Here are some characteristics that are commonly found in trading ranges:
 
 
-• 对即将出现的突破方向有一种不确定感。事实上，不确定性是交易区间的标志；只要大多数交易者感到不确定，市场就处在交易区间中（趋势带有确定感和紧迫感）。不过，交易区间通常最终是一个趋势恢复的建仓形态，这意味着它在更高时间级别图表上只是一次回调。• 几乎所有的交易看起来都至多只有55% 的确定性。• 同时存在合理的多头建仓形态与空头建仓形态。• 你的屏幕上出现了数次方向改变。• 整体价格行为大体水平，屏幕左右边缘的K线在竖直方向上都处在屏幕中间三分之一。• 大多数K线都在屏幕中部，而在顶部和底部附近有急剧的反转。• 市场反复扫掉止损，往往伴随强劲的趋势K线，但下一根K线就反转方向。例如，市场走出两根空头趋势K线跌破了某个强摆动低点，但紧接着市场在下一根K线就向上反转。• 有许多多头和空头趋势K线，但很少出现连续三根或四根多头趋势K线或空头趋势K线。• 许多K线有显眼的影线。• 许多K线与前一根K线的重叠达到50% 或更多。• 在许多地方存在三根或更多K线，它们每一根与之前那些K线区间的重叠都在50% 或以上。• 有许多十字星，可大可小。• 均线相对水平。• 屏幕左侧之外的价格行为也处在交易区间中。• 刚刚出现过一次引人注目的买入高潮或卖出高潮。• 存在价格真空效应，导致顶部出现强劲的多头急速行情、底部出现强劲的空头急速行情，而两者都未能突破，反而反转回区间内。• 许多行情段会细分成两个更小的行情段，然后反转为反方向的两段式行情。
+- 对即将出现的突破方向有一种不确定感。事实上，不确定性是交易区间的标志；只要大多数交易者感到不确定，市场就处在交易区间中（趋势带有确定感和紧迫感）。不过，交易区间通常最终是一个趋势恢复的建仓形态，这意味着它在更高时间级别图表上只是一次回调。
+- 几乎所有的交易看起来都至多只有55% 的确定性。
+- 同时存在合理的多头建仓形态与空头建仓形态。
+- 你的屏幕上出现了数次方向改变。
+- 整体价格行为大体水平，屏幕左右边缘的K线在竖直方向上都处在屏幕中间三分之一。
+- 大多数K线都在屏幕中部，而在顶部和底部附近有急剧的反转。
+- 市场反复扫掉止损，往往伴随强劲的趋势K线，但下一根K线就反转方向。例如，市场走出两根空头趋势K线跌破了某个强摆动低点，但紧接着市场在下一根K线就向上反转。
+- 有许多多头和空头趋势K线，但很少出现连续三根或四根多头趋势K线或空头趋势K线。
+- 许多K线有显眼的影线。
+- 许多K线与前一根K线的重叠达到50% 或更多。
+- 在许多地方存在三根或更多K线，它们每一根与之前那些K线区间的重叠都在50% 或以上。
+- 有许多十字星，可大可小。
+- 均线相对水平。
+- 屏幕左侧之外的价格行为也处在交易区间中。
+- 刚刚出现过一次引人注目的买入高潮或卖出高潮。
+- 存在价格真空效应，导致顶部出现强劲的多头急速行情、底部出现强劲的空头急速行情，而两者都未能突破，反而反转回区间内。
+- 许多行情段会细分成两个更小的行情段，然后反转为反方向的两段式行情。
 
 
 > • There is a sense of uncertainty about the direction of the impending breakout. In fact, uncertainty is the hallmark of a trading range; whenever most traders are uncertain, the market is in a trading range (trends have a sense of certainty and urgency). Usually, however, a trading range is ultimately a trend resumption setup, which means that it is just pullback on a higher time frame chart. • Almost all of the trades look like they are no more than 55 percent certain. • There are both legitimate bull and bear setups forming at the same time. • There are several changes in direction on your screen. • The overall price action is mostly horizontal, with the bars on the left and right edges of the screen in the middle third of the screen vertically. • Most of the bars are in the middle of the screen, and there are sharp reversals near the top and bottom. • The market runs stops repeatedly, often with strong trend bars, but then reverses direction on the next bar. For example, the market will have two bear trend bars that fall below a strong swing low, but then the market reverses up on the next bar. • There are many bull and bear trend bars but few instances where there are three or four consecutive bull trend bars or bear trend bars. • Many bars have prominent tails. • Many bars overlap 50 percent or more of the bar before. • There are many areas where there are three or more bars that each overlap by 50 percent or more of the range of the prior bars. • There are many dojis, which can be large or small. • The moving average is relatively flat. • The price action off the screen to the left was also in a trading range. • There was just an impressive buy or sell climax. • The vacuum effect is present, resulting in strong bull spikes at the top and strong bear spikes at the bottom, with both failing to break out and instead reversing back into the range. • Many legs subdivide into two smaller legs and then reverse into a two-legged move in the opposite direction.
 
 
-• 底部的低1和低2做空建仓形态，以及顶部的高1和高2买入建仓形态，通常都会失败。• 信号K线常常看起来很弱，即使是二次入场也一样。任何双边交易区域，哪怕它只持续一根K线，都是一个交易区间。当你把一个交易区间称为回调时，你相信趋势很快恢复的可能性更大，因此你很可能只会顺着趋势方向做交易。每个交易者的标准都不同，但一般来说，如果你有大约60% 或更高的把握认为自己的交易之后很快就会迎来趋势的恢复，那么你就相信这个形态是回调。如果你反而没那么有把握自己的交易之后会出现突破，那么这个形态就是交易区间。交易区间只是一个持续得太久而失去了短期预测能力的回调，而向上或向下突破的尝试有80% 都会失败。如果你在底部附近买入，市场可能确实会走到顶部，但它不会突破，而是会出现一个做空建仓形态，市场又回到你多头入场价附近。如果你在顶部附近做空，市场可能确实会下跌到足够刮一次头皮获利，但随后又会回到你的入场价附近。
+- 底部的低1和低2做空建仓形态，以及顶部的高1和高2买入建仓形态，通常都会失败。
+- 信号K线常常看起来很弱，即使是二次入场也一样。任何双边交易区域，哪怕它只持续一根K线，都是一个交易区间。当你把一个交易区间称为回调时，你相信趋势很快恢复的可能性更大，因此你很可能只会顺着趋势方向做交易。每个交易者的标准都不同，但一般来说，如果你有大约60% 或更高的把握认为自己的交易之后很快就会迎来趋势的恢复，那么你就相信这个形态是回调。如果你反而没那么有把握自己的交易之后会出现突破，那么这个形态就是交易区间。交易区间只是一个持续得太久而失去了短期预测能力的回调，而向上或向下突破的尝试有80% 都会失败。如果你在底部附近买入，市场可能确实会走到顶部，但它不会突破，而是会出现一个做空建仓形态，市场又回到你多头入场价附近。如果你在顶部附近做空，市场可能确实会下跌到足够刮一次头皮获利，但随后又会回到你的入场价附近。
 
 
 > • Low 1 and low 2 short setups at the bottom and high 1 and high 2 buy setups at the top usually fail. • Signal bars often look weak, even for second entries. Any area of two-sided trading, even if it lasts for only a single bar, is a trading range. When you refer to a trading range as a pullback, you believe that the odds are favorable that the trend will soon resume and you will, therefore, likely be taking trades only in the direction of the trend. Every trader will have different criteria, but, in general, if you are about 60 percent or more certain that your trade will soon be followed by a resumption of the trend, then you believe that the pattern is a pullback. If instead you are less certain that your trade will be followed by a breakout, then the pattern is a trading range. A trading range is just a pullback that has lasted so long that it has lost its short-term predictive power, and 80 percent of the breakout attempts up or down will fail. If you buy near the bottom, the market will probably trade to the top, but instead of breaking out, there will be a sell setup and the market will return to the area of your long entry. If you short near the top, the market will probably trade down far enough to scalp a profit, but then rally back again to around your entry price.
@@ -7369,10 +7006,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Because most breakout attempts fail, never overstay any trade hoping for a successful breakout. Look to exit longs on scalp profit targets or on tests of the top of the range, and take profits on shorts on limit orders that give a scalper's profit or exit on a test of the bottom of the range. Never rely on martingale trading. This is discussed in Chapter 25, but it is a gambling technique where you double or triple the size of your next trade if you just lost on your prior trade. If you keep losing, you keep doubling or tripling the size of your prior trade until you win. Almost invariably when you are thinking about this, the market is in a tight trading range and will likely have four or more consecutive losers; you would therefore abandon the approach because it would require you to trade far more contracts than you can handle emotionally, and this will leave you with a huge loss. A breakout or a winning trade is never overdue, and the market can sustain unsustainable behavior much longer than you can sustain your account. Be fussy and take only reasonable entries, and never base any entry on the idea that the market is overdue for a good trade.
 
 
-**图 PIV.1任何图表上的大多数K线都处在交易区间之内**
+![图 PIV.1](figures/fig-PIV-1.jpg)
 
 
-> Figure PIV.1 Most of the Bars on Any Chart Are within Trading Ranges
+**图 PIV.1　任何图表上的大多数K线都处在交易区间之内**
 
 
 市场由交易区间构成，交易区间之间由短暂的趋势分隔，而每个交易区间又由更小的趋势和交易区间组成。图 PIV.1是一张 Emini 的10分钟图，显示了大约六周的价格行为。如果一位交易者只盯着一张带有大约一天半数据的5分钟图，就很容易忽略大局。其中有些日子是小交易区间日，但这些日子处在一轮大多头市场的背景之中。大的交易区间用字母标注，小的交易区间用数字标注（这些数字指的是交易区间，不是K线）。尽管交易区间反复尝试向上和向下突破，而这些尝试中有80% 都会失败，但当突破真的出现时，它通常与在它之前那个趋势的方向一致。大多数反转形态都是交易区间，就比如最右边那个交易区间（13），但大多数反转尝试都会变成旗形，并沿趋势方向突破。
@@ -7393,10 +7030,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Notice how the final leg down of most trading ranges is a bear channel, which is a last-ditch attempt by the bears to create a top and a new bear trend. A bear channel is a bull flag. Bulls can buy the reversal up from the bottom of the trading range or on the breakout pullback that usually follows soon afterward. The opposite is true of trading ranges in bear trends, where the final leg is usually a bull channel, which is a bear flag.
 
 
-**图 PIV.2多次早期反转常常引出一个交易区间日**
+![图 PIV.2](figures/fig-PIV-2.jpg)
 
 
-> Figure PIV.2 Multiple Early Reversals Often Lead to a Trading Range Day
+**图 PIV.2　多次早期反转常常引出一个交易区间日**
 
 
 头几个小时里出现多次反转，通常会导致一个交易区间日。大型交易者进入这一天时往往就预期是个交易区间日，而当这样的人足够多时，他们的刮头皮和反向操作往往就会真的促成这样一个日子。如图 PIV.2所示，今天先是突破，然后在第1根K线处向下反转，又在第2根K线处向上反转。反转在第3根K线处失败，而构建空头通道的尝试在第4根K线处失败，市场再次向上反转。到第5根K线的多头急速行情一路上有两次停顿，表明迟疑。急速上涨之后，市场横盘了大约10根K线，在这面牛旗之内有许多小反转，还有五根阴线实体，再次表明市场非常双边化，而双边化正是交易区间的标志。第7根K线是一根创出当日新高的多头趋势K线，但紧接着跟随的是一根内包的空头K线，而不是再来两根或三根多头趋势K线。市场随后出现了几根大十字星；其中两根在上方带着大影线，表明交易者在K线收盘时积极卖出（卖压）。这说明空头在当日高点非常强势，而这正是交易区间中常见的情形。等距运动的方向概率上升，变得有利于空头。在这里，市场先下跌两个点、再上涨两个点的概率可能是60%。虽然无法确切知道，但交易者相信空头占优势。此时大多数交易者怀疑这是个交易区间日，跌到区间中部下方的概率很大。如果交易者在第7根K线之后的任何时候做空并冒大约2到3个点的风险，他们很可能有大约60% 的概率看到市场测试到当日中点下方；具体取决于他们在哪里做空，中点比入场价低5到8个点。用2个点的风险赚5个点、并有60% 的确定性，是一笔极好的交易。
@@ -7441,10 +7078,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Bar 12 had a bull body, which is a bad signal bar for a reversal trade, but in a trading range (or at the end of a bear rally in a bear trend), signal bars are often not strong, but are still acceptable. At least it had a tail at the top, a small bull body, and a close in the middle.
 
 
-**图 PIV.3交易区间中的波段交易**
+![图 PIV.3](figures/fig-PIV-3.jpg)
 
 
-> Figure PIV.3 Swing Trades in Trading Ranges
+**图 PIV.3　交易区间中的波段交易**
 
 
 在图 PIV.3中，有两个交易区间，交易者本来可以把部分仓位波段持有，以博取一次可能突破进入趋势的行情。在上面那个区间中，交易者本来可以在第3根K线的低点下方做空，那根K线是昨日高点楔形反转的信号K线。既然跌到第4根K线的走势跌破了多头趋势线，市场随后可能形成一个更低的高点，然后反转进入一段空头趋势。这让交易者能够在第5根K线的低点下方再次做空，远早于跌破交易区间底部的突破。
@@ -7465,10 +7102,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > In general, the stronger the trend, the more important the signal bar is for a reversal trade. Trading range signal bars are often less than perfect. Acceptable short setups can have signal bars with bull bodies. Likewise, acceptable long setups can have signal bars with bear bodies. Examples include bars 3, 5, and 7, the bar after bar 11, and bar 18. Experienced traders saw the breakout down to bar 6 as a likely evolution of a trading range day into a trending trading range day. Aggressive bulls bought the close of bar 8, since it was a large bear trend bar in the area of a measured move down in what they thought was likely a developing lower trading range. Other bulls bought as bar 8 fell below the low of bar 6, and others bought at a fixed number of ticks below bar 6. Some bought at one point below and tried to buy more at two, three, or even four points below. Some thought that the breakout might be a five-tick failed breakout and used that as their reason to buy four ticks below. A few traders sold the breakout below bar 6 and reversed to long at their scalper's profit target, one point below their entry price. Others bought on bar 8 as it fell through the trend channel line (not shown) created by yesterday's low and bar 6, or after the market bounced a few ticks up from the bar 8 low after falling below the trend channel line. Since these bulls believed that the market was evolving into a trending trading range day and was forming the lower trading range, they were in scalping mode, as most traders are when the market is in a trading range. The swings today were relatively large, so many bulls were scalping for three or four points instead of just one or two. They needed to be adequately rewarded for taking relatively risky (lower-probability) trades, where the risk was large (the bulls who were scaling in were probably risking four to six points). Since experienced traders believed that the market was in a trading range, bear scalpers were shorting rallies near the top of the developing trading range, like around bar 7 or bar 11. Since bar 14 was a possible start of a test back into the upper range and was followed by several bull trend bars, most bears would have stopped looking to short at that point.
 
 
-**图 PIV.4区间的中间三分之一与日内的中间三分之一**
+![图 PIV.4](figures/fig-PIV-4.jpg)
 
 
-> Figure PIV.4 Middle Third of the Range and of the Day
+**图 PIV.4　区间的中间三分之一与日内的中间三分之一**
 
 
 当这一天不是一个清晰的趋势日时，交易者在日内中间三分之一时间、而市场又处在当日区间的中间三分之一附近时，应该非常小心。在图 PIV.4中，大量K线重叠、小十字星、以及细小的失败突破，让价格行为难以解读。这是一种铁丝网式的窄幅交易区间，在第22章会有更多讨论。有经验之后，交易者在这样的环境下也能成功，但绝大多数交易者更可能会把头几个小时赚到的大部分甚至全部利润还回去。目标是赚钱，而有时对你的账户来说，不下单、转而等待强建仓形态要好得多。在图中，这段横盘一直持续到太平洋时间上午11:45，在一天中已经算比较晚了。这些时间参数只是参考。起决定作用的是价格行为，而在交易区间日，最好的交易是反向操作当日的高点和低点，但这需要耐心。
@@ -7477,10 +7114,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > When the day is not a clear trend day, traders should be very careful during the middle third of the day when the market is around the middle third of the day's range. In Figure PIV.4, there are lots of overlapping bars, small dojis, and tiny failed breakouts, making the price action difficult to read. This is a barbwire type of tight trading range and is discussed more in Chapter 22. With experience, a trader can be successful trading under these circumstances, but the vast majority of traders would more likely give back most or all of the profit that they made in the first couple of hours. The goal is to make money, and sometimes your account is much better served by not placing trades and instead waiting for strong setups. In the chart, the sideways action lasted until 11:45 a.m. PST, which is relatively late in the day. The time parameters are only guidelines. The overriding factor is the price action, and on trading range days the best trades are fades of the highs and lows of the day, but this takes patience.
 
 
-**图 PIV.5先向上急速行情再向下急速行情，通常引出一个交易区间**
+![图 PIV.5](figures/fig-PIV-5.jpg)
 
 
-> Figure PIV.5 Spike Up and Then Down Usually Leads to a Trading Range
+**图 PIV.5　先向上急速行情再向下急速行情，通常引出一个交易区间**
 
 
 每当市场先出现一波向上急速行情、再出现一波向下急速行情，或者反过来，它往往会进入一个交易区间，因为多头和空头都在争夺谁能造出朝自己方向的后续行情。在图 PIV.5中，礼来（LLY）的日线图显示一波急剧上涨结束于第2根K线，随后是一波急剧下跌。那里没有清晰的买入形态；相反，第4根K线处出现了一个低2突破回调入场。第6和第7根K线是在短暂的空头趋势线突破之后出现的做空信号K线（第6根K线是第一根均线缺口K线）。这段急速与通道空头趋势中第8根K线处的低点并不完全是一个等距运动，随后跟随一次对空头通道起点第4根K线的测试。
@@ -7495,10 +7132,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > A sharp move up and then down, like the move up to bar 2 and then down, is a climactic reversal and a two-bar reversal on some higher time frame chart. It is a single reversal bar on an even higher time frame chart. Bar 8 was a sell climax and a two-bar reversal, and the move would be a single reversal bar on some higher time frame chart. It was followed by a trading range, which grew into a bull channel.
 
 
-**图 PIV.6回调可以长成交易区间**
+![图 PIV.6](figures/fig-PIV-6.jpg)
 
 
-> Figure PIV.6 Pullbacks Can Grow into Trading Ranges
+**图 PIV.6　回调可以长成交易区间**
 
 
 强趋势之后跟随的回调，可以长成交易区间，有时还会长成反转，如图 PIV.6所示。这里，ViroPharma 公司（VPHM）的日线图中有一段强多头趋势，随后是一段强空头趋势，而整张图演变成了一个大交易区间。一波大涨之后紧跟一波大跌，就是一个买入高潮，而它通常接着又跟随一个交易区间，因为多头和空头都在继续交易，双方都试图造出朝自己方向的后续行情。
@@ -7537,10 +7174,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > The final leg down in a trading range in a bull market is often a bear channel, as it was here. Some traders saw the entire move from bar 3 to bar 9 as a wedge bull flag, which is a bear channel. Others saw the bear channel as starting at bar 5, bar 7, or after the large bear spike that followed bar 8. That bear spike led to three pushes down and a wedge bear channel. Traders bought above bar 9 and on the breakout pullbacks at bars 10 and 12.
 
 
-**图 PIV.7交易区间可以是一个反转建仓形态**
+![图 PIV.7](figures/fig-PIV-7.jpg)
 
 
-> Figure PIV.7 A Trading Range Can Be a Reversal Setup
+**图 PIV.7　交易区间可以是一个反转建仓形态**
 
 
 一个交易区间可以是一个反转建仓形态，尤其是当K线下方有影线、并且出现两K线反转（在更高时间级别图表上就是反转K线）的时候。如图 PIV.7所示，昨天先是一段空头急速行情，然后当天余下时间走成了一条低动能牛通道。所有牛通道都是熊旗，而这一条在今天开盘时向下突破了。不过，市场做了三次尝试（第8、9和12根K线）想跌破昨日低点，每一次遇到的都是买方而不是卖方。从第9根K线到第12根K线的小交易区间引出的是向上反转，而不是向下突破。第12根K线处失败的低2，就是今天这波强多头趋势的建仓形态。
@@ -7555,16 +7192,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Although a trader only needs to look at one chart to trade successfully, it is usually helpful to be aware of the big picture. The market was in a large trading range for four days, as shown in the inset of the 15 minute chart. The numbering is the same, but the 15 minute chart began before and ended after the 5 minute chart and has some additional numbers. Since there was a bull trend before the four-day trading range formed, traders were looking for an upside breakout. The final leg of a trading range in a bull market is often a bear channel, which is the last attempt by the bears to reverse the market down. Most reversal patterns are trading ranges, but most fail, like this one did. There were several possible choices for the start of the channel (bars 6, 7, and 8), and different traders saw each as the most important. However, they all agreed that bars 10 and 12 were reasonable buy setups. Bar 10 was a second attempt to reverse up after breaking below yesterday's low, and bar 12 was a breakout pullback from the bar 11 break above the bear trend line, as well as a higher low. The strong bull trend bars were signs of buying pressure, which is always good to see when looking to buy.
 
 
-对这张图的
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-深入讨论
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 如图 PIV.7所示，昨天从第5根K线到第6根K线的牛通道突破了空头趋势线，因此今天这个更低的低点是一个可能的趋势反转。
@@ -7579,10 +7210,10 @@ Emini 小型合约里，如果平均波幅大约是10个点，从入场算起总
 > Yesterday's bear flag became the final flag in the bear trend (but the bear trend was in a large four-day trading range in a bull market). Whenever there is a relatively horizontal bear flag, or a sloping one that is in a tight channel, it will have a magnetic pull on the market, and this often prevents breakouts from going very far. The tight trading range is an area of comfort for both bulls and bears, and both see the price level as an area of value. Traders were aware of this and were looking for signs of a reversal up after the breakout. The failed low 2 at bar 12 was also a double bottom pullback buy setup. Other traders saw it as a triple bottom or a triangle reversal. Most reversal patterns have multiple interpretations, and different traders prefer to describe them in their own particular way. It does not matter what you call it, because all that matters is that you were aware of the possible reversal and looked for some reason to get long.
 
 
-**图 PIV.8先买入高潮，再交易区间**
+![图 PIV.8](figures/fig-PIV-8.jpg)
 
 
-> Figure PIV.8 Buy Climax, Then Trading Range
+**图 PIV.8　先买入高潮，再交易区间**
 
 
 FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中第1根K线处形成了一根大型外包上涨K线，但它的高点从未被超越。它之后跟随一根大空头趋势K线，构成了一个买入高潮，而买入高潮之后通常跟随一个交易区间。这个交易区间可以短到只有一根K线，也可以持续几十根K线。空头没过多久就压倒了多头，造出了一段四根K线的空头急速行情。虽然报告可以带来剧烈波动，但价格行为是可靠的；所以不要陷入情绪之中，只要寻找合理的入场即可。
@@ -7603,16 +7234,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > All spikes are also breakouts and climaxes. The four-bar bear spike that began with bar 3 had shrinking bodies, indicating waning momentum. The sell climax was followed by a one-bar pause and then another large bear trend bar at bar 4, which created consecutive sell climaxes. When the emotional sellers have sold twice in a short period of time, there are usually very few traders left who are willing to sell at the low prices, and a bottom is often near. There was a third sell climax into the close and then a rally on the open the next day.
 
 
-对这张图的
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-深入讨论
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 图 PIV.8中的第2根K线是一根高2多头入场K线，但这个建仓形态有一个问题。
@@ -7669,10 +7294,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > The large bear trend bars that followed bar 10 created the third consecutive sell climax, which had a high probability of being followed by at least a two-legged rally, but sometimes instead there is just a two-legged sideways correction.
 
 
-**图 PIV.9交易区间引出反转**
+![图 PIV.9](figures/fig-PIV-9.jpg)
 
 
-> Figure PIV.9 Trading Ranges Leading to Reversals
+**图 PIV.9　交易区间引出反转**
 
 
 有时一个交易区间引出的不是持续，而是一波趋势反转，就像图 PIV.9所示的月度 SPY 图上发生了四次的那样。反转形态在第三本书中有更充分的讨论。这张图的目的，是证明交易区间也可以是反转形态。
@@ -7717,16 +7342,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > This was a small three-push-down pattern (this was clear on the daily chart), and the spike down from bar 30 was a sell climax after a huge sell climax down to bar 29. Consecutive sell climaxes usually lead to a pullback, at least to the moving average, lasting at least 10 bars and having at least two legs, and sometimes they can lead to a trend reversal. This buying was coming in just below the price level where the bulls bought aggressively at the bottom of bars 8, 9, and 10. The market was trying to reverse up from the breakout below that swing low, which is something that is common in trading ranges. In fact, the entire chart was a large trading range, despite the several strong trends that lasted as long as five years. Since most breakout attempts fail, buying should have been expected when the market fell below the bar 9 low.
 
 
-对这张图的
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-深入讨论
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 如图 PIV.9所示，当市场跌破第1、2、3根K线构成的头肩顶时，交易者开始转为始终做空。有些人在第3根K线那根构成更低高点的空头趋势K线和两K线反转下方开始做空。另一些人随着急速行情一路延伸到第4根K线，出于各种原因做空。尽管第5根K线是一根多头反转K线，并且是两K线反转上方的突破，但它是突破从第3根K线下来的窄幅空头通道的第一次尝试，因此很可能失败。多头需要有更强力量——表现为几根多头趋势K线——才会变得积极。空头把第5根K线看成一个微型通道低1做空，并盼着一次向下的等距运动。第8、9和10根K线处的底部，就位于一次从第3根K线急速行情起点开盘价到第4根K线（急速行情中最后一根空头趋势K线）收盘价的向下等距运动下方一点。这也促成了空头在那个区域的止盈以及多头的买入。
@@ -7789,9 +7408,6 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > The inside bar after the bar 29 sell climax was a good candidate for a final flag, especially since the breakout was another sell climax. This was another factor in the bar 31 reversal.
 
 
-# 第 Ⅳ 部分　交易区间
-
-
 # 第 21 章　如何交易一个交易区间
 
 *21. Example of How to Trade a Trading Range*
@@ -7809,13 +7425,29 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Among the best trade setups, beginners should focus on entries that use stops so that the market is going in their direction when they enter:
 
 
-• 在区间底部附近买入高2。这类入场往往是从底部把市场向上反转的第二次尝试，就像双底一样。 • 在区间顶部附近卖出低2。这类入场往往是从顶部把市场向下反转的第二次尝试，就像双顶一样。 • 在交易区间的底部买入，尤其是在它向上突破一条空头趋势线之后出现的二次入场。 • 在交易区间的顶部做空，尤其是在它跌破一条多头趋势线之后出现的二次入场。 • 在底部附近买入楔形牛旗。 • 在顶部附近卖出楔形熊旗。 • 在区间底部的某个摆动低点被跌破之后，买入一根多头反转K线，或买入末端旗形（在第3册中讨论）那样的反转形态。 • 在区间顶部的某个摆动高点被突破之后，卖出一根空头反转K线，或卖出末端旗形（在第3册中讨论）那样的反转形态。 • 在区间底部附近向上突破之后，买入一次突破回调（举例来说，如果市场开始上涨接着回调，就找机会在前一根K线的高点上方买入）。 • 在区间顶部附近向下突破之后，卖出一次突破回调（举例来说，如果市场开始下跌接着回调，就找机会在前一根K线的低点下方卖出）。用限价单入场，需要更强的读图经验，因为交易者入场时，市场正朝着与这笔交易相反的方向走。有些交易者会用更小的仓位，并在市场继续朝着对他们不利的方向走时分批建仓；但只有成功的、有经验的交易者才应当尝试这种做法。下面是一些用限价单或市价单入场的建仓形态示例：
+- 在区间底部附近买入高2。这类入场往往是从底部把市场向上反转的第二次尝试，就像双底一样。
+- 在区间顶部附近卖出低2。这类入场往往是从顶部把市场向下反转的第二次尝试，就像双顶一样。
+- 在交易区间的底部买入，尤其是在它向上突破一条空头趋势线之后出现的二次入场。
+- 在交易区间的顶部做空，尤其是在它跌破一条多头趋势线之后出现的二次入场。
+- 在底部附近买入楔形牛旗。
+- 在顶部附近卖出楔形熊旗。
+- 在区间底部的某个摆动低点被跌破之后，买入一根多头反转K线，或买入末端旗形（在第3册中讨论）那样的反转形态。
+- 在区间顶部的某个摆动高点被突破之后，卖出一根空头反转K线，或卖出末端旗形（在第3册中讨论）那样的反转形态。
+- 在区间底部附近向上突破之后，买入一次突破回调（举例来说，如果市场开始上涨接着回调，就找机会在前一根K线的高点上方买入）。
+- 在区间顶部附近向下突破之后，卖出一次突破回调（举例来说，如果市场开始下跌接着回调，就找机会在前一根K线的低点下方卖出）。用限价单入场，需要更强的读图经验，因为交易者入场时，市场正朝着与这笔交易相反的方向走。有些交易者会用更小的仓位，并在市场继续朝着对他们不利的方向走时分批建仓；但只有成功的、有经验的交易者才应当尝试这种做法。下面是一些用限价单或市价单入场的建仓形态示例：
 
 
 > • Buying a high 2 near the bottom of the range. These are often second attempts to reverse the market up from the bottom, like a double bottom. • Selling a low 2 near the top of the range. These are often second attempts to reverse the market down from the top, like a double top. • Buying at the bottom of a trading range, especially if it is a second entry after a break above a bear trend line. • Shorting at the top of a trading range, especially if it is a second entry after a break below the bull trend line. • Buying a wedge bull flag near the bottom. • Selling a wedge bear flag near the top. • Buying a bull reversal bar or reversal pattern like a final flag (discussed in book 3) after a break below a swing low at the bottom of the range. • Selling a bear reversal bar or reversal pattern like a final flag (discussed in book 3) after a break above a swing high at the top of the range. • Buying a breakout pullback after an upside breakout near the bottom of the range (for example, if the market starts up and pulls back, look to buy above the high of the prior bar). • Selling a breakout pullback after downside breakout near the top of the range (for example, if the market starts down and pulls back, look to sell below the low of the prior bar). Entering using limit orders requires more experience reading charts, because the trader is entering in a market that is going in the opposite direction to the trade. Some traders trade smaller positions and scale in if the market continues against them; but only successful, experienced traders should ever attempt this. Here are some examples of limit or market order trade setups:
 
 
-• 以市价单买入一段空头急速行情，或者在区间底部前一个摆动低点的低点处或更低处用限价单买入（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这种组合对很多交易者来说都很难做）。 • 以市价单卖出一段多头急速行情，或者在区间顶部前一个摆动高点的高点处或更高处用限价单卖出（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这种组合对很多交易者来说都很难做）。 • 在区间底部附近一根大空头趋势K线的收盘价处买入，或在其低点下方买入，因为它往往是一次衰竭性卖出高潮，也是交易区间里这轮抛售的终点。 • 在区间顶部附近一根大多头趋势K线的收盘价处卖出，或在其高点上方卖出，因为它往往是一次衰竭性买入高潮，也是交易区间里这轮上涨行情的终点。 • 在交易区间底部，在一根弱势的低1或低2信号K线处或更低处用限价单买入。 • 在交易区间顶部，在一根弱势的高1或高2信号K线处或更高处用限价单做空。 • 在一段强劲多头波段启动之际，买入一根空头收盘K线。 • 在一段强劲空头波段启动之际，卖出一根多头收盘K线。
+- 以市价单买入一段空头急速行情，或者在区间底部前一个摆动低点的低点处或更低处用限价单买入（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这种组合对很多交易者来说都很难做）。
+- 以市价单卖出一段多头急速行情，或者在区间顶部前一个摆动高点的高点处或更高处用限价单卖出（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这种组合对很多交易者来说都很难做）。
+- 在区间底部附近一根大空头趋势K线的收盘价处买入，或在其低点下方买入，因为它往往是一次衰竭性卖出高潮，也是交易区间里这轮抛售的终点。
+- 在区间顶部附近一根大多头趋势K线的收盘价处卖出，或在其高点上方卖出，因为它往往是一次衰竭性买入高潮，也是交易区间里这轮上涨行情的终点。
+- 在交易区间底部，在一根弱势的低1或低2信号K线处或更低处用限价单买入。
+- 在交易区间顶部，在一根弱势的高1或高2信号K线处或更高处用限价单做空。
+- 在一段强劲多头波段启动之际，买入一根空头收盘K线。
+- 在一段强劲空头波段启动之际，卖出一根多头收盘K线。
 
 
 > • Buying a bear spike at the market or on a limit order at or below the low of the prior swing low at the bottom of the range (entering in spikes requires a wider stop and the spike happens quickly, so this combination is difficult for many traders). • Selling a bull spike at the market or on a limit order at or above the high of the prior swing high at the top of the range (entering in spikes requires a wider stop and the spike happens quickly, so this combination is difficult for many traders). • Buying at the close or below the low of a large bear trend bar near the bottom of the range, since it is often an exhaustive sell climax and the end of the sell-off in a trading range. • Selling at the close or above the high of a large bull trend bar near the top of the range, since it is often an exhaustive buy climax and the end of the rally in a trading range. • Buying at or below a low 1 or 2 weak signal bar on a limit order at the bottom of a trading range. • Shorting at or above a high 1 or 2 weak signal bar on a limit order at the top of a trading range. • Buying a bear close at the start of a strong bull swing. • Selling a bull close at the start of a strong bear swing.
@@ -8294,16 +7926,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Expanding triangles are intensely two-sided and therefore have a magnetic pull on breakouts, causing most to fail, like at bar 6 and bar 7. Even after a successful breakout, the market often gets drawn back because it is an area where both the bulls and the bears believe there is value in initiating positions. Bar 8 was a large bear trend bar that became just another failed breakout.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 在图 22.3中，第8根K线是一次卖出高潮、一次突破失败，并且与太平洋时间上午8:15左右开始的那条多头通道的底部构成双底；它后面那根K线是一个首次出现的移动平均线缺口K线建仓形态（其实这是第二次尝试，因为第一次出现在四根K线之前）。
@@ -8372,16 +7998,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > The range that started at bar 2 was after two sharp bear legs and should be expected to be protracted and likely to lead to two up legs (the move to bar 3 became the first of the two legs). These patterns are difficult to trade and often have false breakouts. It is wise to trade them minimally, if at all, and simply wait for the inevitable clarity that will reappear. This was a micro channel, and the odds were high that once the breakout came, it would fail. The market broke to the downside, only to reverse back up into the close.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 所有交易区间，尤其是窄幅的，都是磁力位，突破通常会被拉回区间内。当一段趋势已经走了20根或更多根K线之后出现一个水平的交易区间，这个交易区间往往就是那段趋势的末端旗形。突破常常失败，市场回到区间内的价格水平。有时会出现趋势反转。
@@ -8540,16 +8160,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Bar 11 was an ioi pattern with a bull inside bar setting up an acceptable long for aggressive bulls, especially if they were willing to scale in lower. Most traders should have instead waited for a higher low before going long. The bar 14 higher low had a bull body and was a pullback from the bar 10 and bar 12 double bottom.
 
 
-深入讨论
+### 本图深入讨论
 
 
-> Deeper Discussion of
-
-
-本图
-
-
-> This Chart
+> ### Deeper Discussion of This Chart
 
 
 每当市场出现大型趋势K线时，这些K线既是急速行情，也是高潮，还是突破。其中的突破成分往往会引出一个等距运动目标位，空头会在那里止盈一部分或全部，而激进的多头会开始买入。在图 22.11中，第2根K线下方的那次突破，是由从第3根K线到第5根K线的一段五根K线空头急速行情完成的。市场用从第7根K线到第8根K线的四根K线回测了这次突破，而第2根K线低点这个突破点与第7根K线那次突破回测之间的空间是一个缺口，它可能成为测量缺口。从第1根K线高点到缺口中部的那段距离，常常可以测算出一个市场可能获得支撑的价位。这次，市场跌破了那个目标位。等距运动目标位总有很多种可能的选择，而且很多并不显而易见。从当天高点测算到测量缺口内第4根K线十字星的中点，得到的投影位比当天低点低一个最小报价单位。一旦市场跌破第一个目标位，交易者就会去寻找其它可能的目标位。如果找到一个是合乎逻辑的，那就会让他们更有信心：至少接下来一两个小时的底部已经出现。
@@ -8695,31 +8309,15 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Triangle D was an imperfect symmetrical triangle. Since symmetrical triangles are just trading ranges, traders could have looked to buy tests of the bull trend line below and short tests of the bear trend line above.
 
 
-第五部分
+# 第 Ⅴ 部分　委托与交易管理
 
-
-> Part V
-
-
-订单与交易
-
-
-> Orders and Trade
-
-
-管理
-
-
-> Management
+*Part V　Orders and Trade Management*
 
 
 仅仅会看走势图，并不意味着你就能靠交易谋生。你需要一套如何进场、如何出场的计划，而且必须对自己持有的每一个仓位不断做出决定。
 
 
 > Simply knowing how to read charts does not mean that you can make a living as a trader. You need a plan for getting into and out of trades, and you have to constantly make decisions about every position that you are holding.
-
-
-# 第 Ⅴ 部分　委托与交易管理
 
 
 # 第 24 章　刮头皮、波段交易、交易与投资
@@ -8757,16 +8355,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Because of the mathematics, the person taking the other side of a scalp has to have a lower probability of success. Since in a very efficient market, institutions control the price action, every trade that takes place has to be one where one or more institutions are willing to take one side and one or more other institutions are willing to take the other (nothing is absolute, but this is pretty close). This means that the person taking the other side of a reasonable scalp has to have a reward greater than his risk if he is to have a profitable trader's equation (you have to assume that he does because he is an institution or someone taking a trade that an institution is also willing to take). This makes him a swing trader. Since the probability of swing trades is often 40 percent or less, a swing trader can take the opposite side of a scalper's trade and still have a positive trader's equation. If the probability of the market falling two points is 40 percent, the swing trading bear who is trying for more than two points has to have less than a 40 percent chance of success. However, if he manages his trade correctly, he can still make a consistent profit using this strategy. For example, from the discussion following on scaling into trades, you will see that he could be using a much wider stop than two points, and he might be willing to scale in several times if the market goes higher. If so, his probability of success can be 60 percent or higher. Once the market finally falls, he could exit his entire position at his original entry price of 1254. If he exited his entire position at his original short entry price, he would be out at breakeven on his first entry and have a profit on all of the later shorts that he placed at higher prices.
 
 
-要想在5分钟 Emini 小型合约图上有效刮头皮，在当前日均波动区间为八到15个点的情况下，你必须承担大约两个点的风险，而止盈目标通常在1到3个点之间。做一个点的刮头皮，你必须赢下超过67% 的交易，才刚够保本。这一点对一些交易者来说做得到，但对大多数交易者并不现实。作为一条通则，只做那种潜在回报至少与风险一样大、而且你有把握的交易。说到把握，一条准则是：假定你的把握意味着你认为成功率至少有60%。在 Emini 小型合约里，基于5分钟图，两个点的止损目前（在日均区间10到15个点的情况下）是大多数交易最可靠的止损，这意味着你的止盈目标也至少应该是两个点。如果你觉得两个点不是一个现实的目标，那就别做这笔交易。顺便说一句，很多年前我有一位朋友，他常常一次交易100手 Emini 合约，一天做大约25笔交易、每笔刮两个最小报价单位。既然他住着一栋12,000平方英尺的房子，我猜他做得不错。不过，这属于高频交易的范畴，对大多数交易者来说，几乎不可能做得赚钱。我还有个朋友，他有一次跟我讲起我们共同认识的一位熟人，此人在
+要想在5分钟 Emini 小型合约图上有效刮头皮，在当前日均波动区间为八到15个点的情况下，你必须承担大约两个点的风险，而止盈目标通常在1到3个点之间。做一个点的刮头皮，你必须赢下超过67% 的交易，才刚够保本。这一点对一些交易者来说做得到，但对大多数交易者并不现实。作为一条通则，只做那种潜在回报至少与风险一样大、而且你有把握的交易。说到把握，一条准则是：假定你的把握意味着你认为成功率至少有60%。在 Emini 小型合约里，基于5分钟图，两个点的止损目前（在日均区间10到15个点的情况下）是大多数交易最可靠的止损，这意味着你的止盈目标也至少应该是两个点。如果你觉得两个点不是一个现实的目标，那就别做这笔交易。顺便说一句，很多年前我有一位朋友，他常常一次交易100手 Emini 合约，一天做大约25笔交易、每笔刮两个最小报价单位。既然他住着一栋12,000平方英尺的房子，我猜他做得不错。不过，这属于高频交易的范畴，对大多数交易者来说，几乎不可能做得赚钱。我还有个朋友，他有一次跟我讲起我们共同认识的一位熟人，此人在华尔街当律师赚了数百万美元，后来做交易几乎把这些钱全亏掉了。他大概以为，自己比那些当交易者赚了数百万的客户聪明得多，自己至少也该做得一样好。他一次刮100手 Emini 合约，头两年亏掉了200万美元。他可能很聪明，但他并不明智。一件事看起来容易，并不意味着它真的容易。
 
 
-> To scalp the 5 minute Emini chart effectively, with the current average daily range between eight and 15 points, you have to risk about two points, and your profit target is usually between one and three points. On one-point scalps, you have to win on over 67 percent of your trades just to break even. Although this is achievable for some traders, it is unrealistic for the majority of them. As a general rule, take a trade only where the potential reward is at least as large as the risk and where you are confident about the trade. If you are confident, one guideline is to assume that you believe that the chance of success is at least 60 percent. In the Emini, a two-point stop is currently (with an average daily range of 10 to 15 points) the most reliable stop for most trades based on a 5 minute chart, and that means that your profit target should be at least two points as well. If you do not think that two points is a realistic target, then don't take the trade. Incidentally, I had a friend many years ago who used to trade 100 Emini contracts at a time, scalping two ticks on about 25 trades a day. Since he lived in a 12,000-square-foot house, I assume that he was doing well. However, this is in the realm of high-frequency trading and virtually impossible for most traders to do profitably. A have another friend who once told me about a mutual acquaintance who made millions on
-
-
-华尔街当律师赚了数百万美元，后来做交易几乎把这些钱全亏掉了。他大概以为，自己比那些当交易者赚了数百万的客户聪明得多，自己至少也该做得一样好。他一次刮100手 Emini 合约，头两年亏掉了200万美元。他可能很聪明，但他并不明智。一件事看起来容易，并不意味着它真的容易。
-
-
-> Wall Street as an attorney and lost almost all of it as a trader. He probably assumed that he was much smarter than all of his clients who were making millions as traders and that he should have been able to do at least as well. He scalped 100 Emini contracts and lost $2 million over the first couple of years. He might have been smart, but he was not wise. Just because something looks easy does not mean that it actually is easy.
+> To scalp the 5 minute Emini chart effectively, with the current average daily range between eight and 15 points, you have to risk about two points, and your profit target is usually between one and three points. On one-point scalps, you have to win on over 67 percent of your trades just to break even. Although this is achievable for some traders, it is unrealistic for the majority of them. As a general rule, take a trade only where the potential reward is at least as large as the risk and where you are confident about the trade. If you are confident, one guideline is to assume that you believe that the chance of success is at least 60 percent. In the Emini, a two-point stop is currently (with an average daily range of 10 to 15 points) the most reliable stop for most trades based on a 5 minute chart, and that means that your profit target should be at least two points as well. If you do not think that two points is a realistic target, then don't take the trade. Incidentally, I had a friend many years ago who used to trade 100 Emini contracts at a time, scalping two ticks on about 25 trades a day. Since he lived in a 12,000-square-foot house, I assume that he was doing well. However, this is in the realm of high-frequency trading and virtually impossible for most traders to do profitably. A have another friend who once told me about a mutual acquaintance who made millions on Wall Street as an attorney and lost almost all of it as a trader. He probably assumed that he was much smarter than all of his clients who were making millions as traders and that he should have been able to do at least as well. He scalped 100 Emini contracts and lost $2 million over the first couple of years. He might have been smart, but he was not wise. Just because something looks easy does not mean that it actually is easy.
 
 
 该不该专挑最好的交易来做，这个问题每个人都有过。与其操心一天做20笔交易、每笔都想赚一个点，那何不只刮一天当中最好的三笔交易、每笔都争取赚一个点呢？理论上可行，但现实是：如果你为了一笔完美的交易等了那么久，又花了那么长时间、那么大力气学会识别这样一笔绝佳交易所需的一切，你就必须确保自己得到足够的回报。一个点并不够。举例来说，如果你相信自己即将买入的是当天最好的一两个建仓形态之一，你就该假定市场也会认同这个形态很强。这意味着始终入场（always-in）的方向很可能明确变成始终做多，很可能至少有两段行情上涨到某种等距运动（measured move）目标位或磁力区，而且这波行情至少应该持续10根K线。与其冒着两个点的风险去刮一个点，不如在至少赚到两个点之后再离场，甚至可能拿到四个点。如果你在情绪上处理不了这一点，发现自己一遇到第一次回调就在保本处平仓，你可以试试在刚做多时马上挂一张 OCO（一单成交即撤销另一单）括号订单，其中包含两个点的保护性止损和两个点的止盈限价单。只要一张成交，另一张就自动撤销。然后出去走一走，大约一小时后回来。这样做过几次之后，你可以试着把止盈目标从两个点改成三个点或四个点，你也许很快就会发现，自己在这类交易上平均每天赚四个点。
@@ -9038,7 +8630,7 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Here are some examples of situations where a trader has an edge: Probability of success of 70 percent or better (reward has to be at least half as big as risk just to break even):
 
 
-• 刮头皮，但既然大多数交易者无法持续挑出成功概率70%的交易，他们只在回报至少与风险一样大时才应该做刮头皮。举例来说，如果你认为在 Emini 中需要两个点的止损，那就只有在至少两个点的回报是合理的时候才做这笔交易。
+- 刮头皮，但既然大多数交易者无法持续挑出成功概率70%的交易，他们只在回报至少与风险一样大时才应该做刮头皮。举例来说，如果你认为在 Emini 中需要两个点的止损，那就只有在至少两个点的回报是合理的时候才做这笔交易。
 
 
 > • Scalps, but since most traders cannot consistently pick trades with a 70 percent chance of success, they should trade a scalp only if the reward is at least as large as the risk. For example, if you believe that a two-point stop is needed in the Emini, take the trade only if at least a two-point reward is reasonable.
@@ -9050,49 +8642,76 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Probability of success of 60 percent or better (reward has to be at least as big as risk to break even):
 
 
-• 在多头趋势中买入回调到移动平均线的高2。• 在空头趋势中卖出回调到移动平均线的低2。• 在多头趋势中买入楔形牛旗的回调。• 在空头趋势中卖出楔形熊旗的回调。• 在多头趋势中，买入牛旗突破之后的突破回调。• 在空头趋势中，卖出熊旗突破之后的突破回调。• 在多头趋势中买入强劲多头急速行情中的高1回调，但不要在买入高潮之后买入。• 在空头趋势中卖出强劲空头急速行情中的低1回调，但不要在卖出高潮之后卖出。• 在交易区间顶部做空，尤其是二次入场时。• 在交易区间底部做多，尤其是二次入场时。• 趋势反转：
+- 在多头趋势中买入回调到移动平均线的高2。
+- 在空头趋势中卖出回调到移动平均线的低2。
+- 在多头趋势中买入楔形牛旗的回调。
+- 在空头趋势中卖出楔形熊旗的回调。
+- 在多头趋势中，买入牛旗突破之后的突破回调。
+- 在空头趋势中，卖出熊旗突破之后的突破回调。
+- 在多头趋势中买入强劲多头急速行情中的高1回调，但不要在买入高潮之后买入。
+- 在空头趋势中卖出强劲空头急速行情中的低1回调，但不要在卖出高潮之后卖出。
+- 在交易区间顶部做空，尤其是二次入场时。
+- 在交易区间底部做多，尤其是二次入场时。
+- 趋势反转：
 
 
 > • Buying a high 2 pullback to the moving average in a bull trend. • Selling a low 2 pullback to the moving average in a bear trend. • Buying a wedge bull flag pullback in a bull trend. • Selling a wedge bear flag pullback in a bear trend. • Buying a breakout pullback from a breakout of a bull flag in a bull trend. • Selling a breakout pullback from a breakout of a bear flag in a bear trend. • Buying a high 1 pullback in a strong bull spike in a bull trend, but not after a buy climax. • Selling a low 1 pullback in a strong bear spike in a bear trend, but not after a sell climax. • Shorting at the top of a trading range, especially if it is a second entry. • Buying at the bottom of a trading range, especially if it is a second entry. • Trend reversals:
 
 
-• 趋势线被强势突破之后，在趋势极值被测试之后、且出现一根好的反转信号K线时，寻找反转。交易者在底部想买更高的低点或更低的低点，在顶部想做空更高的高点或更低的高点。• 强势的末端旗形反转。• 在空头楼梯形态中买入第三次或第四次向下推进，去测试前一次向下推进的低点。• 在多头楼梯形态中卖出第三次或第四次向上推进，去测试前一次向上推进的高点。• 用限价单入场；这需要更多的读图经验，因为交易者是在一个正朝交易反方向运行的市场里入场。不过，经验丰富的交易者可以在下列这些建仓形态上可靠地使用限价单或市价单：
+- 趋势线被强势突破之后，在趋势极值被测试之后、且出现一根好的反转信号K线时，寻找反转。交易者在底部想买更高的低点或更低的低点，在顶部想做空更高的高点或更低的高点。
+- 强势的末端旗形反转。
+- 在空头楼梯形态中买入第三次或第四次向下推进，去测试前一次向下推进的低点。
+- 在多头楼梯形态中卖出第三次或第四次向上推进，去测试前一次向上推进的高点。
+- 用限价单入场；这需要更多的读图经验，因为交易者是在一个正朝交易反方向运行的市场里入场。不过，经验丰富的交易者可以在下列这些建仓形态上可靠地使用限价单或市价单：
 
 
 > • After a strong break of the trend line, look for a reversal after a test of the trend's extreme where there is a good reversal signal bar. Traders are looking to buy a higher low or a lower low at a bottom, or to short a higher high or a lower high at a top. • Strong final flag reversal. • Buying a third or fourth push down in a bear stairs pattern for a test of the low of the prior push down. • Selling a third or fourth push up in a bull stairs pattern for a test of the high of the prior push up. • Entering using limit orders; this requires more experience reading charts, because the trader is entering in a market that is going in the opposite direction to the trade. However, experienced traders can reliably use limit or market orders with these setups:
 
 
-• 在强劲多头突破中买入多头急速行情，用市价单或在K线收盘时买，或用限价单在前一根K线低点处或下方买（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这个组合对许多交易者来说很难）。• 在强劲空头突破中卖出空头急速行情，用市价单或在K线收盘时卖，或用限价单在前一根K线高点处或上方卖（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这个组合对许多交易者来说很难）。• 在等距运动附近买入空头突破，前提是这次突破不太强——例如，如果 Emini 中的区间大约有四个点高，就在区间下方四个点处用限价单买入，冒四个点的风险，预期市场会去测试突破点。只有经验非常丰富的交易者才应该考虑这样做。• 在等距运动附近卖出多头突破，前提是这次突破不太强——例如，如果 Emini 中的区间大约有四个点高，就在区间上方四个点处用限价单卖出，冒四个点的风险，预期市场会去测试突破点。只有经验非常丰富的交易者才应该考虑这样做。
+- 在强劲多头突破中买入多头急速行情，用市价单或在K线收盘时买，或用限价单在前一根K线低点处或下方买（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这个组合对许多交易者来说很难）。
+- 在强劲空头突破中卖出空头急速行情，用市价单或在K线收盘时卖，或用限价单在前一根K线高点处或上方卖（在急速行情中入场需要更宽的止损，而急速行情发生得很快，所以这个组合对许多交易者来说很难）。
+- 在等距运动附近买入空头突破，前提是这次突破不太强——例如，如果 Emini 中的区间大约有四个点高，就在区间下方四个点处用限价单买入，冒四个点的风险，预期市场会去测试突破点。只有经验非常丰富的交易者才应该考虑这样做。
+- 在等距运动附近卖出多头突破，前提是这次突破不太强——例如，如果 Emini 中的区间大约有四个点高，就在区间上方四个点处用限价单卖出，冒四个点的风险，预期市场会去测试突破点。只有经验非常丰富的交易者才应该考虑这样做。
 
 
 > • Buying a bull spike in a strong bull breakout at the market or at the close of the bar, or on a limit order at or below the low of the prior bar (entering in spikes requires a wider stop and the spike happens quickly, so this combination is difficult for many traders). • Selling a bear spike in a strong bear breakout at the market or at the close of the bar, or on a limit order at or above the high of the prior bar (entering in spikes requires a wider stop and the spike happens quickly, so this combination is difficult for many traders). • Buying a bear breakout at around a measured move, if the breakout is not too strong—for example, if the range is about four points tall in the Emini, buying on a limit order at four points below the range, risking four points, and expecting a test of the breakout point. Only very experienced traders should consider this. • Selling a bull breakout at around a measured move, if the breakout is not too strong—for example, if the range is about four points tall in the Emini, selling on a limit order at four points above the range, risking four points, and expecting a test of the breakout point. Only very experienced traders should consider this.
 
 
-• 在可能出现的、紧随强势反转之后的新多头趋势中，或在交易区间的底部，用限价单在低1或低2弱势信号K线处或下方买入。• 在可能出现的、紧随强势反转之后的新空头趋势中，或在交易区间的顶部，用限价单在高1或高2弱势信号K线处或上方做空。• 在移动平均线处一个平静的牛旗中，用限价单在前一根K线处或下方买入。• 在移动平均线处一个平静的熊旗中，用限价单在前一根K线处或上方做空。• 在一根向上突破牛旗的多头K线下方买入，预期出现突破回调。• 在一根向下跌破熊旗的空头K线上方卖出，预期出现突破回调。成功概率约50%（为了打平，回报至少要比风险大50%）：
+- 在可能出现的、紧随强势反转之后的新多头趋势中，或在交易区间的底部，用限价单在低1或低2弱势信号K线处或下方买入。
+- 在可能出现的、紧随强势反转之后的新空头趋势中，或在交易区间的顶部，用限价单在高1或高2弱势信号K线处或上方做空。
+- 在移动平均线处一个平静的牛旗中，用限价单在前一根K线处或下方买入。
+- 在移动平均线处一个平静的熊旗中，用限价单在前一根K线处或上方做空。
+- 在一根向上突破牛旗的多头K线下方买入，预期出现突破回调。
+- 在一根向下跌破熊旗的空头K线上方卖出，预期出现突破回调。成功概率约50%（为了打平，回报至少要比风险大50%）：
 
 
 > • Buying at or below a low 1 or 2 weak signal bar on a limit order in a possible new bull trend after a strong reversal or at the bottom of a trading range. • Shorting at or above a high 1 or 2 weak signal bar on a limit order in a possible new bear trend after a strong reversal or at the top of a trading range. • Buying at or below the prior bar on a limit order in a quiet bull flag at the moving average. • Shorting at or above the prior bar on a limit order in a quiet bear flag at the moving average. • Buying below a bull bar that breaks above a bull flag, anticipating a breakout pullback. • Selling above a bear bar that breaks below a bear flag, anticipating a breakout pullback. Probability of success of about 50 percent (reward has to be at least 50 percent greater than risk to break even):
 
 
-• 在交易区间中分批建仓时的第一次入场。
+- 在交易区间中分批建仓时的第一次入场。
 
 
 > • The initial entry when scaling into a position in a trading range.
 
 
-• 在窄幅交易区间中买入或卖出，预期一次突破能带来几倍于风险的利润。• 当趋势可能反转向下时在交易区间中做空一个更低的高点，或者当趋势可能反转向上时买入一个更高的低点。由于入场点在交易区间的中部，概率是50%，但回报通常是风险的两倍。成功概率40%或更低（回报至少要是风险的两倍）：
+- 在窄幅交易区间中买入或卖出，预期一次突破能带来几倍于风险的利润。
+- 当趋势可能反转向下时在交易区间中做空一个更低的高点，或者当趋势可能反转向上时买入一个更高的低点。由于入场点在交易区间的中部，概率是50%，但回报通常是风险的两倍。成功概率40%或更低（回报至少要是风险的两倍）：
 
 
 > • Buying or selling in a tight trading range, expecting a breakout that would result in a profit that is several times greater than your risk. • Shorting a lower high in a trading range when the trend might be reversing down, or buying a higher low when the trend might be reversing up. Since the entry is in the middle of the trading range, the probability is 50 percent, but the reward is usually twice the risk. Probability of success of 40 percent or less (reward has to be at least twice the size of risk):
 
 
-• 在空头趋势的底部买入，或在多头趋势的顶部做空，此时反转交易允许很小的风险和非常大的回报——例如，在上涨行情涨到明确的阻力位时做空，用限价单在阻力位下方一个最小报价单位处入场，把保护性止损放在阻力位上方一个或两个最小报价单位处。在讲限价单入场的那一章里就有好几个例子。成功概率40%到60%，视情况而定（当概率只有40%时，为了打平，回报至少要是风险的两倍）：
+- 在空头趋势的底部买入，或在多头趋势的顶部做空，此时反转交易允许很小的风险和非常大的回报——例如，在上涨行情涨到明确的阻力位时做空，用限价单在阻力位下方一个最小报价单位处入场，把保护性止损放在阻力位上方一个或两个最小报价单位处。在讲限价单入场的那一章里就有好几个例子。成功概率40%到60%，视情况而定（当概率只有40%时，为了打平，回报至少要是风险的两倍）：
 
 
 > • Buying at the bottom of a bear trend or shorting at the top of bull trend where the reversal trade allows for a small risk and a very large reward—for example, shorting a rally to a clear resistance level, entering on a limit order at one tick below the resistance, and having a protective stop at one or two ticks above it. There are several examples in the chapter on entering on limit orders. Probability of success of 40 percent to 60 percent, depending on circumstances (reward has to be at least twice the size of risk to break even when the probability is only 40 percent):
 
 
-• 在多头趋势中，当市场下跌时用限价单买入一次突破回测；或在空头趋势中，当市场上涨时用限价单做空一次突破回测。• 在一个新的多头趋势中，或在交易区间的底部，用限价单在低1或低2信号K线下方买入，即使那根信号K线并不弱势（这是一个潜在的更高的低点）；或者在一个新的空头趋势中，或在交易区间的顶部，用限价单在高1或高2信号K线上方做空，即使那根信号K线并不弱势（这是一个潜在的更低的高点）。举例来说，如果市场可能在多头趋势中正在完成一个楔形反转顶部，然后回调了一根K线或几根K线，那么在高1和高2信号K线上方做空，就是在你希望是新空头波段行情的地方做空。• 对磁力位做反向操作，比如在多头趋势中一个等距运动上涨处做空，或在空头趋势中一个等距运动下跌处买入。• 在一个已经走得过头的空头趋势中，在支撑区域，在一根异常大的空头趋势K线收盘前后买入一个卖出高潮（高潮在第三册中讨论）。• 在一个已经走得过头的多头趋势中，在阻力区域，在一根异常大的多头趋势K线收盘前后卖出一个买入高潮。
+- 在多头趋势中，当市场下跌时用限价单买入一次突破回测；或在空头趋势中，当市场上涨时用限价单做空一次突破回测。
+- 在一个新的多头趋势中，或在交易区间的底部，用限价单在低1或低2信号K线下方买入，即使那根信号K线并不弱势（这是一个潜在的更高的低点）；或者在一个新的空头趋势中，或在交易区间的顶部，用限价单在高1或高2信号K线上方做空，即使那根信号K线并不弱势（这是一个潜在的更低的高点）。举例来说，如果市场可能在多头趋势中正在完成一个楔形反转顶部，然后回调了一根K线或几根K线，那么在高1和高2信号K线上方做空，就是在你希望是新空头波段行情的地方做空。
+- 对磁力位做反向操作，比如在多头趋势中一个等距运动上涨处做空，或在空头趋势中一个等距运动下跌处买入。
+- 在一个已经走得过头的空头趋势中，在支撑区域，在一根异常大的空头趋势K线收盘前后买入一个卖出高潮（高潮在第三册中讨论）。
+- 在一个已经走得过头的多头趋势中，在阻力区域，在一根异常大的多头趋势K线收盘前后卖出一个买入高潮。
 
 
 > • Buying a breakout test in a bull trend on a limit order as the market is falling, or shorting a breakout test in a bear trend on a limit order as the market is rising. • Buying below a low 1 or 2 signal bar, even if it is not weak, on a limit order (a potential higher low) in a new bull trend or at the bottom of a trading range, or shorting above a high 1 or 2 signal bar, even if it is not weak, on a limit order (a potential lower high) in a new bear trend or at the top of a trading range. For example, if the market might be completing a wedge reversal top in a bull trend and pulls back for a bar or a few bars, shorting above the high 1 and high 2 signal bars is shorting in what you hope is a new bear swing. • Fading magnets, like shorting at a measured move up in a bull trend or buying at a measured move down in a bear trend. • Buying a sell climax around the close of an unusually large bear trend bar in an area of support in an overdone bear trend (climaxes are discussed in book 3). • Selling a buy climax around the close of an unusually large bull trend bar in an area of resistance in an overdone bull trend.
@@ -9104,22 +8723,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Beginning traders quickly learn that trading trends appears to be an excellent way to make money. However, they soon discover that trading trends is actually just as difficult as any other type of trading. For them to make money, someone else has to lose it. The market is a zero-sum game being played by countless smart people on both sides. This guarantees that the three variables in the trader's equation will always keep the edge small and difficult to assess. For a trader to make money, he has to be consistently better than half of the other traders out there. Since most of the competitors are profitable institutions, a trader has to be very good. In a trend, the probability is often smaller than a beginner would like, and the risk is larger. In a trading range, the risk is not great, but neither is the probability or the reward. In a reversal, although the reward can be large, the risk is often big as well and the probability is small. In a scalp, the probability is high, but the reward is small compared to the risk.
 
 
-交易者的
+交易者的等式即使大多数交易者不会用数学的方式去想一笔交易，所有成功的交易者都在运用交易者等式，至少是下意识地在用。你常常会听到电视上的评论员在决定是否做一笔交易时谈论风险回报比。这很可惜，因为它忽略了一个同样重要的变量：概率。要做一笔交易，你必须相信交易者等式是有利的：成功概率乘以回报，必须大于失败概率乘以风险。当一个评论员说某笔交易的风险回报比不错时，他其实只是说，如果你正确地管理这笔交易，它有一种优势、也就是一种数学上的有利条件。他的推荐里隐含的意思是这笔交易“大概率”会成，也就是他相信你有超过50%的机会赚到钱。虽然他们不会这样评价自己的说法，但如果他们是成功的交易者，他们就一定是这样想的，因为不考虑全部三个变量，就不可能成功。
 
 
-> THE TRADER'S
-
-
-等式
-
-
-> EQUATION
-
-
-即使大多数交易者不会用数学的方式去想一笔交易，所有成功的交易者都在运用交易者等式，至少是下意识地在用。你常常会听到电视上的评论员在决定是否做一笔交易时谈论风险回报比。这很可惜，因为它忽略了一个同样重要的变量：概率。要做一笔交易，你必须相信交易者等式是有利的：成功概率乘以回报，必须大于失败概率乘以风险。当一个评论员说某笔交易的风险回报比不错时，他其实只是说，如果你正确地管理这笔交易，它有一种优势、也就是一种数学上的有利条件。他的推荐里隐含的意思是这笔交易“大概率”会成，也就是他相信你有超过50%的机会赚到钱。虽然他们不会这样评价自己的说法，但如果他们是成功的交易者，他们就一定是这样想的，因为不考虑全部三个变量，就不可能成功。
-
-
-> Even though most traders don't think about a trade in mathematical terms, all successful traders use the trader's equation, at least subconsciously. You will often hear pundits on television talk about the risk/reward ratio when they are deciding whether to take a trade. This is unfortunate because it overlooks an equally important variable, probability. To take a trade, you must believe that the trader's equation is favorable: the probability of success times the reward has to be greater than the probability of failure times the risk. When a pundit says that a trade has a good risk/reward ratio, he simply means that it has an edge or a mathematical advantage, if you manage your trade correctly. Implicit in his recommendation is that the trade will “probably” work, meaning that he believes that there is better than a 50 percent chance that you will make a profit. Although they don't think of their comments this way, this is what they must believe if they are successful traders, because there is no way to be successful without considering all three variables.
+> THE TRADER'S EQUATION Even though most traders don't think about a trade in mathematical terms, all successful traders use the trader's equation, at least subconsciously. You will often hear pundits on television talk about the risk/reward ratio when they are deciding whether to take a trade. This is unfortunate because it overlooks an equally important variable, probability. To take a trade, you must believe that the trader's equation is favorable: the probability of success times the reward has to be greater than the probability of failure times the risk. When a pundit says that a trade has a good risk/reward ratio, he simply means that it has an edge or a mathematical advantage, if you manage your trade correctly. Implicit in his recommendation is that the trade will “probably” work, meaning that he believes that there is better than a 50 percent chance that you will make a profit. Although they don't think of their comments this way, this is what they must believe if they are successful traders, because there is no way to be successful without considering all three variables.
 
 
 任何一笔交易，回报和风险都是由你自己设定的，因为潜在回报就是到你的止盈目标的距离，风险就是到你的止损的距离。这个等式难就难在给概率赋值，而概率永远无法被确定地知道。
@@ -9458,22 +9065,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > If AAPL broke below a trading range that is $3.00 high and there is support around $3.00 below, which is also the area of the measured move based on the height of the range, you can look to buy about $3.00 down from the breakout for a $3.00 rally that will test the breakout. If the move down is a strong $2.00 or $3.00 spike that will likely have follow-through in the form of a bear channel, you should not buy on a limit order and should instead wait either for a second entry to go long or for a pullback that you can short. However, if the sell-off below the trading range has two or three strong bull trend bars, lots of overlapping bars with tails, and two or three clear legs down, you can consider buying on a limit order $3.00 down and risking $3.00, since the odds of a test up to the breakout $3.00 above are probably at least 60 percent. If there is a second-entry buy setup and the signal bar is only 30 cents tall and its low is $3.00 below the breakout point, then you are risking only 32 cents and you have about a 60 percent chance of gaining $2.70 on a rally back up to the bottom of the trading range.
 
 
-方向
+方向概率交易者总是想找到那些大概能赚钱的交易。不过，还有一种概率能帮助交易者选择交易。在每一个时刻，下一个最小报价单位的方向都附着一个概率。它会更高还是更低？在一天中的大部分时间，这个概率都在50%左右徘徊，也就是说下一个最小报价单位上涨的机会与下跌的机会相同。这是一次等距运动（幅度为一个最小报价单位）当下的方向概率。事实上，在一天中的大部分时间，任何幅度的等距运动向上与向下的方向概率都在50%左右徘徊。所以，市场往往有接近50%的机会在下跌10个最小报价单位之前先上涨10个最小报价单位，也有50%的机会在上涨10个最小报价单位之前先下跌10个最小报价单位。20个或30个最小报价单位也一样。这无所谓，只要这个幅度相对你正在看的图表来说不是太大；而且，这个幅度相对最近五到十根K线的区间越小，概率就越精确。显然，如果你看的是一只10美元的股票，下跌20美元的方向概率是没有意义的，因为你亏20美元的概率是零。不过，只要行情幅度在图表的合理范围之内，所有交易者都会在每一笔交易上使用方向概率，尽管大多数人从不用这些术语来想自己的交易。交易者也许会在 IBM 回调到日线移动平均线时买入，因为他们相信在下跌3.00美元之前先上涨5.00美元的机会更大。所谓“机会更大”，他们的意思是自己相信实现目标的机会远超50%，否则他们不会做这笔交易。他们多半认为这个机会有60%或更好。如果交易者极度看多，他们也许相信 IBM 在下跌3.00美元之前先上涨10美元的机会有70%，而如果他们判断对了，那他们就刚刚做了一笔出色的交易。
 
 
-> DIRECTIONAL
-
-
-概率
-
-
-> PROBABILITY
-
-
-交易者总是想找到那些大概能赚钱的交易。不过，还有一种概率能帮助交易者选择交易。在每一个时刻，下一个最小报价单位的方向都附着一个概率。它会更高还是更低？在一天中的大部分时间，这个概率都在50%左右徘徊，也就是说下一个最小报价单位上涨的机会与下跌的机会相同。这是一次等距运动（幅度为一个最小报价单位）当下的方向概率。事实上，在一天中的大部分时间，任何幅度的等距运动向上与向下的方向概率都在50%左右徘徊。所以，市场往往有接近50%的机会在下跌10个最小报价单位之前先上涨10个最小报价单位，也有50%的机会在上涨10个最小报价单位之前先下跌10个最小报价单位。20个或30个最小报价单位也一样。这无所谓，只要这个幅度相对你正在看的图表来说不是太大；而且，这个幅度相对最近五到十根K线的区间越小，概率就越精确。显然，如果你看的是一只10美元的股票，下跌20美元的方向概率是没有意义的，因为你亏20美元的概率是零。不过，只要行情幅度在图表的合理范围之内，所有交易者都会在每一笔交易上使用方向概率，尽管大多数人从不用这些术语来想自己的交易。交易者也许会在 IBM 回调到日线移动平均线时买入，因为他们相信在下跌3.00美元之前先上涨5.00美元的机会更大。所谓“机会更大”，他们的意思是自己相信实现目标的机会远超50%，否则他们不会做这笔交易。他们多半认为这个机会有60%或更好。如果交易者极度看多，他们也许相信 IBM 在下跌3.00美元之前先上涨10美元的机会有70%，而如果他们判断对了，那他们就刚刚做了一笔出色的交易。
-
-
-> Traders always want to find trades where they will probably make money. However, there is another type of probability that can help traders in their trade selection. At every moment, there is a probability attached to the direction of the next tick. Will it be higher or lower? For most of the day, the probability hovers around 50 percent, which means that the chance that the next tick will be higher is the same as the chance that it will be lower. This is the current directional probability of an equidistant move where the size of that move is one tick. In fact, the directional probability of an equidistant move of any size up versus down hovers around 50 percent for most of the day. So there is usually close to a 50 percent chance that the market will go up 10 ticks before it falls 10 ticks and a 50 percent chance that it will fall 10 ticks before going up 10 ticks. The same is true for 20 ticks or 30 ticks. It does not matter, as long as the size of the move is not too large relative to the chart you are viewing; also, the smaller the size of the move relative to the range over the recent five to 10 bars, the more accurate is the probability. Obviously, if you are looking at a stock trading at $10, the directional probability of a $20 move down is meaningless, because there is a zero probability that you will lose $20. However, with respect to moves that are within a reasonable range based on the chart, all traders use directional probabilities on every trade, although most never think of their trades in these terms. Traders might buy IBM in a pullback to the daily moving average because they believe that the odds favor a $5.00 rally before a $3.00 drop. By “the odds favor,” they mean that they believe that there is well over a 50 percent chance that they will achieve their goal, or else they would not take the trade. They most likely believe that the odds are 60 percent or better. If traders are extremely bullish, they might believe that the odds are 70 percent that IBM will rally $10 before it falls $3.00, and if they are right, then they just made a great trade.
+> DIRECTIONAL PROBABILITY Traders always want to find trades where they will probably make money. However, there is another type of probability that can help traders in their trade selection. At every moment, there is a probability attached to the direction of the next tick. Will it be higher or lower? For most of the day, the probability hovers around 50 percent, which means that the chance that the next tick will be higher is the same as the chance that it will be lower. This is the current directional probability of an equidistant move where the size of that move is one tick. In fact, the directional probability of an equidistant move of any size up versus down hovers around 50 percent for most of the day. So there is usually close to a 50 percent chance that the market will go up 10 ticks before it falls 10 ticks and a 50 percent chance that it will fall 10 ticks before going up 10 ticks. The same is true for 20 ticks or 30 ticks. It does not matter, as long as the size of the move is not too large relative to the chart you are viewing; also, the smaller the size of the move relative to the range over the recent five to 10 bars, the more accurate is the probability. Obviously, if you are looking at a stock trading at $10, the directional probability of a $20 move down is meaningless, because there is a zero probability that you will lose $20. However, with respect to moves that are within a reasonable range based on the chart, all traders use directional probabilities on every trade, although most never think of their trades in these terms. Traders might buy IBM in a pullback to the daily moving average because they believe that the odds favor a $5.00 rally before a $3.00 drop. By “the odds favor,” they mean that they believe that there is well over a 50 percent chance that they will achieve their goal, or else they would not take the trade. They most likely believe that the odds are 60 percent or better. If traders are extremely bullish, they might believe that the odds are 70 percent that IBM will rally $10 before it falls $3.00, and if they are right, then they just made a great trade.
 
 
 最后这个观察很重要，而且是对的。如果 IBM 处于一个楔形牛旗回调中，位置在5分钟图的移动平均线处，也处在强劲多头趋势的多头趋势线处，那么一次半美元的上涨发生在半美元抛售之前的方向概率是60%，但一次1美元的上涨发生在半美元抛售之前的机会也许只略低一点，比如也许57%，而这给了交易者一种极大的优势，也解释了为什么在回调时入场是如此好的一个策略。
@@ -9494,16 +9089,10 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Almost all traders should only take trades where the reward is at least as large as the risk, and the directional probability of an equidistant move (a move where the reward is the same size as the risk) is a good thing to consider before taking any trade. Is it likely that I will make at least as much as I stand to lose? In other words, is there a 60 percent chance or better of making two points on a buy setup in the Emini while using a two-point protective stop? Is there a 60 percent chance of making 1.00 by shorting AAPL when using a 1.00 protective stop? If yes, then the trade has a positive trader's equation and therefore is a reasonable trade. If not, then don't take the trade. Although there are many combinations of risk, reward, and probability that can result in a positive trader's equation, thinking in terms of the directional probability of an equidistant move is a good, quick way to help decide whether you should take a trade. When trading, things happen fast and are often unclear, so it is useful to have a logical framework that can reliably help you decide within the limited time that the market will give you. If you can answer “yes” to the question, then you can take the trade. You may end up wanting to hold for a reward that is greater than the risk, but the minimum starting point always should be a reward that is equal to the risk. If you can look at any setup and quickly believe that the setup is good, then you likely believe that the probability of making a profit that is at least as big as your risk is 60 percent, and therefore the trade has a positive trader's equation and is a reasonable trade.
 
 
-当一次等距运动的方向概率在50%左右徘徊时，这意味着，
+当一次等距运动的方向概率在50%左右徘徊时，这意味着，如果 IBM 正在100美元交易，你不看图，也完全不了解它的基本面和大盘，只是简单地买了100股 IBM，然后挂一张二选一（OCO）订单，要么在101美元用卖出限价单出场、要么在99美元用卖出止损单出场，先到先执行，那么你赚1美元的机会大约有50%、亏1美元的机会大约有50%。如果你反过来先是做空100股，同样使用1.00美元的 OCO 括号订单（在下方1.00美元用限价单买回，或者在上方1.00美元用止损单买回），你仍然会有大约50%的机会赚1美元、50%的机会亏1美元。上涨的机会略微要好一点点，因为 IBM 是一家成长型公司。如果它一年上涨大约8%，折算下来每天大约三个半美分，这只会微乎其微地提高向上目标的机会，所以这仍然是一个大约50–50的赌注。
 
 
-> When the directional probability of an equidistant move hovers around 50 percent, this means that if
-
-
-如果 IBM 正在100美元交易，你不看图，也完全不了解它的基本面和大盘，只是简单地买了100股 IBM，然后挂一张二选一（OCO）订单，要么在101美元用卖出限价单出场、要么在99美元用卖出止损单出场，先到先执行，那么你赚1美元的机会大约有50%、亏1美元的机会大约有50%。如果你反过来先是做空100股，同样使用1.00美元的 OCO 括号订单（在下方1.00美元用限价单买回，或者在上方1.00美元用止损单买回），你仍然会有大约50%的机会赚1美元、50%的机会亏1美元。上涨的机会略微要好一点点，因为 IBM 是一家成长型公司。如果它一年上涨大约8%，折算下来每天大约三个半美分，这只会微乎其微地提高向上目标的机会，所以这仍然是一个大约50–50的赌注。
-
-
-> IBM is trading at $100 and you don't look at a chart and are totally oblivious of the fundamentals and the overall market, and you simply bought 100 shares of IBM and then placed a one cancels the other (OCO) order to exit either at $101 on a sell limit order or at $99 on a sell stop, whichever came first, you would have about a 50 percent chance of making a dollar and a 50 percent chance of losing a dollar. If instead you initially shorted the 100 shares and also used an OCO $1.00 bracket order (buying on a limit $1.00 below or buying on a stop $1.00 above), you would still have about a 50 percent chance of making a dollar and a 50 percent chance of losing a dollar. There are slightly better odds for the rally because IBM is a growing company. If it goes up about 8 percent a year, this comes out to about three and a half cents a day and only negligibly raises the odds in favor of the upside target, so it is still about a 50–50 bet.
+> When the directional probability of an equidistant move hovers around 50 percent, this means that if IBM is trading at $100 and you don't look at a chart and are totally oblivious of the fundamentals and the overall market, and you simply bought 100 shares of IBM and then placed a one cancels the other (OCO) order to exit either at $101 on a sell limit order or at $99 on a sell stop, whichever came first, you would have about a 50 percent chance of making a dollar and a 50 percent chance of losing a dollar. If instead you initially shorted the 100 shares and also used an OCO $1.00 bracket order (buying on a limit $1.00 below or buying on a stop $1.00 above), you would still have about a 50 percent chance of making a dollar and a 50 percent chance of losing a dollar. There are slightly better odds for the rally because IBM is a growing company. If it goes up about 8 percent a year, this comes out to about three and a half cents a day and only negligibly raises the odds in favor of the upside target, so it is still about a 50–50 bet.
 
 
 即使等距运动的方向概率只有50%，你也可以通过分批建仓或分批止盈来赚钱（第31章中讨论）。如果一波对你有利的大幅行情的方向概率在50%左右，只要这波行情相对你的风险足够大，你也可以赚钱。即使一次等距运动的方向概率不到50%，只要你能从这笔交易中赚到的钱足够多，你也能赚钱。举例来说，如果你在一个交易区间的顶部附近买入，市场在下跌10个最小报价单位之前先上涨10个最小报价单位的方向概率也许只有30%（记住，大多数突破交易区间的尝试都会失败）。假设一次成功的突破会涨到60个最小报价单位之外的一个磁力位，而你在一笔只有30%成功机会的交易上只冒10个最小报价单位的风险；如果你把这样的交易做上10次，你预期会在3笔上赚到60个最小报价单位、共180个最小报价单位的利润，在7笔上亏10个最小报价单位、共亏70个最小报价单位。你的净利润会是110个最小报价单位，也就是每笔交易11个最小报价单位。
@@ -9781,19 +9370,37 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Here are some possible reasons for entering a trade (remember, you need two or more):
 
 
-• 好的信号K线形态，比如一根好的反转K线、两K线反转，或者一个ii形态。 • 趋势中回撤到移动平均线，尤其是两段式的回调（多头趋势中的高2，或空头趋势中的低2）。 • 突破回调。 • 处于明确始终入场状态的市场（强趋势）中的回调。 • 对任何类型的支撑或阻力的测试，尤其是趋势线、趋势通道线、突破回测和等距运动目标位。 • 决斗线。 • 多头趋势中或交易区间底部的高2买入建仓形态（每当你看到双底，那都是一个高2买入建仓形态）。 • 空头趋势中或交易区间顶部的低2卖出建仓形态（每个双顶都是一个低2卖出建仓形态）。 • 大多数多头反转（底部）来自微型双底、双底，或者末端熊旗反转。
+- 好的信号K线形态，比如一根好的反转K线、两K线反转，或者一个ii形态。
+- 趋势中回撤到移动平均线，尤其是两段式的回调（多头趋势中的高2，或空头趋势中的低2）。
+- 突破回调。
+- 处于明确始终入场状态的市场（强趋势）中的回调。
+- 对任何类型的支撑或阻力的测试，尤其是趋势线、趋势通道线、突破回测和等距运动目标位。
+- 决斗线。
+- 多头趋势中或交易区间底部的高2买入建仓形态（每当你看到双底，那都是一个高2买入建仓形态）。
+- 空头趋势中或交易区间顶部的低2卖出建仓形态（每个双顶都是一个低2卖出建仓形态）。
+- 大多数多头反转（底部）来自微型双底、双底，或者末端熊旗反转。
 
 
 > • Good signal bar pattern, like a good reversal bar, a two-bar reversal, or an ii. • Moving average pullback in a trend, especially if two-legged (a high 2 in a bull trend or a low 2 in a bear trend). • Breakout pullback. • Pullback in a clearly always-in market (a strong trend). • Test of any kind of support or resistance, but especially trend lines, trend channel lines, breakout tests, and measured move targets. • Dueling lines. • High 2 buy setup in a bull trend or at the bottom of a trading range (whenever you see a double bottom, it is a high 2 buy setup). • Low 2 sell setup in a bear trend or at the top of a trading range (every double top is a low 2 sell setup). • Most bull reversals (bottoms) come from micro double bottoms, double bottoms, or final bear flag reversals.
 
 
-• 大多数空头反转（顶部）来自微型双顶、双顶，或者末端牛旗反转。 • 多头趋势中横盘到向下的高3回调，这属于楔形牛旗。 • 空头趋势中横盘到向上的低3回调，这属于楔形熊旗。 • 高4牛旗。 • 低4熊旗。 • 当你想做空时，交易区间顶部出现疲弱的高1或高2信号K线。 • 当你想做多时，交易区间底部出现疲弱的低1或低2信号K线。 • 任何东西的失败（市场在走出预期幅度之前就反转了）：
+- 大多数空头反转（顶部）来自微型双顶、双顶，或者末端牛旗反转。
+- 多头趋势中横盘到向下的高3回调，这属于楔形牛旗。
+- 空头趋势中横盘到向上的低3回调，这属于楔形熊旗。
+- 高4牛旗。
+- 低4熊旗。
+- 当你想做空时，交易区间顶部出现疲弱的高1或高2信号K线。
+- 当你想做多时，交易区间底部出现疲弱的低1或低2信号K线。
+- 任何东西的失败（市场在走出预期幅度之前就反转了）：
 
 
 > • Most bear reversals (tops) come from micro double tops, double tops, or final bull flag reversals. • Sideways to down high 3 pullback in a bull trend, which is a wedge bull flag. • Sideways to up low 3 pullback in a bear trend, which is a wedge bear flag. • High 4 bull flag. • Low 4 bear flag. • Weak high 1 or high 2 signal bar at the top of a trading range when you are looking for a short. • Weak low 1 or low 2 signal bar at the bottom of a trading range when you are looking to buy. • Failure of anything (the market reverses before going as far as expected):
 
 
-• 对前一个高点或低点的突破。 • 旗形突破（末端旗形在第3本书中讨论）。 • 从趋势线或趋势通道线过靶处发生的反转。 • 未能到达止盈目标，比如 Emini 小型合约刮头皮时市场在五个或九个最小报价单位处反转。
+- 对前一个高点或低点的突破。
+- 旗形突破（末端旗形在第3本书中讨论）。
+- 从趋势线或趋势通道线过靶处发生的反转。
+- 未能到达止盈目标，比如 Emini 小型合约刮头皮时市场在五个或九个最小报价单位处反转。
 
 
 > • A breakout of a prior high or low. • A flag breakout (final flags are discussed in book 3). • A reversal from an overshoot of a trend line or a trend channel line. • A failure to reach a profit target, like the market reversing at five or nine ticks in an Emini scalp.
@@ -9983,61 +9590,129 @@ FOMC 报告在太平洋时间上午11:15发布，5分钟 Emini 在图 PIV.8中�
 > Here are some of the situations in which a limit order entry can be useful (examples of all of them are in the appropriate chapters of the three books):
 
 
-• 如果你比原定入场晚了几秒才挂上止损入场单、而想按原来的价格进场，就在原价处或差一个最小报价单位处挂限价单。 • 如果前一根K线是强多头急速行情中的一根强多头趋势K线，就在它的收盘价处挂限价单买入。 • 如果前一根K线是强空头急速行情中的一根强空头趋势K线，就在它的收盘价处挂限价单卖出。 • 在强多头急速行情中，趁K线尚未收盘买入一次小幅回调，比如在当根K线当前高点下方两个最小报价单位处挂限价买单。 • 在强空头急速行情中，趁K线尚未收盘卖出一次小幅回调，比如在当根K线当前低点上方两个最小报价单位处挂限价卖单。 • 当出现一根可能制造微型缺口的多头突破K线时，在突破K线之前那根K线的高点上方一点买入，那个高点就是突破点。
+- 如果你比原定入场晚了几秒才挂上止损入场单、而想按原来的价格进场，就在原价处或差一个最小报价单位处挂限价单。
+- 如果前一根K线是强多头急速行情中的一根强多头趋势K线，就在它的收盘价处挂限价单买入。
+- 如果前一根K线是强空头急速行情中的一根强空头趋势K线，就在它的收盘价处挂限价单卖出。
+- 在强多头急速行情中，趁K线尚未收盘买入一次小幅回调，比如在当根K线当前高点下方两个最小报价单位处挂限价买单。
+- 在强空头急速行情中，趁K线尚未收盘卖出一次小幅回调，比如在当根K线当前低点上方两个最小报价单位处挂限价卖单。
+- 当出现一根可能制造微型缺口的多头突破K线时，在突破K线之前那根K线的高点上方一点买入，那个高点就是突破点。
 
 
 > • If you missed placing your stop entry order for the original entry by a few seconds and are trying to get in at the original price, place a limit order at the original price or a tick worse. • Buy with a limit order located at the close of the prior bar if it was a strong bull trend bar in a strong bull spike. • Sell with a limit order located at the close of the prior bar if it was a strong bear trend bar in a strong bear spike. • Buy a small pullback in a strong bull spike before the bar closes, like placing a limit order to buy two ticks below the current high of the bar. • Sell a small pullback in a strong bear spike before the bar closes, like placing a limit order to sell two ticks above the current low of the bar. • When there is a bull breakout bar that could create a micro gap, buy just above the high of the bar before the breakout bar, which is the breakout point.
 
 
-• 当出现一根可能制造微型缺口的空头突破K线时，在突破K线之前那根K线的低点下方一点卖出，那个低点就是突破点。 • 在强多头急速行情中，在前一根K线的低点处或其下方挂限价单买入。 • 在强空头急速行情中，在前一根K线的高点处或其上方挂限价单卖出。 • 在强多头趋势中，于ii形态底部上方一个最小报价单位处挂限价单买入，冒两个最小报价单位的风险去赚四个或更多最小报价单位，因为这种做法的概率约为60%。 • 在强空头趋势中，于ii形态顶部下方一个最小报价单位处挂限价单卖出，冒两个最小报价单位的风险去赚四个或更多最小报价单位，因为这种做法的概率约为60%。 • 当一根并不特别大的多头趋势K线把市场翻转为始终做多时，在它之前那根K线的高点上方一个最小报价单位处挂限价单买入，预期一个测量缺口（如果这根K线没有回落到多头突破K线之前那根K线的高点之下，那就是强势的信号）。 • 当一根并不特别大的空头趋势K线把市场翻转为始终做空时，在它之前那根K线的低点下方一个最小报价单位处挂限价单卖出，预期一个测量缺口（如果这根K线没有升到空头突破K线之前那根K线的低点之上，那就是强势的信号）。 • 在开盘区间形成过程中，如果连续出现两根实体强劲的多头趋势K线，就在前一根K线的低点买入，预期多头急速行情的低点能够守住，至少支持一次向上的刮头皮。 • 在开盘区间形成过程中，如果连续出现两根实体强劲的空头趋势K线，就在前一根K线的高点卖出，预期空头急速行情的高点能够守住，至少支持一次向下的刮头皮。 • 在交易区间的底部，用市价单买入一段空头急速行情，或挂限价单买入。 • 在交易区间的顶部，用市价单卖出一段多头急速行情，或挂限价单卖出。 • 当多头市场中出现一段空头急速行情、而空头需要下一根K线是阴线才能确认始终入场交易翻转为向下时，在这根后续K线形成之前，买入这段急速行情中最后一根空头趋势K线的收盘价，在该空头趋势K线的低点处及其下方买入，如果下一根K线没有阴线实体，就在它的收盘价买入（并可在其高点上方挂买入止损单）。出现回调的可能性大于出现空头急速与通道的可能性。
+- 当出现一根可能制造微型缺口的空头突破K线时，在突破K线之前那根K线的低点下方一点卖出，那个低点就是突破点。
+- 在强多头急速行情中，在前一根K线的低点处或其下方挂限价单买入。
+- 在强空头急速行情中，在前一根K线的高点处或其上方挂限价单卖出。
+- 在强多头趋势中，于ii形态底部上方一个最小报价单位处挂限价单买入，冒两个最小报价单位的风险去赚四个或更多最小报价单位，因为这种做法的概率约为60%。
+- 在强空头趋势中，于ii形态顶部下方一个最小报价单位处挂限价单卖出，冒两个最小报价单位的风险去赚四个或更多最小报价单位，因为这种做法的概率约为60%。
+- 当一根并不特别大的多头趋势K线把市场翻转为始终做多时，在它之前那根K线的高点上方一个最小报价单位处挂限价单买入，预期一个测量缺口（如果这根K线没有回落到多头突破K线之前那根K线的高点之下，那就是强势的信号）。
+- 当一根并不特别大的空头趋势K线把市场翻转为始终做空时，在它之前那根K线的低点下方一个最小报价单位处挂限价单卖出，预期一个测量缺口（如果这根K线没有升到空头突破K线之前那根K线的低点之上，那就是强势的信号）。
+- 在开盘区间形成过程中，如果连续出现两根实体强劲的多头趋势K线，就在前一根K线的低点买入，预期多头急速行情的低点能够守住，至少支持一次向上的刮头皮。
+- 在开盘区间形成过程中，如果连续出现两根实体强劲的空头趋势K线，就在前一根K线的高点卖出，预期空头急速行情的高点能够守住，至少支持一次向下的刮头皮。
+- 在交易区间的底部，用市价单买入一段空头急速行情，或挂限价单买入。
+- 在交易区间的顶部，用市价单卖出一段多头急速行情，或挂限价单卖出。
+- 当多头市场中出现一段空头急速行情、而空头需要下一根K线是阴线才能确认始终入场交易翻转为向下时，在这根后续K线形成之前，买入这段急速行情中最后一根空头趋势K线的收盘价，在该空头趋势K线的低点处及其下方买入，如果下一根K线没有阴线实体，就在它的收盘价买入（并可在其高点上方挂买入止损单）。出现回调的可能性大于出现空头急速与通道的可能性。
 
 
 > • When there is a bear breakout bar that could create a micro gap, sell just below the low of the bar before the breakout bar, which is the breakout point. • Buy on a limit order at or below the low of the prior bar in a strong bull spike. • Sell on a limit order at or above the high of the prior bar in a strong bear spike. • Buy on a limit order at one tick above the bottom of an ii pattern in a strong bull trend, risking two ticks to make four or more ticks, since this has about a 60 percent probability. • Sell on a limit order at one tick below the top of an ii pattern in a strong bear trend, risking two ticks to make four or more ticks, since this has about a 60 percent probability. • When a bull trend bar that is not particularly large flips the market to always-in long, buy on a limit order at one tick above the high of the bar before it, anticipating a measuring gap (it is a sign of strength if the bar does not fall below the high of the bar before the bull breakout bar). • When a bear trend bar that is not particularly large flips the market to always-in short, sell on a limit order at one tick below the low of the bar before it, anticipating a measuring gap (it is a sign of strength if the bar does not go above the low of the bar before the bear breakout bar). • While the opening range is forming, if there are two consecutive bull trend bars with strong bodies, buy at the low of the previous bar, expecting the low of the bull spike to hold for at least a scalp up. • While the opening range is forming, if there are two consecutive bear trend bars with strong bodies, sell at the high of the previous bar, expecting the high of the bear spike to hold for at least a scalp down. • Buy a bear spike at the market or on a limit order at the bottom of a trading range. • Sell a bull spike at the market or on a limit order at the top of a trading range. • When there is a bear spike in a bull market and the bears need the next bar to be a bear bar to confirm a flip of the always-in trade to down, buy the close of the last bear trend bar in the spike before the follow-through bar forms, at and below the low of the bear trend bar, and at the close of the next bar if it does not have a bear body (and buy on a stop above its high). A pullback is more likely than a bear spike and channel.
 
 
-• 当空头市场中出现一段多头急速行情、而多头需要下一根K线是阳线才能确认始终入场交易翻转为向上时，在这根后续K线形成之前，卖出这段急速行情中最后一根多头趋势K线的收盘价，在该多头趋势K线的高点处及其上方卖出，如果下一根K线没有阳线实体，就在它的收盘价卖出（并可在其低点下方挂卖出止损单）。出现回调的可能性大于出现多头急速与通道的可能性。 • 当出现一根大的空头趋势K线、它很可能是空头趋势末端或多头趋势中回调末端的卖出高潮时，在这根K线的收盘价、其低点下方以及下一根K线的收盘价处买入（并可在其高点上方挂止损单）。 • 当出现一根大的多头趋势K线、它很可能是多头趋势末端或空头趋势中回调末端的买入高潮时，在这根K线的收盘价、其高点上方以及下一根K线的收盘价处卖出（并可在其低点下方挂止损单）。 • 当多头趋势在一段只有一根K线的多头急速行情之后出现回调时，在多头急速行情底部上方一个或两个最小报价单位处挂限价单买入，预期这是一次突破回调，而不是突破失败。
+- 当空头市场中出现一段多头急速行情、而多头需要下一根K线是阳线才能确认始终入场交易翻转为向上时，在这根后续K线形成之前，卖出这段急速行情中最后一根多头趋势K线的收盘价，在该多头趋势K线的高点处及其上方卖出，如果下一根K线没有阳线实体，就在它的收盘价卖出（并可在其低点下方挂卖出止损单）。出现回调的可能性大于出现多头急速与通道的可能性。
+- 当出现一根大的空头趋势K线、它很可能是空头趋势末端或多头趋势中回调末端的卖出高潮时，在这根K线的收盘价、其低点下方以及下一根K线的收盘价处买入（并可在其高点上方挂止损单）。
+- 当出现一根大的多头趋势K线、它很可能是多头趋势末端或空头趋势中回调末端的买入高潮时，在这根K线的收盘价、其高点上方以及下一根K线的收盘价处卖出（并可在其低点下方挂止损单）。
+- 当多头趋势在一段只有一根K线的多头急速行情之后出现回调时，在多头急速行情底部上方一个或两个最小报价单位处挂限价单买入，预期这是一次突破回调，而不是突破失败。
 
 
 > • When there is a bull spike in a bear market and the bulls need the next bar to be a bull bar to confirm a flip of the always-in trade to up, sell the close of the last bull trend bar in the spike before the follow-through bar forms, at and above the high of the bull trend bar, and at the close of the next bar if it does not have a bull body (and sell on a stop below its low). A pullback is more likely than a bull spike and channel. • When there is a large bear trend bar that is a likely sell climax at the end of a bear trend or pullback in a bull trend, buy at the close of the bar, below its low, and at the close of the next bar (and on a stop above its high). • When there is a large bull trend bar that is a likely buy climax at the end of a bull trend or pullback in a bear trend, sell at the close of the bar, above its high, and at the close of the next bar (and on a stop below its low). • When there is a pullback in a bull trend after a one-bar bull spike, buy on a limit order at a tick or two above the bottom of the bull spike, expecting a breakout pullback instead of a failed breakout.
 
 
-• 当空头趋势在一段只有一根K线的空头急速行情之后出现回调时，在空头急速行情顶部下方一个或两个最小报价单位处挂限价单卖出，预期这是一次突破回调，而不是突破失败。 • 当多头急速行情之后很可能出现第二段上涨时，在原始信号K线高点上方一个或两个最小报价单位处挂限价单买入，即使这次测试要等几十根K线之后才来。 • 当空头急速行情之后很可能出现第二段下跌时，在原始信号K线低点下方一个或两个最小报价单位处挂限价单卖出，即使这次测试要等几十根K线之后才来。 • 在多头通道中，在前一根K线的低点下方买入，尤其是在通道处于早期阶段时。 • 在空头通道中，在前一根K线的高点上方卖出，尤其是在通道处于早期阶段时。 • 在空头通道的后期阶段、当卖压已经不断累积之后，在前一根K线的低点下方、并在最近一个摆动低点下方买入。 • 在多头通道的后期阶段、当买压已经不断累积之后，在前一根K线的高点上方、并在最近一个摆动高点上方卖出。
+- 当空头趋势在一段只有一根K线的空头急速行情之后出现回调时，在空头急速行情顶部下方一个或两个最小报价单位处挂限价单卖出，预期这是一次突破回调，而不是突破失败。
+- 当多头急速行情之后很可能出现第二段上涨时，在原始信号K线高点上方一个或两个最小报价单位处挂限价单买入，即使这次测试要等几十根K线之后才来。
+- 当空头急速行情之后很可能出现第二段下跌时，在原始信号K线低点下方一个或两个最小报价单位处挂限价单卖出，即使这次测试要等几十根K线之后才来。
+- 在多头通道中，在前一根K线的低点下方买入，尤其是在通道处于早期阶段时。
+- 在空头通道中，在前一根K线的高点上方卖出，尤其是在通道处于早期阶段时。
+- 在空头通道的后期阶段、当卖压已经不断累积之后，在前一根K线的低点下方、并在最近一个摆动低点下方买入。
+- 在多头通道的后期阶段、当买压已经不断累积之后，在前一根K线的高点上方、并在最近一个摆动高点上方卖出。
 
 
 > • When there is a pullback in a bear trend after a one-bar bear spike, sell on a limit order at a tick or two below the top of the bear spike, expecting a breakout pullback instead of a failed breakout. • When a second leg up is likely after a bull spike, buy on a limit order at a tick or two above the original signal bar high, even if the test comes dozens of bars later. • When a second leg down is likely after a bear spike, sell on a limit order at a tick or two below the original signal bar low, even if the test comes dozens of bars later. • Buy below the low of the prior bar in a bull channel, especially when the channel is in its early stages. • Sell above the high of the prior bar in a bear channel, especially when the channel is in its early stages. • Buy below the low of the prior bar and below the most recent swing low in a bear channel in its late stages after selling pressure has been building. • Sell above the high of the prior bar and above the most recent swing high in a bull channel in its late stages after buying pressure has been building.
 
 
-• 在多头微型通道中，在前一根K线的低点下方买入，预期向下突破通道的第一次尝试会失败。 • 在空头微型通道中，在前一根K线的高点上方卖出，预期向上突破通道的第一次尝试会失败。 • 当出现急速与通道式的多头趋势、并出现一次动能很弱、一直回落到通道底部的回调时，在通道底部的测试处买入。 • 当出现急速与通道式的空头趋势、并出现一次动能很弱、一直上涨到通道顶部的回调时，在通道顶部的测试处卖出。 • 在强多头波段开始时，在至少两根强劲的多头趋势K线之后，买入一根空头收盘。 • 在强空头波段开始时，在至少两根强劲的空头趋势K线之后，卖出一根多头收盘。 • 在交易区间的底部，在前一个摆动低点的低点处或其下方买入。 • 在交易区间的顶部，在前一个摆动高点的高点处或其上方卖出。 • 在多头台阶（bull ledge：一个小的交易区间，其底部由两根或更多低点相同的K线构成）的底部上方一个或两个最小报价单位处挂限价单买入。 • 在空头台阶（bear ledge：一个小的交易区间，其顶部由两根或更多高点相同的K线构成）的顶部下方一个或两个最小报价单位处挂限价单卖出。 • 在交易区间底部，或在强劲向上反转之后的新多头趋势中，在一根疲弱的低1或低2信号K线的低点处或其下方挂限价单买入（这可能是更高的低点）。 • 在交易区间顶部，或在强劲向下反转之后的新空头趋势中，在一根疲弱的高1或高2信号K线的高点处或其上方挂限价单做空（这可能是更低的高点）。 • 在强多头趋势中，对做空刮头皮反向操作，因为大多数都会失败。当强多头趋势之后出现一个做空刮头皮的建仓形态时，在做空的刮头皮交易者打算止盈的位置上方两个或三个最小报价单位处挂限价单买入。例如，如果在强多头趋势中的 Emini 小型合约（Emini）上出现一个做空建仓形态，就考虑在空头信号K线下方约四个最小报价单位处挂限价单买入，冒约三个最小报价单位的风险，预期这轮抛售不会跌到空头做1个点刮头皮所需的六个最小报价单位。
+- 在多头微型通道中，在前一根K线的低点下方买入，预期向下突破通道的第一次尝试会失败。
+- 在空头微型通道中，在前一根K线的高点上方卖出，预期向上突破通道的第一次尝试会失败。
+- 当出现急速与通道式的多头趋势、并出现一次动能很弱、一直回落到通道底部的回调时，在通道底部的测试处买入。
+- 当出现急速与通道式的空头趋势、并出现一次动能很弱、一直上涨到通道顶部的回调时，在通道顶部的测试处卖出。
+- 在强多头波段开始时，在至少两根强劲的多头趋势K线之后，买入一根空头收盘。
+- 在强空头波段开始时，在至少两根强劲的空头趋势K线之后，卖出一根多头收盘。
+- 在交易区间的底部，在前一个摆动低点的低点处或其下方买入。
+- 在交易区间的顶部，在前一个摆动高点的高点处或其上方卖出。
+- 在多头台阶（bull ledge：一个小的交易区间，其底部由两根或更多低点相同的K线构成）的底部上方一个或两个最小报价单位处挂限价单买入。
+- 在空头台阶（bear ledge：一个小的交易区间，其顶部由两根或更多高点相同的K线构成）的顶部下方一个或两个最小报价单位处挂限价单卖出。
+- 在交易区间底部，或在强劲向上反转之后的新多头趋势中，在一根疲弱的低1或低2信号K线的低点处或其下方挂限价单买入（这可能是更高的低点）。
+- 在交易区间顶部，或在强劲向下反转之后的新空头趋势中，在一根疲弱的高1或高2信号K线的高点处或其上方挂限价单做空（这可能是更低的高点）。
+- 在强多头趋势中，对做空刮头皮反向操作，因为大多数都会失败。当强多头趋势之后出现一个做空刮头皮的建仓形态时，在做空的刮头皮交易者打算止盈的位置上方两个或三个最小报价单位处挂限价单买入。例如，如果在强多头趋势中的 Emini 小型合约（Emini）上出现一个做空建仓形态，就考虑在空头信号K线下方约四个最小报价单位处挂限价单买入，冒约三个最小报价单位的风险，预期这轮抛售不会跌到空头做1个点刮头皮所需的六个最小报价单位。
 
 
 > • Buy below the low of the prior bar in a bull micro channel, expecting the first breakout below the channel to fail. • Sell above the high of the prior bar in a bear micro channel, expecting the first breakout above the channel to fail. • When there is a spike and channel bull trend and a low-momentum pullback to the bottom of the channel, buy the test of the bottom of the channel. • When there is a spike and channel bear trend and a low-momentum pullback to the top of the channel, sell the test of the top of the channel. • Buy a bear close after at least a couple of strong bull trend bars at the start of a strong bull swing. • Sell a bull close after at least a couple of strong bear trend bars at the start of a strong bear swing. • Buy at or below the low of a prior swing low at the bottom of the range. • Sell at or above the high of a prior swing high at the top of the range. • Buy with a limit order a tick or two above the bottom of a bull ledge (a small trading range with a bottom created by two or more bars with identical lows). • Sell with a limit order at a tick or two below the top of a bear ledge (a small trading range with a top created by two or more bars with identical highs). • Buy at or below a low 1 or 2 weak signal bar on a limit order at the bottom of a trading range or in a new bull trend after a strong reversal up (a possible higher low). • Short at or above a high 1 or 2 weak signal bar on a limit order at the top of a trading range or in a new bear trend after a strong reversal down (a possible lower high). • In a strong bull trend, fade short scalps, since most will fail. When there is a strong bull trend and then a short scalp setup, buy on a limit order at two or three ticks above where the short scalpers are looking to take profits. For example, if there is a short setup in the Emini in a strong bull trend, look to buy on a limit order at about four ticks below the bear signal bar and risk about three ticks, expecting the sell-off to not reach the six ticks needed for the bears to make a one-point scalp.
 
 
-• 在强空头趋势中，对做多刮头皮反向操作，因为大多数都会失败。当强空头趋势之后出现一个做多刮头皮的建仓形态时，在做多的刮头皮交易者打算止盈的位置下方两个或三个最小报价单位处挂限价单做空。 • 在非常强劲的多头趋势中，如果市场尚未跌到移动平均线下方超过两个最小报价单位，就在第一根收盘价位于移动平均线下方一个或两个最小报价单位的小空头趋势K线的收盘价买入。 • 在非常强劲的空头趋势中，如果市场尚未升到移动平均线上方超过两个最小报价单位，就在第一根收盘价位于移动平均线上方一个或两个最小报价单位的小多头趋势K线的收盘价卖出。 • 在移动平均线处一个平静的牛旗中，在前一根K线处或其下方挂限价单买入。 • 在移动平均线处一个平静的熊旗中，在前一根K线处或其上方挂限价单做空。 • 在移动平均线处平静的牛旗中，买入一根空头收盘。 • 在移动平均线处平静的熊旗中，卖出一根多头收盘。 • 在强多头趋势中，买入一次回撤到移动平均线的回调，比如20均线缺口K线买入建仓形态。
+- 在强空头趋势中，对做多刮头皮反向操作，因为大多数都会失败。当强空头趋势之后出现一个做多刮头皮的建仓形态时，在做多的刮头皮交易者打算止盈的位置下方两个或三个最小报价单位处挂限价单做空。
+- 在非常强劲的多头趋势中，如果市场尚未跌到移动平均线下方超过两个最小报价单位，就在第一根收盘价位于移动平均线下方一个或两个最小报价单位的小空头趋势K线的收盘价买入。
+- 在非常强劲的空头趋势中，如果市场尚未升到移动平均线上方超过两个最小报价单位，就在第一根收盘价位于移动平均线上方一个或两个最小报价单位的小多头趋势K线的收盘价卖出。
+- 在移动平均线处一个平静的牛旗中，在前一根K线处或其下方挂限价单买入。
+- 在移动平均线处一个平静的熊旗中，在前一根K线处或其上方挂限价单做空。
+- 在移动平均线处平静的牛旗中，买入一根空头收盘。
+- 在移动平均线处平静的熊旗中，卖出一根多头收盘。
+- 在强多头趋势中，买入一次回撤到移动平均线的回调，比如20均线缺口K线买入建仓形态。
 
 
 > • In a strong bear trend, fade long scalps, since most will fail. When there is a strong bear trend and then a buy scalp setup, short on a limit order at two or three ticks below where the bull scalpers are looking to take profits. • In a very strong bull trend where the market has not yet dropped below the moving average by more than a couple of ticks, buy the close of the first small bear trend bar with a close that is a tick or two below the moving average. • In a very strong bear trend where the market has not yet poked above the moving average by more than a couple of ticks, sell the close of the first small bull trend bar with a close that is a tick or two above the moving average. • Buy at or below the prior bar on a limit order in a quiet bull flag at the moving average. • Short at or above the prior bar on a limit order in a quiet bear flag at the moving average. • Buy a bear close in a quiet bull flag at the moving average. • Sell a bull close in a quiet bear flag at the moving average. • Buy a moving average pullback in a strong bull trend, like a 20 gap bar buy setup.
 
 
-• 在强空头趋势中，卖出一次回撤到移动平均线的回调，比如20均线缺口K线卖出建仓形态。 • 在陡峭上升的移动平均线处的回调中买入，并在移动平均线下方的各个间隔位置分批建仓。 • 在陡峭下降的移动平均线处的回调中卖出，并在移动平均线上方的各个间隔位置分批建仓。 • 在一根向上突破牛旗的阳线下方买入，预期出现突破回调。 • 在一根向下跌破熊旗的阴线上方卖出，预期出现突破回调。 • 在多头趋势中想做一笔波段时，在突破回测处买入或加仓；所谓突破回测，就是市场冲向此前多头入场处的保本止损、试图把它们打掉的举动。 • 在空头趋势中想做一笔波段时，在突破回测处卖出或加仓；所谓突破回测，就是市场冲向此前空头入场处的保本止损、试图把它们打掉的举动。 • 当回调可能形成双底牛旗时，在前一个摆动低点附近挂限价单买入。
+- 在强空头趋势中，卖出一次回撤到移动平均线的回调，比如20均线缺口K线卖出建仓形态。
+- 在陡峭上升的移动平均线处的回调中买入，并在移动平均线下方的各个间隔位置分批建仓。
+- 在陡峭下降的移动平均线处的回调中卖出，并在移动平均线上方的各个间隔位置分批建仓。
+- 在一根向上突破牛旗的阳线下方买入，预期出现突破回调。
+- 在一根向下跌破熊旗的阴线上方卖出，预期出现突破回调。
+- 在多头趋势中想做一笔波段时，在突破回测处买入或加仓；所谓突破回测，就是市场冲向此前多头入场处的保本止损、试图把它们打掉的举动。
+- 在空头趋势中想做一笔波段时，在突破回测处卖出或加仓；所谓突破回测，就是市场冲向此前空头入场处的保本止损、试图把它们打掉的举动。
+- 当回调可能形成双底牛旗时，在前一个摆动低点附近挂限价单买入。
 
 
 > • Sell a moving average pullback in a strong bear trend, like a 20 gap bar sell setup. • Buy on a pullback to a steeply rising moving average and scale in at intervals below the moving average. • Sell on a pullback to a steeply falling moving average and scale in at intervals above the moving average. • Buy below a bull bar that breaks above a bull flag, anticipating a breakout pullback. • Sell above a bear bar that breaks below a bear flag, anticipating a breakout pullback. • When trying for a swing in a bull trend, buy or buy more on a breakout test, which is an attempt to run breakeven stops from an earlier long entry. • When trying for a swing in a bear trend, sell or sell more on a breakout test, which is an attempt to hit breakeven stops from an earlier short entry. • When there is a pullback to a possible double bottom bull flag, buy on a limit order around the prior swing low.
 
 
-• 当回调可能形成双顶熊旗时，在前一个摆动高点附近挂限价单卖出。 • 只要你认为自己的交易前提足够强，任何一笔交易都可以分批建仓。 • 如果市场处在楼梯形态中，就在回撤到前一级台阶时挂限价单入场。例如，如果 Emini 小型合约的平均日区间约为12点，而今天走的是空头楼梯形态，可以考虑在前一个摆动低点下方4点处挂限价买单，博一次向上测试该摆动低点的上涨。 • 在趋势型交易区间日中，在极端位置挂限价单，预期价格会去测试最近这个交易区间的另一侧。例如，在一个卖压不断累积的多头趋势型交易区间日中，可以考虑在等距运动目标位（以较低那个交易区间的高度测算）下方一个最小报价单位左右处挂限价单做空，博一次对上区间底部的测试，或跌回下区间的一次测试。 • 在交易区间日中，当区间顶部附近出现一段多头急速行情时，卖出一根空头收盘，尤其是当它位于前一根K线区间的上半部分、且属于第二次尝试向下反转时。
+- 当回调可能形成双顶熊旗时，在前一个摆动高点附近挂限价单卖出。
+- 只要你认为自己的交易前提足够强，任何一笔交易都可以分批建仓。
+- 如果市场处在楼梯形态中，就在回撤到前一级台阶时挂限价单入场。例如，如果 Emini 小型合约的平均日区间约为12点，而今天走的是空头楼梯形态，可以考虑在前一个摆动低点下方4点处挂限价买单，博一次向上测试该摆动低点的上涨。
+- 在趋势型交易区间日中，在极端位置挂限价单，预期价格会去测试最近这个交易区间的另一侧。例如，在一个卖压不断累积的多头趋势型交易区间日中，可以考虑在等距运动目标位（以较低那个交易区间的高度测算）下方一个最小报价单位左右处挂限价单做空，博一次对上区间底部的测试，或跌回下区间的一次测试。
+- 在交易区间日中，当区间顶部附近出现一段多头急速行情时，卖出一根空头收盘，尤其是当它位于前一根K线区间的上半部分、且属于第二次尝试向下反转时。
 
 
 > • When there is a pullback to a possible double top bear flag, sell on a limit order around the prior swing high. • Scale into any trade where you believe that your premise is strong. • If the market is in a stairs pattern, enter on a limit order for the pullback to the prior stair. For example, if the average daily range in the Emini is about 12 points and today is in a bear stairs pattern, consider placing a buy limit order at four points below the prior swing low for a rally up to test that swing low. • In a trending trading range day, place a limit order at the extreme in anticipation of a test of the other side of the most recent trading range. For example, in a bull trending trading range day when selling pressure is building, consider shorting on a limit order located a tick or so below the measured move target (based on the height of the lower trading range) for a test of the bottom of the upper range or a test into the lower range. • In a trading range day during a bull spike near the top of the range, sell a bear close, especially if it is in the top half of the range of the prior bar and if it is a second attempt to reverse down.
 
 
-• 在交易区间日中，当区间底部附近出现一段空头急速行情时，买入一根多头收盘，尤其是当它位于前一根K线区间的下半部分、且属于第二次尝试向上反转时。 • 在多头趋势型交易区间日中，在等距运动目标位附近一根大号多头趋势K线的收盘价处、以及其高点上方卖出，尤其是当这根K线相对较大、因而可能构成买入高潮，并且最近5到10根K线中带有一些卖压时。 • 在空头趋势型交易区间日中，在等距运动目标位附近一根大号空头趋势K线的收盘价处、以及其低点下方买入，尤其是当这根K线相对较大、因而可能构成卖出高潮，并且最近5到10根K线中带有一些买压时。 • 在区间约为10点的多头趋势型交易区间日中，在较低那个区间的高点上方4到6点处挂限价单做空，博一次对突破点的测试。 • 在区间约为10点的空头趋势型交易区间日中，在较高那个区间的低点下方4到6点处挂限价单买入，博一次对突破点的测试。
+- 在交易区间日中，当区间底部附近出现一段空头急速行情时，买入一根多头收盘，尤其是当它位于前一根K线区间的下半部分、且属于第二次尝试向上反转时。
+- 在多头趋势型交易区间日中，在等距运动目标位附近一根大号多头趋势K线的收盘价处、以及其高点上方卖出，尤其是当这根K线相对较大、因而可能构成买入高潮，并且最近5到10根K线中带有一些卖压时。
+- 在空头趋势型交易区间日中，在等距运动目标位附近一根大号空头趋势K线的收盘价处、以及其低点下方买入，尤其是当这根K线相对较大、因而可能构成卖出高潮，并且最近5到10根K线中带有一些买压时。
+- 在区间约为10点的多头趋势型交易区间日中，在较低那个区间的高点上方4到6点处挂限价单做空，博一次对突破点的测试。
+- 在区间约为10点的空头趋势型交易区间日中，在较高那个区间的低点下方4到6点处挂限价单买入，博一次对突破点的测试。
 
 
 > • In a trading range day during a bear spike near the bottom of the range, buy a bull close, especially if it is in the bottom half of the range of the prior bar and if it is a second attempt to reverse up. • In a bull trending trading range day, sell the close of, and above the high of, a large bull trend bar near the measured move target, especially if the bar is relatively large and, therefore, a possible buy climax, and if the last five to 10 bars had some selling pressure. • In a bear trending trading range day, buy the close of, and below the low of, a large bear trend bar near the measured move target, especially if the bar is relatively large and, therefore, a possible sell climax, and if the last five to 10 bars had some buying pressure. • In a bull trending trading range day where the range will be about 10 points, short on a limit order four to six points above the high of the lower range for a test of the breakout. • In a bear trending trading range day where the range will be about 10 points, buy on a limit order four to six points below the low of the upper range for a test of the breakout.
 
 
-• 在强空头通道中，当市场正在构筑向上两K线反转时，在第二根K线上涨到第一根K线的高点时做空，冒几个最小报价单位的风险，预期市场不会升到第二根K线之上、从而触发多头的入场。 • 在强多头通道中，当市场正在构筑向下两K线反转时，在第二根K线下跌到第一根K线的低点时买入，冒几个最小报价单位的风险，预期市场不会跌到第二根K线之下、从而触发空头的入场。 • 在多头趋势中，用限价单买入对多头趋势线的测试（不过通常更好的做法是在测试该趋势线的多头反转K线上方买入）。 • 在空头趋势中，用限价单卖出对空头趋势线的测试（不过通常更好的做法是在测试该趋势线的空头反转K线下方卖出）。 • 在多头趋势或交易区间中，当市场测试向下倾斜的趋势通道线时，买入一个下降楔形（楔形牛旗）（不过通常更好的做法是在测试该通道线的多头反转K线上方买入）。 • 在空头趋势或交易区间中，当市场测试向上倾斜的趋势通道线时，做空一个上升楔形（楔形熊旗）（不过通常更好的做法是在测试该通道线的空头反转K线下方卖出）。 • 在出现回调的多头趋势中——回调本身就是一段小型空头趋势——在某个摆动低点下方买入，预期向下创新低的突破会失败，并演变成一个高2或楔形牛旗买入信号。 • 在出现回调的空头趋势中——回调本身就是一段小型多头趋势——在某个摆动高点上方卖出，预期向上创新高的突破会失败，并演变成一个低2或楔形熊旗卖出信号。 • 在多头趋势中，买入从当前高点回落的60%到70%的回调，止损放在更低的低点，在新高点处或其上方止盈（回报约为风险的两倍，概率约为60%）。 • 在空头趋势中，卖出从当前低点回弹的60%到70%的回调，止损放在更高的高点，在新低点处或其下方止盈（回报约为风险的两倍，概率约为60%）。总的来说，当市场处在多头趋势中时，多头会预期空头的每一次尝试都失败，因此会寻找机会买入每一次尝试。他们会在每一根空头趋势K线的收盘价附近买入，即使这根K线很大、并且收在最低点。当市场跌破前一根K线的低点、任何此前的摆动低点，以及任何支撑位（比如趋势线）时，他们会买入。他们也会买入市场每一次向上走的尝试，比如在一根多头趋势K线的高点附近，或在市场升破前一根K线的高点、或升破某个阻力位时。这与交易者在强空头市场中的做法正好相反——那时他们在K线上方和下方卖出、在阻力位和支撑位的上方和下方卖出。他们在K线上方（以及各种类型的阻力位附近）卖出，包括在强多头趋势K线上方卖出，因为他们把每一次上涨都看作一次反转趋势的尝试，而大多数趋势反转的尝试都会失败。他们在K线下方（以及各种类型的支撑位附近）卖出，因为他们把每一次下跌都看作延续空头趋势的尝试，并预期其中大多数会成功。
+- 在强空头通道中，当市场正在构筑向上两K线反转时，在第二根K线上涨到第一根K线的高点时做空，冒几个最小报价单位的风险，预期市场不会升到第二根K线之上、从而触发多头的入场。
+- 在强多头通道中，当市场正在构筑向下两K线反转时，在第二根K线下跌到第一根K线的低点时买入，冒几个最小报价单位的风险，预期市场不会跌到第二根K线之下、从而触发空头的入场。
+- 在多头趋势中，用限价单买入对多头趋势线的测试（不过通常更好的做法是在测试该趋势线的多头反转K线上方买入）。
+- 在空头趋势中，用限价单卖出对空头趋势线的测试（不过通常更好的做法是在测试该趋势线的空头反转K线下方卖出）。
+- 在多头趋势或交易区间中，当市场测试向下倾斜的趋势通道线时，买入一个下降楔形（楔形牛旗）（不过通常更好的做法是在测试该通道线的多头反转K线上方买入）。
+- 在空头趋势或交易区间中，当市场测试向上倾斜的趋势通道线时，做空一个上升楔形（楔形熊旗）（不过通常更好的做法是在测试该通道线的空头反转K线下方卖出）。
+- 在出现回调的多头趋势中——回调本身就是一段小型空头趋势——在某个摆动低点下方买入，预期向下创新低的突破会失败，并演变成一个高2或楔形牛旗买入信号。
+- 在出现回调的空头趋势中——回调本身就是一段小型多头趋势——在某个摆动高点上方卖出，预期向上创新高的突破会失败，并演变成一个低2或楔形熊旗卖出信号。
+- 在多头趋势中，买入从当前高点回落的60%到70%的回调，止损放在更低的低点，在新高点处或其上方止盈（回报约为风险的两倍，概率约为60%）。
+- 在空头趋势中，卖出从当前低点回弹的60%到70%的回调，止损放在更高的高点，在新低点处或其下方止盈（回报约为风险的两倍，概率约为60%）。总的来说，当市场处在多头趋势中时，多头会预期空头的每一次尝试都失败，因此会寻找机会买入每一次尝试。他们会在每一根空头趋势K线的收盘价附近买入，即使这根K线很大、并且收在最低点。当市场跌破前一根K线的低点、任何此前的摆动低点，以及任何支撑位（比如趋势线）时，他们会买入。他们也会买入市场每一次向上走的尝试，比如在一根多头趋势K线的高点附近，或在市场升破前一根K线的高点、或升破某个阻力位时。这与交易者在强空头市场中的做法正好相反——那时他们在K线上方和下方卖出、在阻力位和支撑位的上方和下方卖出。他们在K线上方（以及各种类型的阻力位附近）卖出，包括在强多头趋势K线上方卖出，因为他们把每一次上涨都看作一次反转趋势的尝试，而大多数趋势反转的尝试都会失败。他们在K线下方（以及各种类型的支撑位附近）卖出，因为他们把每一次下跌都看作延续空头趋势的尝试，并预期其中大多数会成功。
 
 
 > • In a strong bear channel when the market is setting up a two-bar reversal up, short as the second bar rallies to the high of the first bar, risking a few ticks, expecting the market to not trade above the second bar and trigger the long. • In a strong bull channel when the market is setting up a two-bar reversal down, buy as the second bar falls to the low of the first bar, risking a few ticks, expecting the market to not trade below the second bar and trigger the short. • In a bull trend, buy a test of the bull trend line with a limit order (although it is usually better to buy above a bull reversal bar that tests the line). • In a bear trend, sell a test of the bear trend line with a limit order (although it is usually better to sell below a bear reversal bar that tests the line). • In a bull trend or a trading range, buy a falling wedge (a wedge bull flag) as the market tests the downwardly sloping trend channel line (although it is usually better to buy above a bull reversal bar that tests the line). • In a bear trend or a trading range, short a rising wedge (a wedge bear flag) as the market tests the upwardly sloping trend channel line (although it is usually better to sell below a bear reversal bar that tests the line). • In a bull trend where there is a pullback, which is a small bear trend, buy below a swing low, expecting the breakout to a new low to fail and become a high 2 or wedge bull flag buy signal. • In a bear trend where there is a pullback, which is a small bull trend, sell above a swing high, expecting the breakout to a new high to fail and become a low 2 or wedge bear flag sell signal. • In a bull trend, buy a 60 to 70 percent pullback from the current high, risking to a lower low, and taking profit at or above a new high (the reward is about twice the risk, the probability is about 60 percent). • In a bear trend, sell a 60 to 70 percent pullback from the current low, risking to a higher high, and taking profit at or below a new low (the reward is about twice the risk, the probability is about 60 percent). In general, when the market is in a bull trend, the bulls will expect every attempt by the bears to fail, and therefore look to buy each one. They will buy around the close of every bear trend bar, even if the bar is large and closes on its low. They will buy as the market falls below the low of the prior bar, any prior swing low, and any support level, like a trend line. They also will buy every attempt by the market to go higher, like around the high of a bull trend bar or as the market moves above the high of the prior bar or above a resistance level. This is the exact opposite of what traders do in strong bear markets, when they sell above and below bars, and above and below both resistance and support. They sell above bars (and around every type of resistance), including strong bull trend bars, because they see each move up as an attempt to reverse the trend, and most trend reversal attempts fail. They sell below bars (and around every type of support), because they see each move down as an attempt to resume the bear trend, and expect that most will succeed.
@@ -10833,16 +10508,10 @@ K线变小之后，你可以把止损幅度调整到适应当前市场状况的�
 > Scalpers often have order cancels order or one cancels the other (OCO) orders working as soon as they enter. For example, they might buy AAPL for a 100 cent scalp and risk 50 cents when they buy a pullback where they are 60 percent or more certain that the trade will be successful. As soon as they enter, their initial order might automatically generate both a protective sell stop order at 50 cents below their entry price and a sell limit order at 100 cents above their entry price. Since this bracket order is OCO, as soon as one of the pair is filled, the other is automatically canceled. No matter how you manage your orders, you should check your account after every entry and exit to make sure that your current position and orders are what you think they should be. You don't want to be flat (have no position) and still have a buy limit order working when you thought that it should have been automatically canceled. Never assume that your broker's software will work as expected 100 percent of the time, or that you placed your trades and orders correctly. There is an inescapable failure rate with everything, and you should always confirm what you expect has been done after you believe it should have been done.
 
 
-所有交易都应当建立在交易者等式的基础上；入门交易者应该寻找这样的交易：成功概率在60% 或更高，回报至少与风险一样大，最好还约为风险的两倍——不过，交易者等式这么强的建仓形态，平均一天里也就出现两三次。举例来说，如果欧元外汇期货（Euro FX Currency Futures），或者与之对应的外汇（forex）品种 EUR/USD，最近的日均波幅一直在100个最小报价单位（常被称为点，pip）左右，而且每天都会出现好几段20个最小报价单位的行情、期间10个最小报价单位的保护性止损不会被触及，那么交易者就可以考虑在回调到均线处顺势入场，这样一笔赢单的概率很可能有60% 或更高。精心挑选建仓形态的交易者，用大约10个最小报价单位的风险去赚20个最小报价单位，概率大约有60%，这有一个非常出色的交易者等式。而在十年期美国国债期货中，
+所有交易都应当建立在交易者等式的基础上；入门交易者应该寻找这样的交易：成功概率在60% 或更高，回报至少与风险一样大，最好还约为风险的两倍——不过，交易者等式这么强的建仓形态，平均一天里也就出现两三次。举例来说，如果欧元外汇期货（Euro FX Currency Futures），或者与之对应的外汇（forex）品种 EUR/USD，最近的日均波幅一直在100个最小报价单位（常被称为点，pip）左右，而且每天都会出现好几段20个最小报价单位的行情、期间10个最小报价单位的保护性止损不会被触及，那么交易者就可以考虑在回调到均线处顺势入场，这样一笔赢单的概率很可能有60% 或更高。精心挑选建仓形态的交易者，用大约10个最小报价单位的风险去赚20个最小报价单位，概率大约有60%，这有一个非常出色的交易者等式。而在十年期美国国债期货中，如果日均波幅一直在32个最小报价单位（即16/32个点）左右，而且很多信号K线的高度都是四个最小报价单位，那么交易者同样可以考虑在回调到均线处入场，承担大约6个最小报价单位的风险，并使用8个最小报价单位作为止盈目标。这同样有一个很强的交易者等式。
 
 
-> All trades should be made on the basis of the trader's equation, and beginning traders should look for trades where the probability of success is 60 percent or higher, and the reward is at least as large and preferably about twice the size of the risk, although a setup with that strong a trader's equation happens only a couple of times on an average day. For example, if the average daily range in the Euro FX Currency Futures or the foreign exchange (forex) equivalent, the EUR/USD, has lately been about 100 ticks (often referred to as pips), and there have been several 20-tick moves every day where a 10-tick protective stop would not have been hit, a trader might look to enter trends on pullbacks to the moving average, so that the probability of a winning trade is likely 60 percent or greater. The trader who carefully selects a setup has about a 60 percent chance of making 20 ticks while risking about 10 ticks, and this has an excellent trader's equation. In 10-Year U.S. Treasury
-
-
-如果日均波幅一直在32个最小报价单位（即16/32个点）左右，而且很多信号K线的高度都是四个最小报价单位，那么交易者同样可以考虑在回调到均线处入场，承担大约6个最小报价单位的风险，并使用8个最小报价单位作为止盈目标。这同样有一个很强的交易者等式。
-
-
-> Note Futures, if the average daily range has been about 32 ticks (16/32 of a point) and many signal bars have been four ticks tall, a trader could again look to enter on pullbacks to the moving average, risking about six ticks and using a profit target of eight ticks. This again has a strong trader's equation.
+> All trades should be made on the basis of the trader's equation, and beginning traders should look for trades where the probability of success is 60 percent or higher, and the reward is at least as large and preferably about twice the size of the risk, although a setup with that strong a trader's equation happens only a couple of times on an average day. For example, if the average daily range in the Euro FX Currency Futures or the foreign exchange (forex) equivalent, the EUR/USD, has lately been about 100 ticks (often referred to as pips), and there have been several 20-tick moves every day where a 10-tick protective stop would not have been hit, a trader might look to enter trends on pullbacks to the moving average, so that the probability of a winning trade is likely 60 percent or greater. The trader who carefully selects a setup has about a 60 percent chance of making 20 ticks while risking about 10 ticks, and this has an excellent trader's equation. In 10-Year U.S. Treasury Note Futures, if the average daily range has been about 32 ticks (16/32 of a point) and many signal bars have been four ticks tall, a trader could again look to enter on pullbacks to the moving average, risking about six ticks and using a profit target of eight ticks. This again has a strong trader's equation.
 
 
 刮头皮和波段交易的交易管理方式不同。做刮头皮的交易者认为利润空间有限，原因要么是没有趋势，要么是他在逆着趋势交易。在交易区间里刮头皮可以是一套盈利的策略，但只有最有经验的交易者才应该考虑逆势交易。如果交易者能耐心等一次回调、顺着趋势方向入场，而不是指望一笔逆势交易会成功，那么赚钱的机会要大得多。一旦你认为存在趋势，你就必须接受这一点：80% 的反转尝试都会失败，并演变成旗形。这就使大多数交易者几乎不可能靠止损单入场去做逆势交易、还能持续赚钱。举例来说，如果你认为强多头趋势顶部的一根小空头反转K线之后会出现一次回调到均线的行情，于是你用卖出止损单在那根K线低点下方一个最小报价单位处做空，那你必须意识到：非常聪明的多头正挂着限价买单，就在那根K线的低点处买入，而概率站在他们那一边。如果你交易的是 Emini 小型合约，你需要市场跌到那根K线低点下方10个最小报价单位处，你的空头才能赚到8个最小报价单位的利润；但在强多头趋势中，大多数回调在跌到那里之前就会变成高1或高2买入建仓形态，于是你就会亏钱。如果你看出存在强趋势、又想买入一次回调，那就不要自欺欺人地以为自己有足够本事，能在等待买入形态形成的同时做一笔赚钱的空头刮头皮。无一例外，你会在这笔空头刮头皮上亏钱，而在买入形态形成时又不去做。你会盼着市场再跌一点，会拒绝承认回调即将结束，于是错过那笔可能赚到好几个点利润的多头交易。
@@ -10994,19 +10663,30 @@ K线变小之后，你可以把止损幅度调整到适应当前市场状况的�
 > Scaling into a trade is usually best in a growing pullback in an always-in market (a clear trend), at least on a higher time frame, and in fading the extremes of a trading range. A trader can scale:
 
 
-• 在强势多头急速行情的小回调处加多（回调就是一段小的逆势通道）。 • 在强势空头急速行情的小回调处加空。 • 在空头通道下跌过程中加多，或在多头通道上升过程中加空。 • 在回调进一步下跌时加多（回调是小级别趋势，因此都处在通道中），或在空头反弹上升时加空。比如说，如果移动平均线陡直上升，多头会在价格回调至移动平均线下方时分批加多。 • 在任何强势趋势的回调中，按固定间隔加仓，间隔依据此前回调的大小和近期的日均波幅来定。 • 在交易区间中加多或加空。 • 在突破期间建立逆势头寸，如果市场有可能回调到突破点的话，比如在宽幅通道日、趋势性交易区间日或楼梯形态中就是这样。由于涉及的变量太多，分批建仓或分批止盈的方式有很多。这些变量包括：
+- 在强势多头急速行情的小回调处加多（回调就是一段小的逆势通道）。
+- 在强势空头急速行情的小回调处加空。
+- 在空头通道下跌过程中加多，或在多头通道上升过程中加空。
+- 在回调进一步下跌时加多（回调是小级别趋势，因此都处在通道中），或在空头反弹上升时加空。比如说，如果移动平均线陡直上升，多头会在价格回调至移动平均线下方时分批加多。
+- 在任何强势趋势的回调中，按固定间隔加仓，间隔依据此前回调的大小和近期的日均波幅来定。
+- 在交易区间中加多或加空。
+- 在突破期间建立逆势头寸，如果市场有可能回调到突破点的话，比如在宽幅通道日、趋势性交易区间日或楼梯形态中就是这样。由于涉及的变量太多，分批建仓或分批止盈的方式有很多。这些变量包括：
 
 
 > • Into longs on a small pullback from a strong bull spike (a pullback is a small countertrend channel). • Into shorts on a small pullback from a strong bear spike. • Into longs as a bear channel falls or into shorts as a bull channel rises. • Into longs as a pullback falls further (pullbacks are small trends and therefore are in channels) or into shorts as a bear rally rises. For example, if there is a steeply rising moving average, bulls will scale into longs on a pullback below the moving average. • At fixed intervals in pullbacks in any strong trend based on the size of the prior pullbacks and the recent average daily range. • Into longs or into shorts in a trading range. • Into a countertrend position during a breakout if a pullback to the breakout point is likely, like in a broad channel day, in a trending trading range day, or in a stairs pattern. There are many ways to scale into or out of a position since there are so many variables, which include:
 
 
-• 你分批建仓的次数。你可以分批建仓一次，也可以很多次。
+- 你分批建仓的次数。你可以分批建仓一次，也可以很多次。
 
 
 > • The number of times that you will scale in. You can scale in one time or many times.
 
 
-• 你的仓位规模。如果你要为市场朝你不利方向走时的分批建仓留出余地，务必让初始仓位足够小，好让你最终头寸上的风险落在你平常能承受的范围之内。 • 每个价位入场的股数。你的第一笔入场可以是100股，第二笔200股，第三笔500股，多少股都行。不过，大多数交易者每次分批建仓都用相同的股数。 • 各笔入场的价格。间隔不必固定，这意味着你可以在第一笔入场下方20美分处加多，再在下方30美分、70美分或下方任意美分数处加多。或者，你可以在第一个反转信号处入场，如果趋势继续，就在下一个反转信号处分批建仓，也许再在之后那一个信号处也建一部分。 • 风险。这就是你的保护性止损距你平均入场价有多远。 • 回报。这就是你的止盈限价单距你平均入场价有多远。 • 概率。它永远是不确定的，并且会随着风险、回报和平均入场价的组合而变化。比如说，冒着30美分的风险赚30美分的概率，大于冒着20美分的风险赚30美分的概率，但小于冒着40美分的风险赚30美分的概率。分批操作涉及不确定性，而这是双向成交正在发生的通道和交易区间所固有的。交易者是在押注一段短期行情即将结束、一段更大的行情即将开始。即便在交易区间中也是如此，比如交易者在空头行情段中分批加多，因为他相信更大的格局是交易区间，而那一段小的空头行情段很可能无力把交易区间转变成空头趋势。这些变量的任何组合，只要它能令胜率乘以潜在回报大于败率乘以风险，就是有效的策略。你始终知道风险与潜在回报，因为你在下达保护性止损和止盈限价单时就已把它们设定好了。概率永远无从确切得知，但你通常能知道它何时达到60% 或更高；如果你拿不准，那就按50% 来假设。
+- 你的仓位规模。如果你要为市场朝你不利方向走时的分批建仓留出余地，务必让初始仓位足够小，好让你最终头寸上的风险落在你平常能承受的范围之内。
+- 每个价位入场的股数。你的第一笔入场可以是100股，第二笔200股，第三笔500股，多少股都行。不过，大多数交易者每次分批建仓都用相同的股数。
+- 各笔入场的价格。间隔不必固定，这意味着你可以在第一笔入场下方20美分处加多，再在下方30美分、70美分或下方任意美分数处加多。或者，你可以在第一个反转信号处入场，如果趋势继续，就在下一个反转信号处分批建仓，也许再在之后那一个信号处也建一部分。
+- 风险。这就是你的保护性止损距你平均入场价有多远。
+- 回报。这就是你的止盈限价单距你平均入场价有多远。
+- 概率。它永远是不确定的，并且会随着风险、回报和平均入场价的组合而变化。比如说，冒着30美分的风险赚30美分的概率，大于冒着20美分的风险赚30美分的概率，但小于冒着40美分的风险赚30美分的概率。分批操作涉及不确定性，而这是双向成交正在发生的通道和交易区间所固有的。交易者是在押注一段短期行情即将结束、一段更大的行情即将开始。即便在交易区间中也是如此，比如交易者在空头行情段中分批加多，因为他相信更大的格局是交易区间，而那一段小的空头行情段很可能无力把交易区间转变成空头趋势。这些变量的任何组合，只要它能令胜率乘以潜在回报大于败率乘以风险，就是有效的策略。你始终知道风险与潜在回报，因为你在下达保护性止损和止盈限价单时就已把它们设定好了。概率永远无从确切得知，但你通常能知道它何时达到60% 或更高；如果你拿不准，那就按50% 来假设。
 
 
 > • Sizes of your positions. If you are allowing for the possibility of scaling in if the market goes against you, make sure to keep your initial positions small enough so that the risk on your final position is within your usual tolerance. • The number of shares entered at each level. Your first entry can be for 100 shares, the second can be for 200, and the third can be for 500 or any number. However, most traders scale in with the same number of shares each time. • The prices of the different entries. The steps don't have to be fixed, which means that you can scale into a long at 20 cents below the first entry and again at 30, 70, or any number of cents below that. Alternatively, you can enter at the first reversal signal and if the trend continues, you can scale in at the next reversal signal and maybe the one after that as well. • The risk. This is how far your protective stop is from your average entry price. • The reward. This is how far your profit-taking limit order is from your average entry price. • The probability. It is never known with certainty, and it varies with the amount of risk, reward, and average entry price. For example, the probability of making 30 cents while risking 30 cents is greater than the probability of making 30 cents while risking 20 cents but less than the probability of making 30 cents while risking 40 cents. Scaling involves uncertainty, which is inherent in channels and trading ranges where two-sided trading is taking place. The trader is betting that a short-term move is ending and that a larger move is about to begin. This is true even in a trading range, like when a trader is scaling into longs during a bear leg in the belief that the bigger picture is that of a trading range and that the small bear leg will probably fail to convert the trading range into a bear trend. Any combination of the variables that results in the chance of winning times the potential reward being greater than the chance of losing times the risk is a valid strategy. You always know the risk and the potential reward because you set them when you place your protective stop and your profit-taking limit order. You never know the probability with certainty, but you usually know when it is 60 percent or greater; if you are uncertain, then assume that it is 50 percent.
@@ -11138,16 +10818,10 @@ K线变小之后，你可以把止损幅度调整到适应当前市场状况的�
 **图 31.4　多头通道强势时，交易者一路向上分批建仓**
 
 
-当多头确信市场会走高、并且怀疑很快会有回调让他们在更低价位买入时，他们就开始用市价单买入，并一路买上去。
+当多头确信市场会走高、并且怀疑很快会有回调让他们在更低价位买入时，他们就开始用市价单买入，并一路买上去。在图31.4中，苹果（AAPL）大幅跳空高开，随后回调，然后在第6根K线处多头突破。概率上更偏向于走出一个多头趋势日，交易者相信即便出现回调，市场也很快就会创出新高。因此，开始用市价单买入、并在任何细微回调（比如10美分左右的回调）时买入，在数学上是说得通的。交易者和机构持续不断地买入，但买入的紧迫程度和规模都不足以造成一根巨大的多头趋势K线以及可能的高潮反转。他们一路分批建仓到第10根K线，因为他们相信第一次回调不会走得太远，而且会有足够强的买盘把它推上新高。
 
 
-> When bulls are confident that the market is going higher and skeptical that there will soon be a pullback that would allow them to buy lower, they begin to buy at the market and keep buying all the way up. In
-
-
-在图31.4中，苹果（AAPL）大幅跳空高开，随后回调，然后在第6根K线处多头突破。概率上更偏向于走出一个多头趋势日，交易者相信即便出现回调，市场也很快就会创出新高。因此，开始用市价单买入、并在任何细微回调（比如10美分左右的回调）时买入，在数学上是说得通的。交易者和机构持续不断地买入，但买入的紧迫程度和规模都不足以造成一根巨大的多头趋势K线以及可能的高潮反转。他们一路分批建仓到第10根K线，因为他们相信第一次回调不会走得太远，而且会有足够强的买盘把它推上新高。
-
-
-> Figure 31.4, Apple (AAPL) had a large gap up, then a pullback, and then a bull breakout at bar 6. The odds favored a bull trend day, and traders believed that even if there were a pullback, the market would soon reach a new high. Therefore, it made mathematical sense to begin buying at the market and on any tiny pullback, like maybe 10 cents. Traders and institutions continued to buy relentlessly but not with enough urgency or size to cause a huge bull trend bar and possible climactic reversal. They were scaling in all the way up to bar 10, because they believed that the first pullback would not go too far and it would be bought aggressively enough to push the market to a new high.
+> When bulls are confident that the market is going higher and skeptical that there will soon be a pullback that would allow them to buy lower, they begin to buy at the market and keep buying all the way up. In Figure 31.4, Apple (AAPL) had a large gap up, then a pullback, and then a bull breakout at bar 6. The odds favored a bull trend day, and traders believed that even if there were a pullback, the market would soon reach a new high. Therefore, it made mathematical sense to begin buying at the market and on any tiny pullback, like maybe 10 cents. Traders and institutions continued to buy relentlessly but not with enough urgency or size to cause a huge bull trend bar and possible climactic reversal. They were scaling in all the way up to bar 10, because they believed that the first pullback would not go too far and it would be bought aggressively enough to push the market to a new high.
 
 
 趋势如此强势时，你必须相信市场很快会更高。如果你相信它很快会更高，那么开始分批建立空头头寸就说不通，因为只要你等一等，就能在更好的价位做空。通道强势时，你绝不该逆着趋势分批建仓。
@@ -11466,16 +11140,10 @@ K线变小之后，你可以把止损幅度调整到适应当前市场状况的�
 *About the Author*
 
 
-关于作者
+关于作者阿尔·布鲁克斯（Al Brooks）是《Futures》杂志的技术分析撰稿人，也是一位独立日内交易者。他被称为“交易者的交易者”〔译注：指连交易者同行也敬重、并愿意追随的交易者〕，拥有一批忠实的追随者，并在自己的网站 www.brookspriceaction.com 上提供实时行情点评，每天更新走势图分析。25年前，他从眼科转行做交易；直到摸索出自己那套逐根K线解读价格走势图的独特方法，他才在交易上取得持续稳定的成功。他毕业于芝加哥大学普利兹克医学院（University of Chicago Pritzker School of Medicine），并在三一学院（Trinity College）取得数学专业理学士学位。
 
 
-> About the Author
-
-
-阿尔·布鲁克斯（Al Brooks）是《Futures》杂志的技术分析撰稿人，也是一位独立日内交易者。他被称为“交易者的交易者”〔译注：指连交易者同行也敬重、并愿意追随的交易者〕，拥有一批忠实的追随者，并在自己的网站 www.brookspriceaction.com 上提供实时行情点评，每天更新走势图分析。25年前，他从眼科转行做交易；直到摸索出自己那套逐根K线解读价格走势图的独特方法，他才在交易上取得持续稳定的成功。他毕业于芝加哥大学普利兹克医学院（University of Chicago Pritzker School of Medicine），并在三一学院（Trinity College）取得数学专业理学士学位。
-
-
-> Al Brooks is a technical analysis contributor to Fu- tures magazine and an independent day trader. Called the trader's trader, he has a devoted following, and provides live market commentary and daily chart ana- lysis updates on his website at www.brookspriceaction.com. After changing careers from ophthalmology to trading 25 years ago, he dis- covered consistent trading success once he developed his unique approach to reading price charts bar by bar. He graduated from the University of Chicago Pritzker School of Medicine and received his BS in mathematics from Trinity College.
+> About the Author Al Brooks is a technical analysis contributor to Fu-tures magazine and an independent day trader. Called the trader's trader, he has a devoted following, and provides live market commentary and daily chart ana-lysis updates on his website at www.brookspriceaction.com. After changing careers from ophthalmology to trading 25 years ago, he dis-covered consistent trading success once he developed his unique approach to reading price charts bar by bar. He graduated from the University of Chicago Pritzker School of Medicine and received his BS in mathematics from Trinity College.
 
 
 # 关于本书网站
@@ -11483,25 +11151,13 @@ K线变小之后，你可以把止损幅度调整到适应当前市场状况的�
 *About the Website*
 
 
-关于本书网站
+关于本书网站本书附有一个配套网站，网址是：www.wiley.com/go/tradingranges 书中提供的所有走势图都收录在这个网站上，方便你查阅。进入该网站的密码是：Brooks2。
 
 
-> About the Website
+> About the Website This book includes a companion website, which can be found at: www.wiley.com/go/tradingranges All of the charts provided in the book are included on the website for your convenience. The password to enter this site is: Brooks2.
 
 
-本书附有一个配套网站，网址是：
-
-
-> This book includes a companion website, which can be found at:
-
-
-www.wiley.com/go/tradingranges 书中提供的所有走势图都收录在这个网站上，方便你查阅。进入该网站的密码是：Brooks2。
-
-
-> www.wiley.com/go/tradingranges All of the charts provided in the book are included on the website for your convenience. The password to enter this site is: Brooks2.
-
-
-# 《高级波段技术分析》(Trading Price Action Trading Ranges) 术语表 v2 · 锁定稿
+# 附录 A · 术语表
 
 共 157 条。**「本项目统一译法」一列是全书的硬标准**，译者与校者都必须照此执行；
 「官方中文版用词」一列只填**在官方中文版正文里实际检索到**的词（空 = 未核实，不猜）；
@@ -11668,7 +11324,7 @@ www.wiley.com/go/tradingranges 书中提供的所有走势图都收录在这个�
 | 157 | news-driven | **消息驱动** |  | — |  |
 
 
-# 图内标注对照表 · Chart Label Cheat Sheet
+# 附录 B · 图内标注对照表
 
 > 本书所有图表都保留 **Wiley 官方原图**（1920×1440，TradeStation 截图），图内标注是英文。
 > 这张表把图上会出现的东西一次性讲清，读图时随时对照。表内术语与《术语表 v2》完全一致。
