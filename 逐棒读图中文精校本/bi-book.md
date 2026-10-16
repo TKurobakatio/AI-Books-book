@@ -92,10 +92,19 @@ The Technical Analysis of Price Action for the Serious Trader
 *Preface*
 
 
-我写这本书的目的，是讲清楚我为什么认为图 P.1中的那些交易有着极佳的风险回报比，并给出一些方法，让大家在股票和期货交易中都能从这类建仓形态里获利。我能传达的最重要的一点是：只盯最出色的那几笔交易，避开最差的那些建仓形态，同时努力提高你每次交易的股数。我坦然承认，我为每个建仓形态给出的理由都只是我个人的看法，我对某笔交易为什么能成的推理可能完全是错的。不过，这并不重要。重要的是，逐棒读图是一种非常有效的交易方式，而我对某些事情为什么会那样发生做过大量思考。我对自己的解释感到踏实，它们在我下单时给了我信心，但它们与**图 P.1　AAPL，截至2008年6月10日的日线图（这张加了趋势线的图也出现在最后一章，并附有每笔交易背后的解释。）**xiii 我下单这件事无关，所以它们对不对对我不重要。正如我可以在瞬间反转自己对市场方向的看法，只要我遇到一个更合乎逻辑的理由，或者发现自己的逻辑有漏洞，我也同样可以反转自己对某个特定形态为什么有效的看法。我把这些看法讲出来，是因为它们看起来说得通，也可能会帮读者在交易某些建仓形态时更踏实，还因为它们可能颇具启发性，但任何一笔价格行为交易都并不需要它们。
+我写这本书的目的，是讲清楚我为什么认为图 P.1中的那些交易有着极佳的风险回报比，并给出一些方法，让大家在股票和期货交易中都能从这类建仓形态里获利。我能传达的最重要的一点是：只盯最出色的那几笔交易，避开最差的那些建仓形态，同时努力提高你每次交易的股数。我坦然承认，我为每个建仓形态给出的理由都只是我个人的看法，我对某笔交易为什么能成的推理可能完全是错的。不过，这并不重要。重要的是，逐棒读图是一种非常有效的交易方式，而我对某些事情为什么会那样发生做过大量思考。我对自己的解释感到踏实，它们在我下单时给了我信心，但它们与
 
 
-> My goals in writing this book are to describe my understanding of why the trades in Figure P.1 offer great risk-reward ratios, and to present ways to profit from setups like these in both stocks and futures trading. The most important message that I can deliver is to focus on the absolute best trades, avoid the absolute worst setups, and work on increasing the number of shares that you are trading. I freely recognize that every one of my reasons behind each setup is just my opinion and my reasoning about why a trade works might be completely wrong. However, that is irrelevant. What is important is that reading price action is a very effective way to trade, and I have thought a lot about why certain things happen the way that they do. I am comfortable with my explanations, and they give me confidence when I place a trade, but they are irrelevant to FIGURE P.1 AAPL, Daily Chart through June 10, 2008 (This chart with trend lines added is also in the final chapter, along with the explanations behind each trade.) xiii my placing trades, so it is not important to me that they are right. Just as I can reverse my opinion about the direction of the market in an instant, I . can also reverse my opinion about why a particular pattern works if I come across a reason that is more logical or if I discover a flaw in my logic. I am providing the opinions because they appear to make sense, and they may help readers become more comfortable trading certain setups and because they may be intellectually stimulating, but they are not needed for any price action trades.
+> My goals in writing this book are to describe my understanding of why the trades in Figure P.1 offer great risk-reward ratios, and to present ways to profit from setups like these in both stocks and futures trading. The most important message that I can deliver is to focus on the absolute best trades, avoid the absolute worst setups, and work on increasing the number of shares that you are trading. I freely recognize that every one of my reasons behind each setup is just my opinion and my reasoning about why a trade works might be completely wrong. However, that is irrelevant. What is important is that reading price action is a very effective way to trade, and I have thought a lot about why certain things happen the way that they do. I am comfortable with my explanations, and they give me confidence when I place a trade, but they are irrelevant to
+
+
+**图 P.1　AAPL，截至2008年6月10日的日线图（这张加了趋势线的图也出现在最后一章，并附有每笔交易背后的解释。）**
+
+
+我下单这件事无关，所以它们对不对对我不重要。正如我可以在瞬间反转自己对市场方向的看法，只要我遇到一个更合乎逻辑的理由，或者发现自己的逻辑有漏洞，我也同样可以反转自己对某个特定形态为什么有效的看法。我把这些看法讲出来，是因为它们看起来说得通，也可能会帮读者在交易某些建仓形态时更踏实，还因为它们可能颇具启发性，但任何一笔价格行为交易都并不需要它们。
+
+
+> my placing trades, so it is not important to me that they are right. Just as I can reverse my opinion about the direction of the market in an instant, I . can also reverse my opinion about why a particular pattern works if I come across a reason that is more logical or if I discover a flaw in my logic. I am providing the opinions because they appear to make sense, and they may help readers become more comfortable trading certain setups and because they may be intellectually stimulating, but they are not needed for any price action trades.
 
 
 本书是一本全面理解价格行为的指南，面向经验丰富的交易者和市场专业人士。不过，这些概念对各个水平的交易者都同样有用。书中采用了爱德华兹与迈吉以及许多其他人描述过的许多标准技术，但会更侧重单根K线，以展示它们所提供的信息如何能显著提高交易的风险回报比。大多数书只在一张图上指出三四笔交易，言外之意是图上的其他一切都不可理解、没有意义或者风险太大。我相信，一天中发生的每一个最小报价单位里都有值得学习的东西，每张图上的好交易都远不止那几笔显而易见的，但要想看见它们，你必须理解价格行为，不能把任何K线当作无关紧要而忽略掉。我在显微镜下做过几千次操作，从中学到的是：最重要的东西有时可以非常微小。
@@ -206,10 +215,19 @@ The Technical Analysis of Price Action for the Serious Trader
 > Yesterday, Costco's earnings were up 32 percent on the quarter and above analysts' expectations. It gapped up on the open, tested the gap on the first bar and then ran up over a dollar in twenty minutes. (See Figure P.2.) It then drifted down to test yesterday's close. It had two rallies that broke bear trendlines, and both failed. This created a Double Top (Bars 2 and 3) Bear Flag or Triple Top (Bars 1, 2, and 3) and the market then plunged three dollars, below the prior day's low. If you were unaware of the report, you would have shorted at the failed bear trendline breaks at Bars 2 and 3 and you would have sold more on the Breakout Pullback at Bar 4. You would have reversed to long on the Bar 5 big reversal bar, which was the second attempt to reverse the breakout below yesterday's low and a climactic reversal of the breakout of the bottom of the steep bear trend channel line. Alternatively, you could have bought the open because of the bullish report, and then worried about why the stock was collapsing instead of soaring the way that TV analysts predicted, and you likely would have sold out your long on the second plunge down to Bar 5.
 
 
-任何在极少数几根K线里走完很多点的趋势——也就是说，它是大K线与彼此很少重叠的K线之间的某种组合——**图 P.2　你是该依据一份出色的财报去买，还是依据价格行为去做空？**最终都会有回调。这类趋势动量极强，所以概率偏向于回调之后去测试趋势的极端点，而且只要回调没有变成新趋势、没有延伸越过先前趋势的起点，极端点通常会被越过。一般来说，如果回调回撤了75% 或更多，回调重新回到先前趋势极端点的概率就会大幅下降。空头趋势里出现这样的回调时，交易者此时最好把这次回调当成一个新的多头趋势，而不是老空头趋势中的一次回调。第6根K线大约是一次70% 的回调，随后市场在第二天开盘时测试了那次高潮式的空头低点。
+任何在极少数几根K线里走完很多点的趋势——也就是说，它是大K线与彼此很少重叠的K线之间的某种组合——
 
 
-> Any trend that covers a lot of points in very few bars, meaning that there is some combination of large bars and bars with very little overlap, FIGURE P.2 Should You Buy Based on a Great Earnings Report or Short Based on Price Action? will eventually have a pullback. These trends have such strong momentum that the odds favor a test of the trend's extreme after the pullback and usually the extreme will be exceeded, as long as the pullback does not become a new trend and extend beyond the start of the prior trend. In general, the odds that a pullback will get back to the prior trend's extreme fall substantially if the pullback retraces 75 percent or more. For a pullback in a bear, at that point, a trader is better to think of the pullback as a new bull trend rather than a pullback in an old bear. Bar 6 was about a 70 percent pullback and then the market tested the climactic bear low on the open of the next day.
+> Any trend that covers a lot of points in very few bars, meaning that there is some combination of large bars and bars with very little overlap,
+
+
+**图 P.2　你是该依据一份出色的财报去买，还是依据价格行为去做空？**
+
+
+最终都会有回调。这类趋势动量极强，所以概率偏向于回调之后去测试趋势的极端点，而且只要回调没有变成新趋势、没有延伸越过先前趋势的起点，极端点通常会被越过。一般来说，如果回调回撤了75% 或更多，回调重新回到先前趋势极端点的概率就会大幅下降。空头趋势里出现这样的回调时，交易者此时最好把这次回调当成一个新的多头趋势，而不是老空头趋势中的一次回调。第6根K线大约是一次70% 的回调，随后市场在第二天开盘时测试了那次高潮式的空头低点。
+
+
+> will eventually have a pullback. These trends have such strong momentum that the odds favor a test of the trend's extreme after the pullback and usually the extreme will be exceeded, as long as the pullback does not become a new trend and extend beyond the start of the prior trend. In general, the odds that a pullback will get back to the prior trend's extreme fall substantially if the pullback retraces 75 percent or more. For a pullback in a bear, at that point, a trader is better to think of the pullback as a new bull trend rather than a pullback in an old bear. Bar 6 was about a 70 percent pullback and then the market tested the climactic bear low on the open of the next day.
 
 
 唯一和它看上去一样的东西，就是图表本身。如果你弄不清它在告诉你什么，就别交易。等清晰。它总会到来。但一旦它来了，你就必须下单，承担风险，按你的计划走。不要缩小到1分钟图上去把止损收紧，因为你会亏钱。1分钟图的问题是，它用大量的入场机会来诱惑你。可你不可能把它们全吃下，于是你会挑挑拣拣，而这会要了你账户的命；你挑中的坏果子往往太多。最好的那些交易往往快得让你来不及下单，这意味着你只能在那些不那么理想的交易里挑，亏损也就更频繁。当你按5分钟图入场时，你的交易依据是你对5分钟图的分析，而你对1分钟图是什么样一无所知。因此你必须依赖你5分钟图上的止损和目标，并且接受这个现实：1分钟图会朝对你不利的方向走，还会频繁打掉1分钟图上的止损。如果你盯着1分钟图看，你就不会把全部注意力放在5分钟图上，我就会把你账户里的钱拿到我账户里来。想参与竞争，你就必须把所有干扰、把所有除眼前这张图之外的信息输入都减到最少，并且相信：只要做到了，你就会赚到很多钱。这看起来会很不真实，但它非常真实。绝不要怀疑它。把事情保持简单，遵循你简单的规则。始终如一地做一件简单的事极其困难，但在我看来，这是最佳交易方式。最终，随着交易者越来越懂价格行为，交易会变得压力小得多，实际上还挺无聊，但赚钱多得多。
@@ -260,10 +278,13 @@ The Technical Analysis of Price Action for the Serious Trader
 > Most traders only consider price action when trading divergences and trend pullbacks. They like to see a strong close on a large reversal bar, but in reality this is a fairly rare occurrence. The most useful tools for understanding price action are trendlines and trend channel lines, prior highs and lows, breakouts and failed breakouts, the size of bodies and tails on candles, and relationships between the current bar to the prior several bars.
 
 
-**图 P.3　所有时间级别上的崩盘看起来都一样**尤其是当前K线的开盘、最高、最低和收盘与先前几根K线的走势相比如何，这能透露很多关于接下来会发生什么的信息。本书中的大多数观察都直接与下单有关，但也有少数只是关于价格行为一些有趣而简单的倾向，它们不够可靠，不足以构成一笔交易的依据。
+**图 P.3　所有时间级别上的崩盘看起来都一样**
 
 
-> FIGURE P.3 Market Crashes Look the Same on All Timeframes In particular, how the open, high, low, and close of the current bar compare to the action of the prior several bars tells a lot about what will happen next. Most of the observations in this book are directly related to placing trades, but a few have to do with simple curious price action tendencies without sufficient dependability to be the basis for a trade.
+尤其是当前K线的开盘、最高、最低和收盘与先前几根K线的走势相比如何，这能透露很多关于接下来会发生什么的信息。本书中的大多数观察都直接与下单有关，但也有少数只是关于价格行为一些有趣而简单的倾向，它们不够可靠，不足以构成一笔交易的依据。
+
+
+> In particular, how the open, high, low, and close of the current bar compare to the action of the prior several bars tells a lot about what will happen next. Most of the observations in this book are directly related to placing trades, but a few have to do with simple curious price action tendencies without sufficient dependability to be the basis for a trade.
 
 
 我个人做 Emini 交易时主要靠蜡烛图，做股票交易时主要靠K线图，但大多数信号在任何类型的图上都看得见，许多甚至在简单的线图上都显而易见。我会主要用5分钟蜡烛图来讲解基本原理，但也会把日线图和周线图讲透。此外，我每天都会在几只股票上做几笔日内波段交易，偶尔依据日线图买入期权，我也会讨论单靠价格行为如何成为这类交易的基础。
@@ -457,10 +478,10 @@ The Technical Analysis of Price Action for the Serious Trader
 > For trading purposes, it is useful to think of all bars are either trend bars or dojis (or nontrend bars, shown in Figure 1.1 with a "D"), and the labeling is loose. One bar with a small body could be a doji in one area of price action but a small trend bar in another. The only purpose for the distinction is to help you quickly assess whether one side is in control of the bar or if bulls and bears are at a stalemate. Several of the bars in Figure 1.1 could arguably be thought of as both trend bars and dojis.
 
 
-![图 1.2](figures/fig-01-02.png)
+图 1.2右侧的5分钟图上，从第1根K线开始连续出现了四根十字星，每一根的收盘价、高点和低点都依次走高。而15分钟
 
 
-**图 1.2　右侧的5分钟图上，从第1根K线开始连续出现了四根十字星，每一根的收盘价、高点和低点都依次走高。而15分钟**
+> The 5-minute chart on the right of Figure 1.2 had four dojis in a row, starting at Bar 1, each With Trending closes, highs and lows. The 15-minute
 
 
 ![图 1.2](figures/fig-01-02.png)
@@ -469,7 +490,7 @@ The Technical Analysis of Price Action for the Serious Trader
 **图 1.2　趋势性十字星K线**
 
 
-图（图 1.2左侧）显示，它们在当时一个新的摆动低点处构成了一根多头反转K线，并伴随一次空头趋势通道线过靶（图中未画出）。单根十字星意味着多空双方都没有掌控市场，但趋势性十字星表明存在趋势。
+图 1.2 左侧的那张图显示，它们在当时一个新的摆动低点处构成了一根多头反转K线，并伴随一次空头趋势通道线过靶（图中未画出）。单根十字星意味着多空双方都没有掌控市场，但趋势性十字星表明存在趋势。
 
 
 > chart on the left of Figure 1.2 shows that they created a bull reversal bar at what was then a new swing low and a bear trend channel line overshoot (not drawn). Individual dojis mean that neither the bulls nor the bears are controlling the market, but trending dojis indicate a trend.
@@ -529,10 +550,10 @@ The Technical Analysis of Price Action for the Serious Trader
 > You should only think of bars in terms of price action and not a collection of meaningless and misleading candle names (misleading to the extent that they convey imagery of a mystical power). Each bar or candle is only important in relation to price action, and the vast majority of candle patterns are not helpful most of the time because they occur in price action where they have no high-probability predictive value. Therefore, it will complicate your trading by giving you too much to think about, and they take your mind off the trend.
 
 
-![图 1.4](figures/fig-01-04.png)
+图 1.4显示了一次对空头趋势线的向上突破，随后是一段两段式抛售，跌到昨日低点下方一个更低的低点。第一段行情
 
 
-**图 1.4　显示了一次对空头趋势线的向上突破，随后是一段两段式抛售，跌到昨日低点下方一个更低的低点。第一段行情**
+> Figure 1.4 shows a break above the bear trendline and then a two-legged selloff to a Lower Low below yesterday's low. The first leg was
 
 
 ![图 1.4](figures/fig-01-04.png)
@@ -1609,10 +1630,10 @@ AAPL在这张5分钟图（图 1.18）上展示了多种常见的信号K线。第
 > Since second entries in good setups usually succeed, if one fails, assume that you are reading the market incorrectly and do not take a third entry unless it is a Wedge (a failed trend channel line breakout).
 
 
-![图 1.29](figures/fig-01-29.png)
+图 1.29这一天有很多笔二次入场交易，除了一笔以外，价格都与第一次入场相同或更差。看看
 
 
-**图 1.29　这一天有很多笔二次入场交易，除了一笔以外，价格都与第一次入场相同或更差。看看**
+> There were many second entry trades today in Figure 1.29, and all but one were at the same price or a worse price than the first entry. Look at the
 
 
 ![图 1.29](figures/fig-01-29.png)
@@ -1788,10 +1809,10 @@ AAPL在这张5分钟图（图 1.18）上展示了多种常见的信号K线。第
 > Bar 6 was also a failed overshoot of the Bars 3 and 5 trend channel line, making the Bar 6 short an example of a Dueling Lines trade (trendline and trend channel lines intersecting and in opposite directions).
 
 
-![图 2.3](figures/fig-02-03.png)
+图 2.3中第2根和第3根K线的趋势通道线可以平移并锚定到第1根K线，画出一条趋势线，用来大致判断
 
 
-**图 2.3　中第2根和第3根K线的趋势通道线可以平移并锚定到第1根K线，画出一条趋势线，用来大致判断**
+> The trend channel line from Bars 2 and 3 in Figure 2.3 can be moved and anchored to Bar 1 to create a trendline that can give an idea of where a
 
 
 ![图 2.2](figures/fig-02-02.png)
@@ -3202,10 +3223,10 @@ IBM 在图 3.15中出现了好几个急速与通道交易日；既然通道的�
 > When the Double Bottom forms right near the trend low, as it did with Bars 2 and 3, the pattern is often a small Spike and Trading Range Bull Reversal if the spike down was climactic enough. The Bar 1 spike down is close enough for this to also be considered to be a Spike and Trading Range Bull Reversal, but that is not important since the small Double Bottom Bull Flag is reason enough to go long. Many patterns resemble one another and often coexist. All you need to do is recognize one of the patterns because by itself, it is a valid entry. Also, whenever a pattern resembles another pattern, the two of them will usually unfold in a similar way.
 
 
-![图 4.6](figures/fig-04-06.png)
+图 4.6中，第3根和第4根K线在向第2根K线的那波急剧上涨之后，构成了一个小的双底牛旗。也可以说，它是“急速与多头交易区间”的一个买入建仓形态，但它高出第1根K线的低点稍嫌太多，所以市场
 
 
-**图 4.6　中，第3根和第4根K线在向第2根K线的那波急剧上涨之后，构成了一个小的双底牛旗。也可以说，它是“急速与多头交易区间”的一个买入建仓形态，但它高出第1根K线的低点稍嫌太多，所以市场**
+> Bars 3 and 4 in Figure 4.6 formed a small Double Bottom Bull Flag after the sharp move up to Bar 2. It is also arguably a Spike and Bull Trading Range buy set up but it is a little too high above the Bar 1 low, so the market
 
 
 ![图 4.6](figures/fig-04-06.png)
@@ -3232,10 +3253,10 @@ IBM 在图 3.15中出现了好几个急速与通道交易日；既然通道的�
 > If Bar 8 becomes a swing low that is above Bar 6, then it would be a long setup for a Double Bottom Pullback. On the other hand, if the market drops below the Bars 3, 4, and 6 lows, it will form a Head and Shoulders Bear Flag, and then the first target is the obvious magnet at the Bar 1 climactic low. Although a trader could short on the breakout below Bar 6, it is less risky to short a Breakout Pullback. The pullback can come before or after the actual breakout. If the market almost breaks out and then forms a pullback, it will likely behave as if the breakout had in fact occurred. Close is usually good enough. Since the market has been in a downtrend since November 2007 and there should be a second down leg after such a protracted move, the odds favor a downside breakout with a move below the Bar 1 low. The trading range from Bars 2 through 7 may end up being the middle of a Measured Move down, which would project to around 100, or a loss of 60 percent from the high. That is not a prediction; instead, it is just an academic observation of what could result from this of pattern.
 
 
-![图 4.7](figures/fig-04-07.png)
+图 4.7中的第4根K线试图与第3根K线之前的那根K线构成一个双底牛旗，第5根和第6根K线也试着把这个底部补完。市场常常
 
 
-**图 4.7　中的第4根K线试图与第3根K线之前的那根K线构成一个双底牛旗，第5根和第6根K线也试着把这个底部补完。市场常常**
+> Bar 4 in Figure 4.7 attempted to form a Double Bottom Bull Flag with the bar before Bar 3, and Bars 5 and 6 also tried to complete the base. Often
 
 
 ![图 4.7](figures/fig-04-07.png)
@@ -5610,10 +5631,10 @@ K线。这是一次绝佳的买进建仓形态。你不必去核查，但强趋�
 > RIMM closed yesterday with a strong bull spike in Figure 8.10, so the odds were excellent that today was going to try to exceed it. Although today's rally was sloppy and did not look particularly bullish, note that the market could not put two consecutive closes below the EMA. This chart was going up, but its strength was deceptive.
 
 
-![图 8.11](figures/fig-08-11.png)
+图 8.11中涨到第1根K线的那波上涨行情突破了一条空头趋势线，而第3根K线对空头低点的测试是一个两段式的更低的低点。一个更低的低点这种测试通常
 
 
-**图 8.11　中涨到第1根K线的那波上涨行情突破了一条空头趋势线，而第3根K线对空头低点的测试是一个两段式的更低的低点。一个更低的低点这种测试通常**
+> The rally to Bar 1 in Figure 8.11 broke a bear trendline and the Bar 3 test of the bear low was a two-legged Lower Low. A Lower Low test usually
 
 
 ![图 8.11](figures/fig-08-11.png)
@@ -5646,10 +5667,10 @@ K线。这是一次绝佳的买进建仓形态。你不必去核查，但强趋�
 > Incidentally, it was a Measured Move up from yesterday's trading range, but this is only a minor consideration when contemplating a trade. When a strong trend reaches an area of a Measured Move, traders can then begin to consider Countertrend trades but only if there is a good setup. Measured Moves are of minor importance and not terribly reliable and in general should be ignored.
 
 
-![图 8.13](figures/fig-08-13.png)
+图 8.13中这张5分钟 OIR 图上，在昨天低点下方出现了一次高潮式开盘反转，它同时也是对三次趋势通道线过靶的反转。交易者应该在那根大幅反转K线、也就是第1根K线上方买入，然后在
 
 
-**图 8.13　中这张5分钟 OIR 图上，在昨天低点下方出现了一次高潮式开盘反转，它同时也是对三次趋势通道线过靶的反转。交易者应该在那根大幅反转K线、也就是第1根K线上方买入，然后在**
+> The 5-minute OIR in Figure 8.13 had a climactic Opening Reversal below yesterday's low, and it was also a reversal of three trend channel line overshoots. A trader should buy above the large reversal Bar 1, and again
 
 
 ![图 8.12](figures/fig-08-12.png)
@@ -6108,10 +6129,10 @@ SPY 日线图在2000年3月见顶，随后出现了一波三次推进的上涨�
 > The daily SPY topped in March 2000, and then there was a Three Push rally to Bar 8 in Figure 8.27. Bar 8 also fanned a Double Top Bear Flag with Bar 2 (it slightly exceeded the Bar 2 high). Bar 8 did not quite reach the bear trend channel line. This Wedge Lower High was followed by a huge bear.
 
 
-![图 8.28](figures/fig-08-28.png)
+图 8.28中的道指日线图在一段两段式下跌中跌破了主要趋势线，一路跌到第6根K线，远在均线下方。随后出现了一次小型的
 
 
-**图 8.28　中的道指日线图在一段两段式下跌中跌破了主要趋势线，一路跌到第6根K线，远在均线下方。随后出现了一次小型的**
+> The daily Dow in Figure 8.28 broke a major trendline in a two-legged move down to Bar 6, well below the EMA. There was then a small Three
 
 
 ![图 8.28](figures/fig-08-28.png)
@@ -6234,10 +6255,10 @@ SPY 日线图在2000年3月见顶，随后出现了一波三次推进的上涨�
 > Bar 13 is a second entry for the Breakout Failure short above Bar 9, but again there was no trendline break earlier in the rally, so it would be unwise to short in the absence of some earlier bear strength. Instead of Breakout Failures, Bars 12 and 13 were Breakout Pullbacks.
 
 
-![图 8.32](figures/fig-08-32.png)
+图 8.32中的第1至5根K线构成了扩张三角形底部的五个行情段。入场点在第5根K线这个更低的低点上方一个最小报价单位处。第6根K线没能
 
 
-**图 8.32　中的第1至5根K线构成了扩张三角形底部的五个行情段。入场点在第5根K线这个更低的低点上方一个最小报价单位处。第6根K线没能**
+> Bars 1-5 in Figure 8.32 created the five legs of the Expanding Triangle bottom. The entry is one tick above the Bar 5 Lower Low. Bar 6 failed to
 
 
 ![图 8.32](figures/fig-08-32.png)
@@ -6803,10 +6824,10 @@ AAPL 是日内交易者遇到的最规矩的股票之一。像许多别的股票
 > The Breakout Pullback at Bar 10 was a perfect second entry long after the Micro Trendline breakout to the upside failed (it only gave the shorts a scalper's profit) and the failure failed at Bar 10.
 
 
-![图 9.19](figures/fig-09-19.png)
+图 9.19中，第4根K线是一个双底牛旗入场的建仓形态，但它随着第5根K线处的 M2S 突破回调而失败，随后走出了两段
 
 
-**图 9.19　中，第4根K线是一个双底牛旗入场的建仓形态，但它随着第5根K线处的 M2S 突破回调而失败，随后走出了两段**
+> Bar 4 in Figure 9.19 was a setup for a Double Bottom Bull Flag entry, but it failed with the Bar 5 M2S Breakout Pullback, which led to two legs
 
 
 ![图 9.19](figures/fig-09-19.png)
@@ -7151,10 +7172,10 @@ AAPL 是日内交易者遇到的最规矩的股票之一。像许多别的股票
 > filled on their profit target limit order and that the shorts were quick to exit at breakeven and certainly above Bar 5. The market was testing yesterday's low, and it was the second probe below the trend channel line (based on the trendline from Bars 1 to 3). The bulls were looking for reasons to buy, and the failed short scalp was the final thing that they were hoping to find.
 
 
-![图 9.31](figures/fig-09-31.png)
+图 9.31中这些 QQQQ 的5分钟图交易，每一笔在失败之前都走到了8到11个最小报价单位。保护性止损会让剥头皮交易者
 
 
-**图 9.31　中这些 QQQQ 的5分钟图交易，每一笔在失败之前都走到了8到11个最小报价单位。保护性止损会让剥头皮交易者**
+> Each of these 5-minute QQQQ trades in Figure 9.31 reached between 8 and 1 1 ticks before failing. The protective stops would get scalpers out
 
 
 ![图 9.31](figures/fig-09-31.png)
@@ -7324,10 +7345,10 @@ AAPL 通常会给出赚一美元的剥头皮机会（这些行情通常超过一
 > The 1-minute chart can be helpful in two situations, but this is in theory and not in practice and I strongly recommend against trading off of it. If the 5-minute chart is in a runaway trend and you are flat but want to get in, you can look at a 1-minute chart for High/Low 2 pullbacks to enter With Trend. The second situation where 1-minute charts are helpful is in swing trading trending stocks off the 5-minute chart. When stocks are trending, they are very respectful of the EMA and With Trend trades can be made off High/Low 1 or 2 setups at the EMA, risking the height of the signal bar. Traders can reduce that risk somewhat by entering on the 1-minute chart on the first reversal after an EMA touch or penetration on the 5-minute chart. If you plot a 5-minute 20 bar EMA plotted on the 1-minute chart, you can quickly see the touches and then place the order. You actually need to plot a gO-bar EMA on the 1-minute as a surrogate for the 5-minute 20 bar EMA. Why gO and not 100 bars? Because the EMA on the 1-minute averages every 1-minute close and not every fifth close, and the weighting of the more recent bars tends to make a 100-bar EMA a tiny bit too flat. To correct for this, use a gO-bar EMA, which is very close to the 5-minute 20-bar EMA. In actual practice, you will rarely have time to look at a 1-minute stock chart because of your focus on the Emini. However, when a stock is strongly trending, you might occasionally take quick entries off the 1-minute. Let me again stress that I strongly recommend against ever looking at the 1-minute chart because it looks so easy that you will constantly keep trying to do it successfully and you will constantly wear down your account over time. Don't do it!
 
 
-![图 10.2](figures/fig-10-02.png)
+图 10.2中那张5分钟 Emini 的缩略图显示，它从开盘起走了11.75点，中间没有回调。如果交易者错过了“第一根K线即趋势”的
 
 
-**图 10.2　中那张5分钟 Emini 的缩略图显示，它从开盘起走了11.75点，中间没有回调。如果交易者错过了“第一根K线即趋势”的**
+> The thumbnail of the 5-minute Emini in Figure 10.2 shows that it went 11. 75 points up off the open without a pullback. If a trader missed the Trend
 
 
 ![图 10.2](figures/fig-10-02.png)
@@ -7390,19 +7411,16 @@ FOMC 报告在11:15 A.M. PST 公布，引发了情绪化的交易：图 10.5中�
 > Bar 4 was the second attempt to reverse the breakout below the low of the day formed at the open. Second entries are always worth taking and a bull trend inside bar is as good as you are likely to get on an emotional day. Since this should result in at least two legs up, you need to swing part of your position. The initial stop is around the middle of the signal bar, and then one tick below the Bar 4 entry bar once that bar closed. Then trail the stop below the low of the prior bar and eventually move it to breakeven. Emotional days often lead to trends that carry much further than you would ever imagine and catching one like this is much more profitable than the combined profit from many, many scalps. Here, the bull continued for almost 30 points, or about $1,500 per contract.
 
 
-![图 10.6](figures/fig-10-06.png)
-
-
 图 10.6中的第1根K线，是在一个跳空高开日里的一次向上假突破。第2根K线在 EMA 处形成一个高2，同时构成一次趋势通道线反转。
 
 
 > Bar 1 in Figure 10.6 was a false upside breakout on a gap up day. Bar 2 setup a High 2 at the EMA and a trend channel line reversal.
 
 
+![图 10.6](figures/fig-10-06.png)
+
+
 **图 10.6　对能读懂价格行为、又能极快下单的人来说，Emini 开盘头两个小时在1分钟图上提供了许多可获利的剥头皮机会。要在实际操作中做到非常难。**
-
-
-> FIGURE 10.6 The first couple hours of the Emini provided many profitable scalps on the ' -minute chart for someone who can read price action and place orders very quickly. It is very d ifficult to do in actual practice.
 
 
 第3根K线，是在一个跳空高开日里、对创新高突破的失败所做的做空，这可能带来一次对缺口的测试（市场通常会试着去测试缺口，所以交易者应该在这个方向上找交易机会）。
@@ -7447,19 +7465,16 @@ FOMC 报告在11:15 A.M. PST 公布，引发了情绪化的交易：图 10.5中�
 > Bar 13 was a failed failure and therefore a bull breakout long. It was also a High 2.
 
 
-![图 10.7](figures/fig-10-07.png)
-
-
 第14根K线是摆动高点处的一个低2，同时是一次趋势通道线反转，以及（与第5根K线构成的）双顶熊旗。第15根K线是 EMA 处的一个低2（一个 M2S）、一次失败的趋势线突破（自第14根K线的高点起算），也是第11到13根K线那段趋势线突破之后的一个更低的高点。第16根K线是一笔 M2S 做空。图 10.7中的第1根K线是一笔楔形做多，也是一个双底，但对多数交易者来说，它会以亏1个 tick 收场。总体而言，楔形底部（或称三次推进向下，或这个形态许多别的叫法中的任何一个）都会带来两段向上的行情。第2根K线是一个更高的低点，也是一次微型趋势线反转。第3根K线是一个 M2B。第4根K线是一份报告，它带来一次向上的假突破（最终旗形失败），随后是一根外包下跌K线。交易者会在第3根K线下方做空，也就是那些多头止损所在的位置。第5根K线是一次突破回调。
 
 
 > Bar 14 was a Low 2 at a swing high, and a trend channel line reversal and a Double Top Bear Flag (with Bar 5). Bar 15 was a Low 2 at the EMA (a M2S), a failed trendline breakout (from the Bar 14 high), and a Lower High after the Bars 1 1 to 13 trendline breakout. Bar 16 was a M2S short. Bar 1 in Figure 10.7 is a Wedge long and a Double Bottom but it would have resulted in a one tick loss for most traders. In general, a Wedge bottom (or Three Pushes Down, or any of many other names for this pattern) will lead to two legs up. Bar 2 is a Higher Low and a Micro Trendline reversal. Bar 3 was an M2B. Bar 4 was a report that resulted in a false breakout to the upside (Failed Final Flag) and then an outside down bar. Traders would short below Bar 3, where the longs would have their stops. Bar 5 was a Breakout Pullback.
 
 
+![图 10.7](figures/fig-10-07.png)
+
+
 **图 10.7　盘前是可以交易的，但在纽交所6:30 A.M. PST 开盘前的一两个小时里通常没有多少入场机会。5:30 A.M. 常常有报告，结果是快速的趋势和反转。**
-
-
-> FIGURE 10.7 The premarket is tradable but there are usually not many entries in the hour or two before the NYSE opens at 6:30 A.M. PST. There are often reports at 5 : 3 0 A.M. that result is qu ick trends and reversals.
 
 
 第6根K线是从一个新摆动低点向上反转的第二次尝试（第5根K线是第一次），它给出了一次二次入场。
@@ -9164,10 +9179,10 @@ GS 那次回调在图 11.22中强势上涨到第1根K线，随后形成了一个
 > Bar 15 was Three Pushes up and the first EMA Gap Bar. Bar 16 was an ii setup (with bull ii bars) for a Higher Low long, since traders were expecting at least two legs up from the trend channel overshoot and reversal off the Bar 13 low entry. It formed a Double Bottom Bull Flag with Bar 14. The large bear trend bar trapped bears into shorts and trapped weak bulls out of longs.
 
 
-![图 12.3](figures/fig-12-03.png)
+图 12.3中的第2根K线，是第1根K线急速上涨之后的一个交易区间。第3根K线是第1根K线急速下跌之后的第二个小行情段，它向上突破了
 
 
-**图 12.3　中的第2根K线，是第1根K线急速上涨之后的一个交易区间。第3根K线是第1根K线急速下跌之后的第二个小行情段，它向上突破了**
+> Bar 2 in Figure 12.3 was a trading range after the Bar 1 spike up. Bar 3 was a second small leg up after the bar 1 spike down, and it broke out of
 
 
 ![图 12.3](figures/fig-12-03.png)
